@@ -1,51 +1,43 @@
 name: Build CSV
 
 on:
-
   push:
-  * paths:
+    paths:
       - 'logs/**'
 
-  workf*ow_dispatch:
+  workflow_dispatch:
 
 jobs:
-
   build:
+    runs-on: ubuntu-latest
 
-   *runs-on: ubuntu-latest
-
-    permis*ions:
+    permissions:
       contents: write
 
-    s*eps:
-
+    steps:
       - name: Checkout
-     *  uses: actions/checkout@v4
+        uses: actions/checkout@v4
 
-     *- name: Setup Python
-        uses:*actions/setup-python@v5
-        wi*h:
-          python-version: '3.12*
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
 
       - name: Generate CSV
-     *  run: |
-          python scripts/*uild_csv.py
-
-      - name: Commit *SV
-
         run: |
+          python scripts/build_csv.py
 
-          git *onfig user.name "github-actions[bo*]"
+      - name: Commit CSV
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git config user.emai* \
-          "41898282+github-acti*ns[bot]@users.noreply.github.com"
-*          git add reports/line_mes*age_log.csv
+          git add reports/line_message_log.csv
 
-          git diff --*ached --quiet || \
-          git c*mmit -m "Update line_message_log.c*v"
+          if ! git diff --cached --quiet; then
+            git commit -m "Update line_message_log.csv"
+          fi
 
       - name: Push
-
-        ru*: |
-
+        run: |
           git push
