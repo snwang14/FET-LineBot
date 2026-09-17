@@ -1,0 +1,31 @@
+{
+  "EventId": "01M2Q6WGT7T5KZWD86QGQV8WY9",
+  "MessageId": "632168103241580921",
+  "Timestamp": "2026-09-17T08:14:16.393Z",
+  "SourceType": "user",
+  "GroupId": "",
+  "UserId": "U45bb65710085fd8da690900d4545a7f6",
+  "MessageType": "text",
+  "MessageText": "??002",
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632168103241580921",
+      "quoteToken": "iA2TYVKG0knAhu2mQpqjCVVKh-6FdY1OwP_hUMiXoArgEC_Bow6qctnPF2ftUgeVSxr-U8X9s5Oj2YctQQjUd-CrcEZIqA30yZMadiA2gsqLDYIXfi749p4dPEi5oxsxX78YWXQsrz8v6IBQe617Rw",
+      "markAsReadToken": "r7GCzDweL3kK8gNU3CPuv4981DoZaq55Zzo4irevV2BZJ7hTQAiZWpFBbgUuJl413XSFWBTz2C5oqQsrKIPc49MxVxC3KXK3J3xCzeodV8nBhPcd5aBcvLX4UCUu63B9ZayKU4xnCaeDP9tMpdL6xHhWmX6kfQ4mx_bHpb-jpa9ZTyXQUci0BNFfaNNjja0yS9ID48YwWQzanC2fVGN-3Q",
+      "text": "??002"
+    },
+    "webhookEventId": "01M2Q6WGT7T5KZWD86QGQV8WY9",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1789632856393,
+    "source": {
+      "type": "user",
+      "userId": "U45bb65710085fd8da690900d4545a7f6"
+    },
+    "replyToken": "dbb5fc01c04a41198dd1f8f0098712fd",
+    "mode": "active"
+  }
+}
