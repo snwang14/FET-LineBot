@@ -1,0 +1,34 @@
+{
+  "EventId": "01M2Q9QMYVWXDB9M7865G2F1F4",
+  "MessageId": "632173113756353142",
+  "Timestamp": "2026-09-17T09:04:02.837Z",
+  "ReceivedTime": "2026-09-17T09:04:03.820Z",
+  "SourceType": "user",
+  "GroupId": "",
+  "RoomId": "",
+  "UserId": "U45bb65710085fd8da690900d4545a7f6",
+  "MessageType": "text",
+  "MessageText": "ABC測試008",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632173113756353142",
+      "quoteToken": "Ovu2RcdScQ6qQqp-Nfe_br_PQNCh2mr8i8PQM4YcI8SLNZgRmFR1LEBnHqRzhpmhkECnYexIvbDjffh3Fgrf8pYwJLUeuVsZY4V8bK8s-CFxu_8ORLWRkd4OTo2zy1yzS85xJETYUa9QkS89snKjwg",
+      "markAsReadToken": "7PVYWhX1XW0tjhR6HnwS6HSozh-lYfHjJq-l_IZFzSPzDdO8hpkll2pORYL23Ktvli9OWXhZLDXRekLEG5pASXAYrdXLuLYVPB-9iYGg-JNW6Qngz3j5fsece9nUDjjpJYwrPRxjh6QEBjE9op5yEnPqZicKfV22WqINguDQgYORTpqKtq9d3zhuzYq1aiYZGkfUPzL_BT--q_DFS2AbfA",
+      "text": "ABC測試008"
+    },
+    "webhookEventId": "01M2Q9QMYVWXDB9M7865G2F1F4",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1789635842837,
+    "source": {
+      "type": "user",
+      "userId": "U45bb65710085fd8da690900d4545a7f6"
+    },
+    "replyToken": "f8855d1ca5c14a5886be37626b1b3c93",
+    "mode": "active"
+  }
+}
