@@ -24,7 +24,7 @@ for file in sorted(Path(LOG_DIR).glob("*.json")):
                 "RoomId": data.get("RoomId", ""),
                 "UserId": data.get("UserId", ""),
                 "MessageType": data.get("MessageType", ""),
-                "MessageText": str(data.get("MessageText", "")).replace("\r\n", " ").replace("\n", " "),
+                "MessageText": ",".join(str(data.get("MessageText", "")).splitlines()),
                 "IsRedelivery": data.get("IsRedelivery", False)
             })
 
