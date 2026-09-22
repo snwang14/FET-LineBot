@@ -1,0 +1,35 @@
+{
+  "EventId": "01M33WSGZZJMJ72PHTG2R5G96T",
+  "MessageId": "632882182205473161",
+  "Timestamp": "2026-09-22T06:28:00.566Z",
+  "ReceivedTime": "2026-09-22T06:28:01.441Z",
+  "SourceType": "group",
+  "GroupId": "Ce1338b1b6a651fde86f20e76b6a7cb4c",
+  "RoomId": "",
+  "UserId": "U45bb65710085fd8da690900d4545a7f6",
+  "MessageType": "text",
+  "MessageText": "#報修人\n王志文\n#聯絡電話\n0982100500\n#報修內容\n這是路燈報修測試內容123456abcdef",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632882182205473161",
+      "quoteToken": "4t9RpaPE_Ksshj3GO32JUXRhk74hKl-Qo0i5mFcVtIQldpzbI4LS9MVEZxP37nf2J6PBxzruKUrmz4id2y9QK6uVR6Tw9F52cmPk7M6vdEALy-4s8Ud1gqz7ds3NzzX4ncKzOSzNmj8zmNkl1h6ELA",
+      "markAsReadToken": "9kTjM2T_h8ljam0U_ISoQc95kP2T_GlFgSui9AxpSjoe0XP1OuEAaXbPSsZ10RuOzuWKssO7xllw7dDP1oHoAuR7swpO8sz3hwIyjlE2gtvudsrW4yhVu6IUPcoquSbRQunGsCWlO7T2Oon3_8qIgAHdYSOqqWjYz4Pc_tkmNF50fX0buWFwsWt7IW8ieXfL0eqk1MAONZQn1JkGSNGSOw",
+      "text": "#報修人\n王志文\n#聯絡電話\n0982100500\n#報修內容\n這是路燈報修測試內容123456abcdef"
+    },
+    "webhookEventId": "01M33WSGZZJMJ72PHTG2R5G96T",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790058480566,
+    "source": {
+      "type": "group",
+      "groupId": "Ce1338b1b6a651fde86f20e76b6a7cb4c",
+      "userId": "U45bb65710085fd8da690900d4545a7f6"
+    },
+    "replyToken": "9ae73f15fd9f4ae7a86aab9d91ad3042",
+    "mode": "active"
+  }
+}
