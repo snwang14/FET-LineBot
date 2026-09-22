@@ -1,0 +1,67 @@
+{
+  "EventId": "01M33SA0E3MRARKP7F7ZRCAKDZ",
+  "MessageId": "632876050770297243",
+  "Timestamp": "2026-09-22T05:27:06.071Z",
+  "ReceivedTime": "2026-09-22T05:27:07.073Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan @胖仙女 @Julia Lee 佩玲 @Andy \nHI 麻煩協助匯出傳統燈具序號1000PCS\n謝謝 ",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632876050770297243",
+      "quoteToken": "ZcXbhREo-uEZVeYQA75L_bG4HEwInD3FY5LA5Ah0K9N4QMgGfEw6WPxLExCiib_9F9HqhmAsUk1WFtrcc0sLwmVyKxBOUuqBloTTV7Apo_yrv0GB0mqeQBVy0Q7uWMJ-rcjI7H--dNkY96vjuMoJRA",
+      "markAsReadToken": "lqlXdjiRPBYhdzH6QuGsq4E7bmRkgkgc_fVbToMpRBNPO2Ok49Y2AqSLxvQOUk-rBJbfPGBdBiEPfNhXsKcIs7bQ6L0398rzDswW03Tbt-z1_mKgDj79-6grtjbAle7fF2VeGh3ScPW73j7zFefhWzPLkS98n9lgz2DVgyZhxgmP3_oelnxlWbf59xaG4eKY99nbzxnKjoEa_TpqLxliiw",
+      "text": "@林郁翔 Alan @胖仙女 @Julia Lee 佩玲 @Andy \nHI 麻煩協助匯出傳統燈具序號1000PCS\n謝謝 ",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 10,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 15,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 29,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M33SA0E3MRARKP7F7ZRCAKDZ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790054826071,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "358e33fdd36e4b3c801d0438bacd46ab",
+    "mode": "active"
+  }
+}
