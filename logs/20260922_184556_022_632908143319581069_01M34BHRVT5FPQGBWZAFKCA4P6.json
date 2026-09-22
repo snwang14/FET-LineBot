@@ -1,0 +1,46 @@
+{
+  "EventId": "01M34BHRVT5FPQGBWZAFKCA4P6",
+  "MessageId": "632908143319581069",
+  "Timestamp": "2026-09-22T10:45:54.686Z",
+  "ReceivedTime": "2026-09-22T10:45:56.022Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "MessageType": "text",
+  "MessageText": "@胖仙女 將每月要提送專管資料之部份，要提醒平台小组，提送前請主管檢核一下內容！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632908143319581069",
+      "quoteToken": "Ufjs7PYEqJvO6KCC28KuuXQNSontM_ulGWbUy1XZeJSFi15cl9YEONu0AJ9nLvF5x2blKGxmujkD15UZWeT-pVoOf3QlB2EtfQfxV8X2pR8xGyRf5__dPLNxaFl-LxEwFsnUNGRwWn7zvRvhzV_pvg",
+      "markAsReadToken": "4M7ftGxD8cUct0d1lVrv5hq67d-y-eN4Vma0GCyItg0Bl-lIbAGkvOc4o32p_KanGhl8GL9As_WL5CaqSK6P1yLyy5PnlBv5uEMVZHiuNrhqHZYCY4R_w1xNl45hPExtjI8BHwa2r727Cl4W-oYXYArCAkyuhAPMExhUC9dBvxlsS6cGGfhQ0_rqBFoDSLhTSKKZC3NIf22b8yg902uPmw",
+      "text": "@胖仙女 將每月要提送專管資料之部份，要提醒平台小组，提送前請主管檢核一下內容！",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M34BHRVT5FPQGBWZAFKCA4P6",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790073954686,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "44444b0b967141e08e9a506a927c2e2d",
+    "mode": "active"
+  }
+}
