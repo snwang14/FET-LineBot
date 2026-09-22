@@ -1,0 +1,35 @@
+{
+  "EventId": "01M341DN53WYD60GZBW0BSJEYZ",
+  "MessageId": "632890325463466226",
+  "Timestamp": "2026-09-22T07:48:54.518Z",
+  "ReceivedTime": "2026-09-22T07:48:55.335Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "我們先內部排查調整",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632890325463466226",
+      "quoteToken": "-chB2UbNPBbzN1IBFQoEcKWklm3uHrSw_YExFE2ObnnwvyvLziC3WfNVPgfsePMsEzO1E3NJIxkitYVxD_x6G603J9qEYJYbXAnOrCH0IYEIhrySfiWj1hBu2MAkGWwawo_4xUBntd3SkAIJQlWQiQ",
+      "markAsReadToken": "wcYmCZrGj0yELKXDmyFNjIYBrkd0G7PmduoUpqYFwEVr6itA6vYifHRvJK_mtTkbCw32jFoajMG9kkfr0cF1Q6yb5WOTGIJ22FxxMXdBLlKIAjYraZL85_gu-lNCMhG4AQvtM79hB50o5HrH5xhNGgpUg6uTXmnt-gaVQqYw8svI0h2V2SUuZ69LzWmaiGVvPr3qQy-sdrUzur4b8aWTgw",
+      "text": "我們先內部排查調整"
+    },
+    "webhookEventId": "01M341DN53WYD60GZBW0BSJEYZ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790063334518,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "5fec0e10b70447a6acc55e3a7efb8de4",
+    "mode": "active"
+  }
+}
