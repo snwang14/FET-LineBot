@@ -1,0 +1,38 @@
+{
+  "EventId": "01M349CZBVT9MVETFPJD6027Y2",
+  "MessageId": "632904360090665183",
+  "Timestamp": "2026-09-22T10:08:20.530Z",
+  "ReceivedTime": "2026-09-22T10:08:22.292Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "632904360090665183",
+      "markAsReadToken": "JMoz5TOGv0U6L0W5ZfTNOLA37OUzb3ZT2Y8fi-ZVnmfCzcwfnXM-931m_uN-49vhcNv90A3FkUtm4KmbCva4rm9ckOhQO24P7utY86NjLYSHax_Qze5oIkYKGUky6W7DhOy2vCjim_Cz9Xtah8mITVYMG44hacTL6rj_0AE0yXgXGz8qgvF5cOdBXONj9rjAu1WRXK2_Mjc_uQyaMuuJFQ",
+      "fileName": "20260923_資產、換裝需求訪談.pdf",
+      "fileSize": 1250408,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M349CZBVT9MVETFPJD6027Y2",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790071700530,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "0117a37e6d524f9995de4272f1c35207",
+    "mode": "active"
+  }
+}
