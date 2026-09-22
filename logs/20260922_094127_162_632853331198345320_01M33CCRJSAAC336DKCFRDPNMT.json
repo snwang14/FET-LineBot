@@ -1,0 +1,42 @@
+{
+  "EventId": "01M33CCRJSAAC336DKCFRDPNMT",
+  "MessageId": "632853331198345320",
+  "Timestamp": "2026-09-22T01:41:24.704Z",
+  "ReceivedTime": "2026-09-22T01:41:27.162Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "MessageType": "image",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "image",
+      "id": "632853331198345320",
+      "quoteToken": "RmW_JyTWnJ2IQZhcaCMbT3DZHgzp5rC66oEO_PTmlH2O-tdZdhhjoYNwAohRf9iSJw_72WV6beYRNgqllDPk8jmwxkEJKbmbzmSmTrvExlChQbMYP2wM_lvNVzhAhlzVSBYrGZaET16jvvNy__ifdA",
+      "markAsReadToken": "h_1myIyWjIavOLTZJD9GWqN3tIUZ89_BX7nOjK0KVDmTJD3wDXIQs65CvbF5XuD3SbmrhV-cIn1MoHR7ahqUzIFHYIQPPYeOCR5ebkbNUfd_RvmpbuynpBhXJC5tgcvKqTjgUC9MJDum0HXQBeUJ2_fER1gEKPyMaq-Si9ZQVXqtOOnPUdF2LjFvgfsYuC0VGuuW2jyfV5u-EhnZB2prxg",
+      "contentProvider": {
+        "type": "line"
+      },
+      "imageSet": {
+        "id": "3CCA77402E9D530253109FA4AFFE96069E34883BD20397C5E95102B2AE84F60B",
+        "index": 2,
+        "total": 2
+      }
+    },
+    "webhookEventId": "01M33CCRJSAAC336DKCFRDPNMT",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790041284704,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "a988a779b4d1491a8fd3ffa4490257f2",
+    "mode": "active"
+  }
+}
