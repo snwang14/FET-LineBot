@@ -1,0 +1,35 @@
+{
+  "EventId": "01M3413NNF1GS0VVDBRBN9XE8R",
+  "MessageId": "632889776060235864",
+  "Timestamp": "2026-09-22T07:43:26.903Z",
+  "ReceivedTime": "2026-09-22T07:43:28.152Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "再麻煩提供帳號和幫我在登入頁確認版本\n另外異常的螢幕截圖有嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632889776060235864",
+      "quoteToken": "ksWPKZLHR86Q2_ZpSJBK1RtozHI-EoJQETcpupsgOjNhJXqzgdbAN-b6KeHxoryCdNEijLgJ8VRHxbrK7vgFbC4IjXN_sMjdo9LsU5rMqEAOv9OTgjghVgfabZPO7x2I6IdKjlTQXVCJ4YACiTNFdQ",
+      "markAsReadToken": "aX7GsCXi5AXmYKXMHN4UWq3va7-b4P32jdebrDB582echGYFkwyI9TeD2aG2XHdJMfL-shpyCBQg1fMc_uE8J3OvIUwEGgmjMPwyOrelimS2Opb8wwJsYly71yqjG9PkbY1oJmG-YQ_HSa-ZN79l7xhkJbIXJ3OhkcK47PVTGGkQ_1C5ZxVbkMFYw9O5xu2SajbNaUZnTUqQU6JH4IT1-A",
+      "text": "再麻煩提供帳號和幫我在登入頁確認版本\n另外異常的螢幕截圖有嗎"
+    },
+    "webhookEventId": "01M3413NNF1GS0VVDBRBN9XE8R",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790063006903,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "f01ee0b2284d4ebd84d25714b7c151a1",
+    "mode": "active"
+  }
+}
