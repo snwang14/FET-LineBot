@@ -1,0 +1,38 @@
+{
+  "EventId": "01M33CFB9VQ6PK8TE6BG2FCT59",
+  "MessageId": "632853473469399183",
+  "Timestamp": "2026-09-22T01:42:49.620Z",
+  "ReceivedTime": "2026-09-22T01:42:50.621Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "632853473469399183",
+      "markAsReadToken": "LJ0jsg-FIBnQRQt6SS0daCHZVDtCOitwntNcJyX7tbVYe1TRDDsc0_GjIeMY_XzYtKhpeR7bye74X-142PF-5_oG7QZCIL1QBAFrkbiLT10BP0YObcwOXseDK7qBbdHdRjHAgmQ3IJGQsKzRGWSsOwn2XTHXudj6h8R0MsH4fxde6Y8T1V91bdiQUifJ63_KoY-BLA1zLYDlD3SxOI8kRg",
+      "fileName": "臺北市政府資通系統安全作業指引.pdf",
+      "fileSize": 233528,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M33CFB9VQ6PK8TE6BG2FCT59",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790041369620,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "07c5418a61fa4b81940fecacf19469ec",
+    "mode": "active"
+  }
+}
