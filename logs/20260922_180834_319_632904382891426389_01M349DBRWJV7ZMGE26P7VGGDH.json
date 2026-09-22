@@ -1,0 +1,35 @@
+{
+  "EventId": "01M349DBRWJV7ZMGE26P7VGGDH",
+  "MessageId": "632904382891426389",
+  "Timestamp": "2026-09-22T10:08:33.202Z",
+  "ReceivedTime": "2026-09-22T10:08:34.319Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "明日上下午需求訪談預計訪綱，再請確認",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632904382891426389",
+      "quoteToken": "sjJo6qVYHwSr2eC5DFGPhavqCVLdIhAjPPC28zMHT38p9fqIa_x6Wpz9HtlLlUGeu2GQhbR6mjMTLHeSh74zucREbLrUe_5DkH3AL_jlbckIAeohL7G9NS68s2Vm0DObSJODP8TJczstoNlj5n4wgQ",
+      "markAsReadToken": "Ro3eIMgIB8j7u_lq5ki41QJrZ6WYW9L9aA4_5abDVzub3pZ9QKtqQN2U8-CXkyb48lYwWygukVL5YOzGElxLUGp0Gqg-t7YedfhSIvSodlAZcXeegUxo3Vw6b8mc5DwO2MYcnxedxFx3k_WcwvGcQxFDsDE41FMhOtOl6Ig_P9FchpTBN_BnCyNBVHl1DqHZCtT1-9Op-PCxBTZmTQUMdg",
+      "text": "明日上下午需求訪談預計訪綱，再請確認"
+    },
+    "webhookEventId": "01M349DBRWJV7ZMGE26P7VGGDH",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790071713202,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "d0d6d819194f48869e7343b863f8297e",
+    "mode": "active"
+  }
+}
