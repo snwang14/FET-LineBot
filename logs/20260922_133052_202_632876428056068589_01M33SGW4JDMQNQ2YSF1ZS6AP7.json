@@ -1,0 +1,36 @@
+{
+  "EventId": "01M33SGW4JDMQNQ2YSF1ZS6AP7",
+  "MessageId": "632876428056068589",
+  "Timestamp": "2026-09-22T05:30:50.969Z",
+  "ReceivedTime": "2026-09-22T05:30:52.202Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "MessageType": "text",
+  "MessageText": "這批比較趕 \n可能要幫忙幫忙一下\n預定9/25進場",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632876428056068589",
+      "quotedMessageId": "632876337694769225",
+      "quoteToken": "Oo_I6W9ecgseqsDVLbDtW1QVWV_RX5aUyRKiqVwc65jOQz1YldCuxvHqhJbSvg4HoNrh4Y6wyG0xlPcH6d6NYFwYmyRpLghGhZKuwZk07HhNWCaF224hyCCwH7IHl1B9222e_JdbvJGKaFHEDZrLTA",
+      "markAsReadToken": "2pSDm4a7ZFqLQ3qdfdA_T1YBPBde2QMADt8x5yfPXzs1UL8GnjNUVGIZ2YBbVWFNpHOjN7FoeV56fR7MXz8o5nUxRZxqJuPp1EzqP1iDn5NTCwpoFfrEM9FnLogbiLVxqfjdtDxS5DWvQKMpPTyKaqUojQGUTw2CU-QxoQXLYOg5RcJLL5ztPyteG9qvbsUPMkAHXNQff0Q3lAsANrZmTw",
+      "text": "這批比較趕 \n可能要幫忙幫忙一下\n預定9/25進場"
+    },
+    "webhookEventId": "01M33SGW4JDMQNQ2YSF1ZS6AP7",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790055050969,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "39a78bbde46b43838ef89d510e25aa67",
+    "mode": "active"
+  }
+}
