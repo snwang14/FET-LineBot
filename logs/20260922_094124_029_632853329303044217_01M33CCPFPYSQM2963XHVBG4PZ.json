@@ -1,0 +1,47 @@
+{
+  "EventId": "01M33CCPFPYSQM2963XHVBG4PZ",
+  "MessageId": "632853329303044217",
+  "Timestamp": "2026-09-22T01:41:22.939Z",
+  "ReceivedTime": "2026-09-22T01:41:24.029Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "MessageType": "text",
+  "MessageText": "@胖仙女 招標文件中有提到每年兩次提供這些資料，所以代表資料至少要保留六個月以上。另外也有提到需要配合這些資安管理辦法管理，在這些管理辦法裡面也是提到半年。明天可以再跟機關確認一下，看是否已半年為基礎，謝謝。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632853329303044217",
+      "quotedMessageId": "632736423866794310",
+      "quoteToken": "o1GlFnHRp_DuX171i76AQYqmbP4uGH8HOLl0lbUaKuSEb19rPTI9w3u7nFX2-T2yw7Sdr1Tf-n0dSwiHQtRsjd7OZ6aA2SpXWTnwSkCspmj1ojCnJtPLWwPEgLozhb6mgLs6c8cS2Of_TBRZHUd6LQ",
+      "markAsReadToken": "DTmIHy64AT2MM980WRxV8yhg9zjMVjxZCqHPPHUeeVWfovERq4GzbZAZYv-1Vtd7hYUSNkrnn0bBlvvwbbYSTJhOS_5L46ZsvdTxeATH8yOQY4qMuyY57CvwF0gha1JK9cfLyWWlBYT6nFVh0wYi49EKzZT-0YYpCzDvbIlLR96qXucKnXuoFmQc38yZw-Px2B0_A6JXAyafTNaoO6Ixeg",
+      "text": "@胖仙女 招標文件中有提到每年兩次提供這些資料，所以代表資料至少要保留六個月以上。另外也有提到需要配合這些資安管理辦法管理，在這些管理辦法裡面也是提到半年。明天可以再跟機關確認一下，看是否已半年為基礎，謝謝。",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M33CCPFPYSQM2963XHVBG4PZ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790041282939,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "d86589c83e794de2b4469baaabc3708e",
+    "mode": "active"
+  }
+}
