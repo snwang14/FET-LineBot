@@ -1,0 +1,35 @@
+{
+  "EventId": "01M34C05A7BJHFM90HX0H09BDQ",
+  "MessageId": "632908934432424477",
+  "Timestamp": "2026-09-22T10:53:46.287Z",
+  "ReceivedTime": "2026-09-22T10:53:47.579Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "MessageType": "text",
+  "MessageText": "不好意思\n請問是沒進度 還是 有錯字呢",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632908934432424477",
+      "quoteToken": "ycd_wizFXW2HfndHwH3-6ihOfkUPw7-uXsJtfo1pKERQwTnPMUu4ctZGkeVJhUTBSO2-SuekVzVIsNBMzysdpIgSXgtT7LSMeKLAoF_jZko_UBbwKDGe8hsMwMbwxaPG6d_FWqgI0qUZK8UsJIHxfw",
+      "markAsReadToken": "MJUN8EZuKhyY-7hYopqqd9Ui6sDUhRk67fru4g5B-Xo2EXw8-bAFb16QUX5wBIL32K5QGFJLr3gJ5Wk3AlxWDFMpG568ioq4kbh058l9aacZAc5ARFo4fEJKz6Vuki8wAuNeeHePgxNtL6RISCcXumGcnCBa3QkNLimtny3o_xF2xrn33r0q4vfi_mCZl3eLRbee0v-oY8Ov32-B9hTBDA",
+      "text": "不好意思\n請問是沒進度 還是 有錯字呢"
+    },
+    "webhookEventId": "01M34C05A7BJHFM90HX0H09BDQ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790074426287,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "9a5e7e2f606840a79c330bd78d09c48a",
+    "mode": "active"
+  }
+}
