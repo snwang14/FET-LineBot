@@ -1,0 +1,35 @@
+{
+  "EventId": "01M340Z5QJGKJWM06JZHKX3BF5",
+  "MessageId": "632889528863948954",
+  "Timestamp": "2026-09-22T07:40:59.510Z",
+  "ReceivedTime": "2026-09-22T07:41:00.886Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "MessageType": "text",
+  "MessageText": "平台小組有人要回應嗎?",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632889528863948954",
+      "quoteToken": "ZQpPi-Xu5tM8JCGsmIT78Dnjfh-LjhHte7nspgKNpdQkPgjZAn_JxbLvllc2aBMRQ53wDzANTcXvb7g1qis6-kaOD-C3BzcmvvmfZ0Pu4hw3GgxGIBm4Y4FwH2ODYAlqCRYDcPONsdl5W4y3pKIG5Q",
+      "markAsReadToken": "NE-tFwf5tJq8Y2CCfrlCwvV4pMoq0kkqOOXF3Q7wRB8Z03hUK3ySIUPhkOkpo35EZhz5nLYhHcHYmc14Xc2bNCbN92ADwvYvTI3gVod80Z_yrqLJ5fIL8qyXcJyvw8oyJxpNmMtnCCAEOc8mvA-fi0ZmzO_XtcWGLI_8a6xfnLXLPK5NpJNrj5Q_VPSsJP2gyZBHOySn7eokGZZxHr1aAA",
+      "text": "平台小組有人要回應嗎?"
+    },
+    "webhookEventId": "01M340Z5QJGKJWM06JZHKX3BF5",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790062859510,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "54417d9136a041c8b0e154247f4e7ea1",
+    "mode": "active"
+  }
+}
