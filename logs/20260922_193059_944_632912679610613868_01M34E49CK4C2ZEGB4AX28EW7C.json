@@ -1,0 +1,36 @@
+{
+  "EventId": "01M34E49CK4C2ZEGB4AX28EW7C",
+  "MessageId": "632912679610613868",
+  "Timestamp": "2026-09-22T11:30:58.581Z",
+  "ReceivedTime": "2026-09-22T11:30:59.944Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "MessageType": "text",
+  "MessageText": "楊經理好\n於剛剛電話中說明的\n\n平台系統 所提供資料（如 訪談紀錄要含需求單位、人員姓名、需求問題、是否列入平台功能等議題），遠傳團隊會先確認後，再提交給您",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632912679610613868",
+      "quotedMessageId": "632908143319581069",
+      "quoteToken": "ALo2Mk6QoPGX1YVPvj1K6VXqrrGiG0a18vjVKloFdnNHtH3DQSspST0IdfIbFPBenvW6F3Vq6cvjSpXAUyi4a9DnhmMDx0owxeEunZdNouQ5RJVxl80Cw2mtgWeicrrQGyKxf8VAL4ak3pF8scr9eA",
+      "markAsReadToken": "mbu_95AR48VjdSHxdfiZBgz9du9GGVZ6rawVKEqbKGPEmoJTFG2OjctQ4XzO1dgC6zTEu2ShJXmn8AOTTDLC9piZtDaRMiKFW2RIW0GZZy3q54Vi23UV2mK0IHOOmHQbQvYnGBPNW7XjC6sDj8yqYNa4JuFEIgfMl3Gtr16HROK6YZd_8szMk0OQQ2MKII8qNZnrl2jVcgtspbEf-nXQKg",
+      "text": "楊經理好\n於剛剛電話中說明的\n\n平台系統 所提供資料（如 訪談紀錄要含需求單位、人員姓名、需求問題、是否列入平台功能等議題），遠傳團隊會先確認後，再提交給您"
+    },
+    "webhookEventId": "01M34E49CK4C2ZEGB4AX28EW7C",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790076658581,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "35d168bdebfa4f198801201885711920",
+    "mode": "active"
+  }
+}
