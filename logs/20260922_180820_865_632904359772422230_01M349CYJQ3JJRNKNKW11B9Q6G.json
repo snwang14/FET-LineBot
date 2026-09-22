@@ -1,0 +1,38 @@
+{
+  "EventId": "01M349CYJQ3JJRNKNKW11B9Q6G",
+  "MessageId": "632904359772422230",
+  "Timestamp": "2026-09-22T10:08:19.708Z",
+  "ReceivedTime": "2026-09-22T10:08:20.865Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "632904359772422230",
+      "markAsReadToken": "30TkU7FVWtXkkfOMAlT3nCV3YEngcCYZsXRjs09ozVpJsMqG8eiyMsCWgqIpgLwqjFzLp8nHsZtK5ujaTbTEFN_Cu4RIK0U32ZaTM08icRDDlKGrKC4sUhJdIenptJUUdGcY60oly9fN6h3ksvqVgAfQNDa3pnt7Yi-oV8jEvGRn_uZWskWva4HFi3w4zczC6HftKi77AdhuoalSuBdumA",
+      "fileName": "20260923_資產、維修需求訪談.pdf",
+      "fileSize": 420080,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M349CYJQ3JJRNKNKW11B9Q6G",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790071699708,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "93a6df0d3d37459eb15558827c7d44ba",
+    "mode": "active"
+  }
+}
