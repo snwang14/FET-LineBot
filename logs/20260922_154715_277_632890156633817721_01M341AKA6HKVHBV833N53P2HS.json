@@ -1,0 +1,35 @@
+{
+  "EventId": "01M341AKA6HKVHBV833N53P2HS",
+  "MessageId": "632890156633817721",
+  "Timestamp": "2026-09-22T07:47:13.865Z",
+  "ReceivedTime": "2026-09-22T07:47:15.277Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "好的，再麻煩了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632890156633817721",
+      "quoteToken": "cVBthAw0Dx-gM-BFJQsQqCG6vj2aTkboeuC-cV6RwNwb2tbqy0JFdYJ7AGLkWTZqdJNGk5TeWvfDe3JslbbDmO_MqRgm41AfKkywUtevfXGP2EDIXkV7zCJ5m_brmvWxpEICwFuAERgkyxvaJuFb4g",
+      "markAsReadToken": "DARLqKofif8l0w1XH34wgiY8RQN5xStuiZBXDHi53vjITUmfdZG1jIC5Wbya3-Cn8LrxId41Vezx5bJQDw6XoqlyaM7aBk7N-j9LmTKbkEpfHH44y9OpV_hRKADn7zYUvDqeeRdBwvj11mM0XBVtrCrPJhi1JAA-h-Iq5uTn1l0CPpAPm2gh8JsMU363z3WBHcGeRPZRvyrYqorGIVBGUA",
+      "text": "好的，再麻煩了"
+    },
+    "webhookEventId": "01M341AKA6HKVHBV833N53P2HS",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790063233865,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "2940dda314364cc89d5c19234bfdf56a",
+    "mode": "active"
+  }
+}
