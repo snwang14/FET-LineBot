@@ -1,0 +1,35 @@
+{
+  "EventId": "01M33SF72YSZPS41X3QRX8P53R",
+  "MessageId": "632876337694769225",
+  "Timestamp": "2026-09-22T05:29:57.069Z",
+  "ReceivedTime": "2026-09-22T05:29:57.776Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "這一批什麼時候要使用呢？\n可能需要稍等",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632876337694769225",
+      "quoteToken": "NfPlTs82dH0jCEb161_ULyw7v8r_uyfV1jZoceoREcynjG7pFT2UpaTEXMr2h3qJFRtLrMd6EFvJYYtceXRcbS731yYVMgIDR6-lKSBxrX4On-whoDOOGOBKYrv067jls3UHkpJtIbtev6MnUCeSow",
+      "markAsReadToken": "jUB_ZsB3BY2iw-Q8elr5YDQQdOjZBaa9wJ2ZnWXkMV5jRxUY9H02OZAp7Ht-BY0AwVc4yDf-Zz7vquNGtV1pDoY8f3bimcCbutBRi5ymZonWCmL6Jx_n4BevIeAbi1NI06kPPId30x_GLeJFqezSROxMY0DPx2qjj32oWU3kkGfPzS3NU4OfLiXXuaUEgj_DnQbo63FTrY5TuoaMwSdlYg",
+      "text": "這一批什麼時候要使用呢？\n可能需要稍等"
+    },
+    "webhookEventId": "01M33SF72YSZPS41X3QRX8P53R",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790054997069,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "a509857941534e529c6b497fbf557dfd",
+    "mode": "active"
+  }
+}
