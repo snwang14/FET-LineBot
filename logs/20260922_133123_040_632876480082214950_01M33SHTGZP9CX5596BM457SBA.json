@@ -1,0 +1,36 @@
+{
+  "EventId": "01M33SHTGZP9CX5596BM457SBA",
+  "MessageId": "632876480082214950",
+  "Timestamp": "2026-09-22T05:31:22.019Z",
+  "ReceivedTime": "2026-09-22T05:31:23.040Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "MessageType": "text",
+  "MessageText": "謝謝 Alan哥 幫忙",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632876480082214950",
+      "quotedMessageId": "632876454480707962",
+      "quoteToken": "Fep77MN-6Vstk1hgbYxUK3FBZiHfC1OHFROq_CIBuB7LEQWk1rXXXLSZvNzf-51sifeCkVGlc5M9XTbsNyCpBN1m5szB_NIZDfq26fsh5O5Yy14tEBD6wV2abU40JTxp-z2XIhZQExKiD_noSi6bjg",
+      "markAsReadToken": "HjEd7NrSg8dfQFhlZJVkUXMWkuc_lt4BX-RKqIZ6M7s8vrGTssdPy-51qzTPVJ0nlCJoG4rzQJTwL4A7NN1eD-lwVgv7nDa3-h9dU94W_nzoSN6A-XZBkfWfYzFqkrafFHP9cPyPvXoMnI-vuEbu4NTaVC9-Jwi0iwIe4WheUdWcCgogJOvO7wa5bXSVEcxLTlcFUYTFXhNvZkozKnMiJQ",
+      "text": "謝謝 Alan哥 幫忙"
+    },
+    "webhookEventId": "01M33SHTGZP9CX5596BM457SBA",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790055082019,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "f21c9fba0be74d648ca4ceba4d5e9966",
+    "mode": "active"
+  }
+}
