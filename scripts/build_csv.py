@@ -15,16 +15,16 @@ for file in sorted(Path(LOG_DIR).glob("*.json")):
             data = json.load(f)
 
             records.append({
-                "EventId": data.get("EventId", ""),
-                "MessageId": data.get("MessageId", ""),
-                "Timestamp": data.get("Timestamp", ""),
-                "ReceivedTime": data.get("ReceivedTime", ""),
-                "SourceType": data.get("SourceType", ""),
                 "GroupId": data.get("GroupId", ""),
-                "RoomId": data.get("RoomId", ""),
                 "UserId": data.get("UserId", ""),
                 "MessageType": data.get("MessageType", ""),
                 "MessageText": ",".join(str(data.get("MessageText", "")).splitlines()),
+                "Timestamp": data.get("Timestamp", ""),
+                "ReceivedTime": data.get("ReceivedTime", ""),
+                "EventId": data.get("EventId", ""),
+                "MessageId": data.get("MessageId", ""),
+                "SourceType": data.get("SourceType", ""),                
+                "RoomId": data.get("RoomId", ""),      
                 "IsRedelivery": data.get("IsRedelivery", False)
             })
 
