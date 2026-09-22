@@ -1,0 +1,46 @@
+{
+  "EventId": "01M33G5MHWQJ7SY5XD2CVWH0RE",
+  "MessageId": "632859977174220972",
+  "Timestamp": "2026-09-22T02:47:25.505Z",
+  "ReceivedTime": "2026-09-22T02:47:26.901Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "MessageType": "text",
+  "MessageText": "@Sammi 請問依據之前路燈經驗，明天安排的需求訪談，我們有需要做哪些準備嗎?  明天訪談你們會有人一同出席嗎? ",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632859977174220972",
+      "quoteToken": "HEfHSr_5F2q8Y2ZDcKavU9Is45aKgv2kq60uVJ5lXd5VxiIsEVKwYnYV-OOweNGDk_u9gITpQlpDDSRGFZYNrTFzWjEaqPb_zylmLrvYKvJy_SU7_UNFr4li375OzE8K7PoOG2eOV3kGaOWy0-W-SA",
+      "markAsReadToken": "nV8E-XHKQ5GkovM29G3bRg-zEXZFe-5vBGkW38EuImMkeXMGh8dtadrMPJGNjPvdenTagp1kYb9LrAIlCBWFDrttqWrlDXV2jeboqlUmqCe9SZMJJ4a0NSE1IqZi8oRSw-Y551xRJBEC2ptnG84HSkHe6WGgNhXrHvzealzt5gOhWRJWIE5pCji9IMQSF4uzR_StrUUpfWwzh57ime9pcQ",
+      "text": "@Sammi 請問依據之前路燈經驗，明天安排的需求訪談，我們有需要做哪些準備嗎?  明天訪談你們會有人一同出席嗎? ",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 6,
+            "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M33G5MHWQJ7SY5XD2CVWH0RE",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790045245505,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "b80d21f058e24b4daa381dd588d03eb0",
+    "mode": "active"
+  }
+}
