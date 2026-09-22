@@ -1,0 +1,35 @@
+{
+  "EventId": "01M34164GAK4WQK6H4CDBMCGTK",
+  "MessageId": "632889911451582864",
+  "Timestamp": "2026-09-22T07:44:47.630Z",
+  "ReceivedTime": "2026-09-22T07:44:48.823Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "MessageType": "text",
+  "MessageText": "我可能再請他們注意一下截圖給我",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632889911451582864",
+      "quoteToken": "qln-Q4pq_HZHFamXSqbRLpfZioCiPyo-05t1fYypO0reHCC11zckkzQyW7YrKsv9mdOaHiF1clT2Bk8QqxQFv0VtfOuUsMwsWyJLxhXCNQMmqIFJ4Ge2NRZRj_MTqw0tNqfr1tcOcIZD8XVwDk0TzA",
+      "markAsReadToken": "0l06c-SCFcFhybynBG3sZYxzd5IHNhTjil9T_LNDorT6AJxlu4KOWaQBVk6430VA84SoRLxY-Mg1ZswyrRhv4X5fivWiTAO_6UcT3LZELK_98IPvmmXN1HUS4wn9_IRMS_GTA5g7zHqpF7OEVUKjf5lqJe8prwqnwjVKRV1HT9UL80UK0nwGi_bt51zUHr-s71_m31DV-cHUJ4GMusN_bQ",
+      "text": "我可能再請他們注意一下截圖給我"
+    },
+    "webhookEventId": "01M34164GAK4WQK6H4CDBMCGTK",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790063087630,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "885d95c0733d4972a7db54684c076cdd",
+    "mode": "active"
+  }
+}
