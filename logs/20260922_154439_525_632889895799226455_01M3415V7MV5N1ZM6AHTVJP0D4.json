@@ -1,0 +1,35 @@
+{
+  "EventId": "01M3415V7MV5N1ZM6AHTVJP0D4",
+  "MessageId": "632889895799226455",
+  "Timestamp": "2026-09-22T07:44:38.290Z",
+  "ReceivedTime": "2026-09-22T07:44:39.525Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "MessageType": "text",
+  "MessageText": "工班只有提供這個畫面給我",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632889895799226455",
+      "quoteToken": "kpNDC68gbsyDuH9p2yI9BDyz6zQp_fhb0DVOwZV9RyQfcxjcxfvUFEYlEqW5i7LLBv8w-5txTJjr2xSjklUEmhoQx4DR-Q6ZhpQLKmv-wYCMs1QITRvLHJYvN3ve0HqdKn4aE5k-C24GQxrsvEgt8Q",
+      "markAsReadToken": "rC3qIEBiqyeTuHADSJkShVgfU-QJ6DesXbh5LgHN_v5UtLFy4VRrBBDz6mymPTPZjDnLcGubWlcVnD8dDpUuqrMVm5qUfXwTvCrDEo3s1P85eAG68Grfk1cHov19Zi3afVlGChCVfPdRCtmZbUqn7zSCRhoUYleguPVHNai2b4lH6Itl8yTfP4jYBWuQ70i_Nbl34gJTSOKEK7LNn72raA",
+      "text": "工班只有提供這個畫面給我"
+    },
+    "webhookEventId": "01M3415V7MV5N1ZM6AHTVJP0D4",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790063078290,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "7bf057be4c064974a99c915a48577c66",
+    "mode": "active"
+  }
+}
