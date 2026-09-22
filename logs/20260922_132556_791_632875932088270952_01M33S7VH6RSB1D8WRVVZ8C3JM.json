@@ -1,0 +1,38 @@
+{
+  "EventId": "01M33S7VH6RSB1D8WRVVZ8C3JM",
+  "MessageId": "632875932088270952",
+  "Timestamp": "2026-09-22T05:25:55.824Z",
+  "ReceivedTime": "2026-09-22T05:25:56.791Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "632875932088270952",
+      "markAsReadToken": "nA38TqAIKbpTl7KQesUnK6f5N2v9EXGYOhov-mRNUt4P8in631CiycG3aJnq_vEomc_7B_JFezaaX_O_45QLwUhWGbSZlPWZfq8md6R8fKazhAkJfi32NUi0jdscrx1wLoTjUnll7wSTq3MJk8bUZWK8lWnKvrHeUa6vmwMSBmLw2P7XnK_scdwcej2DRZ4ruuUdDzVposfb5DIx3vhOGQ",
+      "fileName": "燈具規格欄位格式_20260922.xlsx",
+      "fileSize": 197538,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M33S7VH6RSB1D8WRVVZ8C3JM",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790054755824,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "7317f4b5152143e4a4dcd5ec20722e14",
+    "mode": "active"
+  }
+}
