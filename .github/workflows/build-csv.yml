@@ -1,5 +1,9 @@
 name: Build CSV
 
+concurrency:
+  group: build-csv
+  cancel-in-progress: false
+
 on:
   push:
     paths:
@@ -38,6 +42,10 @@ jobs:
             git commit -m "Update line_message_log.csv"
           fi
 
+      - name: Pull latest
+        run: |
+          git pull --rebase origin main
+
       - name: Push
         run: |
-          git push
+          git push origin main
