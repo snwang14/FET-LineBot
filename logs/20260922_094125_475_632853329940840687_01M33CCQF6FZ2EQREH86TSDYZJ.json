@@ -1,0 +1,42 @@
+{
+  "EventId": "01M33CCQF6FZ2EQREH86TSDYZJ",
+  "MessageId": "632853329940840687",
+  "Timestamp": "2026-09-22T01:41:23.813Z",
+  "ReceivedTime": "2026-09-22T01:41:25.475Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "MessageType": "image",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "image",
+      "id": "632853329940840687",
+      "quoteToken": "jYKItjqXFPamtLJuzzRT5n3cPSYKGqwCakFQGb1rc0murT1H57LNY0QGWJrSGWX60W2FDMA8tro7gk-cvI8Q-LB2XswHkca8x-gRl2z4rn7H-75VbOJJjH50prVN3859j-pYHN4EtTIOG8rMESq6yA",
+      "markAsReadToken": "Si_Qb9ua-7UB6MdUb8UWnpZdWHKCu0wwa-UM4MpREu5P_QfujO7KhnvEnptGcnE5yqiY6NECSsGDxr6nRwFIyEa1JWvkHNCwHuxs1AFjXj5yo0Bg5F-zi4sJcwxabLrXxqjNRLssBorALbCG8HLGRG6O9yoavWkXgl2bAyVpy7pQhqw5mlCVm9Ppms4Ye3ifWK1hsN25kyarmHE__1wZlw",
+      "contentProvider": {
+        "type": "line"
+      },
+      "imageSet": {
+        "id": "3CCA77402E9D530253109FA4AFFE96069E34883BD20397C5E95102B2AE84F60B",
+        "index": 1,
+        "total": 2
+      }
+    },
+    "webhookEventId": "01M33CCQF6FZ2EQREH86TSDYZJ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790041283813,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "0f2b453fc972436090ffc797e1e78532",
+    "mode": "active"
+  }
+}
