@@ -1,0 +1,47 @@
+{
+  "EventId": "01M343SBDB89Q97RE0DRN52VQH",
+  "MessageId": "632894486129410460",
+  "Timestamp": "2026-09-22T08:30:14.448Z",
+  "ReceivedTime": "2026-09-22T08:30:15.674Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "MessageType": "text",
+  "MessageText": "@胖仙女 明天IDTT跟Alan這邊除了訪談內容外 還有其他需要我們這邊協助的ㄇ?",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632894486129410460",
+      "quotedMessageId": "632860592729751574",
+      "quoteToken": "FKpuoLLTIxGdEWfDdcqaGVDB7TUEM8ShfAo_OQ65AMyUGMYvi7N0JEP-rPpXku7nzpKP6TUeVOmRExGcaQhgnUpbuR_a3lomRT6rf2MuGz7nYUI2jWthb7LsT05qXfzldpwDL_N5Fz77P7MWEj5vVA",
+      "markAsReadToken": "s9yO0SgkC7punrqC5MaF30S7aopEAjji4vzluVeQ82PvB2vtTMxHuexJKSasVkbUk9qmv28cblZQsXZt95Nlfmn1bSSbaCVycNr9p5FfOwi35N6E1CW3290gbWaJAfjOladWCyPl_qD9vgB0Xxs1efz6-MyAEkPUmQpCMcPx00CwU4cmitPdk37pNoPT1RLvO4JCg-M4w5xeEEzGjYAYkg",
+      "text": "@胖仙女 明天IDTT跟Alan這邊除了訪談內容外 還有其他需要我們這邊協助的ㄇ?",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M343SBDB89Q97RE0DRN52VQH",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790065814448,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "04c14bee12ce41138ff63ffba40a3677",
+    "mode": "active"
+  }
+}
