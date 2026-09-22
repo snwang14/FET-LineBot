@@ -1,0 +1,35 @@
+{
+  "EventId": "01M34156GHDKT1AV7EFBWCV1MG",
+  "MessageId": "632889859979608526",
+  "Timestamp": "2026-09-22T07:44:17.057Z",
+  "ReceivedTime": "2026-09-22T07:44:18.153Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "有沒有跳出甚麼通知，如果單純只是轉圈比較久的話可能是手機網路訊號問題",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632889859979608526",
+      "quoteToken": "fXW1bRX40s_t5k_Q_qWmuqSfZeiCaCxEUnMo1UA_GPzlarpM8z9y797D3GUpW_Xz2QNiKJkxv_DrbMLFrfTUL-JrvUPXGyHkW7VPYnnnmwPB70bkxdWyctSRYleG4IVsfINMoe61Kl7O14gkUjOtxA",
+      "markAsReadToken": "yO7ZEQ0OKpAvsA4QUmuRu4DrpW-kOBznEyt1PRGJJpAIRPGHiUCSRegNdpiYhkyTu28bt1mi-tHEbA_lpa2Qf0bnG8ms28ITUPuBxhLFymWdamELGod8YK18VCmzWFSor068XxcApVCXihev8I-sW8fTDg9gSVj5XU-7qd1Tq7u-JraEXSl9b3QqQGd3SFDuWbSknZvUr7NYLJoPYTN2og",
+      "text": "有沒有跳出甚麼通知，如果單純只是轉圈比較久的話可能是手機網路訊號問題"
+    },
+    "webhookEventId": "01M34156GHDKT1AV7EFBWCV1MG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790063057057,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "11b5fdef77b2493b816268dc1d93f819",
+    "mode": "active"
+  }
+}
