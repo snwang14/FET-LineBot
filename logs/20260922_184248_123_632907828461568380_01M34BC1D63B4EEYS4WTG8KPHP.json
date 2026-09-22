@@ -1,0 +1,35 @@
+{
+  "EventId": "01M34BC1D63B4EEYS4WTG8KPHP",
+  "MessageId": "632907828461568380",
+  "Timestamp": "2026-09-22T10:42:46.967Z",
+  "ReceivedTime": "2026-09-22T10:42:48.123Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "MessageType": "text",
+  "MessageText": "訪談紀錄要含需求單位.人員姓名.需求問題.是否列入平台功能等(可用附件需求分項表表示)",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632907828461568380",
+      "quoteToken": "9EdC_9WzODf8L3D4t8zwJp9gg567C9FusLbJ28dMerHjx_315xXtJPFWDbpaCG8sr4qEGk-JedPlZUUGC8hwIl79R-Exnxcg4XRrTqEU9S5VztqFe07vpH553bLWLUsIwk4DkPma4CQn0KpAUz8eQw",
+      "markAsReadToken": "Sf5vJ9iDwc0zF0qZpiXy-Gxbmomups0r52A-QdfNQzMlvtLGzJZggRvr5pNafVwF_nIlquxKwWEno0ktxjXz0dJRbCelA_rjVSOZruHemVhA0T179cfRaFJbKluvUhJVTrN81CdcGHme-xRtVu-_nAk9hYXwm2bA5IWNkgHHJx973m_J2yGd3tIncMBXfaruBNo1mby56BNCnMU4mK_JCQ",
+      "text": "訪談紀錄要含需求單位.人員姓名.需求問題.是否列入平台功能等(可用附件需求分項表表示)"
+    },
+    "webhookEventId": "01M34BC1D63B4EEYS4WTG8KPHP",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790073766967,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "f7e289367d944aec9b18f36147b9f829",
+    "mode": "active"
+  }
+}
