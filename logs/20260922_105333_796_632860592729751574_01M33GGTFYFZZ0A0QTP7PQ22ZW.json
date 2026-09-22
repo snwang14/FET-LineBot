@@ -1,0 +1,36 @@
+{
+  "EventId": "01M33GGTFYFZZ0A0QTP7PQ22ZW",
+  "MessageId": "632860592729751574",
+  "Timestamp": "2026-09-22T02:53:32.428Z",
+  "ReceivedTime": "2026-09-22T02:53:33.796Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "MessageType": "text",
+  "MessageText": "Ivy會一同前往",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632860592729751574",
+      "quotedMessageId": "632859977174220972",
+      "quoteToken": "cNGxRHT5PfDaBH1vhOMLp4Cnwi_qOGZZCsyS_vYlbmrpLYakOXnHf4fStZ-ayED_JKORgyeNyuS0AGz8-Sjp1DQRhG1574PldgnaeQ4ch8gQNsPfHDwyU-BrkM7QG5fB0AbF16vtCDQ6QZnLwXaesg",
+      "markAsReadToken": "n3uxj6tOgmVZ3t7D9QgydEkuGxyPZRFT7bpi22MI4fpuMDuRj8ftPiXxJn3JS9nn_CV8XOqrEsFWhaJTaE3wveCnobjpOJTY7so6Cr_wTk-4uzlRejBzTRs8xB_XtvDxYlkHe23zgGzBxQvKLyKwBwRysZyVpSQnVE0ZB5pGYuaZhUOWQURki-v5c-pKKkZl_2Fbp347QteF_Z7L9dJBYw",
+      "text": "Ivy會一同前往"
+    },
+    "webhookEventId": "01M33GGTFYFZZ0A0QTP7PQ22ZW",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790045612428,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "ca53deaa74fb49f5b75f9a95f1df9b98",
+    "mode": "active"
+  }
+}
