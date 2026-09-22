@@ -1,0 +1,67 @@
+{
+  "EventId": "01M33SB9SAEXW28A9EAF7QBG25",
+  "MessageId": "632876121452708149",
+  "Timestamp": "2026-09-22T05:27:48.271Z",
+  "ReceivedTime": "2026-09-22T05:27:49.640Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "MessageType": "text",
+  "MessageText": "@Andy @胖仙女 @Julia Lee 佩玲 @林郁翔 Alan \nHI 麻煩請協助匯入傳統燈具(柱頭燈具)\n序號1000PCS\n謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632876121452708149",
+      "quoteToken": "ms-o5jgZwYgfa8uF2TLoGVXhZGaX7o_J-xUkwpD7J2aenD_WbXMhApi7qLaMjyUp0wUAnbWsMnc10nTSjMNxlQdVIQw4g7QbY8wsuT0JJq0Yr8WY3m4VOIp8hVvC_Vj3HMaYmQxi1mAagfmbYbTG4w",
+      "markAsReadToken": "xaZgwWKZcP7BACGwijxwYa3tVi7_AWaHDjhou5XLl3ChdtF4XHZtDfx0w0m4ZKsQwM-xVnsSXbhTBqK-lZGm9wWcrfSfbxcLUguLoCBtnKAD4Tifb4lWQKS-YFbg5AqgzZDED0eJPLyXnJz4X9KHomFN0Hd7ylU8AFBmZfLDAugOzlNYpBz6EqERaPP9skYrOe9Oej3UatkLaMbAvFcakQ",
+      "text": "@Andy @胖仙女 @Julia Lee 佩玲 @林郁翔 Alan \nHI 麻煩請協助匯入傳統燈具(柱頭燈具)\n序號1000PCS\n謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 6,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 11,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 25,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M33SB9SAEXW28A9EAF7QBG25",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790054868271,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "e7cd0d7a12054bc1973576f3c9537c3f",
+    "mode": "active"
+  }
+}
