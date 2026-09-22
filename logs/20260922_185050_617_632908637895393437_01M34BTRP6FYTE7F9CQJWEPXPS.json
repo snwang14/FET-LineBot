@@ -1,0 +1,36 @@
+{
+  "EventId": "01M34BTRP6FYTE7F9CQJWEPXPS",
+  "MessageId": "632908637895393437",
+  "Timestamp": "2026-09-22T10:50:49.528Z",
+  "ReceivedTime": "2026-09-22T10:50:50.617Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "MessageType": "text",
+  "MessageText": "好的",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632908637895393437",
+      "quotedMessageId": "632908143319581069",
+      "quoteToken": "QkK0Qtl0s6j7YYzed5Vjt2iXhaKCc4qwdDtVwc9RQHoNzv0H11B5y7k0NTC_nVOk0G9AWec3JIr3b33x_ac41WlLVFz7XBvuV-sLocbF2-N88KtaJI6H0p7C9wJ8BA-adaAs4Tss-PwJNFhexHurAg",
+      "markAsReadToken": "nVO77JfPwi_9qQWfDZeRKmG2Xqwlgf0gFec53VH-i6Gw7BuJaSKRGqK0c9LY5MJk8uUGrntT1pZUWMncURNlQFKmfEw3AW8vG-ZFbwmS6qqEdQWlYaR-yz756I8w-wBb_k_CRbADH11yDzYqHzlJbJ0ToXI-RY9RbYsfoAQQbzTmeKVfZFroU7N6UZNOrlyhYDfhYU2jXbRSFhaLbYQUxg",
+      "text": "好的"
+    },
+    "webhookEventId": "01M34BTRP6FYTE7F9CQJWEPXPS",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790074249528,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "e5365f491bc749d4a9b3a6579641c562",
+    "mode": "active"
+  }
+}
