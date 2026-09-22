@@ -1,0 +1,34 @@
+{
+  "EventId": "01M34FGBF04PMHVGSSAFXSYW5V",
+  "MessageId": "632915102291198364",
+  "Timestamp": "2026-09-22T11:55:02.497Z",
+  "ReceivedTime": "2026-09-22T11:55:03.773Z",
+  "SourceType": "user",
+  "GroupId": "",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "MessageType": "text",
+  "MessageText": "你會幫忙做記錄嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632915102291198364",
+      "quoteToken": "bhXWLkf05xIjIIrs3T7Ba8zScczqzRu73oL8nHbZiDyV9GKxjggOeKtkRtQOiq8hVapPGqZqKMK_kAR3_wVsMqHeFv6kKsCRN3mWUkaFcXHH7vmaFkLaG2gfFHYfn-9LpUfbOzKBLJC45NrKk0VdGA",
+      "markAsReadToken": "Ua4l0tKHrEBFF2CthWS8Jd6MYr9s-NstibY7uI_vdEhDRDSN1O9ACDzeDq2KMwupQggf-TcyxbNJwWmEywjFBGWEqxAe_5a7-cWatOR2qUA6BjwTjp0ZUvx8dmJ0U6ckQ8HalHuezZrxXHkqoh-rUzX6lO3pGKytDCduI3llKIXrEXTQED2EjNeeNf8ZBtXI1BQcdX1Ow4SU0BqCNgT_Vg",
+      "text": "你會幫忙做記錄嗎"
+    },
+    "webhookEventId": "01M34FGBF04PMHVGSSAFXSYW5V",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790078102497,
+    "source": {
+      "type": "user",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "c420010a6d6342e8bd1a56ad3728b333",
+    "mode": "active"
+  }
+}
