@@ -1,0 +1,35 @@
+{
+  "EventId": "01M35WS7RXNWT3PW0EJE8ASMRT",
+  "MessageId": "632994755848176115",
+  "Timestamp": "2026-09-23T01:06:19.762Z",
+  "ReceivedTime": "2026-09-23T01:06:20.709Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "MessageType": "text",
+  "MessageText": "你們先上課哦",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632994755848176115",
+      "quoteToken": "lcEtWEWy3jO-0pG_jtRo24IQTUW4s-jJNZxA3ui1iWzShAHQCHe3PkHo5afQO75swaBlWqJalpGd18p7Yj_uFk_Vw8aNacfr-EeuzZok2B8x8nf4vSY-SiuMKxDvVoY6glU_tAtHgho6aR1tcklUAw",
+      "markAsReadToken": "OPjC8rfkFbSbASZeONzz2auUoo-CySeVJzhdzsYF63tiC8KZS1rQiKoqy5JZptrbuclreva0nXwMay9LDSEcKlnl3Uv_fHfYwGxazOdJ3Pt1Py8kojz_qTSNAKq6bUFyk9sdCrjVrWIol0kCW5Ka2sUhl1ha9wHleSDK42yPczSNXSWJTOEufgnZDa6IJamebh7ohpv5XbGM9E2ciJ5g-w",
+      "text": "你們先上課哦"
+    },
+    "webhookEventId": "01M35WS7RXNWT3PW0EJE8ASMRT",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790125579762,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "0413f10070f341d4b8a30aab59568b63",
+    "mode": "active"
+  }
+}
