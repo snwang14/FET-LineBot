@@ -1,0 +1,47 @@
+{
+  "EventId": "01M3702PNQNCWE0CV3N9QYHKQX",
+  "MessageId": "633056848627105896",
+  "Timestamp": "2026-09-23T11:23:09.883Z",
+  "ReceivedTime": "2026-09-23T11:23:11.187Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "MessageType": "text",
+  "MessageText": "@胖仙女 請協助提供，謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633056848627105896",
+      "quotedMessageId": "633056791735566372",
+      "quoteToken": "1jXlHOdJr7BKuBqzRiUJOnYNd3scJofGlbVnzF8ecLtBWmEY5jbbwia3pZqSLOd9yJ49TNvNJIndujrEe6PyyYeK5BINRh9YH1bjL61-2H7wrESu1sgUxwudzrOViacZ3AHAaHM439L31nTRXLYFXA",
+      "markAsReadToken": "IAntO21WpoXjgm1Ojax2aFdnk0q1iOuwR479l8PSzKitX2a30qYo7bdtdZXEOergjItIi-9A1w6PjhBOuQS-QZVZgPCptESeLN6qAWRs1FORJHqv8X0zvBDwoYS9m-8q8ScX3qhRJU8PC-bEpSBXJrn4QGV4bO6pQUc_AJljxfOxMmNTZKDMyBBlam6mjpTLIjuTTJXND7MZiyM421-1Ig",
+      "text": "@胖仙女 請協助提供，謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3702PNQNCWE0CV3N9QYHKQX",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790162589883,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "92b02ec6d796497882726fb8ef7865bb",
+    "mode": "active"
+  }
+}
