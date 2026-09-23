@@ -1,0 +1,35 @@
+{
+  "EventId": "01M3705WVC186NSJ386MY40XPV",
+  "MessageId": "633057024468320293",
+  "Timestamp": "2026-09-23T11:24:54.684Z",
+  "ReceivedTime": "2026-09-23T11:24:55.848Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "目前看遠傳的單都是空的",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633057024468320293",
+      "quoteToken": "TX2VWFQU08WG2xz-V1hLqjKHpmGNf9p1ebeBH3q56I1t90EyXzi5pR0eqmtqtg16lh2A_6TOLWYRoMxLq3YJUqeQe7WtxAXUEUHVCBlcyM7v8_RLdSrstW3dZbTixner2uIfJFKqqk6R61dzJPSDMw",
+      "markAsReadToken": "gIJgPaqXX2tg6R5u9SOGseLYSRnb3SWVmNg-ydDfk56ysZqv9hfMAxnnvFe_OXu-2jXx3fxnDUhF_VREIeFqexsgFnwiolShGdjBwtHUWWsMCgkSnDyppVtY2axlSpHqHAsjcEf3-B-NSWQNh_ND2nqM-bLgRAHn27Lp5CVx-pa9KcjTWMSNq134ZYcFxp-dOOZN1yrYpvp6pMtcaPYI4w",
+      "text": "目前看遠傳的單都是空的"
+    },
+    "webhookEventId": "01M3705WVC186NSJ386MY40XPV",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790162694684,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "f437a813fce646558125ac1204630f9a",
+    "mode": "active"
+  }
+}
