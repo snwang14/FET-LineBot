@@ -1,0 +1,43 @@
+{
+  "EventId": "01M37GFXFGTC8HENT9KKWR35ZC",
+  "MessageId": "633085722282688990",
+  "Timestamp": "2026-09-23T16:10:00.052Z",
+  "ReceivedTime": "2026-09-23T16:10:01.191Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U2b2b4c7ce3e093215de5a26b0f1060d1",
+  "MessageType": "text",
+  "MessageText": "好 辛苦了(讚)",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633085722282688990",
+      "quoteToken": "PPt0uprRwzPI5bhwROf8mhSG245Oy_623cUY7ydQO0ORsDK39Tgj78jnjhFZS_GJfvc9c1AYup-lS8qAvv7LuUSJeNhPwSjeRD7XLCZNgn30p7s2vjl26RncFpeN7Dzpqm2LjNMWnIT0ois3D_sLIw",
+      "markAsReadToken": "dj6l6gfVsdloLzuOLirEvxhEY36q5JJ1fMM30B9tEWOQEcS6xZjzJ_9fMTj0Qa7NbBel6PCW7N1nr3ShzvATMDkAoz-QWl7CfW734455tV2TXBepPB4Q4JQW-3z6RBodmw_fYZD8T32zh7yW_ZK6h6GvP-07AcnbojQJZcsxYb_UlFUZi75_pCkZGJUawCQxA6cattLnrAVIrpiu_ox5jA",
+      "text": "好 辛苦了(讚)",
+      "emojis": [
+        {
+          "index": 5,
+          "length": 3,
+          "productId": "670e0cce840a8236ddd4ee4c",
+          "emojiId": "143"
+        }
+      ]
+    },
+    "webhookEventId": "01M37GFXFGTC8HENT9KKWR35ZC",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790179800052,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2b2b4c7ce3e093215de5a26b0f1060d1"
+    },
+    "replyToken": "2f3cf5ca677a4295a9e6815403d93914",
+    "mode": "active"
+  }
+}
