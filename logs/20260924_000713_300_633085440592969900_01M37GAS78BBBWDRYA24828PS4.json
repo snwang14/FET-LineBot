@@ -1,0 +1,35 @@
+{
+  "EventId": "01M37GAS78BBBWDRYA24828PS4",
+  "MessageId": "633085440592969900",
+  "Timestamp": "2026-09-23T16:07:12.079Z",
+  "ReceivedTime": "2026-09-23T16:07:13.300Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U2b2b4c7ce3e093215de5a26b0f1060d1",
+  "MessageType": "text",
+  "MessageText": "感謝🙏",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633085440592969900",
+      "quoteToken": "NDL5TTgtyvgQRefk_d61Tyh4yqJSpm0pqscHcCa74EsiBHHpddsqSwwFMox53FsSJpS5G6UPcs7sBJBupKEYuSklYg7t6tRcIxHtn9agipOTrOx9ScH6aqXvPInPEZDtLm6dgjUp1by91aN1yhy9Ow",
+      "markAsReadToken": "4yH0xwpP3SbTTabgRhFl-blvaxj5ZgQzPGoCcZQQx6vPIcy_9tUfcfizAC8GJOQD5fXXJoa82fzKZ_YHeIO3NB_tgKnkgEcBtuesfbpv2kT1tXxpovxiJ2BGe2hT829hxwcItCYt4D0867Xa-2sbIF6OwnWiTmw39hh5H1ncydUl2Cn81m-SQ4-tVdSO1U45quh1ar4RcjdKqBonTeLuGQ",
+      "text": "感謝🙏"
+    },
+    "webhookEventId": "01M37GAS78BBBWDRYA24828PS4",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790179632079,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2b2b4c7ce3e093215de5a26b0f1060d1"
+    },
+    "replyToken": "8500ebf8c82b4405b1f6cf593c31bd5b",
+    "mode": "active"
+  }
+}
