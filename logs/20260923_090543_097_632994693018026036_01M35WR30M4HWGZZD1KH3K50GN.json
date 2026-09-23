@@ -1,0 +1,53 @@
+{
+  "EventId": "01M35WR30M4HWGZZD1KH3K50GN",
+  "MessageId": "632994693018026036",
+  "Timestamp": "2026-09-23T01:05:42.228Z",
+  "ReceivedTime": "2026-09-23T01:05:43.097Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "MessageType": "text",
+  "MessageText": "@胖仙女 @Sammi 再幫忙確認工班何時到 在等他們😖",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632994693018026036",
+      "quoteToken": "JSBU6QHnVlewJcXOYTIlmKjkS28QTRy-z1K6xk6HJHVMPAYjdR3gUDRUuKTHj6TDNb5sQNOJL2eimqxp61IZPN1N-p3zYNyN5iIRx_jHWx7MaJaEDzvq8RCOBDwfXh1PRcRUJtffgZkGqtEzR7WUyQ",
+      "markAsReadToken": "HpLQgDF7HI4DxYaNp3wAPAeEYpg0KSsFpjs9_GySVRD3IrMujW-aqwZ5iPYz0kae-jESg3049Bf1RYDaKdxECawyLO2RFbe6UIIb7vAC1G0TxbomP5jlKoo1asRenR5PH8hY3kFzPUbGGNhulKCaPoweKdJ9mMBSm-zxgyUG_5txgqfJIXNrj7rcwDdLw9ZVcK4HayLNIZV2krSt-lMAyQ",
+      "text": "@胖仙女 @Sammi 再幫忙確認工班何時到 在等他們😖",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 5,
+            "length": 6,
+            "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M35WR30M4HWGZZD1KH3K50GN",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790125542228,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "c7a24cedba5543fb9e29a9cf25c8d67f",
+    "mode": "active"
+  }
+}
