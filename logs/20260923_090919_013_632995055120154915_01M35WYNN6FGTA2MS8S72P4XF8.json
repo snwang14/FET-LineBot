@@ -1,0 +1,35 @@
+{
+  "EventId": "01M35WYNN6FGTA2MS8S72P4XF8",
+  "MessageId": "632995055120154915",
+  "Timestamp": "2026-09-23T01:09:18.087Z",
+  "ReceivedTime": "2026-09-23T01:09:19.013Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "MessageType": "text",
+  "MessageText": "等到09:10好了\n不然你們先開始",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632995055120154915",
+      "quoteToken": "OYNlSqYYrhNpXi0PisZZ66KCk_P0-XqqjS_nVMSgRJX_rcxS9yJdyRB8dexC1FZaZc8kUv-mQoj2Vcti2jlB-FV_IuTDErEe8VPIJFVczsGkwGrrRyvII7cxIcTvIZcwmhrKuEbW6t0A0PKA5hUGtg",
+      "markAsReadToken": "vNp10KtOQc9OWqACnleujAyS9VZ7vXBEtfsoYPi0KXJy_wTGz5DUS8in9baklqYAtkQK3-H_p2GcG_QW5fCWwshT6liAPlx7gJ4fkpmUFi8lO3Hf7ynridfaVBr0Y63hF54C4AI8vEPCJBBkt1AHjxNs8RAh172yfG3lkWPMdgJ7PGr_5v9qeOtzMRz16B3RQBe4C9wFowZBluyO2kfU0g",
+      "text": "等到09:10好了\n不然你們先開始"
+    },
+    "webhookEventId": "01M35WYNN6FGTA2MS8S72P4XF8",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790125758087,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "19430d1ca1bb40db9df1557e6287d6d3",
+    "mode": "active"
+  }
+}
