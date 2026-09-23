@@ -1,0 +1,35 @@
+{
+  "EventId": "01M36DRGH6H3635QKAN9AFKSEF",
+  "MessageId": "633024622748500280",
+  "Timestamp": "2026-09-23T06:03:01.756Z",
+  "ReceivedTime": "2026-09-23T06:03:02.766Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "MessageType": "text",
+  "MessageText": "我在市民高架橋上\n大約15分",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633024622748500280",
+      "quoteToken": "W7fUV3taragldSsFG7flaXKL5nX2eNA1DEb0zsBsSK480xxX4gW_z17PMLWnuesUD2sH_I-89b-GS5R-FnoJcJkdAIQOIDTDd3fUpZM8A4g7s1yTIm_E1tKGU64COn6AeEG2DeGxwE-A7OjG9Ym86g",
+      "markAsReadToken": "EVYXbQnSE96rLCn-pSltXX_P9JvFPwcDhpseYWrHDmXBddsnqqs284dNpceA1UsSSgDMh0ofRmVqmhHlBp92RXAr6_QM7lJ3keUliQbMUsXccFn6JInxdBqCZEAa2Yo2tz-xpB6edoo9j4inNpQHM6NW8iEXt7IehW-OK7Zh-i0vhmPg4aibTzPG7ebQtbqzBjNKPN2S62vFDfKhVwUlQg",
+      "text": "我在市民高架橋上\n大約15分"
+    },
+    "webhookEventId": "01M36DRGH6H3635QKAN9AFKSEF",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790143381756,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "feda5da167f347f8baf34d35d1b3be00",
+    "mode": "active"
+  }
+}
