@@ -1,0 +1,41 @@
+{
+  "EventId": "01M37FD41908FT7Y3J3Q73S62G",
+  "MessageId": "633083809629208837",
+  "Timestamp": "2026-09-23T15:50:59.886Z",
+  "ReceivedTime": "2026-09-23T15:51:01.552Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "Uf67b20a12789d20059644985db821e1e",
+  "MessageType": "sticker",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "sticker",
+      "id": "633083809629208837",
+      "quoteToken": "jNUGigZPiy_2ByO2WmnhBUeQmYM2zwhLaKJz9XTA-DuCQyPzVD7F9vA0bVex30aadXusC7MXGm3_Mk3y3RVXv4gnQqIGG81VFM_oIgSx1WWr0c-6UkBa9NV7PLZNkyMu6-OnH2uoX9IQcqeJoSIx3A",
+      "markAsReadToken": "2mJWb1Cw30-de6OGkUPFr7A7ZFtIQTdHCy5SVFq4FpuvccxyJ6hTcpWqms70lWpm9z52pKuM9nmACUI_e1IDblNkAPgXuQfwzo98RhXXo7H_mjxA8zTMysINbrIJ4d_wSpCKukhuKj75cB4tacKGn1MWFfDrfBbsDyZloSJ2qqx-sJawmuH_RrN462ZHHSXI7BR5fHQ3O9CMvluXcx50Sw",
+      "stickerId": "10090294",
+      "packageId": "1248758",
+      "stickerResourceType": "STATIC",
+      "keywords": [
+        "Fun",
+        "OK"
+      ]
+    },
+    "webhookEventId": "01M37FD41908FT7Y3J3Q73S62G",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790178659886,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Uf67b20a12789d20059644985db821e1e"
+    },
+    "replyToken": "9e726e77172a4c18b1db63d9b76b7c99",
+    "mode": "active"
+  }
+}
