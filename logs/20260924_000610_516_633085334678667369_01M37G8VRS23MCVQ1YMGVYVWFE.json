@@ -1,0 +1,36 @@
+{
+  "EventId": "01M37G8VRS23MCVQ1YMGVYVWFE",
+  "MessageId": "633085334678667369",
+  "Timestamp": "2026-09-23T16:06:08.925Z",
+  "ReceivedTime": "2026-09-23T16:06:10.516Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "明天會幫你們把帳號的問題處理好～",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633085334678667369",
+      "quotedMessageId": "633085294094057717",
+      "quoteToken": "wDPQq7ZarHqSbnLSxmET7H_vZ4WFfeSVgm-a3OO5IvOKBDGZFHq1BugWBrT7lhH82FPwxohSJfSFj-oLK00fvzqNNfbOOd5Qk6Jgs0Qw__2UqgL7IPSA1uWWcw0-htj57ScgP4L-Ljwf2dphJd0Y1g",
+      "markAsReadToken": "xw6SBm5PBOrMVtBwwYZf5tlgnNi6H_ccZHrsHqj4OiYCWnxHR3ZVNz2taZA7b9myr5R9nQQPXEfD3gVxBcaYkPRIyaVEAvpKSfiIaNMZ3kvvuNVCDU12G5Ci7Qaqw4Zv59u0HN2Dc5rwhVQrEZ29V9P6k6cQvZQ97gYtOkRxZ28423vmFBX61Hzv2ZBgYowHo9fNgnIEMb6JvZ0Cdxgcyg",
+      "text": "明天會幫你們把帳號的問題處理好～"
+    },
+    "webhookEventId": "01M37G8VRS23MCVQ1YMGVYVWFE",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790179568925,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "d81f4b411011415d9871a9b7f2fe83aa",
+    "mode": "active"
+  }
+}
