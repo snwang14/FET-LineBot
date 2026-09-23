@@ -1,0 +1,46 @@
+{
+  "EventId": "01M37FD2N8YYYBA54DG2H7Q9EH",
+  "MessageId": "633083807280398804",
+  "Timestamp": "2026-09-23T15:50:58.478Z",
+  "ReceivedTime": "2026-09-23T15:50:59.773Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "Uf67b20a12789d20059644985db821e1e",
+  "MessageType": "text",
+  "MessageText": "@胖仙女 ",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633083807280398804",
+      "quoteToken": "dY5qrbx6bQ1y9jKaFSlRm3LY0HjsRoW6XHcvH62ktTpv375XLLBJoF0L_YKQKxc4QiBmLe1WtRjH0eHAfXf7v_zeDbA9E8eZxC8hK1xlHyyQCXbzbxttYCrE8oZXbxqGbVHGldKizQaNNgYafTS0Ug",
+      "markAsReadToken": "ODhCprfquFMjej0QIb1smXFIQMBqxp-9EzZ1XqRPTMPdqBMpbkpsHXzpNfUaWrPd8z16ExO0NAqAeYFLw4-cxPiUSkiR1AFi6pm7fACzFKRneyr03w_Q2S_duiG0oHUJkz1i7_fUMKuYYykrNPSnazSE5VeCeAQTIW98_o6b8mBc4QuR0V6sTOIH-Mebj-gvwQiWQpbvNSx0I8bhUu5v1A",
+      "text": "@胖仙女 ",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M37FD2N8YYYBA54DG2H7Q9EH",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790178658478,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Uf67b20a12789d20059644985db821e1e"
+    },
+    "replyToken": "79b222caa04548d495f5faf7da1d69d4",
+    "mode": "active"
+  }
+}
