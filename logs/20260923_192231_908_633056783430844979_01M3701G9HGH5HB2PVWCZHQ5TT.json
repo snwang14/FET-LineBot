@@ -1,0 +1,35 @@
+{
+  "EventId": "01M3701G9HGH5HB2PVWCZHQ5TT",
+  "MessageId": "633056783430844979",
+  "Timestamp": "2026-09-23T11:22:31.008Z",
+  "ReceivedTime": "2026-09-23T11:22:31.908Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "哪一張單呢",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633056783430844979",
+      "quoteToken": "Fr7PqHVv89eGjyIBOIs7IJvu1wqwN5_X1WFvNw5RZl0rYhVZnqGRlGdzeCnTH63kEvR7L3w_3ln3gXZ6J03s9tQWpB8mpyIQFiSs93ZN_Trl7Htq0tbxoK9CiVTINRCwgjoqwDOOtrV6FaVRDMIbvQ",
+      "markAsReadToken": "RKJBDYdRLOEYNVq44KxjyvWTy-Pi12QzAc4RDSYs_FxxmSmbBb-XCg67RFHNj7utPFbvxPxulcum625I62YqE-j1qNrLpEKAolHqADWOlp6WO5lrNFLWQAfynk1Gtb6PMPraxQeOSQwPPp7MF1TLC6RonHIeKIIeKBItY_2SOXktVWpwASk0SM0_WTzDPVCH79MHr8HltdIWPDAoGKU6Fw",
+      "text": "哪一張單呢"
+    },
+    "webhookEventId": "01M3701G9HGH5HB2PVWCZHQ5TT",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790162551008,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "aebf36663f5e4f42bbae69fd78786e58",
+    "mode": "active"
+  }
+}
