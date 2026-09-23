@@ -1,0 +1,46 @@
+{
+  "EventId": "01M36ZRQ9B1YS51YAXFEMSD6ZA",
+  "MessageId": "633056300464603279",
+  "Timestamp": "2026-09-23T11:17:43.280Z",
+  "ReceivedTime": "2026-09-23T11:17:44.257Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan Alan,昨天遠傳有換裝22盞燈，不確定有沒有成功上傳，後台可以幫忙確認一下嗎？謝謝！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633056300464603279",
+      "quoteToken": "hAGBNejK7HWwRBAqnu9VSGn7OyJ-Le1Tc0pwQR_d7VgEWcbAJDU65gvYkbLga1s6MP2bVaF9seyAge-osVRfTYW5_8YUgVJK8hjM_bMYHH4XgxpInkgEO6LtGw-WKoxBMNVHWV2JLovRbOUy-h8wBg",
+      "markAsReadToken": "VDRxBgRBJvm9HzdD8bMQLCqYrlksq7Jd2HF948MYd22pgkEoHdAyrhZssjl8Nbm4OzhJxnozj4pK-KRaVIfcMMT9nXn2DMVhpkLwztcE44bYqBboG5W8JbqxcU0baCsR-LkG9KBVury4qejdZVi0UnliOGxbyp_AfhdYPV8ecEFIZQ_Z5T9WDN0xMDLaYOI9JBtg8fplTjHTMeJU5Ir0pg",
+      "text": "@林郁翔 Alan Alan,昨天遠傳有換裝22盞燈，不確定有沒有成功上傳，後台可以幫忙確認一下嗎？謝謝！",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M36ZRQ9B1YS51YAXFEMSD6ZA",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790162263280,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "60f3710d7c694d0ea4e8c1127f44c33c",
+    "mode": "active"
+  }
+}
