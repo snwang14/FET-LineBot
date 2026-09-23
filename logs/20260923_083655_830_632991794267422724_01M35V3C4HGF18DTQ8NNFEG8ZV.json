@@ -1,0 +1,35 @@
+{
+  "EventId": "01M35V3C4HGF18DTQ8NNFEG8ZV",
+  "MessageId": "632991794267422724",
+  "Timestamp": "2026-09-23T00:36:54.551Z",
+  "ReceivedTime": "2026-09-23T00:36:55.830Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "MessageType": "text",
+  "MessageText": "本次是配合長官時間改明天下午！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632991794267422724",
+      "quoteToken": "XEh295jjyYm4MvjCbG7MankhuL0kzTEH81jZO15YkZEX2Jv7Ql-08_n852l0GF0JNYTVHUlsYWrqeBzQK3SMZTVBRGOJ3Qn3XpbsySxppbAR5NvGfMdmVp6VJYYV0tnpn6MQ3DZAt0I62TehCqMXKw",
+      "markAsReadToken": "GSiS4I3eUJU3g8qX5qoUCrRvrulu6BEqrdBFSFCTw47iM35aSEn3fzjeI7PmaJ9jFFXNqB3-9KDV9oddE00q9HBJKOkdryYlW6XHO7An0BJHyugBYqAmQZoowJa__vqDMgAZEeuaRWiE7Y8il1RQBNq626a9jCdY2JpdB6nYo6Kc5mgG0J1omGieuDRLYOVmceVo7qn21sqZ1aKJbQk8CA",
+      "text": "本次是配合長官時間改明天下午！"
+    },
+    "webhookEventId": "01M35V3C4HGF18DTQ8NNFEG8ZV",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790123814551,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "d76cf53b30c548eab1254ff7fb24fcbe",
+    "mode": "active"
+  }
+}
