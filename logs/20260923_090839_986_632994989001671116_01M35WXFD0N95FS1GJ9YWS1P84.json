@@ -1,0 +1,35 @@
+{
+  "EventId": "01M35WXFD0N95FS1GJ9YWS1P84",
+  "MessageId": "632994989001671116",
+  "Timestamp": "2026-09-23T01:08:38.654Z",
+  "ReceivedTime": "2026-09-23T01:08:39.986Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "MessageType": "text",
+  "MessageText": "預計何時可以到 他們說再等一下",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632994989001671116",
+      "quoteToken": "W0oL9PkqwiDI4x4QqbvoJStIdkZ6EiXgQGzPkKQUqw2lfwygt8BpYZj1dxH_3HmUYUkK97Kq3rnVQLi_Scw1ZU1TRhsiRH5yhd6AYdW8uDGGWASqYOI90CdEdwyPjVSLxQNd9gEALT2zKdlDtHoQxQ",
+      "markAsReadToken": "ZRmDrVnm-ghjtsbOqXMOk0rGUctA6jBHhEMNbRV9XaVuwJawhwk5zmHOd5aMWGD62W3p3mkZFewfkqwvWDwRY_PoOuEhKksEchlDG9zTWnuksDc0xtN7lYt4TvzrEYprTpyshiNmoY7qXxjXOXl4UId-8xIXHSj4Zsx-7sRg3vFqwflGtILxduHXHg4bnVuBK3Eiq1kAOzSaM7KsgqsqKw",
+      "text": "預計何時可以到 他們說再等一下"
+    },
+    "webhookEventId": "01M35WXFD0N95FS1GJ9YWS1P84",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790125718654,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "3b8fbd7e2b5f47f7952405db4b32a57d",
+    "mode": "active"
+  }
+}
