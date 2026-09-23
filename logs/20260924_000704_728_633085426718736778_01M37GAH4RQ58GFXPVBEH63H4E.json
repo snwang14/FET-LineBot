@@ -1,0 +1,36 @@
+{
+  "EventId": "01M37GAH4RQ58GFXPVBEH63H4E",
+  "MessageId": "633085426718736778",
+  "Timestamp": "2026-09-23T16:07:03.911Z",
+  "ReceivedTime": "2026-09-23T16:07:04.728Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U2b2b4c7ce3e093215de5a26b0f1060d1",
+  "MessageType": "text",
+  "MessageText": "明日出發前再跟您確認",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633085426718736778",
+      "quotedMessageId": "633085385949315109",
+      "quoteToken": "W-wIdvo0gQkwb9aqe9Uu8H68l9BKCoOHIYqF2kzIqcK1gDsKnx9zuFwenn0LDI9zWUCv13zajPig4uDGCIwfdN3-zF-NIEfwXHmqfo81zVPWs9Od9VmyVS8tr-Rl94qM2aFYZf947J9vKb_xovUYsg",
+      "markAsReadToken": "nkakRGsHravmCjY_TkAMrnG-T8JfugZ8Bk7_uzOOlKWgwomTkgKp5EPDddPA0QBW_aAlNcBV2ED4nQ3J5PDA_TAb7XSATSj6P8RISm_7wJ30m81dlIEOCMSfV9y0wEDOIFVHJMiBVhlF3tSmMgN5itjRsJf8-myi38-_45iKulWIx8dHROozek5-maGnNtMNBNsVWBskRGrjI9K9SiTayQ",
+      "text": "明日出發前再跟您確認"
+    },
+    "webhookEventId": "01M37GAH4RQ58GFXPVBEH63H4E",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790179623911,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2b2b4c7ce3e093215de5a26b0f1060d1"
+    },
+    "replyToken": "8122ca408b6b4d4f82c5e67f06818683",
+    "mode": "active"
+  }
+}
