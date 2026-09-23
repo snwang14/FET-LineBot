@@ -1,0 +1,35 @@
+{
+  "EventId": "01M37GFM7MH59RHFGMGAX2B23R",
+  "MessageId": "633085706478813305",
+  "Timestamp": "2026-09-23T16:09:50.584Z",
+  "ReceivedTime": "2026-09-23T16:09:51.875Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "好的 那我早上先優先處理這件事",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633085706478813305",
+      "quoteToken": "rmZ_64MHIreyxERr9qVhsjDEzfALcOW1QGDBOhMYszdEHJwfzuhOSPcyexTuHVocddIUkvQDJsyQpdghr7-0QElKjkjJU5p7D7thCOTXFXcDDWxt2F5pN0ruwvdTCP2prmZOuy9HLTjcEiaGd1tn5A",
+      "markAsReadToken": "qCCP-A46HQc1yU0HFWxMJc2og1sm-6mXzvm9o0URSp6O89ZOz97fZEEgLQlj36Sh76e8sxZwX1eKibxfNGb3fddIAn0wmtuR9PmE6vjsQ9S8MP_A8i6RycnnsZOWfMyvZPXHU-1UlninBF-zQajF1F-k7DrHUKcw_o2DobLKIAQgK4R1mKGHagqZ9kYZV4hrbx55-HashwJTu4kUdmiQkw",
+      "text": "好的 那我早上先優先處理這件事"
+    },
+    "webhookEventId": "01M37GFM7MH59RHFGMGAX2B23R",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790179790584,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "59d3036631f643e1994da520c427ad4e",
+    "mode": "active"
+  }
+}
