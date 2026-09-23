@@ -1,0 +1,35 @@
+{
+  "EventId": "01M36DPWZGT7RMM6AH1Y9E4YVA",
+  "MessageId": "633024533929919112",
+  "Timestamp": "2026-09-23T06:02:08.863Z",
+  "ReceivedTime": "2026-09-23T06:02:10.067Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "MessageType": "text",
+  "MessageText": "大概幾點？又被關心了🥲",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633024533929919112",
+      "quoteToken": "LsAVo2xcARUN0Hol_ABEEcxPRuCAeiuTV1HPkmzbs-ow5jlmfW0HrR8Tj3PYW102wxxBTw0-pvUyjm0jsO7IhNP5s-131vdNiuHOqoeVqagpnivfUydkQyoOZplI2_S5j4Ib_ZQiqkLszY4jMAMWBA",
+      "markAsReadToken": "GMrFU9jiLQOZZ0q2PcDoID21PFW-HyDWHi8dBTAgvI48VHM-vdQnoUOpU6FmYTLtGMJAo45GsCTmxReQ3oJ7AvdHNBnJB0XWzgwQrzZA4kRHHpu5BOdB5gNwNxBzIC9rSkkL-INAUpWXgrN2rvdAxYD2f0SBnd9-mtYnmue-qdW7YvTvchputhYkuZ3JS_CYz2H1B2cBMtRrnxjF-PoKAw",
+      "text": "大概幾點？又被關心了🥲"
+    },
+    "webhookEventId": "01M36DPWZGT7RMM6AH1Y9E4YVA",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790143328863,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "765a21387dd846b0a90d686b63605bb2",
+    "mode": "active"
+  }
+}
