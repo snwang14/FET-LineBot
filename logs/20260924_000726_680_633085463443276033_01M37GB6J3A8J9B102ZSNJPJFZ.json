@@ -1,0 +1,47 @@
+{
+  "EventId": "01M37GB6J3A8J9B102ZSNJPJFZ",
+  "MessageId": "633085463443276033",
+  "Timestamp": "2026-09-23T16:07:25.640Z",
+  "ReceivedTime": "2026-09-23T16:07:26.680Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "@漢 明天你們大約幾點進行呢",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633085463443276033",
+      "quotedMessageId": "633085426718736778",
+      "quoteToken": "Py9XKZvxIEQp4EOSmv6r1DYtA6VPElFKFnmJbrplPZlxDqN9UCBv4D8GNjExDra2_d_iJ4uSYpwulQ98fgsKlL2FvftuRvIM7jm0e8RqCsrlbTaboKCYYLmdpMSivj5TNohcKVA2L6DFmYFsxa62Uw",
+      "markAsReadToken": "2uckcxX_AHxgkZguEftYMjrH5p7VdsIpV44N2K2Dd9u3uo_ONAbLhSqntu311Gklt6E1U2k7jb798Q0GCgg2q2oAmDcpzP5Koh-UNFDjje8ZsSw_hkH4QkQAAE4wNdcOJGCHAT5R2aZoPZUo7LrKlh5GWQTq49MWsWwKvzNN0zVjPr53Ky-GHYlAi5YTCb7hBn_Uepgjaqw-zdu3DIDswg",
+      "text": "@漢 明天你們大約幾點進行呢",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 2,
+            "userId": "U2b2b4c7ce3e093215de5a26b0f1060d1",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M37GB6J3A8J9B102ZSNJPJFZ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790179645640,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "97d64012ba074742a6397104a8e79a11",
+    "mode": "active"
+  }
+}
