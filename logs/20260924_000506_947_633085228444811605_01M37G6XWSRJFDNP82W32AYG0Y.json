@@ -1,0 +1,35 @@
+{
+  "EventId": "01M37G6XWSRJFDNP82W32AYG0Y",
+  "MessageId": "633085228444811605",
+  "Timestamp": "2026-09-23T16:05:05.555Z",
+  "ReceivedTime": "2026-09-23T16:05:06.947Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "請問目前在外工班大約幾組",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633085228444811605",
+      "quoteToken": "VuQSQM97HtM4CXbKMvDDCh02UfMVBYX98_dwEhILfEV61cRWnvGpGl4FhpJDrxNsBsoMpCvrS8w_J-dM4-0Mlwg1FDsP4Q41zA5FwYA1EQeyxYTWg_yPu3apb_vcVnjtWFX_-S3Xiv4hMHpt0z5Iag",
+      "markAsReadToken": "GhwguF7-_fY1QmLgBmhUzTzKAl7S2FC4ODKdzNKoGQyoCYNxjWzKvQ4fHVUvgP3os7IZ0JMejVDoDpaWjwJ_f1W92vsCgRqIVFgC1RIm-sHPULT4lS36KikJuTc8E8pe2gCxX1Dj1OvmQDkQPSZ78hupRax-_EYva6JD2dcb683_6TG1xk1L0w6VzXIDiRgy3YsGmqSXT-JK5t7-iEfDIw",
+      "text": "請問目前在外工班大約幾組"
+    },
+    "webhookEventId": "01M37G6XWSRJFDNP82W32AYG0Y",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790179505555,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "76acaa9d67354ce589c86aceba07e08d",
+    "mode": "active"
+  }
+}
