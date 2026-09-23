@@ -1,0 +1,35 @@
+{
+  "EventId": "01M37EZBMTVG6RRT62HWXG5Z32",
+  "MessageId": "633083052993806576",
+  "Timestamp": "2026-09-23T15:43:28.930Z",
+  "ReceivedTime": "2026-09-23T15:43:30.274Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "麻煩私訊我帳號密碼",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633083052993806576",
+      "quoteToken": "7-zpI_6zErhSZTBV9yXb47IPDo08kEwW-YA_OydSPqkRtpMTVvg3YqN54xVUXo1yZWcxvXn_G3CfSvytJBmZX_c7eUwPfo4_j-xWH_W9bhcE24Q7i5rqj-hNNtln7CqPrG6T2AXCJ3kXK-Bo0kiCAw",
+      "markAsReadToken": "mFC5nOX_do9-zz3JcQyXPUEB2oghM8zK0bLeJxZp8TfEpzMwKZBJEjwTthlXDX_ZkDzwnvGUHeTpesXNP2uWnHx4fBRVzEAgVo3JzOAKEkfcfVV6yclx9F-ufV9Vsx3hqCKAsQ_Om5YzL2obcNSnXUwxCNFxq-kdnQjgaRVHYlraidMD9Jbl-8uB7Mzg0Rn57AF_Slr1-ajXjGNdyP2fhw",
+      "text": "麻煩私訊我帳號密碼"
+    },
+    "webhookEventId": "01M37EZBMTVG6RRT62HWXG5Z32",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790178208930,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "28d6b78dacee4b0fbab7f9c1b2abbf92",
+    "mode": "active"
+  }
+}
