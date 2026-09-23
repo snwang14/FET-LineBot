@@ -1,0 +1,37 @@
+{
+  "EventId": "01M35TA0YHSF2FQW1XNMP1KBD9",
+  "MessageId": "632990401036812901",
+  "Timestamp": "2026-09-23T00:23:04.140Z",
+  "ReceivedTime": "2026-09-23T00:23:05.118Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "MessageType": "image",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "image",
+      "id": "632990401036812901",
+      "quoteToken": "XTAEbbgxtAqN5SX8bNBY4IeGhXOf4FR7f_5Fm-FhvT1lGeTLlOBMjkpy3RDmS4WsX-iNttEckHMAYKDiixQS4QwvbMasttxhbzQJy8Hdg_l85W1YeCmaf1pefbXbO8vaUAQDMNBGInuS_IKag-6CTQ",
+      "markAsReadToken": "8XWsWKel332tNPuSDQj3litdc_Z-h7MhRD3QhFqnfzZNPk07QzkoPLtKPygtf1MOuVLpWTRRtPZMHFLyJfWr28X5EAmEF99sHSQxYj80_iEae1ncarKVnI3MTFQa4DuqGszOhQaqDAayrmb7PKTejHJMM8BjEuYtjF0nhY9-zMpgDTfrLuwmNrSAQt7FROTg9sSAiopzgFcsnTKOa8upBQ",
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M35TA0YHSF2FQW1XNMP1KBD9",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790122984140,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "19c683e97af34fb9a3f0efd1c1001563",
+    "mode": "active"
+  }
+}
