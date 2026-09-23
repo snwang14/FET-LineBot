@@ -1,0 +1,35 @@
+{
+  "EventId": "01M35V1M9MRRP0C7FT06AWM2RE",
+  "MessageId": "632991698418401763",
+  "Timestamp": "2026-09-23T00:35:57.371Z",
+  "ReceivedTime": "2026-09-23T00:35:58.495Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "MessageType": "text",
+  "MessageText": "對，路燈隊通知改的！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632991698418401763",
+      "quoteToken": "cKdzxi3LDQ_KQTGiqaDAbGEVuethv5r1c9kvDqqMXHz6d4-F_Lr7irYzE5r9EJXKFp-oe8uGHen8hG7X4reK14jtDYuKjEj6SDaxCrM0XbyukmcckScINopXn89_BSjZav1CBn7oz_dFbmsYfxZ59g",
+      "markAsReadToken": "EkY5WjQZ1wSuBjFeSaLEUT5P5Lk6w4WWBZZ-IdvbcEH-fNFlGxWeypRmBBNAklaQF8ozWBdizZ6f8R85_-wUZ-ZBTSjsM0_aVpLgcs0YtITvxq8g6kK2f28qT6MiMyKNU_f3GGjXspxBWhcTShxOVLguDr82SpA3FDd1tHVX5sJfa0ohMqySDW8Cs67pehXMPjRMpUdFK53wgobgsqaSRA",
+      "text": "對，路燈隊通知改的！"
+    },
+    "webhookEventId": "01M35V1M9MRRP0C7FT06AWM2RE",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790123757371,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "094c72c5a2904cfaa6cb1918bf0ef26e",
+    "mode": "active"
+  }
+}
