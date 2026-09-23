@@ -1,0 +1,36 @@
+{
+  "EventId": "01M37FKAWQ1QC834E8GYGETY4E",
+  "MessageId": "633084151280435473",
+  "Timestamp": "2026-09-23T15:54:23.514Z",
+  "ReceivedTime": "2026-09-23T15:54:24.738Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "MessageType": "text",
+  "MessageText": "問題2\n帳號81100056(王崇耘)，登入後點選[查看全部]\n沒有清單\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633084151280435473",
+      "quotedMessageId": "633084045751746561",
+      "quoteToken": "EHzNDTvC2IV6DXbsiwiq99nxNipwRY62m-HEbzNYqJfih-MYMFpvM-SEp-haMGRJEUu9jCNC_cLUbIPXof3IymFCKpaYzKBQuK3AbNMDhLFD0po7iwHwwaECzVnOra1cOuLzjwPaic2KwpHXKvj95Q",
+      "markAsReadToken": "Ark14dH4YWctG12NfInQ_XtFZu1HIjAaN5E2ftNytDlN1FmwRAWgScioHJg5w0pouwWYtVUKJGPLzeXd4Cec_3qyuimA0lalTePPMNNlcu5aWTnhnmkWKZq9SgT361dWsrkXgBYR_NKpGOueZ_9qKbHX4cnx7P48iw6YxRJKQpyUUUo-z8ifVUFvjyCvnxyklSvGNvWvrQwB_SIehu6qIA",
+      "text": "問題2\n帳號81100056(王崇耘)，登入後點選[查看全部]\n沒有清單\n"
+    },
+    "webhookEventId": "01M37FKAWQ1QC834E8GYGETY4E",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790178863514,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "46905520abce4299bc4ba5c018edcf34",
+    "mode": "active"
+  }
+}
