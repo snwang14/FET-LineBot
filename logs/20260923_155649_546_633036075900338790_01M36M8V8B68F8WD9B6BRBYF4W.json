@@ -1,0 +1,35 @@
+{
+  "EventId": "01M36M8V8B68F8WD9B6BRBYF4W",
+  "MessageId": "633036075900338790",
+  "Timestamp": "2026-09-23T07:56:48.408Z",
+  "ReceivedTime": "2026-09-23T07:56:49.546Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "另外掃碼手機要準確對準 QR Code 不然會掃不到",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633036075900338790",
+      "quoteToken": "KjIAnjF_cKhn0NqgedY-qUnD45hpuK_tUPs1QOvLTwswd35zldm4UAW-FCuyZDmQnbsOoRYHpJIvs8VfUlFCp39RkmAXP4z82r0fZexrxVqD007gKoANbl5X_8KAuz6lZe2QO1oehwR9jPJOA2GDlQ",
+      "markAsReadToken": "VjP-1K_X6YMuEXlYBjlERqp-dnP3z3k_ZvYcHSRLzpjjz2u3BxfkI3X-QHqJVS_Gb1Ww6NYEX0QfyhxTNCOWBOnm-sXCpq6hrQKuPz07CsBvRToYtJ9WmCI4JbcrBt3GbNyAXfMBRWf9hQYAQRncygwTDTh-_MLeyls-9lIyErFjxgs9wdKFEcS9o54lsrjgqPB6GCXT4N2pub7D3K97dQ",
+      "text": "另外掃碼手機要準確對準 QR Code 不然會掃不到"
+    },
+    "webhookEventId": "01M36M8V8B68F8WD9B6BRBYF4W",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790150208408,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "5fd97a53a4e8454f9165b3d2478ff8c8",
+    "mode": "active"
+  }
+}
