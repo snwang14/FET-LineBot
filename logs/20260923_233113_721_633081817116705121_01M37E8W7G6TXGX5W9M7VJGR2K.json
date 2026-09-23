@@ -1,0 +1,46 @@
+{
+  "EventId": "01M37E8W7G6TXGX5W9M7VJGR2K",
+  "MessageId": "633081817116705121",
+  "Timestamp": "2026-09-23T15:31:12.245Z",
+  "ReceivedTime": "2026-09-23T15:31:13.721Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "Uf67b20a12789d20059644985db821e1e",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan 工班帳戶無法登入，可以詢問嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633081817116705121",
+      "quoteToken": "s4QnvSlAOxwbj2gFaJTbbssdIIYSmfwr-ml84XO_ZOKqT4n_vUlFwvbKDLP4hK_OpYTS7awJc6dcDn2VlUrGoh1mpTSeZz7cDPqbKRj5V3MpdTtm7RZlMipT31hV0vN7FbH92Y8rMzE_gBxyAtsz6w",
+      "markAsReadToken": "qqyU3M4zxzh1aovFkTyuzga7iCOzRoGByWtcxedpgUY_AkOyUEnwtm6Ahlj4Jc238BrXpCNbHPHzbI4ioVW5cjpci531pK_zRidEOX8H2pNtuq4R_LyFD0AuFjMW5egSfEhqzLKM9-EcwgjeiVkfcsfNUBrMenk4M0m2TWF04QhcEnPj-MS5mr6IM7a0UWdAbHnK8cbuMctyfYiVWjdCyQ",
+      "text": "@林郁翔 Alan 工班帳戶無法登入，可以詢問嗎",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M37E8W7G6TXGX5W9M7VJGR2K",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790177472245,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Uf67b20a12789d20059644985db821e1e"
+    },
+    "replyToken": "9f131c711da54b20a403571b20413f81",
+    "mode": "active"
+  }
+}
