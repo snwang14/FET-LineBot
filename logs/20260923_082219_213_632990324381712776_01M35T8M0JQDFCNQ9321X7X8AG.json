@@ -1,0 +1,46 @@
+{
+  "EventId": "01M35T8M0JQDFCNQ9321X7X8AG",
+  "MessageId": "632990324381712776",
+  "Timestamp": "2026-09-23T00:22:18.319Z",
+  "ReceivedTime": "2026-09-23T00:22:19.213Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "MessageType": "text",
+  "MessageText": "@Albert-yang楊 \n楊經理早安\n請問明天(9/24)下午專案週會時間是14:30嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "632990324381712776",
+      "quoteToken": "nTfYoFpWb_KDZSNToodxZ4x0JrFqIZF6iyDPrRfP-NPmmEvPn8470VLluf-k4cm2aCWK6Uo-PDLbx71oM0QaFCRyAv8A1rYGNZaX_TW3UnNEEj9MySXKK5jrISHOQZlMPoJkW4D6S-SHD-mvMoIlag",
+      "markAsReadToken": "DNR79T9skD1tMTA8nKCH2bVcW-7_0nnSlfPAk74Z09bjCCtPhp4-Y-AcYx9AWcD2JjyGNDmYWW4wBipzK6cLNBiTkfBvHGaVti2CgCWkrLRjuELHxOGGHjTWHxEX2YiO90oHQDKDzt0pjIYvENthp_iMd8PCpzGXugwdYa6bAf6Ons0r7M4mSFu4wspkTd9zgq1ZDWFLfkeH3rDQNe2e5Q",
+      "text": "@Albert-yang楊 \n楊經理早安\n請問明天(9/24)下午專案週會時間是14:30嗎",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M35T8M0JQDFCNQ9321X7X8AG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790122938319,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "0a20997f9e3b45fd8330be2efe5040d9",
+    "mode": "active"
+  }
+}
