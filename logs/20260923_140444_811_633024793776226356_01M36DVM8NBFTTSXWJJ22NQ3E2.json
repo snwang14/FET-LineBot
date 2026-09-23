@@ -1,0 +1,35 @@
+{
+  "EventId": "01M36DVM8NBFTTSXWJJ22NQ3E2",
+  "MessageId": "633024793776226356",
+  "Timestamp": "2026-09-23T06:04:43.678Z",
+  "ReceivedTime": "2026-09-23T06:04:44.811Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "MessageType": "text",
+  "MessageText": "沒有捏~ ",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633024793776226356",
+      "quoteToken": "XhYMknZrSxYTtTU8W3Hx8nnswrc1gImb8QhIds-EABD9gAkqAvSKIFR6aaeMByg3cUG-54xZllW8rcZkCV4K9luQ4WVmhhzSxCAFviLRwmfsHKci0I7SmT6Rw5bGArOiIcxQLSxJEZLA2U6RuG1cUA",
+      "markAsReadToken": "3hHqgGUx-HVA-4MkC6OFZyfrKOlFs01Km-ZKUw2iKFX_w7Jqf14uHn10Lt3GOEAMOXQE5SqUV7nYThfkUZ9Pt9BqWkrsFoKYmE29lVzfZ1Wc5ZkT88-TIHzHfY0Orn5ypsGTrBW0CMCus2f7_i9fX3J9HoKO99BQesdsoawxR9JFaW-5IIzXLHwqaOET6j_9g-_dgy4W7Z9MjLvjBDcqEQ",
+      "text": "沒有捏~ "
+    },
+    "webhookEventId": "01M36DVM8NBFTTSXWJJ22NQ3E2",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790143483678,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "9d5646955add4946ba65950f5cdc8c4f",
+    "mode": "active"
+  }
+}
