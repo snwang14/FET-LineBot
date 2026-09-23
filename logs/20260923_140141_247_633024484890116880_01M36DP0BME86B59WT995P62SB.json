@@ -1,0 +1,35 @@
+{
+  "EventId": "01M36DP0BME86B59WT995P62SB",
+  "MessageId": "633024484890116880",
+  "Timestamp": "2026-09-23T06:01:39.776Z",
+  "ReceivedTime": "2026-09-23T06:01:41.247Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "MessageType": "text",
+  "MessageText": "我們還在路上 ….抱歉",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633024484890116880",
+      "quoteToken": "Ik1Y4GeF0h7PV3q2NpzEMtu9GPrGQYvo8hrFw1Sz0ZxqXh5wHxwg1FTN25GXadFVj_fQILRNOq2S6h-eui2Kj3V4UrS5LP0_PwpwzlGblhhhv5KjMx6sukDPWxx0YHaGc0RD4K5IAKc9GA1eJmTHGg",
+      "markAsReadToken": "8gcgJ5rA-4ZedcNQfTWNFuy04pPzRa7HEi7hlJ2Ph51Tuoabz4A3Y045bGfN7tbr6ibomV5xZ5AAw7VRp2ydjIP7N7ZAuptIfezOxawDXgInG6n0TFRwnD6-bgOrKTWs8fW5AW1r3220nqccD5925unvCCyUMP43-oBfiWHx0RxIqE-Z2sk---LHfIOmzdbUWs4OVNMbF8p6-SYMXipQBg",
+      "text": "我們還在路上 ….抱歉"
+    },
+    "webhookEventId": "01M36DP0BME86B59WT995P62SB",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790143299776,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "ded7c922165d487a9aa3fc8e076f97fe",
+    "mode": "active"
+  }
+}
