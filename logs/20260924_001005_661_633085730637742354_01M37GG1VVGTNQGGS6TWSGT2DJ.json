@@ -1,0 +1,35 @@
+{
+  "EventId": "01M37GG1VVGTNQGGS6TWSGT2DJ",
+  "MessageId": "633085730637742354",
+  "Timestamp": "2026-09-23T16:10:04.915Z",
+  "ReceivedTime": "2026-09-23T16:10:05.661Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "完成之後會通知 再麻煩了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633085730637742354",
+      "quoteToken": "BNIJtZG_uWiZm9VjbxPK-BrZ-uTPvDGU_wDTHjmSjKtjupF4VFIXYrNNGcTRuZZxxLcfiMwVYOH9TaITsbQgP2QzyXy5d4F5pYo-Q96pzXzI-mjac0nAoaaPuKGvnIdEMLealsQo6cx60SoqycBHPA",
+      "markAsReadToken": "h2EirAIF1PuJvUrPTuXYGWIG1aPJuSs-3AuuwhvSTH6OZ9H_RZvoiuzhT2wEEi42c_7m-iTW4dlScOHjSuY_W9C3_KWd7pHWJWxz4pRtIVYn47f4IvNZMk6UCw91_nWcBP_z-eko9MJE4Cy97rU2hkAUjcCsydOl6Hb9eT53qVdPfWWJh1H0C5UHzh36mQ1mkWQkq-vHyUUnpj9F1cFOHw",
+      "text": "完成之後會通知 再麻煩了"
+    },
+    "webhookEventId": "01M37GG1VVGTNQGGS6TWSGT2DJ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790179804915,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "c1e7deef16bc456399cc1188e0d2b97f",
+    "mode": "active"
+  }
+}
