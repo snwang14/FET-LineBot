@@ -1,0 +1,35 @@
+{
+  "EventId": "01M37G5PPJ98RMKNGYZGT3SRPA",
+  "MessageId": "633085161134620792",
+  "Timestamp": "2026-09-23T16:04:25.430Z",
+  "ReceivedTime": "2026-09-23T16:04:27.031Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "Uf67b20a12789d20059644985db821e1e",
+  "MessageType": "text",
+  "MessageText": "可登入",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633085161134620792",
+      "quoteToken": "cD3RSYCu5IFQm4A-IRaPHuI8-vKGe1TcpbDhQKi_tFYnXUTVcvhnHSCUWDEo_fRdgcp_VjrzqHhzmzuZdu9nQm1AO70JNuH_eqSbLE_4uT57DSQ-HrEhvQTCGn4pfdaYAYYHEMfp90FC0oxGwcOyyQ",
+      "markAsReadToken": "h1qWz663HcGAvlz62Gn1vA_D2zqzGKIKqpxAU-9B3gwuoN2BG3lzo_y9nWbnkx1dUT6eWVpGwQMe3m9-EAjzJ279QRX13G8Nu0sGQghNihWXJtRRdke7-GQ7bYYSoCGKxF4y9fbE9ojaIF_3Yw2ScE2T5ks-UbPPpc1zmuzRc2sm_p4IAFhHeR5HauEp_D4k3k4D19szv8L9F2H_E6getg",
+      "text": "可登入"
+    },
+    "webhookEventId": "01M37G5PPJ98RMKNGYZGT3SRPA",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790179465430,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Uf67b20a12789d20059644985db821e1e"
+    },
+    "replyToken": "d1ec4361727049838a04cf8741bb9fd9",
+    "mode": "active"
+  }
+}
