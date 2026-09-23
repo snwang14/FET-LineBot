@@ -1,0 +1,36 @@
+{
+  "EventId": "01M37GA4FT0ETV6T6KP0SEPGJ1",
+  "MessageId": "633085404488400916",
+  "Timestamp": "2026-09-23T16:06:50.623Z",
+  "ReceivedTime": "2026-09-23T16:06:51.809Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "For 今天狀況臨時使用的",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633085404488400916",
+      "quotedMessageId": "633085362125668731",
+      "quoteToken": "yRXK3lisfGib4YmxSBStIg-VO9BYqDUxxA4JY_eOxsSOUb2pI0B54QuGhteKFgTOtKqJTn48Cky_RoMpc62p4z8yNbMrD9ZCSiQ2HU5wRGSZOcQQvVHLN3UOG-GdVZhVUrQ1lwVzqpagPvIqSLDh8A",
+      "markAsReadToken": "-1MqyFbvba8ARLxpIA-3fJhfjuhQIGhgqIzzsCUZAj1Zn6sc-N_EUbPsmNNfzQ-mb4wqSpYwJuluW4DMiQg36A128f0ZvERusL59rBRJpicw8r0e2Sj6oe2KFOt189VtEBBAUuLZ4g1GEL9Pf_soPaoiOhnTP7eD0oKCt7bFUGflXXTfAt3jVJJZolGNiMRaAXwyMRPLHm0lsI-qinirzQ",
+      "text": "For 今天狀況臨時使用的"
+    },
+    "webhookEventId": "01M37GA4FT0ETV6T6KP0SEPGJ1",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790179610623,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "dd6d1b49c6df448b8006d492c7e7ad41",
+    "mode": "active"
+  }
+}
