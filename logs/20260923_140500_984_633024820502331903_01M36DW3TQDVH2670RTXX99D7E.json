@@ -1,0 +1,35 @@
+{
+  "EventId": "01M36DW3TQDVH2670RTXX99D7E",
+  "MessageId": "633024820502331903",
+  "Timestamp": "2026-09-23T06:04:59.617Z",
+  "ReceivedTime": "2026-09-23T06:05:00.984Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "MessageType": "text",
+  "MessageText": "現在路燈隊的也到ㄌ~",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633024820502331903",
+      "quoteToken": "1nYo6MR5uLFuk--uHQ7blAVpOs1sYCB8do0R5ukeniYSIooJ9h2FYXkh_z-G9NwE01pu_ldlsmGBwniN_Y4ujNFA-MhOIe407m3kaKS2gJwwM0iSg4AuMJtmwUg_DSFkzc7MMFTvBeVLNia9vqOo1g",
+      "markAsReadToken": "P0AD-lYqCC3s0-7tC4O0JVmwQ2YW9y4H5vMylQkckYnXtgLDkgAQWsRhdW5Zq7lIwulgRsUhP_FrlGQOdo3iAwN8-APXGSANswUJBywUJNaW7kZiOXe78Z47Rm7dLFWQUOyK8_Bhe6l4cKDsFFO8n_xRXUqFUfne49snLdlbN-8_MKHUtIcrUuUkSsOZ7_eEBz5OEPGlRcc0-CXiI_RmSw",
+      "text": "現在路燈隊的也到ㄌ~"
+    },
+    "webhookEventId": "01M36DW3TQDVH2670RTXX99D7E",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790143499617,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "c8ed985d3e2548f9ba821e0a7aadf86c",
+    "mode": "active"
+  }
+}
