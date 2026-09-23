@@ -1,0 +1,44 @@
+{
+  "EventId": "01M36DJSD8S4KM41HS0YG1N4WA",
+  "MessageId": "633024307521913466",
+  "Timestamp": "2026-09-23T05:59:54.032Z",
+  "ReceivedTime": "2026-09-23T05:59:55.265Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "MessageType": "text",
+  "MessageText": "@All 下午有誰會到嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633024307521913466",
+      "quoteToken": "9fCjeRGxfDFlhGCeyq7jZZdBDraTYYfszrXsN_O8MVw3pDAS6_oZVi2flJU5cdCeq9riBb6zD6oKyjbr5VwUScr3MF61wOgl1wg3ySRsqK4IGUd4peLXlAT1oNLFvbKEMIlM6GKoab7TfrAEz6mfPg",
+      "markAsReadToken": "yZYDpPR0jL3h8bhqHyokalTJfYOiFD0ovx-ApvqlAu9rrVoqITbV4NrZye0YcjV2LUe0RUant67K2lX29Qqfs_VEafFpkoUB4iHXlVWylZhWopXxta2zWFlVCEJr82iY6Ig1hHNbYUMoT9zJpPO9V2W6CdVovPB7UsBdvEKdegtUAIp2Mr6XF1UaaYc1unvmMxpb_CE20tEa2ldL_7kIzQ",
+      "text": "@All 下午有誰會到嗎",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M36DJSD8S4KM41HS0YG1N4WA",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790143194032,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "80dd5625b5554203b60bd97db4b688d8",
+    "mode": "active"
+  }
+}
