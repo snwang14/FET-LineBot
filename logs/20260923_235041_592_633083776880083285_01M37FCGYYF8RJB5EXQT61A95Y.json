@@ -1,0 +1,35 @@
+{
+  "EventId": "01M37FCGYYF8RJB5EXQT61A95Y",
+  "MessageId": "633083776880083285",
+  "Timestamp": "2026-09-23T15:50:40.353Z",
+  "ReceivedTime": "2026-09-23T15:50:41.592Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "這些帳號並沒有創建",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633083776880083285",
+      "quoteToken": "TFPfaA0invR7Y3G2ygCNxbjpj7g9nrY1c_Nex2dkv28zpA5MbDmHtCNLXXCvL7tNOnyq-GYllh0eXbPGguTj19DLYSZiZzRDNhy502Gcnn990jCTMYHLs3BjSgY9TtWQVYkLyClQJpoHrvdm5axDVA",
+      "markAsReadToken": "yWm3Luo9MG91MLqFe9QtqHYtP7u8-kITqNMYgcpzx-Azt3YCM2hydTrGptA4mIhCMha8wTBU4xpIyaLL34TtxheR9BgzU7MphbM4ct1z1ZRKGMEyGD9Uiix_Bq0RNEsWPNqiMf6ti3xx_NbNKIzIynebqyfc2c8mPP4YmhyD31rATr3aLp6t6Tals8IwGzDKfTSV-WqxGSdauBei4vV8-A",
+      "text": "這些帳號並沒有創建"
+    },
+    "webhookEventId": "01M37FCGYYF8RJB5EXQT61A95Y",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790178640353,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "552fd56d07394ff8a4d7985b066ea4f1",
+    "mode": "active"
+  }
+}
