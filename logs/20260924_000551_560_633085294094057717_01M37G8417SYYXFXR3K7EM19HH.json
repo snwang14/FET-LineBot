@@ -1,0 +1,36 @@
+{
+  "EventId": "01M37G8417SYYXFXR3K7EM19HH",
+  "MessageId": "633085294094057717",
+  "Timestamp": "2026-09-23T16:05:44.840Z",
+  "ReceivedTime": "2026-09-23T16:05:51.560Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U2b2b4c7ce3e093215de5a26b0f1060d1",
+  "MessageType": "text",
+  "MessageText": "請問我明天要換裝的工班也是用這組嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633085294094057717",
+      "quotedMessageId": "633085032017691034",
+      "quoteToken": "CZoR1KwYXaWfFA_bMz2xLDyP-XpRXpFB2q59cUVUrAFHVX3LjPBsgxHCB5X7oJFj-rPJH6qlvtmL-phtm0N05QfwQ1Hr8OyxTWcaQYiFjYepON0IQ8Z9lShsKqybTyjq3cQkohhAfsbcxsOr1Szcng",
+      "markAsReadToken": "yvRD9IGpeZJoY5JTj7kfhFRZDq6zYDlixuBD5SOk8nYEMn8QDFC1CVpyRdWEYvrZd8uUsa3PzaOSaJWXGQ4LH_oSuHH5JcPGoBmOe55DdZTIZo5ILPq3YWfkS2KBsmdO7gyohawXXdWRO5ciK8gqOcNCc9U_PwGKiFh-vW89iSm9ZI8kyV4dNHEBNDdTVfqq63brbb7SzEi8RkmiK4eXNg",
+      "text": "請問我明天要換裝的工班也是用這組嗎"
+    },
+    "webhookEventId": "01M37G8417SYYXFXR3K7EM19HH",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790179544840,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2b2b4c7ce3e093215de5a26b0f1060d1"
+    },
+    "replyToken": "a77266bb744849e38bb20fcde736db49",
+    "mode": "active"
+  }
+}
