@@ -1,0 +1,35 @@
+{
+  "EventId": "01M37FDGZ7XTHQSP6SR58KR9CT",
+  "MessageId": "633083831557030238",
+  "Timestamp": "2026-09-23T15:51:13.136Z",
+  "ReceivedTime": "2026-09-23T15:51:14.533Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "我確認一下",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633083831557030238",
+      "quoteToken": "EQ-gwYsRw2espgGGdNQHADyDoOfKlUYg66mrq4c83fOc-pPdmgosQ5EvUKZET6Q45uSfs1xz484oe8tq6FzENrleJSjbwxPcuViJ2XYSc8g7xB10cPXiL04oWSh1nRGX8V7YOvaYJ-GBZQ5zGA0HFw",
+      "markAsReadToken": "iWhr5REXfvZsuLvvyha2M3UUSiuKg6kiPe41tV8L70hQYSP7S_Y3qqCXPjW-q3DkD6NOFPk-5RdmF4U7yh_PeZKVku8R0aYP0nmBVMgr6g5QSHa2tlP7xdG8lBKJQ0JfvYrAYD1gIf6CedS-NAFiEg_AdT3717mKBOUbDc2HXGgXLhrJpbgQNZpvam4Hu8nA2u5F90p7Y6-Bb6vVKXOxkw",
+      "text": "我確認一下"
+    },
+    "webhookEventId": "01M37FDGZ7XTHQSP6SR58KR9CT",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790178673136,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "168829a527a94a039f0f0595e79de0c8",
+    "mode": "active"
+  }
+}
