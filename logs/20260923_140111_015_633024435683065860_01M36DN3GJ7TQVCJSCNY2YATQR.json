@@ -1,0 +1,35 @@
+{
+  "EventId": "01M36DN3GJ7TQVCJSCNY2YATQR",
+  "MessageId": "633024435683065860",
+  "Timestamp": "2026-09-23T06:01:10.383Z",
+  "ReceivedTime": "2026-09-23T06:01:11.015Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "MessageType": "text",
+  "MessageText": "Ivy跟富鴻網同仁會到",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633024435683065860",
+      "quoteToken": "XDKVGA2j0d4d9sPNPVvt05iI6C70HVfvNuqleI3llg9WFaNvIS4Ue-nMQN79-GFxXpeaEshl74BF9Ly__SxZ0cBHEk7FqIkpJmF07NEKaLEDnLz3dnnN5oMFZTza5A7zc_7SE-to_NTyKokjG1M46g",
+      "markAsReadToken": "1QUHBuTViFgodRgQkQKLAt5eFQjI52R3CzcHhB1SeEFPSFbLr6UccVVEY-SnC3EOQbaoQvhLl_pan7NOlwlYTcXqiNoKpZd_U93SMaF80wAnOnxEYVxCKq0HwlH3U_2oOT9NtqqCESIGGRBb1GtGiS4hZCEODg8Yw9Lc9YwriXihEMV9OHVOjY1trQJyUjKdx7EOjmle3VN7DxtYZFfDXA",
+      "text": "Ivy跟富鴻網同仁會到"
+    },
+    "webhookEventId": "01M36DN3GJ7TQVCJSCNY2YATQR",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790143270383,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "d42e5a6366e34051aeca27ed63858629",
+    "mode": "active"
+  }
+}
