@@ -1,0 +1,36 @@
+{
+  "EventId": "01M36DV27TRQ8VXXDTFC7MMRZQ",
+  "MessageId": "633024762637189570",
+  "Timestamp": "2026-09-23T06:04:25.214Z",
+  "ReceivedTime": "2026-09-23T06:04:26.403Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "MessageType": "text",
+  "MessageText": "應該有2位已經到了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633024762637189570",
+      "quotedMessageId": "633024420667719904",
+      "quoteToken": "A5H2I5tn4m5GWVxI88eY49sluj0wpKZTgUnBDvJZ2MDJlbcARbOLfi194CdjNHBCLQ3v8uaN1xiXCcmyJGoYApWGKzM4sxRjvYhZm0Bk4-lJ6axvoyldDmMx1v-FdSVReURao5EjWC9MW1wNRLPxnA",
+      "markAsReadToken": "40Xocuitjp2a6BvO8_dKjQTOi1k87xeH8g10WUw8CD4d3gtpBBX62efVigUxt70KWxlYtn-U0DJgw4YIcI3EZjDMWKapIz7W3NtsouNOCEmQJxc5uaWp-h0uqRsxQ_l8TEEemIbZP0LvWgJCLLfBPZupCY9EqTkVSdj5cOhagRaWKKPD_sd36r4-D4kvDnoNlLb8Chwc7S1g6jNiL81chQ",
+      "text": "應該有2位已經到了"
+    },
+    "webhookEventId": "01M36DV27TRQ8VXXDTFC7MMRZQ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790143465214,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "c97085fccf8243f4a06516650d392d90",
+    "mode": "active"
+  }
+}
