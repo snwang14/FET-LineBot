@@ -1,0 +1,36 @@
+{
+  "EventId": "01M37FMN9SX3CSKF9P1EMY0W88",
+  "MessageId": "633084224143884480",
+  "Timestamp": "2026-09-23T15:55:06.942Z",
+  "ReceivedTime": "2026-09-23T15:55:08.218Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "MessageType": "text",
+  "MessageText": "現在反應的帳號\n是之前提供的帳號清單哦",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633084224143884480",
+      "quotedMessageId": "633083776880083285",
+      "quoteToken": "ShEzfo2_G8SNfglgIqVXv11GrrN06Fr-b9s3nCz4XF5soZhh3viQZIlQL4QiRpxGold02jVMGvTidNvhF7WzrC_67zZMJdX2UYcwgGecFA5ghQFPzPpX-8YEDTRC4cVnUyFC1vvfshlyoW65f8Lvhw",
+      "markAsReadToken": "NEk0nOewABh6DqBSuOCW8XhUmGSJWItnsuv6AeuApSTsR8GJ6q5IAkxbPAO3SGLmqcQfIW-lkSDdC5fInEOBcIGPJF_0l1HpEiFQi2ohM8lchoIUs3ypB17NZhjpSfKw4THmcO0zkumbOXWKj8WVOPt_Ja2kXkYmW6p2C7JQOG55LlCpG-9T-S7vYb_dD_6sYzYAnf-hwSrJ2ev6ZHzOHA",
+      "text": "現在反應的帳號\n是之前提供的帳號清單哦"
+    },
+    "webhookEventId": "01M37FMN9SX3CSKF9P1EMY0W88",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790178906942,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "b825dc14da8c4356aa0c61697f2241b5",
+    "mode": "active"
+  }
+}
