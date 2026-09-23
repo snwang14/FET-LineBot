@@ -1,0 +1,35 @@
+{
+  "EventId": "01M37G9SDR5AKDHA8H2XR2V9ZS",
+  "MessageId": "633085385949315109",
+  "Timestamp": "2026-09-23T16:06:39.443Z",
+  "ReceivedTime": "2026-09-23T16:06:40.329Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "我這邊確認後沒問題 再麻煩妳們出發前先登入確認看看",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633085385949315109",
+      "quoteToken": "ak96__gGeIuq6akh2xfBqJ2u8Yi1Wd3BQZd0Lc3OZRqad1fkWiFco-ujEwYbBsv51a9iQxTj-gWlncNk6MC_vDtI2FWiaiRJo3lt65cahEs0XK72KZs9jHf7dzeEoWW4C6iQp8MuktGf6EWnNSs3ig",
+      "markAsReadToken": "Vjqut-JxBNlAEru5zzK6DE2KVOv0g6c5wY4FX4fLeCCqjtfBSstGb4iIDd7p5cM15Wy8Zhdixs3YxGwOCT_DY9PR0pP4B0kYRSLUEXjqG4nm8aG92jgt5UkXg56oi-PmY47gFwF94v_wwpLfWsLJsI2-7KJD7_W_PiWgnc8xq-AUGqg6-ie7_Qb3XgRhSCIqDHlZLAZxH09iMP62SQIqmQ",
+      "text": "我這邊確認後沒問題 再麻煩妳們出發前先登入確認看看"
+    },
+    "webhookEventId": "01M37G9SDR5AKDHA8H2XR2V9ZS",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790179599443,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "e0ad080e907045d39f22219abcae9624",
+    "mode": "active"
+  }
+}
