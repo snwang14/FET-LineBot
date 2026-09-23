@@ -1,0 +1,36 @@
+{
+  "EventId": "01M37FGB58M82VC5XVMR7HJ0M8",
+  "MessageId": "633083986813387046",
+  "Timestamp": "2026-09-23T15:52:45.483Z",
+  "ReceivedTime": "2026-09-23T15:52:46.817Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "MessageType": "text",
+  "MessageText": "問題1\n帳號yunyuan02無法登入\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633083986813387046",
+      "quotedMessageId": "633082896043212819",
+      "quoteToken": "C0RlSI1FnNp0p6kVvC_xmRljs5sUeXHzXHBziQ9WZyn_lCJtKJ-cey7bpu566Cy5bqKzR1BaCFpbPJ3mEmfF5Xhp9FxkI30unR5f2hFrgB0OxHEqdRrZ-E6ukSkYmun4r4Efb2rg1siVTW3e2IjbnQ",
+      "markAsReadToken": "sYHsnl3BlK0sFFuEjL8dHzVjy5_OL_oM2ex36uotTIjBU5dDX8GswtT7_eoemf2gU9OCJVfScBOLUfqftLB_RG4uoFFKfRiHbS-jrWxXPANsqgiJCI2TSlyH3sDoNofaNAwSDUKyXj5GqvdBl0Mvs5iEnfMNAA2qgRVSSC7FU9kpNTXrYiAy2SG4vV8EZCdyd0mxE_F_e0sMaS_79Xl27A",
+      "text": "問題1\n帳號yunyuan02無法登入\n"
+    },
+    "webhookEventId": "01M37FGB58M82VC5XVMR7HJ0M8",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790178765483,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "19ceb3fb0c5940c2864014dceb2779b2",
+    "mode": "active"
+  }
+}
