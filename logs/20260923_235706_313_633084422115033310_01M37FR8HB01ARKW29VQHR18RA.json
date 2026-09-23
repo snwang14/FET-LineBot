@@ -1,0 +1,35 @@
+{
+  "EventId": "01M37FR8HB01ARKW29VQHR18RA",
+  "MessageId": "633084422115033310",
+  "Timestamp": "2026-09-23T15:57:04.943Z",
+  "ReceivedTime": "2026-09-23T15:57:06.313Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "MessageType": "text",
+  "MessageText": "我們同仁現在在現場\n不好意思，可以現在先幫忙新增此帳號嗎(yunyuan02)",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633084422115033310",
+      "quoteToken": "xScRFuEicLEOw0o4GVTIDa-HYXV60z0lMb1DrxXXBAX2KB4hz00UZlXkEG9WO3apAkJaTZzdSeWJL5UXz8WrvQVNneJmFgCMkBy_zC3tLPLhFHzJboLi5XLDa-k-Yqf5s4L6T4e2taSPgi_O_6lgAQ",
+      "markAsReadToken": "fh8o2p08yulu3FlGETvfuv3wizeO9jm5XbVXyYB61x2IhpAr9rsUUQWY0_Uyf8pVbUltnRM_EMwkWCmhOimUTd-t5-PBWuv2PxBjjVPFA8vs7xrCBYI9ZJ5TyNCIgdVdiEsu5h8SVVag_cEdKFIaqtL4c3Lqrxeo5NBgyMmQOrAU6g1xJ0EuwLQ7iDgySmr_2cRjYFeKkauGGnB9IgB-_g",
+      "text": "我們同仁現在在現場\n不好意思，可以現在先幫忙新增此帳號嗎(yunyuan02)"
+    },
+    "webhookEventId": "01M37FR8HB01ARKW29VQHR18RA",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790179024943,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "f5dabb137c4c4944b7907a4d38dcdac5",
+    "mode": "active"
+  }
+}
