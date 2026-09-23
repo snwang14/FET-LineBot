@@ -1,0 +1,35 @@
+{
+  "EventId": "01M37GJ8NG24A8XNNKGJQHR9DF",
+  "MessageId": "633085851718385665",
+  "Timestamp": "2026-09-23T16:11:17.048Z",
+  "ReceivedTime": "2026-09-23T16:11:18.255Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "辛苦工班同仁了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633085851718385665",
+      "quoteToken": "pIVGUMsAjRP9Z2rmxnSpgriP0sY958MOMB1Zv53Q_B-Ca9RwLo0eaodYbaqljIjHFoejfvWioeg8nKMEcaKW4g8K1V6vi_kfqTQMyn2owTQsXDbW1muSSmk0IeMV2zHfiMGQEJ5l9X19QsvO4mU-NQ",
+      "markAsReadToken": "0mdil74eW_MqslqZbKrKmkzWHewykjv112l0simQvgtqH2hccaK0gfKIoDHkELX2YXF882mfbomvfQxsQPwOffDPwDbgMdMNYDC4RFv9VwpEGzZFvzNfveo4cFibcu0z_sn-7sT_tTJGRU5iyHtfOOztitaFOPB0F2XSsVq67sr07581egPxrtLWpNXgLNuc1t81Z1lUf7ZilVe3l6cVmA",
+      "text": "辛苦工班同仁了"
+    },
+    "webhookEventId": "01M37GJ8NG24A8XNNKGJQHR9DF",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790179877048,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "0978dda832f94205b951db4ee80d8ae5",
+    "mode": "active"
+  }
+}
