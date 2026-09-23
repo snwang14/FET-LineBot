@@ -1,0 +1,35 @@
+{
+  "EventId": "01M36DMV4GA4P9SPKPH7KWNYZ3",
+  "MessageId": "633024420667719904",
+  "Timestamp": "2026-09-23T06:01:01.357Z",
+  "ReceivedTime": "2026-09-23T06:01:02.632Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "MessageType": "text",
+  "MessageText": "工班 行政 相關人員會到嗎？億光又都到了😖",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633024420667719904",
+      "quoteToken": "rLF67k4pdDGiKZxT02-9nfR0lGIbm2WdHBkW-pPkWVgvfkYMKhyLmbvmar3pyvxDNjWX5-pDg3gy95JlPLB9JaoURUpEuZQgUcleOVA66-dWx7OYMh_P05SxdgHRzkYJW5fPHjPiuRZIeJ44k-CcqA",
+      "markAsReadToken": "XooaVX5z-hngKoO8bffDNGPSN31-5Jkmlj-ZgKWmqGkuFU_MR1dwKnweOBH7tMurw3BM8N-r_qvjMfRBEikNdp6uQ2YnMYAiCmc9LEvooL0yCaNtZtB1e1eEJlY0nUg__u8yOdxRm5vSwHyBulxtTf0qL5fjvx8S98GzUOVgLH-c39EProy6BpI20naXAPSDYXD_JY2YOKrR3GKqV-srLQ",
+      "text": "工班 行政 相關人員會到嗎？億光又都到了😖"
+    },
+    "webhookEventId": "01M36DMV4GA4P9SPKPH7KWNYZ3",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790143261357,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "518c038e2ad2492b8ae60be433c41ab2",
+    "mode": "active"
+  }
+}
