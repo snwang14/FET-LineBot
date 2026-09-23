@@ -1,0 +1,35 @@
+{
+  "EventId": "01M37G3SAZF48SDZ32GXXFX24Y",
+  "MessageId": "633085055723372630",
+  "Timestamp": "2026-09-23T16:03:22.599Z",
+  "ReceivedTime": "2026-09-23T16:03:23.968Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "請現場工班都先以這一組帳號進行",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633085055723372630",
+      "quoteToken": "VPP_450pvVVobWRKoDqdCFNXylpikJzcIYnhR0E6FS85UH_rpimqCV2F1ekEqorPXle2BwXBW6OUQ-RbchYiProhRKNRy1QqJuqsmhDwHpDnpTkGdAw_06KesiSsQz2eJKzgFaMlMt9LIzBJuO_ylg",
+      "markAsReadToken": "pA4LrhGldDjnH2NdJGpm9SGgyGEC1Pu5QxBjWCKZsdMb-avlyPi7QOjh2StDhW4DKda6Ae79xKxt8mNaxQpW3bWI099CqqNlDUaG9RmG6-GKvCvrFxSbWGmAG2zGlzDjwsHe07MN7ViBGBF8c9HX6Q8etr5fD5oS3Swyq6b4VXExEHUUPmuoGv-77S-3Tq3b-ow3hUPnedM9xCVxjvhZ2Q",
+      "text": "請現場工班都先以這一組帳號進行"
+    },
+    "webhookEventId": "01M37G3SAZF48SDZ32GXXFX24Y",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790179402599,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "fcb273f8bf5242bf8ce96cb60492999f",
+    "mode": "active"
+  }
+}
