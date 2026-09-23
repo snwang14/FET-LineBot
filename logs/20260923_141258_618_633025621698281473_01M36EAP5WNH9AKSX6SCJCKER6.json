@@ -1,0 +1,35 @@
+{
+  "EventId": "01M36EAP5WNH9AKSX6SCJCKER6",
+  "MessageId": "633025621698281473",
+  "Timestamp": "2026-09-23T06:12:57.158Z",
+  "ReceivedTime": "2026-09-23T06:12:58.618Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "MessageType": "text",
+  "MessageText": "已經開始了  到時候直接進來 第三會議室喔~",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633025621698281473",
+      "quoteToken": "vYxxzk5LnQRWE5fQ8aO150gkvNC-XISAa2pJ58_kANwwMzyES9aidZ5Jr6ipiV243gkn0pT8KV_T8qbsU6hAEM3KdG2ZlLjuxDOI6wzY6gFPMrKyDtJOXiM2mwGb60hOpOZuhUhDdbQ5OHrQjH6IIA",
+      "markAsReadToken": "xyqCZpqTGgx5pcsXps8JOw8WQdjvyRexGVYQURYfag6emBjGfLjPeFcZhXlF381DGeGotwnRjg73vcI8i7wDNULOIBXJ3EDuxbMS29uADv5kGKfdV5rHxPTCQBXzoxNE54iwS4qtNBA_Ycp2T6qH3W8g5N9U9_AQlZdUXMKb_WR4KL8FsUYpIIAAaqdAZrXNac27Lueal-_h1pTvsighCw",
+      "text": "已經開始了  到時候直接進來 第三會議室喔~"
+    },
+    "webhookEventId": "01M36EAP5WNH9AKSX6SCJCKER6",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790143977158,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "77ad90dc11414ea5abde191309852dd0",
+    "mode": "active"
+  }
+}
