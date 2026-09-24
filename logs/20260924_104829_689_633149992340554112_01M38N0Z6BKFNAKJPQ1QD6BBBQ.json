@@ -1,0 +1,37 @@
+{
+  "EventId": "01M38N0Z6BKFNAKJPQ1QD6BBBQ",
+  "MessageId": "633149992340554112",
+  "Timestamp": "2026-09-24T02:48:27.992Z",
+  "ReceivedTime": "2026-09-24T02:48:29.689Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "請問只驗測 網頁版 是否可登入\n這樣可以嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633149992340554112",
+      "quoteToken": "zlbz6reDdiOS5bSSbQQmrc0yVNf5ZPkNegtEHAe51MAGNk7mWdp4qnjd3zocOgjiBlLlTt0pA1Jh2UvmkU0gl3UEtTMSNlEGuHHm8TgFBzUe9rXKKzpkcCRnMBTi7LcTJjarZb828CAJS29AvXaDFA",
+      "markAsReadToken": "Ap1Qw-dvr27rLEoE1416k_rMDQK5TTm4qXWTjxXNMIrV0VV31lC8hUeuNB3VVzgdiFDTg2nAoQtcHPUShZnge1FA488GF5iXL0qb3-MQ5UL2L0odGcIehpEfOJ4DHvCaROlMh_ymv5ncdELwpDCBvLtFV7YkcI5odjGB7wdvQ2PjgrmdJBk3PzrDfCaQHwVZOtYCudH2I2Ii6D__uNOJaw",
+      "text": "請問只驗測 網頁版 是否可登入\n這樣可以嗎"
+    },
+    "webhookEventId": "01M38N0Z6BKFNAKJPQ1QD6BBBQ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790218107992,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "634f118feef1405eb8f09d81272a85be",
+    "mode": "active"
+  }
+}
