@@ -1,0 +1,38 @@
+{
+  "EventId": "01M39H5WQBFNWTGMW27MEPQB1W",
+  "MessageId": "633199521081852263",
+  "Timestamp": "2026-09-24T11:00:29.292Z",
+  "ReceivedTime": "2026-09-24T11:00:30.257Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "另外這邊提供給 iOS 裝置的同仁網頁版的換裝位置，按鈕點下後，操作流程就都和 App 相同，同樣也有時間相機會印製浮水印",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633199521081852263",
+      "quotedMessageId": "633198635026219612",
+      "quoteToken": "0DlVPBOmeursxv4E6_3eeNfTdnzfh6PxSTceUoIXzg8AiL7wuFBXvTTNBmNc6IWM4qeGvDCxf0DKFbpunKrqoTp80ONxmqjQAWRH-v2Xl6xK0bG0HETHf7h5zpv0vTHO89HNJMeiKrAQ-PNIYtqlgg",
+      "markAsReadToken": "3QHUsIgS5ShbzX4T3GJzZmdeslof2y9ggPUK51B7QBxBQaZU3muQGq-aVd4zmVYt6I1wPhVQvERS7wVyWDxmY_Bd4aPVkOCTSo26z5HcrNUnhACidY8g7ErvrX7S7_XLHld1whgIiHY86mCX9f7COZPRvCNPDWrjWoykRDciG-cfclyU9fj9dPvRSdDa9UPt9ViZL-hDkFzQlXleQ-tucg",
+      "text": "另外這邊提供給 iOS 裝置的同仁網頁版的換裝位置，按鈕點下後，操作流程就都和 App 相同，同樣也有時間相機會印製浮水印"
+    },
+    "webhookEventId": "01M39H5WQBFNWTGMW27MEPQB1W",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790247629292,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "bc19f3cc5edf43d9b04a769a5bd9e4cf",
+    "mode": "active"
+  }
+}
