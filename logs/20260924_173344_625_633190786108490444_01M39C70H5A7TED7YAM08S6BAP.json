@@ -1,0 +1,37 @@
+{
+  "EventId": "01M39C70H5A7TED7YAM08S6BAP",
+  "MessageId": "633190786108490444",
+  "Timestamp": "2026-09-24T09:33:42.826Z",
+  "ReceivedTime": "2026-09-24T09:33:44.625Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "請問目前除了平台計畫書外，還有我們這邊需要協助報告的事項嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633190786108490444",
+      "quoteToken": "BVAcmrasker_ETW2xO3XweRJfcy930wa6Vj_EuZ5cg5RrNXcXkXHC-A-oSb7Uohhcn3gBj7A1WoJbNw7TzEGylnCTxoBjrhQTEQMCa388WjwD592TgIXCVT31vqA_2SGaeQjikuWfCsPvyTJnCKkLQ",
+      "markAsReadToken": "RBVtRnl9qm1G55lt-RESDtWLIatWrjTRzi2QdNALTCcqP7CxNP4n2a2onyU537Pg9HMIykpZENc54LFWxBq4Hn5XfbAdGJn-hcnwJEotIy2mWnRDi1FXwB9WgLvMOqvpJJeJ2jrTeUMKLLDXKKIPDH3BOsvd0sik-x9yRoIgqo4N35r6ENl0PgpOwMRUQtHHYQxD4r1bzt2Jk_2rLabSbg",
+      "text": "請問目前除了平台計畫書外，還有我們這邊需要協助報告的事項嗎"
+    },
+    "webhookEventId": "01M39C70H5A7TED7YAM08S6BAP",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790242422826,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "d6f545e4f677452b86e656ab3b98aeb0",
+    "mode": "active"
+  }
+}
