@@ -1,0 +1,48 @@
+{
+  "EventId": "01M39DBZ448R2CHY410X7P8WR3",
+  "MessageId": "633192817862639842",
+  "Timestamp": "2026-09-24T09:53:54.008Z",
+  "ReceivedTime": "2026-09-24T09:53:55.132Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@Zhen-Ru Liu 需要麻煩你幫我確認下 我目前這邊登入正常",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633192817862639842",
+      "quoteToken": "EI8SNOtq0OwD9FPcClROzO3JYh3AdtFs90RXIh0JwS_LAG7p0bJD4uTnVl19AbCmv-c1M5sa4EbQhs4k-TFcD6vUJHmYINyl2y5BVDAgXpGqDjkfQWdo1CvGrRkhAfB8SrrO_oNdTd1vuRq1jjkbNw",
+      "markAsReadToken": "6SnhCCEuFoIjGJxLJp4xgE1l0cqeA0d50lqc02zF75ZgxtbF13OsdmajrJFcmjSBx89721k4rvJyUsLVfumoPm1D2Z9yUBn1VS-ofHcmk1PNc1FsGN0mfDtXEhsjKSX1gE6wMDjnp9dWybnoZhpf1hvOtn2wEphspr2PQzuaDI_unMlnaqLWpuahSGNj4MfkqcwoWxzJOqt6ddul4KctRA",
+      "text": "@Zhen-Ru Liu 需要麻煩你幫我確認下 我目前這邊登入正常",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 12,
+            "userId": "Ucaf3942f9bd1387c753bcc4791fb1ab8",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M39DBZ448R2CHY410X7P8WR3",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790243634008,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "460a097650794204a6102245e0030d78",
+    "mode": "active"
+  }
+}
