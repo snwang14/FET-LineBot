@@ -1,0 +1,38 @@
+{
+  "EventId": "01M38NMTZ6N88HR2PA04RJJYG6",
+  "MessageId": "633151084605210761",
+  "Timestamp": "2026-09-24T02:59:18.880Z",
+  "ReceivedTime": "2026-09-24T02:59:20.446Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "我晚點寄MAIL哦",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633151084605210761",
+      "quotedMessageId": "633151013452251738",
+      "quoteToken": "1J43D1ZLyYAxd4lG0cFoo_5gbyq9bdBkGHxntmWqmH0lc4H92UQxc93gPsMpH1nidxu_JQ7sO9X1L17U35OFh6_DezeTC8-m5d7K7I4jZSjyhNRDw1vvRg_v4SZdS3WMyoQO2dIhFyyXrcbWc5lGQA",
+      "markAsReadToken": "3kFePkrf4rMcPftgp6-NxEDGWyoDrKcvflTGnX2tqrqQ-8I_Vzmr1jKDf_0h5uz4WprK3lxqL_xNCe300kJ8ugE2GhPPir_uw960Fv_auG_fXi8R9BsfwTZhNl27IZfnI4l-PGqmxn-mes9NBFm_AHJCyRlkjXW2qEThUkx-iDI_UXcL5PF6JcfngXqunjlWaaM6QDKTJH29mSsK0wC0tA",
+      "text": "我晚點寄MAIL哦"
+    },
+    "webhookEventId": "01M38NMTZ6N88HR2PA04RJJYG6",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790218758880,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "ccdae30547d14dc2a2f0dc0c574a693c",
+    "mode": "active"
+  }
+}
