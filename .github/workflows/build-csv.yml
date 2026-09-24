@@ -2,12 +2,11 @@ name: Build CSV
 
 concurrency:
   group: build-csv
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 on:
-  push:
-    paths:
-      - 'logs/**'
+  schedule:
+    - cron: '*/5 * * * *'
 
   workflow_dispatch:
 
@@ -21,6 +20,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -31,20 +32,22 @@ jobs:
         run: |
           python scripts/build_csv.py
 
-      - name: Commit CSV
+      - name: Configure Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+      - name: Pull Latest
+        run: |
+          git pull origin main
+
+      - name: Commit CSV
+        run: |
           git add reports/line_message_log.csv
 
           if ! git diff --cached --quiet; then
             git commit -m "Update line_message_log.csv"
           fi
-
-      - name: Pull latest
-        run: |
-          git pull --rebase origin main
 
       - name: Push
         run: |
