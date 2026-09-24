@@ -1,0 +1,37 @@
+{
+  "EventId": "01M39SB62NNQSBNVDW8JHETZTX",
+  "MessageId": "633213885633265751",
+  "Timestamp": "2026-09-24T13:23:11.215Z",
+  "ReceivedTime": "2026-09-24T13:23:12.631Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "請截圖登入畫面給我看一下唷",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633213885633265751",
+      "quoteToken": "EU2ECwCCyOFS_AWIMjVUc7JVhDVlmhHaT-iar4sYeB-eI1UK6fdJrFEoxqEPu3Bvh0xWJRYSp_OwBs8y2cQ0Srvn8yZbN4vqPdnEhvzsepMq5azVkIwLFG2oSNmoKJ3a5BGVTkPudVlTowfUQrkA-A",
+      "markAsReadToken": "f9xbIaZPnx-gThHhgV52fPuoG8MmuxC23pJszbUF4bEM0rtmPGqTCjsHP2POmyUnRIuntVhQRiJ3PrPLF1YKjR2qG8Q7sXeXAUT0l1aXakpkRR7dJA9vRwEYP28OkcKndHpfAmtqGj6a1YF_eLaoKstG-4J9KuDeUzGuz6jrczCo-0qSvwRZyfeWQ1v5lD3WPk9ihh17MZ43tAIDDTEKsA",
+      "text": "請截圖登入畫面給我看一下唷"
+    },
+    "webhookEventId": "01M39SB62NNQSBNVDW8JHETZTX",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790256191215,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "e21bd83d6417451a8e3c2b148e5ec896",
+    "mode": "active"
+  }
+}
