@@ -1,0 +1,37 @@
+{
+  "EventId": "01M39SJD4QRR17R5FXHKHBD7RA",
+  "MessageId": "633214282465280054",
+  "Timestamp": "2026-09-24T13:27:07.832Z",
+  "ReceivedTime": "2026-09-24T13:27:09.024Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "儲存的部分幫我確認一下相簿或檔案有沒有剛剛拍攝的照片",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633214282465280054",
+      "quoteToken": "ko2kzANDnhVnXywbETVG0RvaXqR3HQsX1uFVT-QCaTMMfwLHOZ1AcxrCUDvAUnacDVj5Xcunod-vyMSAYbBFAdvt53v04AznqVwwv9itAJoJpAwNSBXDBznUw0hoDf62SkfCAAL9OXLn4noGgRCnhA",
+      "markAsReadToken": "chfzmbrOLiSwW6OtQVBqhepVg5tO27NbYwe9mihGoZSmpi6yrXkwDC7jerz8LyF6XtgO0oMSL1pDfZONm3cNMnlM5EgGM7LEcvAHYIHzo_13jmHCKF-ptJWoMEci3Eg06CABvbm6TSF9MjPQx9ioTKAHSHhRScS85NdhRWJuZ7zGSkq6rh9rSD2pbwJ7riNheQ_ILBdZCKauxlAqFwe_Wg",
+      "text": "儲存的部分幫我確認一下相簿或檔案有沒有剛剛拍攝的照片"
+    },
+    "webhookEventId": "01M39SJD4QRR17R5FXHKHBD7RA",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790256427832,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "25a7023d4b55435fb857212b637e3d18",
+    "mode": "active"
+  }
+}
