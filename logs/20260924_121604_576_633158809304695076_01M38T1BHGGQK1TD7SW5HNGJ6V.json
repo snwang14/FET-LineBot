@@ -1,0 +1,48 @@
+{
+  "EventId": "01M38T1BHGGQK1TD7SW5HNGJ6V",
+  "MessageId": "633158809304695076",
+  "Timestamp": "2026-09-24T04:16:03.203Z",
+  "ReceivedTime": "2026-09-24T04:16:04.576Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@Albert-yang楊 南區換裝單及照片",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633158809304695076",
+      "quoteToken": "Q0jhY8nhsU75bxL_uFHHU1AE8zGOV1cjvdR6dd2N53bCVryCeNZ9po-3f4DcWWXMMXP9XUHP6vzoQ41FVmc5jG_qPQ5qNB1WzMABZ8zR7XpmM33sGA9ew9FEVU6IEcGRCkIcbBUqpZnpLv_nY72iaQ",
+      "markAsReadToken": "sZ8aYCRa9kXeI0M4V-IAI4LmA4hwDHf06zaLFicacnTWXcqwxE6r5AhNayDrlZe52t2LjKBYJu_Y5lQDzVpBLO5inn6QPh95E8J4yT-795u5alqbpzHQM1QqvQidnA_gW1tcOC479Tj82yYwCK48wSWdn-KVNgtfNwzVa_988uCtmxsWILAgxPVa3UfkE959HY0xJwdj9msoG9rDMVMaYA",
+      "text": "@Albert-yang楊 南區換裝單及照片",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M38T1BHGGQK1TD7SW5HNGJ6V",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790223363203,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "971715468ed844dcb321e558b6e8a0b0",
+    "mode": "active"
+  }
+}
