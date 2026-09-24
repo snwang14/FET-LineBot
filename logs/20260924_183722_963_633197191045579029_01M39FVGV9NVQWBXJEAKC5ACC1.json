@@ -1,0 +1,37 @@
+{
+  "EventId": "01M39FVGV9NVQWBXJEAKC5ACC1",
+  "MessageId": "633197191045579029",
+  "Timestamp": "2026-09-24T10:37:20.619Z",
+  "ReceivedTime": "2026-09-24T10:37:22.963Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Uf67b20a12789d20059644985db821e1e",
+  "DisplayName": "Yun",
+  "MessageType": "text",
+  "MessageText": "遠傳工班也遇到相同狀況",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633197191045579029",
+      "quoteToken": "wmYTxkXpFWshYiLOuuZqAaMPHHs52vdUYzfoMg8d5--3hOyXWFCUVYFvvye6sxAZFzzza8T-VmrhNPAR7jfiCdgUf7ihTUrfvJyu_jMj-AoISz5tO-mB-TOym_AIblMpXLrhuFuv7nDjEtLjug11GA",
+      "markAsReadToken": "wLBPRvIhd99xbr1QH4SBBFlZy-6iuspNcYcxANOOa5hqUrqE5ZrBGK1-pPDNFaeBDjkboNOp-jQPu7aceMrl5nS0mDFOcPTfxDw8bheK1JagSTw-8VH9cSUIQWEhMj5NQyoSYlzNBDzxWNH-UsbJYwBvk4bEmS2WhWhFWmSNgag4KLbI6NvXyBly3FAqinGAtCqdzoNsGV3soA4hoU8irQ",
+      "text": "遠傳工班也遇到相同狀況"
+    },
+    "webhookEventId": "01M39FVGV9NVQWBXJEAKC5ACC1",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790246240619,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Uf67b20a12789d20059644985db821e1e"
+    },
+    "replyToken": "99649df5263f48f298922ff9dfc5528a",
+    "mode": "active"
+  }
+}
