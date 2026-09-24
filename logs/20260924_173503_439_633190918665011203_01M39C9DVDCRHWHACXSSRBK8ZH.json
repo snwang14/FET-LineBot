@@ -1,0 +1,37 @@
+{
+  "EventId": "01M39C9DVDCRHWHACXSSRBK8ZH",
+  "MessageId": "633190918665011203",
+  "Timestamp": "2026-09-24T09:35:02.002Z",
+  "ReceivedTime": "2026-09-24T09:35:03.439Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "目前的進度是 09/23 需求訪談完，預計下周著手進行計畫書內容調整",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633190918665011203",
+      "quoteToken": "bnwoV6dm4hZ9RB6koVLsZybxybZFjfOE_kBuSmP07HTEKcNToqHi8Zv44cW2hOZ2QbsqjZKkFUuicaELahJQOthUKFDJqp2IJwm623f1AYHvLtOLnhKKc3bOW8gJ9auHHKmpQsNTfTCEmYUxtEAwEw",
+      "markAsReadToken": "NxUqQYUVIhVp7JQrLMt-5zzTH0IArsndiA4uDgpg7FqCQqUAMILeCeQBL0_kA4MXV4l0GvcDpTjPTe8yJYeCDsKgQQ9_keAL847O8L0LxpVmicf6eEgKLuKQCExWXPfL32E4v-oou4YYc2Su-RjlGQGdQVssJDekIk_BTXmLVzQn7H5CGsk5og3Z-IiQD8Q4O0zUzFBP2y5bPAvhEVBM3A",
+      "text": "目前的進度是 09/23 需求訪談完，預計下周著手進行計畫書內容調整"
+    },
+    "webhookEventId": "01M39C9DVDCRHWHACXSSRBK8ZH",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790242502002,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "28adfe31510b4cc9a5c2e193cb6b40da",
+    "mode": "active"
+  }
+}
