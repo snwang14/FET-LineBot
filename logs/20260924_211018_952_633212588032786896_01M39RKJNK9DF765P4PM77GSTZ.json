@@ -1,0 +1,37 @@
+{
+  "EventId": "01M39RKJNK9DF765P4PM77GSTZ",
+  "MessageId": "633212588032786896",
+  "Timestamp": "2026-09-24T13:10:17.785Z",
+  "ReceivedTime": "2026-09-24T13:10:18.952Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "無法登入嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633212588032786896",
+      "quoteToken": "1BojDM_JXKuA47gooYUWpDk4h3RJai73RwhMarYFG7BRxJMDtQ7nvjbcZJWwTNnPp3GByVEEJ_XzeA6cMQM_RChz9FDsKIqAgsLuh3kAoqkOFSjCBK2nCVwwQmM0ELKrrzPHtnWzsJHAf1bUocUoPQ",
+      "markAsReadToken": "CjsjN_qWGUKgVNCjLWeU485EDr9p2LDus5cAc-0JTXOpVOpuMpzkjqp750WJLWTL1KiuyN_R9GhblSPQjzrJNjXpYBNDwIbVtufZJ7RemyBUPUvIzHJjlCo0hCtay6mGJh2qmt1MYoBLD1Hnut7KFLd6j0o5VyBcyxanBIqBqGWJvm3g5ZujIC4QEvGtmoyIUzoLhvrXVLQ_LsvcmAXA7A",
+      "text": "無法登入嗎？"
+    },
+    "webhookEventId": "01M39RKJNK9DF765P4PM77GSTZ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790255417785,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "92775e23aa374bfeba9922be0201e5d8",
+    "mode": "active"
+  }
+}
