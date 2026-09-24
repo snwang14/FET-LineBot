@@ -1,0 +1,48 @@
+{
+  "EventId": "01M39DD2PS1QTY07X5T4MEZCSG",
+  "MessageId": "633192879099215909",
+  "Timestamp": "2026-09-24T09:54:30.441Z",
+  "ReceivedTime": "2026-09-24T09:54:32.305Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ucaf3942f9bd1387c753bcc4791fb1ab8",
+  "DisplayName": "Zhen-Ru Liu",
+  "MessageType": "text",
+  "MessageText": "@Kai小愷 請問工班現在可以登入嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633192879099215909",
+      "quoteToken": "lJ5XcchZ92DxptQQJWGmX-1VBGCQ2SYN3qZgEkwmTSGurYEf0a_vdKywl5677ajT6xD4CGP3tTHby9Vk9qD-tOcjaRt40yAHoQOerNDBzMv5RRIGowT_F3EJVu43ViEDG_i_ijIhJmDGv-R9AAxDnw",
+      "markAsReadToken": "8Crme1yYKuwaS7x1wqQd-n9RGPShWgjB4225KkLMeHGynSF65uwmCpfsz_V-onkuwpQfB0rCRokzvitVMB_yfMvJ0QlLFgfXy6e-iF0ObfPEw3SvS6hkoLZdgWOZM_7okb6oqE4xaal2jJ7IpDDk86NrxF9IuItaE-Mw_ydWNLi13Dq0IXf_XIUI4F7xshmsoP1uQl-6DBVhxbRFvkwKlg",
+      "text": "@Kai小愷 請問工班現在可以登入嗎",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 6,
+            "userId": "U2389a03efb3d070d6c24ac565496ee6d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M39DD2PS1QTY07X5T4MEZCSG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790243670441,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ucaf3942f9bd1387c753bcc4791fb1ab8"
+    },
+    "replyToken": "9786bb74b3624ef7a5900784198a4583",
+    "mode": "active"
+  }
+}
