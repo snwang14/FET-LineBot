@@ -1,0 +1,37 @@
+{
+  "EventId": "01M39N4P2MHQCFNVEED5PMGKZ7",
+  "MessageId": "633206491175977329",
+  "Timestamp": "2026-09-24T12:09:43.922Z",
+  "ReceivedTime": "2026-09-24T12:09:45.058Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "收到 謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633206491175977329",
+      "quoteToken": "J_B3-lKbFnPzFcBFLzbDKhJS9RbiSA9SS58rSNxM6sodJ8bbHZDr2nWJ9gk4vfbIN_CHemdJ83vTDlfn0HQnLXvGhgnmIi5rrXP0TuOKLfsx8FB4EvqdiBfziuQCh2gKMh6yFsC-rt-EWl2PS-VjJw",
+      "markAsReadToken": "zEX_KKBDyJYr3-MZEfIZ0VGvE5d94nJSH-BnpfsY7IXUIte3KhP1QTgL07nnsCnYc8uYc9V9mXHZhK0wZ5WdKVG7es5B_OjMgpNrvonE0xw8wLioZRB9KZlMKUcDRwjmswMGGWIoWDzwFeVCJBtRDO0Qj8Wh7owIWoBzOJwYOrlt_1u5GK6URLiZ8Mqi5USJnBTaJuH8Fu_Jrmwp4iblaw",
+      "text": "收到 謝謝"
+    },
+    "webhookEventId": "01M39N4P2MHQCFNVEED5PMGKZ7",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790251783922,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "13808ed16cde4a09b0634703a9bdb9e7",
+    "mode": "active"
+  }
+}
