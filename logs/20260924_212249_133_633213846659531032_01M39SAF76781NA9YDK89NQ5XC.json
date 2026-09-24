@@ -1,0 +1,37 @@
+{
+  "EventId": "01M39SAF76781NA9YDK89NQ5XC",
+  "MessageId": "633213846659531032",
+  "Timestamp": "2026-09-24T13:22:48.138Z",
+  "ReceivedTime": "2026-09-24T13:22:49.133Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Uc2bc3788caa34c4cbcc40bf456dc7ea7",
+  "DisplayName": "菡菡",
+  "MessageType": "text",
+  "MessageText": "現在可以登入但資料用好後無法儲存 會跳回登入畫面 或是沒辦法送審  照片不見",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633213846659531032",
+      "quoteToken": "R7hpxEtPoiEmdVJrLhdJJFs6I2btXhICCfW4exTA--oKNriwdsxRLLI5cDm3idrdRU09E8rB0wPfEgoriX6juDET7-hHY3iL19FA_k8Gg142dKTQNZK30WguRF9KYuhwgCeYuHRaGfpSk82eaa1vJA",
+      "markAsReadToken": "3rybfxMQ3Q77BfNpsOsMNeFION9g38ewEslnXxiWa_YYoY6RsehEWdspIhMqfdLXrqh4cVbtS8bkZYLOzWXt5iBltfZk95iI54r0fhLF2ZwbQSCj5L-_ur9_FVWXlqIHPkm4J44XpJX977DYelgdSl9yY-4tqb0KO18bRpYlgwTIIaKwauo11fsZmuUWzCP8FWxQgXYnqM4uhcwb6DtX6w",
+      "text": "現在可以登入但資料用好後無法儲存 會跳回登入畫面 或是沒辦法送審  照片不見"
+    },
+    "webhookEventId": "01M39SAF76781NA9YDK89NQ5XC",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790256168138,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Uc2bc3788caa34c4cbcc40bf456dc7ea7"
+    },
+    "replyToken": "faac72c92aa24e77898dce946f717d18",
+    "mode": "active"
+  }
+}
