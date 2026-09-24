@@ -1,0 +1,40 @@
+{
+  "EventId": "01M3A11TVB4PBZJ6NHEGVARE34",
+  "MessageId": "633227445130756267",
+  "Timestamp": "2026-09-24T15:37:53.374Z",
+  "ReceivedTime": "2026-09-24T15:37:56.398Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "633227445130756267",
+      "markAsReadToken": "daJbMJFDTFCjo4tSed3Tmd0DVdyahxh7qIfxYtZh1QqfxgHV9upy4EwBmVgjZKHUlt5HWUCRx5slZD1DErOSUnNySblhiS30_Da8rTk7dvHD2mHusQ94U6vvulT46xS6c2EIc-NeId0ecAIF8bkBDPWz1ds5w_IF6sog9aYycQCie4KToR23_Xo9MDSMkjvbgNBUE6cXaotUD9WpYuwMHg",
+      "fileName": "20260924_開發預估期程.pdf",
+      "fileSize": 104850,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M3A11TVB4PBZJ6NHEGVARE34",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790264273374,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "d82acdb67b0b4c288d74d39b1056b6fa",
+    "mode": "active"
+  }
+}
