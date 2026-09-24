@@ -1,0 +1,38 @@
+{
+  "EventId": "01M39DCGME2Z94AE094ECT0PPX",
+  "MessageId": "633192848346841608",
+  "Timestamp": "2026-09-24T09:54:12.140Z",
+  "ReceivedTime": "2026-09-24T09:54:13.530Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "上面的議題 我們不會出席喔\n還是有需要我們協助的？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633192848346841608",
+      "quotedMessageId": "633190020832559225",
+      "quoteToken": "HriDB60-m1DTwAyOvG5DL2HqX287kTuC5CH0w_TJpMHKWZen7fb0-6pjoQtXDwrL3m4KVtSBqz0wc9OkdA-b2SyRydACT3o8SZwtxPffUZqPSf4ZGuekdQQ-jgMHfRLyktIvPIcuBq8VYmXRAyR-zw",
+      "markAsReadToken": "jr3n5-GzFB4Qc901oDrX0TgHLxni6zLMvnXTE3_C7sTABViBUxFwNpLS0jfw8G4Ft024gzkoWtF23f4Hbx0NdCgqHcd9Tw-4_zb7AHu9f9BFKhSbduUR90BJSjcsSxtTVuarD4J5yFKdG7Wirw0YSdufkJZgwiT_P5yxwPYZPKprmbeST0Js7bsN0ybTCe1aGl2SxfCM3tF4euRlo27pqQ",
+      "text": "上面的議題 我們不會出席喔\n還是有需要我們協助的？"
+    },
+    "webhookEventId": "01M39DCGME2Z94AE094ECT0PPX",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790243652140,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "39e18099b183499aa9499956465cac04",
+    "mode": "active"
+  }
+}
