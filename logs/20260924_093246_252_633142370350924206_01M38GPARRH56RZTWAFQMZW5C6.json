@@ -1,0 +1,46 @@
+{
+  "EventId": "01M38GPARRH56RZTWAFQMZW5C6",
+  "MessageId": "633142370350924206",
+  "Timestamp": "2026-09-24T01:32:44.965Z",
+  "ReceivedTime": "2026-09-24T01:32:46.252Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan 影片可以先給工程師確認",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633142370350924206",
+      "quoteToken": "XZyqyyDqH4Cs5qzRtnhxgRnvQ5EPcJU5GNglha6iLMRSWroTm-GIDv5XneR5_C1itqzfLUl91YSzRz7VIbwy6KSSDVUo-8V1mmAMPKLkOM1OuVptp85fqp87cLL3m3fSDDTGSvTfnlAN_gaD0wsv2w",
+      "markAsReadToken": "MKAZJq8zTJDQR5tuCGPQ-sMuu5cv4o8FBaQkK2m5_SUJuvsBfjTQk07WnPZWUqF0eEHDxwWGMQqvNo6JP8pDPQ0vQL4n46SY5JFV8Uh6XfXmEEXSZ62KiNYeim23qXa-3v_zRUQtfzijJDyUbdQNrBQkU9vwSG5cnqQtYC5TZsaIPABPhWBJuuYgSCBAox0xpsk4TnZ1xKmuUbV1g6kjGA",
+      "text": "@林郁翔 Alan 影片可以先給工程師確認",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M38GPARRH56RZTWAFQMZW5C6",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790213564965,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9"
+    },
+    "replyToken": "b4bc0abd4abd4cf19a524f5a2a2705b1",
+    "mode": "active"
+  }
+}
