@@ -1,0 +1,37 @@
+{
+  "EventId": "01M39WXKRHC5E5S588DB3XZ3AE",
+  "MessageId": "633220176115925350",
+  "Timestamp": "2026-09-24T14:25:40.633Z",
+  "ReceivedTime": "2026-09-24T14:25:42.297Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "狀況還在排查中，工班如果無法使用 App，可以請他們用記事本的網頁版進行換裝和拍照上傳",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633220176115925350",
+      "quoteToken": "394c2bMkeIkjK4WFoXz2zgKQDtJ_FlbytN2ARfouWTeswodr0zziW86bVIyt6oWcHXoa1-y98XZN3Iupxj7rxuOeN36HiKwhdFbIs_yNufNBE6zKD1pEMC89YOGb49z48Q_ZgHoIVjnWSZJnBjg7pw",
+      "markAsReadToken": "jcczXtc2_Fg3TU442gwmcjgOTEr_QJEBg06hdQwIIMpZ4SFLuVBcRl14Z_lRhXscRLhX8AoTMkp4s3VqZOTLCJXz72b4yDA-gJSh8nLVXqL4Y2IOGG4iZEPinO3D_hzgrXqNH-404jXw9xLeR6ENLQnPUlmu62yZyD6u4xb2IZpYM-pj7zDNVwSnHP-S4veXk7MetRoSM1yPRa7e9WRdcQ",
+      "text": "狀況還在排查中，工班如果無法使用 App，可以請他們用記事本的網頁版進行換裝和拍照上傳"
+    },
+    "webhookEventId": "01M39WXKRHC5E5S588DB3XZ3AE",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790259940633,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "2521d8512b78463595fdb2a4fe0ab731",
+    "mode": "active"
+  }
+}
