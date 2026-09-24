@@ -1,0 +1,35 @@
+{
+  "EventId": "01M38G8S18F1A3F02KVZ4CDCEG",
+  "MessageId": "633141625392726244",
+  "Timestamp": "2026-09-24T01:25:20.924Z",
+  "ReceivedTime": "2026-09-24T01:25:21.947Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "MessageType": "text",
+  "MessageText": "昨天工班遇到的問題 資料都有填但是送不出去",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633141625392726244",
+      "quoteToken": "tbPavbudhkz1NdnkWcUbja-5E8MpiWkTPSXkuLlTR6W1S9kYoBe3IkujNBSF5zu8ico3x4wZ2VhszwR1TQoV2EW5ctStHdYOxz7RDN2fYCsrWpfbDkj_FwI1aVQ_4ymDRwgiPbmXBVIfVaM2WjusXg",
+      "markAsReadToken": "5ByYY9bMg5aJH54yxHkJwhdvvdRYyNzBHult7L-5YWxzUma9Wg-X9ykuW3-unZRhoPSfu4Dxhaq5j7Z1gtWwJZ--phLplOMwu5OXI393q4MdVjUjt0cRjjqLS7CljHt6Xh16GrHQ_dik08jP4Gfnyw-4Exw8dyk4bQX-QW3OXq0X_4KH6cjKXTSFAfnhJGRa1FAC1OIfSIohuqgDBAmc7Q",
+      "text": "昨天工班遇到的問題 資料都有填但是送不出去"
+    },
+    "webhookEventId": "01M38G8S18F1A3F02KVZ4CDCEG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790213120924,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "8835efd28c6247fda7e68ebf6319f7a3",
+    "mode": "active"
+  }
+}
