@@ -1,0 +1,62 @@
+{
+  "EventId": "01M3A12QKKAVYCKDYZ5QHYP324",
+  "MessageId": "633227494472548676",
+  "Timestamp": "2026-09-24T15:38:22.715Z",
+  "ReceivedTime": "2026-09-24T15:38:24.164Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@Andy @Julia Lee 佩玲 @胖仙女 粗估期程，再請參照",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633227494472548676",
+      "quoteToken": "JMc0227xjEgkuM6DiubXlZC04uikaCVXiM1DGNZ6dxiMBrDCyW_X3uAQqZQQ3H2dUAWYGfinmqcfzf0esVOj82fI2rfVncUeeVgN-nkaR12M2q9i6duGo3IpSYnVa6zSJ0so5Zlz9mP_bPKHHK8orA",
+      "markAsReadToken": "PNn2necCmK6Ac3LKVEgfeWt19z9OT8Tt6xGsP9bnQ3lAKRr3_znEN_oRY9m4a1EVCGyCtTqHSdQS2FZr-L6u1l6jwAsLa7EVheKDCNGh_k853lW5q9JqYNZ7xfol-wPYR6sEK_Fc2rwC0s4QmA9QDhVzFy1EdBpc-CQy2Rygx2kc2OWwNsRUfPUcj5Vcxdvl4R52zZcOOWh_ncyT59e39A",
+      "text": "@Andy @Julia Lee 佩玲 @胖仙女 粗估期程，再請參照",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 6,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 20,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3A12QKKAVYCKDYZ5QHYP324",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790264302715,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "d76762eb9bd04c709defa70bc620b928",
+    "mode": "active"
+  }
+}
