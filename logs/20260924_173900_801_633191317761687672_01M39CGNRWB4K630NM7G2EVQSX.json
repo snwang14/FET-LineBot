@@ -1,0 +1,37 @@
+{
+  "EventId": "01M39CGNRWB4K630NM7G2EVQSX",
+  "MessageId": "633191317761687672",
+  "Timestamp": "2026-09-24T09:38:59.711Z",
+  "ReceivedTime": "2026-09-24T09:39:00.801Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "另外上次楊經理和總工對計劃書交付形式認知不同的部分，是否有後續決議呢？還是這部分會於下週二的會議進行討論？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633191317761687672",
+      "quoteToken": "lf2IWMsGEVfcwzIuhRQ3eG3zQgchr16wx3JuB3q7dNCGy5Jmu40enMaU3zQDKBTEJX9JM89Urwx-OVGW00nFAvdZtqUKaXa0mtjYVE8FAWlxi7T6DADTSwyYzcQVMBo31rr8g4AqOHst4j1nMvV0xA",
+      "markAsReadToken": "Z7-gUT0VPr89fxsZZVzew9gmDbqf46K2AK71H04c_F-X0zZY5b7ItEb8AJ-1XsuXgKCTpBr_PvZ0_nrWx8FWSsGz6EOqc4JJpxUsXjsPmyBdv4nALVZCULEylZTCOYbcyVhnqXHDw97dAypeNDpArG_52ZskcD65rxBhlCJSerRb5i_GZp-KaIbFVTGqSDt5w-Qj3mf1sAW2gUCS8YzYWw",
+      "text": "另外上次楊經理和總工對計劃書交付形式認知不同的部分，是否有後續決議呢？還是這部分會於下週二的會議進行討論？"
+    },
+    "webhookEventId": "01M39CGNRWB4K630NM7G2EVQSX",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790242739711,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "0cb7a98a81eb4cdca334c93a01de1873",
+    "mode": "active"
+  }
+}
