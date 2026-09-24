@@ -1,0 +1,37 @@
+{
+  "EventId": "01M39VXJT8AHMMPHBYMBMDHDDD",
+  "MessageId": "633218415162818889",
+  "Timestamp": "2026-09-24T14:08:11.149Z",
+  "ReceivedTime": "2026-09-24T14:08:12.660Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "無法登入有跳什麼訊息嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633218415162818889",
+      "quoteToken": "iFgU04Yv7DOBjUmeGBIDzghpGwsnfGtLcnAYNcjkdH8qe8ICyaLr-dkWag876ctsurbgJCM8laXW7SK2WdcUNUk24-V38y7s9CrTSJe94qu7YIoZngpgMGHIsCUE7JIxIOunMIFqjA0MJiG6oACBeA",
+      "markAsReadToken": "3w4zZDyBL5qR04DcZpSE4RhRhhhf1g62j0lRDiIbNj7pSgwr62VIHoG5XYJJmV9DYdy7WRei5qV5iJMhWvfZ2pOx8WOpsBxzNpAaWFnEfjHwKJtdEzGlhAvxFk0ptDAOx7mV54VgzMwS8j1TolrrBSnlRl6_qc0fInlaP8vK6JBA95Q_4m5N4zRZoqwBiznq36Qf7v46N7DlDk129WyikQ",
+      "text": "無法登入有跳什麼訊息嗎"
+    },
+    "webhookEventId": "01M39VXJT8AHMMPHBYMBMDHDDD",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790258891149,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "5727be6e407a43b488b6e30ea56999fb",
+    "mode": "active"
+  }
+}
