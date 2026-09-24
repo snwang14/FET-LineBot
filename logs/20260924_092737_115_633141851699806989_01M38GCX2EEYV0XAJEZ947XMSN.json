@@ -1,0 +1,35 @@
+{
+  "EventId": "01M38GCX2EEYV0XAJEZ947XMSN",
+  "MessageId": "633141851699806989",
+  "Timestamp": "2026-09-24T01:27:35.811Z",
+  "ReceivedTime": "2026-09-24T01:27:37.115Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "截完圖後 麻煩截圖一下登錄頁跟提供帳號給我",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633141851699806989",
+      "quoteToken": "vYxKyKfS-gMfiF1SpdHHCzmnJN2lUjP-qT4fswM0zkl7DKnPnrVs2DPsBz7FftrnrPZLfPomkdLxN2iG96VcfSfRPVZfnHroLogyWd_OsoZnl7lyVGCcT90AENOmMMPXV8motmc43dL6-p0nDWhLuQ",
+      "markAsReadToken": "ba3fLnL8KhMAhmkUPkc8mlwmry8Rz2MYdQSrrLMTgYSZldkk5gOS5N6YXFjRSoq-E1qGwTbhxPQM0JmTxctRVlRAl6M4nk4_j5-RmlkycOaZk8QcsRZgwfZWws-wQWFFjFkZFrScQdbvdG0MafkofF1oIqqxDg9zA9AcKZ8s_ca6cJleR3UKiqgQN1T8OYYv3UWfKOth9MgosVEK6_5w7Q",
+      "text": "截完圖後 麻煩截圖一下登錄頁跟提供帳號給我"
+    },
+    "webhookEventId": "01M38GCX2EEYV0XAJEZ947XMSN",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790213255811,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "1b79cf1cefd54934bb70f7344b310bc5",
+    "mode": "active"
+  }
+}
