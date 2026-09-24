@@ -1,0 +1,37 @@
+{
+  "EventId": "01M39FBVD6Q785TSKXS20D4FQ3",
+  "MessageId": "633196330121953828",
+  "Timestamp": "2026-09-24T10:28:47.515Z",
+  "ReceivedTime": "2026-09-24T10:28:49.155Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "目前工程師在排查問題了，再麻煩各位耐心稍等，不好意思",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633196330121953828",
+      "quoteToken": "UPS18mNhxElIde2VWXPa_xb-V6RYCJ20ulDNpB6ijhnX_SLKjmL1Dq22WDV3sug-PYPQZaXo-pamXwmJP7xNl45gXoxBwgAj-qDYH-jS8Y7G96SqRy9UkYe9WFAnNLXcHaoT7aL2H4Ffpa15BLZTgQ",
+      "markAsReadToken": "3NWTNL5xEbSVspaSmqlIzC1qvHKORaOZJc4_Rz1siXhr4IfxTnhmdii3TFOeRXVqmOm9XaS57o-_sk4N2rYSMesQGguR_1-vjUpWn1WErfsp8riRSeEJ-Y8nYewaLYUI5uDZdRmJfqsO28XDl0d1KbaH6s5lf2wfGs0K41QSffPRuCBOwQnY9faDxpUfIFyNVMVHVgWFOvwaPtGzRg99Zg",
+      "text": "目前工程師在排查問題了，再麻煩各位耐心稍等，不好意思"
+    },
+    "webhookEventId": "01M39FBVD6Q785TSKXS20D4FQ3",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790245727515,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "3c15fad523eb428c93422aaff9270438",
+    "mode": "active"
+  }
+}
