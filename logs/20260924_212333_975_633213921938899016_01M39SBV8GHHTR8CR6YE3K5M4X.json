@@ -1,0 +1,37 @@
+{
+  "EventId": "01M39SBV8GHHTR8CR6YE3K5M4X",
+  "MessageId": "633213921938899016",
+  "Timestamp": "2026-09-24T13:23:32.980Z",
+  "ReceivedTime": "2026-09-24T13:23:33.975Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "另外想確認一下，早上的版本是否有進行更新",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633213921938899016",
+      "quoteToken": "Olk2itBgwGcFMNz9R5qG9ItP7cwLTabIJ5kAZdfyW4iC68SrZeG0w234ZEzAaBXAMbHOC4y1LZ98sKns3X9LFlcyH_0QjJkqbRgryY4u_D8sk1uWOAdAKEQks2q9OsPkHFFbBzvHfvSceQaa5ohKrA",
+      "markAsReadToken": "9Kw0p5wM8il7CpuT_cCg-eRXJ_zdAczB4cKN_jFcy4Ejb0QbH9NXTQpTED75D3wOkgvJDJU98gF-ULoag5PK-wCWZAksX7RkbZDV-4sM36lmZOBG8fyD9h7LirfDhJVPMkqPOLm8SS7twpBonGJo7inBzwPPV7QpBhKmehkL3fsBkMe0pMEwv2uffJYzXTJA4m4-JAPJxQEt_pNO0kQ66g",
+      "text": "另外想確認一下，早上的版本是否有進行更新"
+    },
+    "webhookEventId": "01M39SBV8GHHTR8CR6YE3K5M4X",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790256212980,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "0567e57faefc42c7a88b5393f1d0a232",
+    "mode": "active"
+  }
+}
