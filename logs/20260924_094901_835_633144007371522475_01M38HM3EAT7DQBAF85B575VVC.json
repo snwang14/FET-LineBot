@@ -1,0 +1,37 @@
+{
+  "EventId": "01M38HM3EAT7DQBAF85B575VVC",
+  "MessageId": "633144007371522475",
+  "Timestamp": "2026-09-24T01:49:00.634Z",
+  "ReceivedTime": "2026-09-24T01:49:01.835Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "有請工班要記得更新了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633144007371522475",
+      "quoteToken": "2q79fh2JKdq9qJgAn5eX-imjC4tX7V6dFl2pOpFoiq7hgKR6EpLgyIixLNwfJa3xfkTvDfl0LdUREO0ctsomMazmMkY6AAd_0TAouOQj4VH0O_a-hTHfgpUk_eR7uk895VmUZCJGTSifpyZ_TQ9fFQ",
+      "markAsReadToken": "02-3cyatLPZlh2Kl59K4lq46XOhy7xNImjBj7KLliF9POuDN5RoLHAF6y5Xuzwyb-t2N3cH5hnH7Qn_VLbYmh7KV9_ARSoo_WCkDIwTb-yhsu9YhOjBLJwiwbsD_zfIgbXED1UYcfUwPrLjQhJPZClue4CnIyoqsjQZp-AfRoeQU5VuPWiNsJkHs7BjCio4i1mP3_GFcG1-kbRudgZR9mQ",
+      "text": "有請工班要記得更新了"
+    },
+    "webhookEventId": "01M38HM3EAT7DQBAF85B575VVC",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790214540634,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "81befb136eef41f8bd22d50554bfad5e",
+    "mode": "active"
+  }
+}
