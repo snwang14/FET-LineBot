@@ -1,0 +1,35 @@
+{
+  "EventId": "01M38GRKJCTP9QTYVJDDTJVNS0",
+  "MessageId": "633142494955307100",
+  "Timestamp": "2026-09-24T01:33:59.249Z",
+  "ReceivedTime": "2026-09-24T01:34:00.583Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "我怕是因為版本還沒更新，照片不會儲存",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633142494955307100",
+      "quoteToken": "AqEhdNMSZ31y9ip6uzqf-aVqGMFuS2B4HZJoal7ridArDP36NZUy1A8aPPsQcxMKtRced6jB0wB8ta1i8zGFKSUPplpxI-ROZmSMiaHo1swYXrCjlDqe_COTxuQjVqE6vQwMAHYqBPbGUdrtK7VS2A",
+      "markAsReadToken": "vJfrKeyEyZjetbKCrmk4i3iHRNzEZt-EDKjyO7TumxULga-6pLToL2CgG6_MEgOI5P5ZdEbQlJ6E1wWyuJ2zUIRBzTFWGEP1hjkGSPAua11DoYfV_vkl08CArXx39w2wlfXIssfq2ejswQc-g47fqBO9B1bYjhf9hzxgHu3qcI_Kqe7xF5zICXqp19-W6W4f6BPCQw4nLneqyjE3WHSm8w",
+      "text": "我怕是因為版本還沒更新，照片不會儲存"
+    },
+    "webhookEventId": "01M38GRKJCTP9QTYVJDDTJVNS0",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790213639249,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "7689c5241a75476c99265ea1e7ab6deb",
+    "mode": "active"
+  }
+}
