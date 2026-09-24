@@ -1,0 +1,38 @@
+{
+  "EventId": "01M39F7G4JV46JTVDJ2RMHF4RA",
+  "MessageId": "633196091348615736",
+  "Timestamp": "2026-09-24T10:26:25.012Z",
+  "ReceivedTime": "2026-09-24T10:26:25.898Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "希望能把milestone 再細分，\n對於需訪後的工項（如：開發、驗測、系統切換、上線等）不確定會不會被問到",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633196091348615736",
+      "quotedMessageId": "633192848346841608",
+      "quoteToken": "6z6jBfWso3N6MyltCkPBZHDwg6Z0cMRxVJ4Apzl1e3mSnpDjlXSQF-HM7Ktej779F4DATJRxamehA4JTqIjDzTCYzs2tpsX1CziTPkekqstrqJ0Hl-CRE4GIOIGpdeAOvQSVP17BNc75EIRbNfXVSg",
+      "markAsReadToken": "RJP3yNtUKIHucMdXN478OFj6nG7WEpAXzZH2f1i5MoBcxJHgaGLTjhL5bPLVy-ai-VJAg9fYF7U_xWZ-GQMp8DbQc7wnSY0g1uCdfrHL-fLbXxWIvQeSmXPMU1Vm6DqWLQqkvCHPAw0vhDwrDnU13q9dXX2Cz8X_oXdxfA1r66Lo9wJtgW2bg6EuSaF72ffbxuiWfZQeWKin9eivpUwNlQ",
+      "text": "希望能把milestone 再細分，\n對於需訪後的工項（如：開發、驗測、系統切換、上線等）不確定會不會被問到"
+    },
+    "webhookEventId": "01M39F7G4JV46JTVDJ2RMHF4RA",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790245585012,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "db341a3e8aac42688a25292a55c9107e",
+    "mode": "active"
+  }
+}
