@@ -1,0 +1,37 @@
+{
+  "EventId": "01M39DWPBP09ATSJ7R4KYEA8A4",
+  "MessageId": "633193737573106481",
+  "Timestamp": "2026-09-24T10:03:02.036Z",
+  "ReceivedTime": "2026-09-24T10:03:03.070Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "下周會根據 0924 需求訪談進行內容的調整",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633193737573106481",
+      "quoteToken": "781EHW0IKp9gZVlAZPl2y2gyRbzNie4JbDwhkXf2UAsAcIFOScC9T0Icp6ggLQGj5irkfl1O7kxuoGU9w23aQOCIidgk16M0ywHKa6mocJ26Q5o9cn3zYUWcCmYXbG3KZrjH0xh9gPligAD-IROqmQ",
+      "markAsReadToken": "4QHgSbFT1O_ZXlOFDyx5o3BoipaMqPbCO5HMUJmLCwULBqHPfoFXopp_W1c0zvu6oOcM4fI2eK7YY9pnbv_tpWmfYhwp67zELRty_t8BFao1nBT7MvsvhWinuVWF-eatb9-ODJJLgHWvybXacHrMFD8JcUqbCqhmCtrlSwccni6sCNIFE1I97sy1IW-IyD1rPFYAF8qlj_alnpRPVqVcmA",
+      "text": "下周會根據 0924 需求訪談進行內容的調整"
+    },
+    "webhookEventId": "01M39DWPBP09ATSJ7R4KYEA8A4",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790244182036,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "a845a7f9bf3d4f22b30894afce3f26ca",
+    "mode": "active"
+  }
+}
