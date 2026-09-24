@@ -1,0 +1,37 @@
+{
+  "EventId": "01M38N2ZRFWGT8ADR84SDMF5WX",
+  "MessageId": "633150103523164556",
+  "Timestamp": "2026-09-24T02:49:34.114Z",
+  "ReceivedTime": "2026-09-24T02:49:35.027Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "我看這一批的都是工班的帳號，需要使用 App 登入確認",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633150103523164556",
+      "quoteToken": "mHu8WV5tAMAEFZJijXp5fMZ7_3D7g58LaV_IU5hsYo36vvWAbUXzyipF_-qxarXGSmeBdd_4WgnczePwWyqgNoapRayEAlY2vlBJkMPDf7IcDvA_R32ZdcEIQ6E-KPZtX0czwg_DIuC3LJeqMZKasA",
+      "markAsReadToken": "jtYE94HoP7VLO8JnJAMmfOAfbfKaIn30F5HKr8H42PL9W8Yvu277YsruRn93lPjguppBx6_G1wpmJKqrBZsCgDLcgw1tBw82hvp4ap0YXVnvZSqMNADJahbJnMeIgbswKNST67R44Y76Tw_zI_5PZ1d8PEBSJP9HT-nGqv-soLGk9VjvcVkl6w8l6kIFylaNhF8SUO_IS36Z3_FRWA7TTg",
+      "text": "我看這一批的都是工班的帳號，需要使用 App 登入確認"
+    },
+    "webhookEventId": "01M38N2ZRFWGT8ADR84SDMF5WX",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790218174114,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "90b881270a8540ea9297db623f951c22",
+    "mode": "active"
+  }
+}
