@@ -15,6 +15,8 @@ for file in sorted(Path(LOG_DIR).glob("*.json")):
             data = json.load(f)
 
             records.append({
+                "GroupName": data.get("GroupName", ""),
+                "DisplayName": data.get("DisplayName", ""),
                 "EventId": data.get("EventId", ""),
                 "MessageId": data.get("MessageId", ""),
                 "Timestamp": data.get("Timestamp", ""),
@@ -48,7 +50,8 @@ with open(
 ) as csvfile:
 
     fieldnames = [
-        "GroupId",
+        "GroupName",
+        "DisplayName",        
         "MessageType",
         "MessageText",
         "Timestamp",
@@ -57,6 +60,7 @@ with open(
         "MessageId",
         "SourceType",
         "RoomId",
+        "GroupId",
         "UserId",
         "IsRedelivery"
     ]
