@@ -1,0 +1,37 @@
+{
+  "EventId": "01M38TJDFPJTYWYH4F5M5TCPTQ",
+  "MessageId": "633159747017113792",
+  "Timestamp": "2026-09-24T04:25:22.174Z",
+  "ReceivedTime": "2026-09-24T04:25:23.732Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "請問昨天半夜的時候工班有說去進行換裝，剛剛楊經理致電過來關心換裝單的上傳狀況",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633159747017113792",
+      "quoteToken": "DT-ak8CjUAFGMkR47asrCs21O2fBWovhQmMvwezqxQAu72RWe8_Uz3muQdcE6iyRx0uHc0nUprWFCtVhMAYQNLwisib7XgXHhJKFpp3-6o_nkvkB3LOtKDqP_dSNYBbOErnjES4N_ZpTYCtedemQdg",
+      "markAsReadToken": "6fYqAudDWWM40e5jyBVZj6WWhVKQG2BuTNCZ-zsO1vxS8qiN5XnfVLxqRUyVs3I5jdMZeQxwhKq8iIfD8c-rSkmEn4jCMH1Q-RCHNN6qT6pYIfhl0v3X8QMv424MHdEITQ7y-khbuqefNLjTcQ4r2emHdngXqCJ9tKnql4cYhlIEw1Eb-f1zcCvQVriBCWdj9Wl7KLFbkkkhuE4J-NEhww",
+      "text": "請問昨天半夜的時候工班有說去進行換裝，剛剛楊經理致電過來關心換裝單的上傳狀況"
+    },
+    "webhookEventId": "01M38TJDFPJTYWYH4F5M5TCPTQ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790223922174,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "5d86ef626b394072aeeb68d7337958fe",
+    "mode": "active"
+  }
+}
