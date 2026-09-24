@@ -1,0 +1,48 @@
+{
+  "EventId": "01M39RJY1SSK0NX28BH1Q630VK",
+  "MessageId": "633212552565752277",
+  "Timestamp": "2026-09-24T13:09:56.654Z",
+  "ReceivedTime": "2026-09-24T13:09:59.337Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Uc2bc3788caa34c4cbcc40bf456dc7ea7",
+  "DisplayName": "菡菡",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan 現在遠傳工班又遇到相同狀況",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633212552565752277",
+      "quoteToken": "WKVRrf4DrJQ8bCnmPhQvFJarUWu4r-cM80mtvWo2JFtjIpYfksI_YeTTGNt9SOFLYIqBNlgGoY95ehPndo5g6MmmdBrKQmtEpE6H6TDAIHd--dR6Niibz9-JGe145p8lAxiIMophk9nod2isvLmmqg",
+      "markAsReadToken": "WT5NYxpho7Vnj8nTWUoHuZonNg6FaPMl45U-X9KEcXBbAxGkHHlQZ9JZosHDvJY3Avm47mg_EOHqU4oHLebfzrRIFAUxJQ-Kt0La4n_VZG2151vI-mN3OjzJSEOgfN61RRJ5HSyQcjgacqZjQqHfmFtzXLEMQVo7AGAfPgUd5lEF9DACN8_Iz-UjL4ruHSpi_S5h92rol6Fy9VKSwmDb4Q",
+      "text": "@林郁翔 Alan 現在遠傳工班又遇到相同狀況",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M39RJY1SSK0NX28BH1Q630VK",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790255396654,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Uc2bc3788caa34c4cbcc40bf456dc7ea7"
+    },
+    "replyToken": "29bdc20db7bb46ef961ecbfefbc54ffd",
+    "mode": "active"
+  }
+}
