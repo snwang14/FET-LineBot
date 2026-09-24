@@ -1,0 +1,62 @@
+{
+  "EventId": "01M38MX3RT6CX8P17GKVEH8RXS",
+  "MessageId": "633149780511424513",
+  "Timestamp": "2026-09-24T02:46:21.578Z",
+  "ReceivedTime": "2026-09-24T02:46:22.645Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@胖仙女 @漢 @Yun 帳號資料已經重新建立了，再麻煩確認一下",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633149780511424513",
+      "quoteToken": "Pa7qXFpQTsjxWYEen9gEmwiBszqlpy9jORmHS1rPwIb5bu12D2MeCCVik8SFRa6VwA8PD0977-plBs3qLc8WeE4AWGzfIYyBWMnNr129LMXV-zwRbaeerBChV9NGuf1ygChJWbw5QLeauky7wC1LxA",
+      "markAsReadToken": "J4gMSHiNh73uj-yeN5vgz6u7G2LdRKRieLZks3FQr0uBJELff4QVtWMfXi2aaBGbJzCVT6d-DeoSDmcgu56Ze-T1rWeFDJOFp7xE134qNw5fmYsv52-nQVpTPio7cL_zzVq7tn1qkqx2iP258YbaJnzMw_TwGTtow0AEDq3ZriBDjHqJVhs5xrPYcB1TWPzvPFez84OkZmsbeVUqNlBR2A",
+      "text": "@胖仙女 @漢 @Yun 帳號資料已經重新建立了，再麻煩確認一下",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 5,
+            "length": 2,
+            "userId": "U2b2b4c7ce3e093215de5a26b0f1060d1",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 8,
+            "length": 4,
+            "userId": "Uf67b20a12789d20059644985db821e1e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M38MX3RT6CX8P17GKVEH8RXS",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790217981578,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "da2edb9b934c4459aa42fc90e3c6753d",
+    "mode": "active"
+  }
+}
