@@ -1,0 +1,35 @@
+{
+  "EventId": "01M38GB5CHHNV2NNQV1CAWSRGT",
+  "MessageId": "633141756540223762",
+  "Timestamp": "2026-09-24T01:26:38.935Z",
+  "ReceivedTime": "2026-09-24T01:26:41.361Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "先幫我在有照片的地方全部螢幕截圖起來",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633141756540223762",
+      "quoteToken": "KClRb3Lb6I_vHLxCrWtLLWGok5vam7mpf5F4xX2BjOJqDA9bA1-IlSTPJuGbGyAqYr5NJa710qV2qnGFGbwToeLT4Asp9hCOWlATooDaCBEGnULDPU8vmvOgq_jdzsZO0xCl8K_zxe3rAeJ4V-wDpQ",
+      "markAsReadToken": "LI7GCO0FEDZJOLdje1P_jC6dwqqAwNhkl5vVqWJOxkR_4Wjh0u7cJ9aLuU1mz4poZUS1mpBUcdrl4vzykAK9jmusxtLIXnvCVVw26vhhaWSvdAt-sO8kqVBhiuKScBX2qqeUJruhjirRwcjFa6r4KdmD4BCZtwV87k9H2wDzLhUJATfkonWQZa3ubCoq_j7sayccVb3kTu21kt9OgOZqjQ",
+      "text": "先幫我在有照片的地方全部螢幕截圖起來"
+    },
+    "webhookEventId": "01M38GB5CHHNV2NNQV1CAWSRGT",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790213198935,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "5bcc2d5c13494b0e88d055756a5c07bc",
+    "mode": "active"
+  }
+}
