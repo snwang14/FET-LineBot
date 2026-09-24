@@ -1,0 +1,38 @@
+{
+  "EventId": "01M39DZ2Y4FV7ZR6MPAPTGHCXP",
+  "MessageId": "633193868586385770",
+  "Timestamp": "2026-09-24T10:04:20.314Z",
+  "ReceivedTime": "2026-09-24T10:04:21.707Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "總工會議上提到計劃書交付較 rough 的版本即可\n但之前楊經理和我們提到的是依照每次需求訪談進行更版",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633193868586385770",
+      "quotedMessageId": "633193727976014464",
+      "quoteToken": "zAPIrAMi4px3R8Dad3VHb1WMJBGfQn66XyTKDLd2TcH2ky_oTVjAKvIqtn16EhtzfupkJrQhNYSYVWgSmmsZUpGqPqsGvK5fXsf2GGIlxdos8z8AIHrFA3cn7jTqPXvs_hd1C_JZzI4BGr3Ff7rugw",
+      "markAsReadToken": "NGPsi60T2ckjCINuCv0CZUOyNt8X9JLFdyyIlN3Mgsc0PODzcQxRcYJO4Qc4GPqHxbrcghXh_w56s9qZgd1M5cT2_cQxpEgYRvaNTOXxIDeMDT7vc0-z7wTVSpdR2hqL3KtCARrjp-IV_Sy46T_UEZcTEsajxaG_QQ9zrkvScEjm5RWl5S1YNlADGXm7R5QL-UgrLNy_Xuk-qP9NM_tU7w",
+      "text": "總工會議上提到計劃書交付較 rough 的版本即可\n但之前楊經理和我們提到的是依照每次需求訪談進行更版"
+    },
+    "webhookEventId": "01M39DZ2Y4FV7ZR6MPAPTGHCXP",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790244260314,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "0682fbb956ae4af49141723ee4ab6b9f",
+    "mode": "active"
+  }
+}
