@@ -1,0 +1,37 @@
+{
+  "EventId": "01M39D3FMKVASQDWSZEWZMNZYY",
+  "MessageId": "633192351623807477",
+  "Timestamp": "2026-09-24T09:49:16.143Z",
+  "ReceivedTime": "2026-09-24T09:49:16.973Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "工班突然登不進去",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633192351623807477",
+      "quoteToken": "JmzxohEnAoeAYhAmvkEWrctsd-kClOKCVVQH1_wn1doNXhh1BUYZNtj1UfekT0XIu22Ek-aEde7vi4_kNNTw9zbJ2iLyD0KccINQsbUea6xGguAf663YyE2mmfxeN8lSCIiLF8wI2AdHA8pLRk4iHQ",
+      "markAsReadToken": "YLx4NQMyktpfeKijjFv-yWHUx9zoMQHZN0X2nyafOIwCj0rX-e7Z27VAiP7lGey2_AKpo6w4coeHo0Btv98pfBa30MJMIqyblkm92P8DC1R1phYTjPqcV79-7H5rnHYBM5734DWj2igOZpfA7-wOYZEDHTIprRn_mPUMVZJUPZXnN6ny9rnzL8AfpqeKZJ0XPhusaW3vU3G3UY2DkdbheQ",
+      "text": "工班突然登不進去"
+    },
+    "webhookEventId": "01M39D3FMKVASQDWSZEWZMNZYY",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790243356143,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "6200fd39839a49bca7cfe34b4fd49011",
+    "mode": "active"
+  }
+}
