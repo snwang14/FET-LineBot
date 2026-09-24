@@ -1,0 +1,37 @@
+{
+  "EventId": "01M38TK37DZD0ZPNPKNE5CFHCF",
+  "MessageId": "633159785017770240",
+  "Timestamp": "2026-09-24T04:25:44.730Z",
+  "ReceivedTime": "2026-09-24T04:25:45.866Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "目前在後台沒有看到單，請問是在操作上有遇到什麼狀況嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633159785017770240",
+      "quoteToken": "LF2J7HZMVbav_9ix16pR8U03wQY364UGzpUuXt-590SIuCaKchnwyPf2TM0WpbdCiA0K563H9TsFkpNTtUyHnRBVPNAo-8IzpQRTyc7ewl8E0-sTO0LoR6uIB06IRmvd6N6V7JTrluwhKgjRnVtDCg",
+      "markAsReadToken": "g6g_QAU6HzVRUsg4sg0ttk1dLsZN5xLuufwcxc4BRoQAPywQuiJ-5TyT_kWUgJv0HyasY6rYQHMNb2DvZu8JOBhjHf-kAVNmybF-Fi2y9jcSESraoryQr65PKvZnksyXr88LJ7IsWV4nkDkhUjhdHH_O178XBJl-r0aIXz3u0CdAf8zVyAMd7nrvLV6kJAG-VbALohn1nzt7AVRB_B1sPA",
+      "text": "目前在後台沒有看到單，請問是在操作上有遇到什麼狀況嗎？"
+    },
+    "webhookEventId": "01M38TK37DZD0ZPNPKNE5CFHCF",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790223944730,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "4b4ffc5386eb431e9d955443928e5587",
+    "mode": "active"
+  }
+}
