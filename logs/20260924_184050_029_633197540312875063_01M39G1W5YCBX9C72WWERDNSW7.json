@@ -1,0 +1,37 @@
+{
+  "EventId": "01M39G1W5YCBX9C72WWERDNSW7",
+  "MessageId": "633197540312875063",
+  "Timestamp": "2026-09-24T10:40:48.835Z",
+  "ReceivedTime": "2026-09-24T10:40:50.029Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "目前我們測試故障排除了，麻煩工班同仁關閉 App 重新開啟確認一下",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633197540312875063",
+      "quoteToken": "3enEpKJus0dyyvD3QnvBqAkt9-6ZSeRepO6qktJkVXkDBOs-63oUEW0WyQDRDKlX520WDS8ZvoP4LlpGEPHPzCqbjZU5JyT3s6R2x4mslh60LgUsyIj-jwYzoBs_G_54L07sbfp8SxVZl2VDB7lFHg",
+      "markAsReadToken": "WBKUSRlg0cjAMq9ROrLYgysYtTKgkK2ZUJVjbcvqkT4BFx-tcJcdrsqoUg8FTgJcsQ4-ALbNDAfPr27CoPaur-MKYmuJ7u7W_DcMJNkj1dHcVoZxw0RhqkoYIy6fqJIxu3b02hRUPhO_3ZEZb5vkK4-WfpJIEvbCvIoFr7NJP16heIGiUvDP3b6DmH0ziwrUGaFlTSgONji7a9gfkv2-Fg",
+      "text": "目前我們測試故障排除了，麻煩工班同仁關閉 App 重新開啟確認一下"
+    },
+    "webhookEventId": "01M39G1W5YCBX9C72WWERDNSW7",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790246448835,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "3fbec0bef0a9417fb7b94f7d2e2cf41c",
+    "mode": "active"
+  }
+}
