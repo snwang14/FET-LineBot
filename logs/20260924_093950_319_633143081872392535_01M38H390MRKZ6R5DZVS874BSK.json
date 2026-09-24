@@ -1,0 +1,35 @@
+{
+  "EventId": "01M38H390MRKZ6R5DZVS874BSK",
+  "MessageId": "633143081872392535",
+  "Timestamp": "2026-09-24T01:39:48.986Z",
+  "ReceivedTime": "2026-09-24T01:39:50.319Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "MessageType": "text",
+  "MessageText": "再麻煩提供給我帳號、操作時間跟單號，我請工程師確認",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633143081872392535",
+      "quoteToken": "vEjSnyMLDu6cIIP2xwczTc5WCiVNJ7oXISb4J45DdwMMTOfd6vBgbWlPlUXTGY0pU28LprJwstpp5yzLIEWSnkFzbkzicHeiwQ24p4gjs3A6XzAY5I2T_v3AExu_7ArGK-NDvWzSodWL1cwvKrqBeA",
+      "markAsReadToken": "AjvHtrM1EISQzkKWpq209OEhDyYFcOKmS6GqJUVTzOcZdxnYpXKIwlmhnaw9U5-tyN4QttBTyqxbflKIF7bkjLKx2UwAlU4ybcWBWlD6AJh41fNazg12xI8tSjDGMZ3GNCu8HTGz2DMQbKB9haKCzf5Be24llIxSbO4afbyvtznGSCtQXy6IcJ-JmhbvsX95lYBOdP9RS0YhpoQBLg-KZA",
+      "text": "再麻煩提供給我帳號、操作時間跟單號，我請工程師確認"
+    },
+    "webhookEventId": "01M38H390MRKZ6R5DZVS874BSK",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790213988986,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "a4b8d3ba1c8a408ea7ffd56aba8eba87",
+    "mode": "active"
+  }
+}
