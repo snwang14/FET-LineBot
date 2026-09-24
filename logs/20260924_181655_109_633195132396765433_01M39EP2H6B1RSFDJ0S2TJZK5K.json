@@ -1,0 +1,48 @@
+{
+  "EventId": "01M39EP2H6B1RSFDJ0S2TJZK5K",
+  "MessageId": "633195132396765433",
+  "Timestamp": "2026-09-24T10:16:53.551Z",
+  "ReceivedTime": "2026-09-24T10:16:55.109Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@陳慧娟 請問方便通話嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633195132396765433",
+      "quoteToken": "p_xvezr3V-hUl-qqGf1p9538962BPbrqbldxPI01zukm0pdcc9i1nxNnmSyUXQ3FkQl8xq3zAgz2w_P91EpqKuwghywcWaZAbDfbrK8Jdc4FVGBICk6Ron1LhKnisZMn7B_iUjcZxal23zZh9VX8og",
+      "markAsReadToken": "QoMSSuiBVODcl_7CrCTu71tnJpNO_xSxNz8EevAKfY24a39wdT3i8yJZGndi2PFwys7SDjdteGqzHMW5inCU7htBCUbNA4AOjo8xjVA1STNKu_6pWc8_pTdnU1twfLKR-T8UhiPipRRcKONE35TusKHj6nfWL8o6oxKibCUhT7oSbrtLOR0LSo4n7Jia4Mgw3CQXzPXf7hpGgU-oBr6p1A",
+      "text": "@陳慧娟 請問方便通話嗎？",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "U9aa87aef88d21f42c7f180ce10320b5d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M39EP2H6B1RSFDJ0S2TJZK5K",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790245013551,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "f52decaf8d684473b19e04196783989f",
+    "mode": "active"
+  }
+}
