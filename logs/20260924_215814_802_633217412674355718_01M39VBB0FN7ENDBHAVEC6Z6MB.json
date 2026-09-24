@@ -1,0 +1,37 @@
+{
+  "EventId": "01M39VBB0FN7ENDBHAVEC6Z6MB",
+  "MessageId": "633217412674355718",
+  "Timestamp": "2026-09-24T13:58:13.660Z",
+  "ReceivedTime": "2026-09-24T13:58:14.802Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Uc2bc3788caa34c4cbcc40bf456dc7ea7",
+  "DisplayName": "菡菡",
+  "MessageType": "text",
+  "MessageText": "工班說沒辦法截圖",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633217412674355718",
+      "quoteToken": "WbbBBcYvHT5CN6_YIVP3kTov5y76UVP4SXdoDsQJh2W-RUEbs_E3NtH0xJOjApHgSH5IJqxoRph80I9M0rFMxiNik6ncLir3fsPkX2IdTEjPmDfzIxVnOw0aPVKGnfupNVTEv1sDzxZXLUoyx8vhsA",
+      "markAsReadToken": "UPET2fAFpg9mG5CxOKLQ6yXqKUgYn479kA8gTBC12RUfqMOpt9U5dVfgO3zjEK67zv2RhUNyLbnyUN143Gh1NVod-t4z7W6tR_eC6MFAbYK7YeOwufDNHtMDBvhiWRN8N5w-xhnPBZMal79XVv2kkg-8rPRO4IN0pxI-WozNJl7umNq47vPSg4f-8Raa8tfk28rB1rzxUSG4dsa99_yTng",
+      "text": "工班說沒辦法截圖"
+    },
+    "webhookEventId": "01M39VBB0FN7ENDBHAVEC6Z6MB",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790258293660,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Uc2bc3788caa34c4cbcc40bf456dc7ea7"
+    },
+    "replyToken": "18128b943b284103934d93d4fe2fc82a",
+    "mode": "active"
+  }
+}
