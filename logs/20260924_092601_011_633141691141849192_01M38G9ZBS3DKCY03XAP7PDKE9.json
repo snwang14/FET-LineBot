@@ -1,0 +1,35 @@
+{
+  "EventId": "01M38G9ZBS3DKCY03XAP7PDKE9",
+  "MessageId": "633141691141849192",
+  "Timestamp": "2026-09-24T01:26:00.010Z",
+  "ReceivedTime": "2026-09-24T01:26:01.011Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "MessageType": "text",
+  "MessageText": " 想問一下這是發生什麼狀況",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633141691141849192",
+      "quoteToken": "KNGnZeVai628F8QQ0UVvbALgB-2YuTpPuAwMHVr5mDlEIebxRGX3lB5rX_A7tpvjRxkrXCfLFJHMvTb8soAEwmhI2VlGbQLo9soEBIxkiKwEf-bOr2sOpsN-G2QEmtXEDiY_0LyAI37oFSU3KjYkng",
+      "markAsReadToken": "dz1dEpgdtpv_Y_UiN5GAWYHHmQWSbDBH8JyxVauXgCpDLgZW0hGhJ8KPo1G5zrDilOLhnaWksVvfbKR5vkNSKEokY9r2NCNAmFR7Op6lZk18oxBFa2nNq-Xj13g5L4-gnYddt_YFfrDOG-NkMw3HhfN_EW8L3tokmjIMb8GTRvTLIpFzKjZy3a7z2shTFYH52IT6DnkwIhLiagjK8rQcMA",
+      "text": " 想問一下這是發生什麼狀況"
+    },
+    "webhookEventId": "01M38G9ZBS3DKCY03XAP7PDKE9",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790213160010,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "0b34fe86399041f4b42babd0fb542a7f",
+    "mode": "active"
+  }
+}
