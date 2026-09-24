@@ -1,0 +1,37 @@
+{
+  "EventId": "01M38T2TCN2ENH2T0TH6X02V0D",
+  "MessageId": "633158889684599364",
+  "Timestamp": "2026-09-24T04:16:51.113Z",
+  "ReceivedTime": "2026-09-24T04:16:52.659Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "北區目前尚無送審的換裝單",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633158889684599364",
+      "quoteToken": "bYnZfNyqZHDXO5ERpcrTuuOHXgVhfKjZcA9sSqwgwKu2F2IUdmLy5E1nHfpLKrS5WllwVqIdS-XLFGthGmigRilf0Dral_rYxJ085xNm-PrBiS2VJLEDST-rZB0aVVyVO_BkSwRV5Pfqj27yO7uY4g",
+      "markAsReadToken": "VsBnrjjfzXC48cZXMRIpT5fz8nczVIReMmq5ZNoVpf-cVn6ooyOtWArIGJ6tnyqysjn-fCn1dL2Q8w2WLORTG697ubv6DLzUDJhG5pGzXg9r1fuv1fbZ-HOePkzjRKB9vRJ13WRIZf0T-EaMuDNug9zRzg6ntyhS26uMaVvjUrYRw1R_vI5S9X99fcDnw_iTLdYds_cnieGHv1VZeWxIbw",
+      "text": "北區目前尚無送審的換裝單"
+    },
+    "webhookEventId": "01M38T2TCN2ENH2T0TH6X02V0D",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790223411113,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "0c4f06162c014ea283ea2ef8949b9858",
+    "mode": "active"
+  }
+}
