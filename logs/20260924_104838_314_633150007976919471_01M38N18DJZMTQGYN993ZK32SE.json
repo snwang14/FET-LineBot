@@ -1,0 +1,37 @@
+{
+  "EventId": "01M38N18DJZMTQGYN993ZK32SE",
+  "MessageId": "633150007976919471",
+  "Timestamp": "2026-09-24T02:48:37.356Z",
+  "ReceivedTime": "2026-09-24T02:48:38.314Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "還是APP也要確認呢",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633150007976919471",
+      "quoteToken": "xeM-JOKbPqn7gl7gfUqZepdtYPtu5Wso2_Rt2UGfbujBfsCK5-odPznW7zNYkDbG4eew6euMWmFwCxCI9N31AuU1X2XWQOJ6OcT9wuKOnXiEYcwhK6nht8Kjsvqq1ZE0jAIqdy089JZbTjVCnbxEVg",
+      "markAsReadToken": "jcDUPk8huMHQ_u7xEJPlZSYIQ6G96OVDoY2WZ4YLmLykzi0gPHyTXzpN2yNr5_LO3lFX63uJdwqflct-MqHHBf686f2gVvy0reZCRfcaBCDZ9pYcBEtb6R6SzxIzn-BrIuK2JdlykARL9B8oOzvZXbL4vNpp-DHV9iG-KAbubN-lGOslc1iFKJUpnU4pAWl24Li6BGRHB-2lnrKs-zHL9w",
+      "text": "還是APP也要確認呢"
+    },
+    "webhookEventId": "01M38N18DJZMTQGYN993ZK32SE",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790218117356,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "d4a6b0247ce14dcfb40c6e45bf3a5993",
+    "mode": "active"
+  }
+}
