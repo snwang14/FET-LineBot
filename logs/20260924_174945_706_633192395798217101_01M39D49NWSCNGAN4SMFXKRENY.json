@@ -1,0 +1,37 @@
+{
+  "EventId": "01M39D49NWSCNGAN4SMFXKRENY",
+  "MessageId": "633192395798217101",
+  "Timestamp": "2026-09-24T09:49:42.466Z",
+  "ReceivedTime": "2026-09-24T09:49:45.706Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "想問一下這是什麼問題",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633192395798217101",
+      "quoteToken": "AyqWKlYmpZ4XYWhFAn6nsHMtESQEh7u0rQGVm5EdjwkOgRmH7QJyO8UhkGodp0gV73YQ5Ipoib9RiFjhRUKehRNEL8Y_pzvY230BGq1RoKy7iDa1fWMBzPm0F01xiUnQvY50Ut7aTEpmKSyAStHzdA",
+      "markAsReadToken": "u30tqOEUcQOM4EVvNbT2KCsP7diHllrjBnHkwmRApqQP1vkzs9ZZtJEBOm9ka04XtPlioENCIgpKjLQFxQ871c-6Kh5XgXs5PxZzwMPdGquoU724MRr2smWRLSFCD1DLdHAGl_YlHJMNTGSxw91v-EeQkqoc9PfApZYml3NB5GbtbS6hASl5sDWNSJo0kdrH4qt81odh7Eos_HC0Hy5BaQ",
+      "text": "想問一下這是什麼問題"
+    },
+    "webhookEventId": "01M39D49NWSCNGAN4SMFXKRENY",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790243382466,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "ee500ce0188d4befbf8ddbfbfd57e38f",
+    "mode": "active"
+  }
+}
