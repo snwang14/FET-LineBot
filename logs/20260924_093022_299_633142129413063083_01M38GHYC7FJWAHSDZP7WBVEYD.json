@@ -1,0 +1,35 @@
+{
+  "EventId": "01M38GHYC7FJWAHSDZP7WBVEYD",
+  "MessageId": "633142129413063083",
+  "Timestamp": "2026-09-24T01:30:21.260Z",
+  "ReceivedTime": "2026-09-24T01:30:22.299Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "MessageType": "text",
+  "MessageText": "晚點我在請工班截圖",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633142129413063083",
+      "quoteToken": "demvyj_MUUq59fxXr5Lp5FT9iFcSB_O1O6oblHVGE7nwxBVtdII5FqPXR65igq3CQm2InLbEPDFjXrtKe4MgHcSJFNyZDtcvSQEl2bNn3cuNxCaaWvbVPoGFGC7HLZAtWXbnnqaMU3i8U03HqvTpiw",
+      "markAsReadToken": "Z6P_9MuxDcC9hTgayMsYWpG2qwRPKx6aIgmAvsKv-mRQiCiTcWPSn2F3yUFDTd0IeULcGQIM9_nJe1p9wXiULcPvu1zNu6yPtY2jdEUBfd3GYC7fNlvlG6VmTANQDO4LWI9vK7ja5xsU145d26N1r4BkyPLefz1iow3xMyn-YuM3U4PXAmzxg5Te_eSVQSGT0DJCNNggUs1sej7k5-I7BA",
+      "text": "晚點我在請工班截圖"
+    },
+    "webhookEventId": "01M38GHYC7FJWAHSDZP7WBVEYD",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790213421260,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "4a57b1ffa0424bc6b56d13b8d686ad34",
+    "mode": "active"
+  }
+}
