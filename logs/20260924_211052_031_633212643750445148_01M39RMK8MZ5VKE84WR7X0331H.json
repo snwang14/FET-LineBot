@@ -1,0 +1,37 @@
+{
+  "EventId": "01M39RMK8MZ5VKE84WR7X0331H",
+  "MessageId": "633212643750445148",
+  "Timestamp": "2026-09-24T13:10:51.176Z",
+  "ReceivedTime": "2026-09-24T13:10:52.031Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Uc2bc3788caa34c4cbcc40bf456dc7ea7",
+  "DisplayName": "菡菡",
+  "MessageType": "text",
+  "MessageText": "閃退 無法儲存 APP跟網頁都不行",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633212643750445148",
+      "quoteToken": "mrrgQoKwiQlURH1p0vK3ePyEMDbM3gfM7ja1euALa3mHIqGVM3xUyuIHwAGJDvfci5J4-DxTiF1fvRLO9eqgdeZUln-selARqUd3opBFiunZWnVSuhZ3uw3MCu_PIjdMeNfhFr9qjU6JFSdjmEVoMQ",
+      "markAsReadToken": "BXuebrGWXtmf1D-krX_-Cc83hCKpJQAx-3TtYiy33m6iV7UqGzlXmBChnJjYYbP3MB2yTAQX_mjhs7S9NZw54EMeXmNQsSpq2zWlmp3dGZc6KVuXc_aotQfLqaegOq5RAKN4Ti8xH4FI9KE0HvJTwaPOlCZIGHkzV7EAQcRcIVh8JZgUPlimJf_bL6_Kkff-zb19wp31AACyTo5HXU5t5w",
+      "text": "閃退 無法儲存 APP跟網頁都不行"
+    },
+    "webhookEventId": "01M39RMK8MZ5VKE84WR7X0331H",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790255451176,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Uc2bc3788caa34c4cbcc40bf456dc7ea7"
+    },
+    "replyToken": "f9c061e9daae470bba8160d558742e81",
+    "mode": "active"
+  }
+}
