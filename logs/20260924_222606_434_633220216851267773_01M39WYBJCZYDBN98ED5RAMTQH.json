@@ -1,0 +1,49 @@
+{
+  "EventId": "01M39WYBJCZYDBN98ED5RAMTQH",
+  "MessageId": "633220216851267773",
+  "Timestamp": "2026-09-24T14:26:05.017Z",
+  "ReceivedTime": "2026-09-24T14:26:06.434Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@菡菡 同 iOS 裝置的使用方式",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633220216851267773",
+      "quotedMessageId": "633199521081852263",
+      "quoteToken": "6S2vc56ojRUPuGi7ncNaMoNBnG_dAtHrckDnEmhC6yg8YtKDnJv-87PiMykZYnpVKAWLzs_x7wwoif7ztsWSmS4k_dX-wm2xhERfgAPlT3hXhF3ztGaoFLTwGxQvhMygQhC4HC18nbc-uEMW5Gdcrg",
+      "markAsReadToken": "X57GfY6Mw1EE2WxOYDSGHMp_FNM7l1hlmTxGy_sLXduXXIX3bv9LvNmEQHh-oix-a9rB3iFqnJ6LYIn8pgoAx3F74o17XtcIwJtcsmVGiSpTP2jwC4FRRVvwOq6vZWGwzw0DlwWSyXu1JqDelCOp5dCDPJfZjEduzU5cuQD9wSAYk1cWGaJaRJikDLb8kAlyPc4jCSqs9C7IBwvYVSG0Nw",
+      "text": "@菡菡 同 iOS 裝置的使用方式",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 3,
+            "userId": "Uc2bc3788caa34c4cbcc40bf456dc7ea7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M39WYBJCZYDBN98ED5RAMTQH",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790259965017,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "fab53824ce97485f865db78b68350d36",
+    "mode": "active"
+  }
+}
