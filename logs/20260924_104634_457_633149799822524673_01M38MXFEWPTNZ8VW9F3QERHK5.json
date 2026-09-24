@@ -1,0 +1,37 @@
+{
+  "EventId": "01M38MXFEWPTNZ8VW9F3QERHK5",
+  "MessageId": "633149799822524673",
+  "Timestamp": "2026-09-24T02:46:33.185Z",
+  "ReceivedTime": "2026-09-24T02:46:34.457Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "沒問題的話我就會把臨時帳號停掉",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633149799822524673",
+      "quoteToken": "Pal6mRoQk7xikGXUr9bIpOqKDcZwZfNvSfm34QAhH9u-YGVbAOcw3EfOrOk_FaTe3Q9dTMpclR91Nbo-Dp8EVYnam1MktoszPkc5IqgaoZ7C3GwLBAS-23RkHIy-FriPecATO2wxeX6WmPW1_VSFOQ",
+      "markAsReadToken": "shrtK3Hiy8cIHdVDlpF7pozZofRx3nsFQNDWQQQAd_FBeeoiAcvnTboeobD5fOE5Bl1g9bPYVVbRD1uvOIeP_LueezO7jhP8lewmT8i6S3i17nHsHkR2J46x9nQA241tthbJQVD9iy2LL_I02UHpLPVn9pu6WT5ubcWK01Uik3kk_mGHRKpY2amYoXDTXUhHxJFCaotSbJopMg6PPV5v2g",
+      "text": "沒問題的話我就會把臨時帳號停掉"
+    },
+    "webhookEventId": "01M38MXFEWPTNZ8VW9F3QERHK5",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790217993185,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "d7fd2ea453cc4631a5c8daac2d6ec941",
+    "mode": "active"
+  }
+}
