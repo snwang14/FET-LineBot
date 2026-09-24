@@ -1,0 +1,37 @@
+{
+  "EventId": "01M39GZ9GGB0Y7BX1M46CBN3HX",
+  "MessageId": "633199158139814322",
+  "Timestamp": "2026-09-24T10:56:52.945Z",
+  "ReceivedTime": "2026-09-24T10:56:54.176Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "之後工班同仁有遇到問題麻煩先於群組進行通知，需要針對問題做紀錄，我們同仁也能比較快速看到排除大家的狀況🙏",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633199158139814322",
+      "quoteToken": "tmOL77449SR6tPWkr-NwC-f2fugCYSqSd5jCGfcx6XrfCsYMxGVfDQlAWPA-mGbzbjcH51YArfL3otCA29tsHDqiwVzjyHlYS0Btp39zSVr374YF4cDU7D5WJUdaFzti5X9kgX1Sbs7GloJRUNeeZg",
+      "markAsReadToken": "1Jb5XeOCljqtTbaMmFi3lb7IyosdSKcz0TNHexyocQfsXtBLYXk7cKEhvLQZElpZW5QvviYSDTfEKR2CPw0V2BoEPx1nCPnTHczbjbI8z3C8gXR6sGpfozLzjoibAAvEBB6e8r-mY8SVS6ZR7V8JpBkKBGR9T3PZAPpfhPw0ImMIqggqgcq4LdvHE6dFlROT_iReRlz-yD2GqhAB-0Qlmw",
+      "text": "之後工班同仁有遇到問題麻煩先於群組進行通知，需要針對問題做紀錄，我們同仁也能比較快速看到排除大家的狀況🙏"
+    },
+    "webhookEventId": "01M39GZ9GGB0Y7BX1M46CBN3HX",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790247412945,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "17ac79f975564483959325a1b9da1860",
+    "mode": "active"
+  }
+}
