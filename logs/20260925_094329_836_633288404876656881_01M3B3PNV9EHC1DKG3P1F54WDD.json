@@ -1,0 +1,48 @@
+{
+  "EventId": "01M3B3PNV9EHC1DKG3P1F54WDD",
+  "MessageId": "633288404876656881",
+  "Timestamp": "2026-09-25T01:43:28.222Z",
+  "ReceivedTime": "2026-09-25T01:43:29.836Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+  "DisplayName": "Michelle Pan",
+  "MessageType": "text",
+  "MessageText": "@Albert-yang楊 楊經理您好！app已修復可以使用",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633288404876656881",
+      "quoteToken": "Jos-YhDgh7P-od-Sk3xgnBWAPrJB1yMcxsFUX-Sqsu53om8k4fMPiFpSGVV71XcgH3O-gcKmyMPHl8CzKw_8LcbZiERG78I_XMbqDBZZtKnkQJ0tfexJqSsQI9yJmkudfRmt-7iIZO7ltgWdhlwrGA",
+      "markAsReadToken": "MVZAEaagkEsuH92zL47EsrvKNUPvaBSGbLEgjr1YawGD6orwBYmpTBTTbyT0IlFaR7UJWJbY_nAFCvhKA1akZwicUrwxldTUvP0e6anGmTi8-ZjClUNMrRDWt_R6OkyPoBrQMVGcLOKe7GFAiI1UnwZV89xZdlDLz5V7OPfb8AD12N7psq54torMf_L3XXctRfEVKN9ss-b5o7FoyqwW8Q",
+      "text": "@Albert-yang楊 楊經理您好！app已修復可以使用",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3B3PNV9EHC1DKG3P1F54WDD",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790300608222,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9"
+    },
+    "replyToken": "0e49a4d81ed74dbbb68513c753f78c98",
+    "mode": "active"
+  }
+}
