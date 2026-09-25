@@ -1,0 +1,38 @@
+{
+  "EventId": "01M3B6KJXX1J9XXEQ7NZJA8YNW",
+  "MessageId": "633293512279851214",
+  "Timestamp": "2026-09-25T02:34:12.582Z",
+  "ReceivedTime": "2026-09-25T02:34:13.573Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "如果工班已經把資料、照片都做好，但剛好 Token 過期，現在的機制是不是會先自動 refresh token，再繼續完成原本的儲存或送審，不會直接跳回登入頁？\n\n另外，如果 refresh token 沒有成功，原本已經填好的資料跟照片會不會還保留？會不會又發生資料遺失的情況？\n\n也請幫忙確認一下，這次更新後有沒有實際測試「Token 過期後，資料＋照片→儲存→送審」這個情境，確認整個流程都可以正常完成？\n\n主要是希望確認這次不是只有增加 refresh token 的動作，而是真的可以避免 9/24 晚上發生的問題再次出現。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633293512279851214",
+      "quotedMessageId": "633289910900228239",
+      "quoteToken": "9j-W8AyvJW0cKB5VFvqyPi1NvLNxmrl8GEX5GxDS3GcPhXyzLhSKReA0EeGz5MDCrEWUzX_NAoh6lErQcOuB7qhwRtHOteV7A6jf9sGMELArZeVSEIHzW8mUJCKTJ7fZeg4JZnldDk4osFK8DZHOJg",
+      "markAsReadToken": "pWC6USSBCUMOs0KShxIVtoBD1gsgadoNqIVDL40ZcfVkVgLeHa9eTUb2QQZH_SeCQJ1vTZ_Mq5FzFnmO7-gXuGtHsuUyKRyAna4zzoMd9_Qx_FX-mtPXJt99AcG97sm9FR2luAzooYRMf2kPbUP_zm7vOR5g0GlNobm-sbkpw6bTGu6zfy8n62JmdJLrj-Il3DyixkSihzTjmN2Kz7v9Ug",
+      "text": "如果工班已經把資料、照片都做好，但剛好 Token 過期，現在的機制是不是會先自動 refresh token，再繼續完成原本的儲存或送審，不會直接跳回登入頁？\n\n另外，如果 refresh token 沒有成功，原本已經填好的資料跟照片會不會還保留？會不會又發生資料遺失的情況？\n\n也請幫忙確認一下，這次更新後有沒有實際測試「Token 過期後，資料＋照片→儲存→送審」這個情境，確認整個流程都可以正常完成？\n\n主要是希望確認這次不是只有增加 refresh token 的動作，而是真的可以避免 9/24 晚上發生的問題再次出現。"
+    },
+    "webhookEventId": "01M3B6KJXX1J9XXEQ7NZJA8YNW",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790303652582,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "40d3c50aea4c4380b618130aa3140363",
+    "mode": "active"
+  }
+}
