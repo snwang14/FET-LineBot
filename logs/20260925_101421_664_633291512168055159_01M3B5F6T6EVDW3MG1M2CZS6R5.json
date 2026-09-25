@@ -1,0 +1,38 @@
+{
+  "EventId": "01M3B5F6T6EVDW3MG1M2CZS6R5",
+  "MessageId": "633291512168055159",
+  "Timestamp": "2026-09-25T02:14:20.233Z",
+  "ReceivedTime": "2026-09-25T02:14:21.664Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "更新後問題就不會再發生嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633291512168055159",
+      "quotedMessageId": "633289910900228239",
+      "quoteToken": "u1F-i-l8XI-lhJw55R8XCuh8N9BYz5JB7D9_M3CvlFumZCrsoChPmC566kPjM_f8FZnFhXriGaKYuGbnMDaQ9fFl9trASmJGd3VjaLS3JhVLbYyom9ZsRzc-57fbv_aMfIkb4S9Ale9SPoJmDdmoOQ",
+      "markAsReadToken": "nVYImMNIKdxuEXRfjBOFpMJCvK5Za4MS7ZLXsD8VjtxR6ezHQkiE9Z9_u9M0qkVtNijlJ18e6PeDmzkhcq9b88FMkk9wAAQCJUgojDIIAuSXQ-SxsXG88MmvhhXMtKDDJ195n8yDDBwe7XYVKAXkB0eRnkvhAiDsbO1LOi-GezczRkAEkANJNef71h2Hg_6zEiZGuz6JP9rZDGdci3Ns8g",
+      "text": "更新後問題就不會再發生嗎？"
+    },
+    "webhookEventId": "01M3B5F6T6EVDW3MG1M2CZS6R5",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790302460233,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "c3d31315a52048f89eedf7a8e8ee50fd",
+    "mode": "active"
+  }
+}
