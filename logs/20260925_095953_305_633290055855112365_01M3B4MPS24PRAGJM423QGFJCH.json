@@ -1,0 +1,55 @@
+{
+  "EventId": "01M3B4MPS24PRAGJM423QGFJCH",
+  "MessageId": "633290055855112365",
+  "Timestamp": "2026-09-25T01:59:52.253Z",
+  "ReceivedTime": "2026-09-25T01:59:53.305Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+  "DisplayName": "Michelle Pan",
+  "MessageType": "text",
+  "MessageText": "@Sammi @Andy 再麻煩遠傳團隊統一回覆楊經理那邊，感謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633290055855112365",
+      "quoteToken": "dqlUD5t4AwX3e10Viec4KfBBcDZc5BMzKyyknqACp7jaH5hSg6KLcWWUFquuTJdeXmAqSSv9yTJEz0cMTo8f6O5MvP7PCih11eFY2AXxtGAIM_r7G9BBTFTwB72kRqjgctKPIUe8b8zGQgHO2_e0vg",
+      "markAsReadToken": "O1e2A_JC53mjmwGp_fWXxFcxCfR-ze5twn2eHAB28XMna7WYrw6mSdvH1brqucIe3UAGxPKJLrnqvraEvVbMLxvvHIttv0i46E88x7xXxidPF-uli1dKMB7BTVCHP9yGaA3NVWDmip9dZYuUqqSA9pippTLHYpYGaY91vVhShScWpIL7ZUTexlV78Gg1NKf-XjvsIxY8HHxU38Lsztt7xQ",
+      "text": "@Sammi @Andy 再麻煩遠傳團隊統一回覆楊經理那邊，感謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 6,
+            "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 7,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3B4MPS24PRAGJM423QGFJCH",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790301592253,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9"
+    },
+    "replyToken": "d0c0588b3d814945aa632d4fbb900419",
+    "mode": "active"
+  }
+}
