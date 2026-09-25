@@ -1,0 +1,38 @@
+{
+  "EventId": "01M3BNWMPDYQPCM0C1WH50PEW8",
+  "MessageId": "633320398926381177",
+  "Timestamp": "2026-09-25T07:01:18.090Z",
+  "ReceivedTime": "2026-09-25T07:01:19.984Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "有要再補充的地方嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633320398926381177",
+      "quotedMessageId": "633289910900228239",
+      "quoteToken": "jOishUuFxChxLUUB53Iv5eCaaN6M5Or5gfztopmNtn1a8oeSlPZLQgOmWz6mBBc6y5p5V0pb7-SH_fBzEIFu_lQOw-BTZj4KDjCsIHrygYH6_lmy-mqBeqyIWIbK7TW9IGBifZJTqHflK2pcUl9eBA",
+      "markAsReadToken": "R1PqmZUuRKPU8WyzUsCvs5yzI_PLQthXrRGxg8p2pTu0d9YyjDUOnNTOOky6ZkavPlvZPhEnuttv1EyiAkUKKWGsD36jkin7mUPbd693O_g9-1P_0TZpx9pA1ETVo9nt20gGOIrszHZfN09X24YAoq_U99meGIAltHJJF5XmMgyZDWOSF0VDnylpWcHgmf56T-FMomWLxkfB1FiqHIrtnw",
+      "text": "有要再補充的地方嗎？"
+    },
+    "webhookEventId": "01M3BNWMPDYQPCM0C1WH50PEW8",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790319678090,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "420929589dbd4366b4dd76c2b54d67ef",
+    "mode": "active"
+  }
+}
