@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3B3RFZV2JRTB8ND77VZVJNA",
+  "MessageId": "633288504013226586",
+  "Timestamp": "2026-09-25T01:44:27.390Z",
+  "ReceivedTime": "2026-09-25T01:44:28.702Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "昨天晚上何時修好？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633288504013226586",
+      "quoteToken": "FFXp70UaMON7lxDdh_ZKwLOtf_GVjQMw91yESERJsvuq6wG71dCoYCP_f4Q_IDXkpkZJUkgvAkEkdKOZEb6C6H6giNYyhfOtpMG00yhIavpU3LXkZxmdv2me-_7a4jBf8eEMnKNYwfsffIfM8zpWZw",
+      "markAsReadToken": "YKDnBIr6cfe1EThh4Sxr5gG-YuK3GQ_xLj33ythQwnbYWdFOmG37WH9H0AnblfTXORc7OgTe2gPotkH9zuXo0iuHzUE2mGKRleI6oiyOvN4_WcM4KJCJcZl-FqTvFnpFsATnQMcgyutB7Tz1SVPuHJJpN5ZytcPyPIIqTWMGxxgYkJT2botM_ZJ04N70TYKpzsU87Awu3qllb3K_5KMz2g",
+      "text": "昨天晚上何時修好？"
+    },
+    "webhookEventId": "01M3B3RFZV2JRTB8ND77VZVJNA",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790300667390,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "03f395272f954a79a4e59dcb8346ec49",
+    "mode": "active"
+  }
+}
