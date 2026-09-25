@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3B5MYK0MFYA48W1PP6RTQ6V",
+  "MessageId": "633291827613270227",
+  "Timestamp": "2026-09-25T02:17:28.421Z",
+  "ReceivedTime": "2026-09-25T02:17:29.745Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "目前token有效期是設定多久？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633291827613270227",
+      "quoteToken": "3AiAVRaa1jLC4jhX9Y6scRhYGS7mJikuv45z5E29H4F3oc61dhICToaR6xYozbqhhoiyJ-Smu6Qd7wuLP8Abj82fyGpS0pAFEX7aedXBXDTdkEZYiX3_ACmBwXBDMjXQtNsoUoARTSg1npwcDKyUhw",
+      "markAsReadToken": "86VhMLh7dq1mDnoGRG7bhp-RCHfKL4xVNlccwPpW5MubmdoUZxIWFh1YYiNEbdGV6VkcKXgZBoaPftEOHu9n9Ax7nIw1euh5-i0mnp4VFpKUo08ax6-9mdLfpbPpgtOjqWU7O7cdUu-wvAsbJjRe5hTqTZUJoMSHmmBcqO8VIhFCi7BoeRrzw6brMSUe4MpUSNMsIK-041_0MVDnNPoprA",
+      "text": "目前token有效期是設定多久？"
+    },
+    "webhookEventId": "01M3B5MYK0MFYA48W1PP6RTQ6V",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790302648421,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "79d4053578614d108280d6b54943850a",
+    "mode": "active"
+  }
+}
