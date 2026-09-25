@@ -1,0 +1,38 @@
+{
+  "EventId": "01M3B4QGVDZPPWG9FEEX3YRV3H",
+  "MessageId": "633290210003648789",
+  "Timestamp": "2026-09-25T02:01:24.082Z",
+  "ReceivedTime": "2026-09-25T02:01:25.527Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+  "DisplayName": "Michelle Pan",
+  "MessageType": "text",
+  "MessageText": "昨晚23:05有通知App更新，後續通報內容會再說明清楚，感謝提醒",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633290210003648789",
+      "quotedMessageId": "633289060831724256",
+      "quoteToken": "ztnCfqOktbQpeQWfD2qHJM2xXi7TrRQTphcTSCw-t4wmBenPabxxwt4shNARAkH2o7DdwpkleOzktEwwemM5kMDSpo8S1aRsMBeVcY6eGdQlpwmYDHsqF3aB5kxN42Rbi1CsMo4jWTIRNN4wyrV2wA",
+      "markAsReadToken": "zEdNG1l7-PRND_k5zVsfHQRFWAF1YI7TIj8OWacQPW4-dqCviw_y1jb7OAiyaTiDzV5Bxleha3R1tzh06-bAkCwtIFldvRCHFdTcmitTChJpIVTWhEhhdtpUsFDca-qdGNxJVWR7ppsDS5nCxNrK8X6U7RvJzTxR02M0cPHwT0Fsc8sThwGE5naiefT9CyxeuLMhCx2Mh68K1eDZvA9P6Q",
+      "text": "昨晚23:05有通知App更新，後續通報內容會再說明清楚，感謝提醒"
+    },
+    "webhookEventId": "01M3B4QGVDZPPWG9FEEX3YRV3H",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790301684082,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9"
+    },
+    "replyToken": "b11a1e9d79704c8992652f94f39f0224",
+    "mode": "active"
+  }
+}
