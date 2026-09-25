@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3C1973SXDXXDQ34QXCTNGC3",
+  "MessageId": "633340441156911347",
+  "Timestamp": "2026-09-25T10:20:24.377Z",
+  "ReceivedTime": "2026-09-25T10:20:25.346Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "只能夠用地圖去判斷了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633340441156911347",
+      "quoteToken": "Z0tbRYEy3vGLDgB4x-qxBzIrV1-XksA6SaIH1VezN1DYjRTa6nNMfwttwhX3qJ7MzzWYm2eC5NCxb59b0PIASbZsOFfxn1iNC1bt72HQH24U6zA40y3Zj7hMzkC51JiHMzARF7rZOlN5zd4tRQcBVg",
+      "markAsReadToken": "bvmAz4PKhkVxQ6_5JdpDg3oD2BzwOvgnFa3YCYvqc8XM6AtcK9vwWeUbz63R-Mwa9fgG356U7hRzbMPYgl2qILEoIg1c9EljCmxW_kVez8yOTCJ5yIDhkkUsMg5DUGGfPkTFxPL6Pd3H3qIh3MDiIshcwsqxpZAJkqWqN7kNSacl6y6u3i_PapxJxKj7SLXXQbG5HstuiyxdhgGiio3Nug",
+      "text": "只能夠用地圖去判斷了"
+    },
+    "webhookEventId": "01M3C1973SXDXXDQ34QXCTNGC3",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790331624377,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "3a10c3a5092542c3bced247e1a4da132",
+    "mode": "active"
+  }
+}
