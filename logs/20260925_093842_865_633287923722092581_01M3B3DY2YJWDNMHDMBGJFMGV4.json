@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3B3DY2YJWDNMHDMBGJFMGV4",
+  "MessageId": "633287923722092581",
+  "Timestamp": "2026-09-25T01:38:41.453Z",
+  "ReceivedTime": "2026-09-25T01:38:42.865Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "我要回報進度了，平台小組有人可以回應嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633287923722092581",
+      "quoteToken": "uenq-a7h1PYbMwVHmrimPCFSyaaO0jk7Ka4aG3l0SQxYCcUXB1mGpnM3XVb8anxSkigCp_zSmGSG7wiROKnS5UYL8TpeUGG7XQsA2BshDyLnyYK-jUL_Bi32UkkZ4s_yFJRM9Pq_gVHgAz6OFLOA2Q",
+      "markAsReadToken": "u5KX7Nb41kMagzuzuyu4XHC6r2fQnN8_lJ9eIxPU1IjQn9ZM-N1JT4SS_AmnftYCFP6csEJ8D3pyok08jVPDJ760VeyJc35pP8HjgqLPKkrcOk7l5WtU9Bs71b-FWzAm0jOZzrBXSF9KKRmZGfX5vMV4V1AdP16oxcWKT82sVi8icZWRXM-F0U6dkmqXOEG6PbwGmcNMYhc03mcK13hrng",
+      "text": "我要回報進度了，平台小組有人可以回應嗎？"
+    },
+    "webhookEventId": "01M3B3DY2YJWDNMHDMBGJFMGV4",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790300321453,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "9d57678003f141f5bd79812b9d3f57e6",
+    "mode": "active"
+  }
+}
