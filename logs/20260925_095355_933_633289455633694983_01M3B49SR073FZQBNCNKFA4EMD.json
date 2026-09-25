@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3B49SR073FZQBNCNKFA4EMD",
+  "MessageId": "633289455633694983",
+  "Timestamp": "2026-09-25T01:53:54.629Z",
+  "ReceivedTime": "2026-09-25T01:53:55.933Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "請系统平台小组查明昨晚換裝APP故障原因及處理情形！另提醒依績效考核規定，本件列入MS2案件，於期中，期末報告要檢附相關說明！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633289455633694983",
+      "quoteToken": "rSXMCDyKKjT_ooN5ufQpYYAkT9LBdTnXmtXUMHtRiKPb-olVgaB5OHKgZHfFhTdLJ466PWJmwpNuXCd4aPkglDCcoJHUvLRVj7wZyS9f2uHZXvmr61VHsu9pAAn8tZq9mI1ZbOWfGzwjDD2CHlg_TA",
+      "markAsReadToken": "P-njQH3cVm2LeJcT4zJoZqIpvFmsoSGpHY5gQp40ESnsxGGsAl-Cg2HDPSjj59eEtlMlPuebsAFB_yX02h3_CV7gPcjQq_9QNXhzOzEjTQDAgNe-g9c0o84CfekY7pLM11o_QiyitIp6feM__M2LupFuCY8hZu0vB8KVj1dq4DrDA6qbZoI80VhS6KVoOUFgDKqJrLnu4-gpqWbtyRRS_Q",
+      "text": "請系统平台小组查明昨晚換裝APP故障原因及處理情形！另提醒依績效考核規定，本件列入MS2案件，於期中，期末報告要檢附相關說明！"
+    },
+    "webhookEventId": "01M3B49SR073FZQBNCNKFA4EMD",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790301234629,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "f86531edf3044ab38c053ff76b924d19",
+    "mode": "active"
+  }
+}
