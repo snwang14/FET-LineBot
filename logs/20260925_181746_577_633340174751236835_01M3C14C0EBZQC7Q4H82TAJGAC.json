@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3C14C0EBZQC7Q4H82TAJGAC",
+  "MessageId": "633340174751236835",
+  "Timestamp": "2026-09-25T10:17:45.547Z",
+  "ReceivedTime": "2026-09-25T10:17:46.577Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Uc61db25e5b9796ca87e83a4207189f80",
+  "DisplayName": "小潔",
+  "MessageType": "text",
+  "MessageText": "工班帳號看不到地址",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633340174751236835",
+      "quoteToken": "i8ETo7aoV_niAFocZwYcFHuK3bk94eNuMdLF-Z2UmFEHkBfNv1XGCy3RwV0IZSP6LBeJZ7tiREnwOd1GZ-Rh5RaJgQH0UWmOB4yIX2UnreJDJsUj6LXe9j-hvjgei-PUNpSU5XaL4LtbLA_XV-80-w",
+      "markAsReadToken": "wNTmtXh7tu2EOAMNwXCFs5CNL-clzVTvKuLlqXI70P5629Kw--qXvYgPpXdqmEkHyIy8IzGalMcX9bxVNulsQBJa8GlssN6HDfwlKvWqQ1DBt_eaXkGLtlaGi3atxwXpJqkzlWHUnfSN3FImp3TXvstm-qx5ohoGSVBdMTPkFOCiRlXWQ5Gd0VegdPtbNamc4kFmdk72ddUKXATR_F14WA",
+      "text": "工班帳號看不到地址"
+    },
+    "webhookEventId": "01M3C14C0EBZQC7Q4H82TAJGAC",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790331465547,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Uc61db25e5b9796ca87e83a4207189f80"
+    },
+    "replyToken": "2a3c90dba93d4d619dffb391d61a5433",
+    "mode": "active"
+  }
+}
