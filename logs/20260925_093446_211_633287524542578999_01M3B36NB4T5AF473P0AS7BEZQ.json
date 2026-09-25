@@ -1,0 +1,55 @@
+{
+  "EventId": "01M3B36NB4T5AF473P0AS7BEZQ",
+  "MessageId": "633287524542578999",
+  "Timestamp": "2026-09-25T01:34:43.498Z",
+  "ReceivedTime": "2026-09-25T01:34:46.211Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan @Michelle Pan 換裝APP恢復正常没，工班今天有出工喔！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633287524542578999",
+      "quoteToken": "1jwJTkfG7iFi4lYyOynMeYKWLYbVJOazOn6UcC2kTKy5qziLivByyslVQ9nCeMtjgin7lT4lnhdljxtMY98E3eoX4vrfT3PiI9l_njYT3Wfc_XiAm2XjfP7YVdSpKd-SMRcF1aP8lLotx0Ib2Ku1yw",
+      "markAsReadToken": "nLeY0G-Eut_PBY8fA-tHixbwYe44_QLIRlt6y0GfGXhR1RjOFV16gwFSUMbc8qWDBuIzVifqPTbfV45m9bDbR_3VSHirf1h6vdGz1Y62ocqsUQ3fJiNGGfJmKT0vwvjrCr2c1uKybivy2zgWeLGALXDCMMTieAee8IciiMkHSmmoIuZo7jJFQLe6gMbae3aEoWg0vcLVcUFppZ-FMMmkKQ",
+      "text": "@林郁翔 Alan @Michelle Pan 換裝APP恢復正常没，工班今天有出工喔！",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 10,
+            "length": 13,
+            "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3B36NB4T5AF473P0AS7BEZQ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790300083498,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "f16a2468ca784adc9ab5c1e51bbc7181",
+    "mode": "active"
+  }
+}
