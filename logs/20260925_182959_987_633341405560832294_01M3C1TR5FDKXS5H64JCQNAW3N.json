@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3C1TR5FDKXS5H64JCQNAW3N",
+  "MessageId": "633341405560832294",
+  "Timestamp": "2026-09-25T10:29:59.011Z",
+  "ReceivedTime": "2026-09-25T10:29:59.987Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "記事本操作手冊 p.15 開始有說明地圖的查看，可以再參閱",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633341405560832294",
+      "quoteToken": "ytcTPMSo1F_VLuyCgCFwzTP-4_OLkgc9aCJeAgb1fLhIhXD6dHjsjQLP639E63DKDT3c1eIHFXic10wLADsKJrrfTSzvy2n_1hiiiiTnqRIF_GaWHU-Qb-M1l8-jYzWvXUOO1AqNHKTCPBWo8VgeJA",
+      "markAsReadToken": "xq-8Qa-YOOu-Deb47SCuyAY2kjjoeCgd3Muc5CXw7QAE7jY-Nvsi4WM_xTozjUfq7F7S3INJNjG_mnVZBfxu01GN-JtdE--efd0FmL0vRJ5nycS3oUk1Qh60ZsS_surzk9EXGXnwlRAzGoplBMKocAkyz6v53SfIcL8rY1fsQ-FWD0YkH9M6T3GYxgWNOv2fChegvblEqxiX8WQCyGzIiw",
+      "text": "記事本操作手冊 p.15 開始有說明地圖的查看，可以再參閱"
+    },
+    "webhookEventId": "01M3C1TR5FDKXS5H64JCQNAW3N",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790332199011,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "86a34eadc5bd421992bdb7e592f9e027",
+    "mode": "active"
+  }
+}
