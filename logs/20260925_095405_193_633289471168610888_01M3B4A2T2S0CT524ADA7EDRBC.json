@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3B4A2T2S0CT524ADA7EDRBC",
+  "MessageId": "633289471168610888",
+  "Timestamp": "2026-09-25T01:54:03.773Z",
+  "ReceivedTime": "2026-09-25T01:54:05.193Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+  "DisplayName": "Michelle Pan",
+  "MessageType": "text",
+  "MessageText": "收到",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633289471168610888",
+      "quoteToken": "9w0OcglsjMrmA_OgDc4zHpcCP0vHv026PWfmg5L7FJ8MOxlN2VZhrrh54RvejaiQ3B_qxLtJow7nf1FXkaUfR3HRsmQ3TyymsK8PEFx7Eq9kjmBnkTpXTTcPR8gJuoJpwg-MacQYvBQrNmcwctIBaA",
+      "markAsReadToken": "fgKKKpBG_xqGOCnWGNnEztMI11Mp9qxlKVj4h3Fio3vko9qPlhLGnVooGENMPIThVfPJjGgF7yqcTCigqyYyrCOZDGybqfAVG-DsX3E6FxsGGRROXHW-cN7nojJr7DnZ-9Iy1mLo9pcy0Jj0bSgrr3G_PYSpYwLPqrJXqnhxwfBA9GQaGf_jx0tr3nEtdb5unig933tJJpnfRsQB0_xr0g",
+      "text": "收到"
+    },
+    "webhookEventId": "01M3B4A2T2S0CT524ADA7EDRBC",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790301243773,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9"
+    },
+    "replyToken": "7259fd6aa1484946be8f3edc0ff042d4",
+    "mode": "active"
+  }
+}
