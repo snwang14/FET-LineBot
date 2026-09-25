@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3C1GZ2BGM8KVJ23SZ3SZ5YP",
+  "MessageId": "633340866928574936",
+  "Timestamp": "2026-09-25T10:24:38.160Z",
+  "ReceivedTime": "2026-09-25T10:24:39.405Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "未來會將類似地址/地點描述等類型的欄位做整理，評估能否合併做呈現，但現在只以原市府的資料整理方式表現了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633340866928574936",
+      "quoteToken": "rpSJfFnWZNvdBqJMpcSMjfbovZTWqaMm7AOMUyxgAOX0rnOlGRtI5gHJS8nKnAInVtrGZu4LcZ3jat4Xt8UNe0fV1WESWvSd5gYAhasIkIRlVGz5Pg_haLqB0Equawi7jDvVN64UnHD8Pml0JN_MPw",
+      "markAsReadToken": "TcA_QfQnp_qhzMRUn4pt80W7SUvCLxPQPga096WnUojtXJvCnrJrLvdgQN3HDW-7TzRDftRq9Lf2bkfNX1s0R6-GsngODpdMPFTngKXycpzaOlbcRWSP1d-DxZyBnE9DXc-IWOQJ0dSqIN91ghyXr53f2nXsT54lZvzt5OmSQFn7n9ZcdqDHZnDvN0PC8_APeVCt6fuXFAFGkwR_VzMuhA",
+      "text": "未來會將類似地址/地點描述等類型的欄位做整理，評估能否合併做呈現，但現在只以原市府的資料整理方式表現了"
+    },
+    "webhookEventId": "01M3C1GZ2BGM8KVJ23SZ3SZ5YP",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790331878160,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "06838ddb56314b6194b28867b24ec1d0",
+    "mode": "active"
+  }
+}
