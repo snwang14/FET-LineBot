@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3BRW8YDREXJQ17TEYKVVPH1",
+  "MessageId": "633325655664886323",
+  "Timestamp": "2026-09-25T07:53:31.346Z",
+  "ReceivedTime": "2026-09-25T07:53:34.079Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+  "DisplayName": "Michelle Pan",
+  "MessageType": "text",
+  "MessageText": "沒有",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633325655664886323",
+      "quoteToken": "ycEAZWeG7mpmI7i5JvsCiM5JE8phqSzm4KkzKbg6M-m1byJCU1zaQpmTs1fD1ct9q5frqviQ72IcclAxAoL2v5K-GYkvH9EKEAwiBofXUj_ME9Op67qBo9TwWT8LUbTK0fTkm5PCQoFoo2QfC5MNYA",
+      "markAsReadToken": "QCSDvZAXQDS5h693Z1RBx4urFJYkW4wlzIdCqVZOSOSk0EfuRnYFHgkshLz5O6CAh6cIxNqPsHxiYdXVkGc6XwLGI14kJAUHDxXniqdgDW-SAXCDeS4LjXDhaRmRqcBHBZRcqCUe2Ya0Nqt_in3GpNlsTYZ8DayL9L0JpvRF6oDTOglHgvkzD2a2HytMX2dNlD10UmT4XxRUNwI92OXlnA",
+      "text": "沒有"
+    },
+    "webhookEventId": "01M3BRW8YDREXJQ17TEYKVVPH1",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790322811346,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9"
+    },
+    "replyToken": "1f7e780225894129895836e3d0b35bbf",
+    "mode": "active"
+  }
+}
