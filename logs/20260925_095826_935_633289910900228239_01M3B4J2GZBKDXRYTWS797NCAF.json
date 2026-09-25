@@ -1,0 +1,38 @@
+{
+  "EventId": "01M3B4J2GZBKDXRYTWS797NCAF",
+  "MessageId": "633289910900228239",
+  "Timestamp": "2026-09-25T01:58:25.971Z",
+  "ReceivedTime": "2026-09-25T01:58:26.935Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+  "DisplayName": "Michelle Pan",
+  "MessageType": "text",
+  "MessageText": "9/24 21:22 工班可以登入但資料用好後無法儲存 會跳回登入畫面 或是沒辦法送審  照片不見\n\n原因：當 token 過期 會跳到登入頁，屬程式正常流程\n\n改善：當天23:05 App 更新至 1.0.17（18）\n-調整 點擊子單 refresh token\n-調整 點擊儲存、送審 refresh token\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633289910900228239",
+      "quotedMessageId": "633273932564922386",
+      "quoteToken": "WcV6C4fWRlsvv5oiCLeXdH7lAMspyAaSes2D-DBDvTpdynkQoDhk2C2WzO6HROceicACxw1FWxsdolHtgv1APJ0V87YxwEnBO-Q3cn46thsn8bApYSEWYEUVgiWb2werU5k60rYlDCR8FtcF9P06dw",
+      "markAsReadToken": "PsyIsvrLMtI1CbRK_J3CHSV4OUR2rbugh_yYmSGf0yOwLMELtLxIQoVxtCETeF24NPNkzvSMVIGbk-neLwxKUPgDWhYU7DXPioDcgoMOZ7HMB9qKfXAxO2dltg6BpXhxtb-Bc3RSAAbj04BTf5rUxiOT4XD9ElKd6kH-dtN6g_1j80DAVIDKF2zW3TVnrs8OmIXFuDNA5SMQdMBqos9YCA",
+      "text": "9/24 21:22 工班可以登入但資料用好後無法儲存 會跳回登入畫面 或是沒辦法送審  照片不見\n\n原因：當 token 過期 會跳到登入頁，屬程式正常流程\n\n改善：當天23:05 App 更新至 1.0.17（18）\n-調整 點擊子單 refresh token\n-調整 點擊儲存、送審 refresh token\n"
+    },
+    "webhookEventId": "01M3B4J2GZBKDXRYTWS797NCAF",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790301505971,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9"
+    },
+    "replyToken": "1b161f0fa7674e34946758b5dd960671",
+    "mode": "active"
+  }
+}
