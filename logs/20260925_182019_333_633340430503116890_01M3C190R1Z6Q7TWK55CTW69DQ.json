@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3C190R1Z6Q7TWK55CTW69DQ",
+  "MessageId": "633340430503116890",
+  "Timestamp": "2026-09-25T10:20:17.938Z",
+  "ReceivedTime": "2026-09-25T10:20:19.333Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "那代表原本北市的資料就沒有地址資料",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633340430503116890",
+      "quoteToken": "-SuKID-NXlvNqBUmnuTjnGsQXVMDNCtDbyjrUYmva-3ErBYTcusbv9L4EQzYGWBO7iPBtW6tG4zA55YqprZsJCWt0Xd8LfTRCCJ2TuOVT66Hm65n7MRJnTnrcBjbfLuFXmn825OWfr7d3CFEAbnUeg",
+      "markAsReadToken": "824kotwV9Q_1grYhM7MgEfzUY5MJCOXDKgGRFP9uewmMn-itca8TdDoieTHq0GmQelSAuWeLTtxp5-8rYihw5aE4vqyiEFSoGptF0GHLFitfYy5z9qVcjpwu4gpjxVvSOoUz9c_48c4McV33Wvz-twN8JEhpEz19wURhfCyP5yD5-TG-u6tSqbB38J2HEI5ig9d-uLzvCtnUlUMc-deLCA",
+      "text": "那代表原本北市的資料就沒有地址資料"
+    },
+    "webhookEventId": "01M3C190R1Z6Q7TWK55CTW69DQ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790331617938,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "8e312a5c97bd430e8a020e7a0fe86305",
+    "mode": "active"
+  }
+}
