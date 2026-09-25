@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3B42KXGGV6QR4PASCWJVH7Y",
+  "MessageId": "633289060831724256",
+  "Timestamp": "2026-09-25T01:49:59.173Z",
+  "ReceivedTime": "2026-09-25T01:50:00.443Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "谢谢，今天麻煩要注意，App運作要正常，以免影響换裝，修好也要再群組回報，MS2绩效考核指標規定要注意！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633289060831724256",
+      "quoteToken": "YNfrRCq5dOWoUTzlYtLLiBJaTZsJUGrdNb8jKD3H3STsXmXwin72bK6xpwIEVmjCs25DFN1ODnIuCHP3DkgnOqKVjw15Vm5rQiWR2N5ZsFLxujdeH7wuoP11DGGtaOeB6SDgnEzgefEMcAhV_S3C8A",
+      "markAsReadToken": "eCGTWeba_gqzilx-baH5GK7x0UcktykbZvn3Bo6ITS9PeGQmQHiYITJOqL46wtzWpqUAldsey7A65-nOVWPggUZ5bqR3BV1skTl2lWicX5YDCOnufCVzD5cZc4Yu2VOOh_CImXpehNRFfxQCADRQJm_Oh1zhxDE-dVS_3uDmqrGd5y_K3ZIq4Ypaa9vWeb1bXB2A9BA73Bg9peEptG6MVA",
+      "text": "谢谢，今天麻煩要注意，App運作要正常，以免影響换裝，修好也要再群組回報，MS2绩效考核指標規定要注意！"
+    },
+    "webhookEventId": "01M3B42KXGGV6QR4PASCWJVH7Y",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790300999173,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "35fb0c045a3049b9a5f522199e663479",
+    "mode": "active"
+  }
+}
