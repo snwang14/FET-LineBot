@@ -1,0 +1,55 @@
+{
+  "EventId": "01M3ECPSSYCCKYDPW3EM9J8FYW",
+  "MessageId": "633473129255272731",
+  "Timestamp": "2026-09-26T08:18:32.579Z",
+  "ReceivedTime": "2026-09-26T08:18:34.267Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "@Michelle Pan @林郁翔 Alan ？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633473129255272731",
+      "quoteToken": "a2-BBf_e2oOilCFzcNT5N4nZi5RIPYuO2S-3k0Gx0xTVNA58nWayGHqNxum4Jbus-T_SNAZ_PDdHrVkUtOSEhuqagOMOencPOlEn7wTvD68p4-fYM5srv8VtiyVNINn62Ah5Sr1_0KVqAU-snDSG4Q",
+      "markAsReadToken": "zNvSSzRWP6I8BjRzih7vu419nmC-iYK4mV9BYbERdhhZbeyhk53NX1Xzk9mx0TdW0CAozhK2tZLhdWRQJke6CsFKJmeAR6mx2lLj8qHPg_ys7Z9XZDsuviRGLmli3uYwQ07dXnyG1x9-GG6dhXKXl1YCuoSDxYGI5SEzEaU3gyjYZUNt9xRHOBik6pZQg-iMsS7AMRW-W_3njJ28E-YmuQ",
+      "text": "@Michelle Pan @林郁翔 Alan ？",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 14,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3ECPSSYCCKYDPW3EM9J8FYW",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790410712579,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "936cadde0a41475f887357fabb1f5005",
+    "mode": "active"
+  }
+}
