@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3F2B8P0JYSTGJ2YTS3YYF0X",
+  "MessageId": "633511197765271589",
+  "Timestamp": "2026-09-26T14:36:43.075Z",
+  "ReceivedTime": "2026-09-26T14:36:45.087Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "⚠️故障回報訊息範例公版⚠️\n平台：App/Web\n類型：資料錯誤 / 無法使用 / 操作疑問\n描述：換裝填單後，點擊儲存，閃退回到登入頁\n\n（附上操作帳號登入頁截圖）\n（若有故障截圖也請一同附上）",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633511197765271589",
+      "quoteToken": "uUvubXM02m5LcgVuJB9gfv8z6m7g8T7nQrYct6Wme2ZDYDa1T8dccDQKna0htydzHR0llaRDL78-JNcBV7l6ndHqFpYPwxoAJYidewHIxTORD3Fi_1L1AKXN8nI4_ve7OvzDDaY4OTS8_y4AZw_MOQ",
+      "markAsReadToken": "AbR-yB8Ex38kZ3Nns_5aDOc4WrvBL8XBXRs2h2g3nQQys43y4bx_9yLQa7L8ip8W7f_X7Tk2YVPbQgaFYY5RsPwq2ZzxhGntmRr12aSVzKWO2u25yC1mV5jHADlSG8b_fiCJeSNwIY90_R-3k3nKG-1fgsps1mEWZXzZBxADP-LcBKMpWEQQEQrHfzLXyLIG8LXN1_Awk-aG_03HCJZfyQ",
+      "text": "⚠️故障回報訊息範例公版⚠️\n平台：App/Web\n類型：資料錯誤 / 無法使用 / 操作疑問\n描述：換裝填單後，點擊儲存，閃退回到登入頁\n\n（附上操作帳號登入頁截圖）\n（若有故障截圖也請一同附上）"
+    },
+    "webhookEventId": "01M3F2B8P0JYSTGJ2YTS3YYF0X",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790433403075,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "7e6bda6d33e9455882f05f449a7f7d41",
+    "mode": "active"
+  }
+}
