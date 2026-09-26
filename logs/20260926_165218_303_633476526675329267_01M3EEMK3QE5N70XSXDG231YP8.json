@@ -1,0 +1,38 @@
+{
+  "EventId": "01M3EEMK3QE5N70XSXDG231YP8",
+  "MessageId": "633476526675329267",
+  "Timestamp": "2026-09-26T08:52:17.647Z",
+  "ReceivedTime": "2026-09-26T08:52:18.303Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "感謝\n另外請確定一下不見的照片格是哪一格",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633476526675329267",
+      "quotedMessageId": "633467301521261344",
+      "quoteToken": "9wKRoafWEyk86Kvc8EC95KtOVQ1--GAOBi1gvavc_xc-OzME6Um04LZOvLxH5mG8GdmmnAGiKPen8lFWSSi5Sv4paorvatuNAo7A0KOhwwGW5vcK9OcxON_1NikRE84w-k0M56IzKSX55yx9ArJeRQ",
+      "markAsReadToken": "mGakr8qaTSv5JN7fla4w6XqgQlKrgMJQ9t11LbFG63iTPtbClO8y37U-aeRpY84mzIaChbA7arCbAkah41Gg4Oj0ZB0C6KQQHyS1G4QfyvxCNeEy5LR9jbJHAMtomfedatlVO8pZRfzpME4VRRF-TMONaTgFR9yQ8bt9D4out7TmNUgPjD71W2wx29vOGFVmgZmpRoKv_3PPo2hxzHkUHw",
+      "text": "感謝\n另外請確定一下不見的照片格是哪一格"
+    },
+    "webhookEventId": "01M3EEMK3QE5N70XSXDG231YP8",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790412737647,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "cbbc5bb9e6674a9f8e14cbcccf89e77f",
+    "mode": "active"
+  }
+}
