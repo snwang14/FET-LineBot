@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3EDYS1JW0YVYP4V3B1DAT6V",
+  "MessageId": "633475327054315661",
+  "Timestamp": "2026-09-26T08:40:22.550Z",
+  "ReceivedTime": "2026-09-26T08:40:23.700Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "請問有無截圖？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633475327054315661",
+      "quoteToken": "V3IxmqAZ1B3UuYewNY6Tz6f2wkh71Fq5NNs8lo08o0hhmeRkz1KhBeK0JxMSJQCcVtSSb-lPAWEbOFCyPSp2wIXSwLTKCF8bJf1o79vBgXUhnZeS4IeQq1TpVSeKfnMGEXZ6QqHSt9L93n3od7RzmQ",
+      "markAsReadToken": "Smuoa8mRKvUv3JpGQYVY_tt_ZKu5fMaI4zsW778Ld1o1yk37--1dY_B6Vpq5pK0rIa_FZNWxpziqL0mZ9z64YOgLtgr2f1QwSeLIOBrtQlb_E_3CZztAh7u-qYEvUFedZ6tgGqBs0_4e5PSKBC4ajGSI5iT4X2msVphr5qIS3gWjMEoDRkwymvCArTIHatoecOv6KuqVNFnWGQWYhqmIrQ",
+      "text": "請問有無截圖？"
+    },
+    "webhookEventId": "01M3EDYS1JW0YVYP4V3B1DAT6V",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790412022550,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "1fdf45668c964dcdbc72632f9f8720e1",
+    "mode": "active"
+  }
+}
