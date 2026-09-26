@@ -1,0 +1,55 @@
+{
+  "EventId": "01M3DSX0RPVF7J2QGH20XR607B",
+  "MessageId": "633440045575438411",
+  "Timestamp": "2026-09-26T02:49:53.177Z",
+  "ReceivedTime": "2026-09-26T02:49:55.390Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ueb641723e67562103c0ef055e5237fc4",
+  "DisplayName": "Andy",
+  "MessageType": "text",
+  "MessageText": "@Sammi @胖仙女 9/29 週二上午與技師月會，以及10/2 週五上午工作會議 有無系統組要準備議題出席，目前系統組思納捷因需求訪談安排及內部開發討論為優先\n\n或可以線上參加\n\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633440045575438411",
+      "quoteToken": "Vi-bRRF0t9-edxZ5aeL9fGbVGiAp5-X_2MLZ5r0rkkQPM902wf2ZfAtobNwxwKueyui_nxBbUukeP09eDuiemoSqbFsOQ_rd_0ewtJP_IsOYa7P4__LcwzJkECWnd3xUZy_qwQxFwvYvJ65B6Ghlzw",
+      "markAsReadToken": "YCPjMnz6I3BQzMtZjO5M5uUHuISDbX6yvKMlZxZDLTg6brcSdtri9exjrRf7OM9RHfJ_kTVWHMuQnYKfFdxH8lTAdX2KYHt5PR3C5X7uz0vlPTQlLkeHP1h49HY9_dScywTW6kzj1flinwr70HhUttU9dnIYSnQDwss_VRzqNWP2m8wRSWed29FUtkPyUYZoVNGh52pWgLSHXqN1YBU27g",
+      "text": "@Sammi @胖仙女 9/29 週二上午與技師月會，以及10/2 週五上午工作會議 有無系統組要準備議題出席，目前系統組思納捷因需求訪談安排及內部開發討論為優先\n\n或可以線上參加\n\n",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 6,
+            "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 7,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3DSX0RPVF7J2QGH20XR607B",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790390993177,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ueb641723e67562103c0ef055e5237fc4"
+    },
+    "replyToken": "7c6f2feae8e544569ba370d7123afaf0",
+    "mode": "active"
+  }
+}
