@@ -1,0 +1,38 @@
+{
+  "EventId": "01M3EDMSDD2HBYXNQT72WT31RX",
+  "MessageId": "633474777918996992",
+  "Timestamp": "2026-09-26T08:34:55.262Z",
+  "ReceivedTime": "2026-09-26T08:34:56.224Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "GPS 會是手機有無開啟定位的問題，手機有時候定位設定會跑掉",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633474777918996992",
+      "quotedMessageId": "633467990461382693",
+      "quoteToken": "0WmqG83IotX2JSi8zC3pniJ-dU7l4-JEXHW0C953FczTMeix5sdzJDXjPcSRNRNeQtcb8QffDLXzFh67X3SwOo7v0Fdgtg5m8PJqTc4_Liq8uJSxlWWEke6-CAiVApjLXGgxy0PQJv6nIyC2NwXVMg",
+      "markAsReadToken": "B992elzdPbwMbk2ztMsctQQ6GwrbsHDGUbMoa1msYqGrFZC-YGJyE9nTDJ1iqFkOZ1uGBYYgSXFgFMzIu3dkDkIj953nm-pU4tVC3nnBtNSbnnVOUKOozhFn3GF2il-C-b0YLHDNZJwW09CX5ElrPqARY3cTuyOOwYGc7oDa2vX88y6B_Z_E2aA6popPWLZ95BwSLRrmpMQjTnZq57tRiw",
+      "text": "GPS 會是手機有無開啟定位的問題，手機有時候定位設定會跑掉"
+    },
+    "webhookEventId": "01M3EDMSDD2HBYXNQT72WT31RX",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790411695262,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "028b44a540b647f28d5d7498cdcc950e",
+    "mode": "active"
+  }
+}
