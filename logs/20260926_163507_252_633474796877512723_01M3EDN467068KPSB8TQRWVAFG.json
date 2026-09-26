@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3EDN467068KPSB8TQRWVAFG",
+  "MessageId": "633474796877512723",
+  "Timestamp": "2026-09-26T08:35:06.480Z",
+  "ReceivedTime": "2026-09-26T08:35:07.252Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "無法上傳有跳出什麼通知嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633474796877512723",
+      "quoteToken": "93QefPv3a0WlXmhobg_KKAZTZPkpQHyXUjX6li3YKctjFLTls1IR4-q2Q7wTEfU-zPnZ6qn1JPFlT_Hdrg495bDQYFUhFzecbot1DTMxI6LnAusUOAFK14r9FgkOEW4u3Pm6SNw8gpb15ehchiisXw",
+      "markAsReadToken": "7fvk84nLVj1zl0pcaveHPRbr5K6eiuOo5F8jXrg7FCAzKVxGAZ7fRM2PlK15UkR-OL0ZCc5KzZXOj2WnvYMFgjn7ltHWP6XjM6iz96dYD5BWWK9nd_D4_zWPoFiSX8VL0bUn4OGhiJU_uU5oqrdL_FoXajY_uyUN9cX9esOg93D8YXwEuM3hdm0NDqyE94A0V169Z7m204LX4KBNmk3_HA",
+      "text": "無法上傳有跳出什麼通知嗎"
+    },
+    "webhookEventId": "01M3EDN467068KPSB8TQRWVAFG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790411706480,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "21795df9509f4b8595a464b4f043cce6",
+    "mode": "active"
+  }
+}
