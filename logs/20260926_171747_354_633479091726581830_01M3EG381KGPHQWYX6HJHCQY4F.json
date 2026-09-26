@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3EG381KGPHQWYX6HJHCQY4F",
+  "MessageId": "633479091726581830",
+  "Timestamp": "2026-09-26T09:17:46.395Z",
+  "ReceivedTime": "2026-09-26T09:17:47.354Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "但這樣會違反 50 公尺內的規定，所以沒辦法",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633479091726581830",
+      "quoteToken": "XBiq5hGW5Smp5liQqCg9UjtXszbPjpK1Q5a64YKeZHQPoWHqRq5QJAhu88T8ApoEP7Rdj9PD03bPdDwfu9lk3Yb3RnMHh0-m8HukbJewJOoEluZPtYneDLy6oT0TThYiS-3rCiNLdscEevr9vm3ClQ",
+      "markAsReadToken": "fGS362D_Zf-urDv2whtR7oS7zf3x13SlFrIONHFBU4f7Ryih4VZuPSEIRa1KUy3pHiKq6TomFhJdS5X8U0CYuvpLXA0BdKuJrD1BU7SDNkZdpmdhJ6tyXeBEmeKSmMfx-Gpkv740DgQgX5vdNL-zvpPHwGxysSbOYMsjfS-D4uS4XFemIAldoaLTqlUrEUiA4pRVWKEzvZ7HoZN6KYGyBA",
+      "text": "但這樣會違反 50 公尺內的規定，所以沒辦法"
+    },
+    "webhookEventId": "01M3EG381KGPHQWYX6HJHCQY4F",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790414266395,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "b34faf80ff4f4b49b484c094f13b650f",
+    "mode": "active"
+  }
+}
