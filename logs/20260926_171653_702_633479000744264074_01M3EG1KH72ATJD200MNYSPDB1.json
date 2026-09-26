@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3EG1KH72ATJD200MNYSPDB1",
+  "MessageId": "633479000744264074",
+  "Timestamp": "2026-09-26T09:16:52.144Z",
+  "ReceivedTime": "2026-09-26T09:16:53.702Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "重新拍攝會跑出來嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633479000744264074",
+      "quoteToken": "gA20y3GQcLV7aQIoLd9r6nPQddBKfNCZByLiDwSADzVh7YP_dPUE8JrH2viC_qbPDPEEYoaGe4lgUspMyzeya2KJJaPF5YZQkDsZejB4nAdncwR0djmt7meRWUbRBM-t34h_TQIC2T94bHtKEM1lQQ",
+      "markAsReadToken": "nJZyox_wumbhZqapfxVNdNZZPdwNt6SNaiAvdoeC4Q4hMDbRvleh3NlWAaPRQ8hFjBaZMSF0emHaJuY_9HSjfWnU-e_mgNzqIjB9FY0xAxQ6l2js7WcJ2wIlrWixIOdfQQ6kbFwgtA-_vdF3KTE0jgTmjxHochqlhDdtQrgwdAe1BiYM53Y807K3N8BFEY1ufWN5bpfbJW4aCX4IRW8dbw",
+      "text": "重新拍攝會跑出來嗎"
+    },
+    "webhookEventId": "01M3EG1KH72ATJD200MNYSPDB1",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790414212144,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "3c7c79daf6dc48bbbb720437a28aebd1",
+    "mode": "active"
+  }
+}
