@@ -1,0 +1,38 @@
+{
+  "EventId": "01M3E4CM4BTWW4XAXNC0F93GBE",
+  "MessageId": "633458496134447549",
+  "Timestamp": "2026-09-26T05:53:10.499Z",
+  "ReceivedTime": "2026-09-26T05:53:12.160Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "Andy哥，體諒系統現有其他更重要的待辦工作需完成，因9/29會議通知較臨時，故由Ivy出席即可，但也請平台小組需stay by，如技師或楊經理有詢問較專業之技術問題，再煩請連線回覆，謝謝！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633458496134447549",
+      "quotedMessageId": "633440045575438411",
+      "quoteToken": "xX-SpmcmYZSK_QcN9v3tk3uZ6aR6baR9v0WYbaWhOn6PnKYbw9EW3x-SX1c0gjKLV1E4xQyB9Sb9DjiB_X5lrsLfW5PmAyTlyvyH2cyvPlb4160_8iDW76gvHJjI9c3gktmeplxKKlludbkhU7_DDA",
+      "markAsReadToken": "qChpKmZAbaZh4SMNdUWHP2xWqqoMFL2qrEIyiFtYXU791I74M9ZpbFaguN7xjxCdr6AdDgd2bdrkkZIBQ3cRi1KjqbUQQd7LNU-TT8lvouBaCjsJlpa4zF3gXpDaB23n4htQ7nEm36BiWUvbFktnPioKFlg8LE_Nyo4MenDrvq-gMpfvxsHbODoXrii3X5cKOUS2iuPUTFYcRY5e0GFH2Q",
+      "text": "Andy哥，體諒系統現有其他更重要的待辦工作需完成，因9/29會議通知較臨時，故由Ivy出席即可，但也請平台小組需stay by，如技師或楊經理有詢問較專業之技術問題，再煩請連線回覆，謝謝！"
+    },
+    "webhookEventId": "01M3E4CM4BTWW4XAXNC0F93GBE",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790401990499,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "ab23408a7a0a46cc9cfb9614b22637ec",
+    "mode": "active"
+  }
+}
