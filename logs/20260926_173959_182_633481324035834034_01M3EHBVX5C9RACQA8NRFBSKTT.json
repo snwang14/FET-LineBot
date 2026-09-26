@@ -1,0 +1,38 @@
+{
+  "EventId": "01M3EHBVX5C9RACQA8NRFBSKTT",
+  "MessageId": "633481324035834034",
+  "Timestamp": "2026-09-26T09:39:56.969Z",
+  "ReceivedTime": "2026-09-26T09:39:59.182Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+  "DisplayName": "Michelle Pan",
+  "MessageType": "text",
+  "MessageText": "這是規範問題，我認為可以下週提出與PCM討論是否可以調整規範",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633481324035834034",
+      "quotedMessageId": "633481032582300040",
+      "quoteToken": "mqSXr96Dg1GZlt-aG1KP3r_CmOdf6IHcIlGIlj4QMI2wRL8b68KJX_jQqNC0tVZSL17Wq7n1qJnVI0LS4zVcMBFN2PudYnhYtnOZt37BW_3LrR3Ejm9B_hwptzZbj451FQmGB-OPZQcbnRPZfVbh8w",
+      "markAsReadToken": "TE8cgFLR07F4m8ycNW_SEOseYAxSKNi_YuUcc1AWwhc70KF2bv-RHwInCIML8Fc9Hp15zjc-pTNf9-r-tLwVCSYYXLcbo9r1_ctS3dbP7p_CpZEZiAvIi8t3vPA0IeXMTxWteXCwuqhKNurZJ-3RXpNt64qFL0xjGHuOpWAjqtAgDlj50ovUsK4Brqo_gMLrrRDXUqELo9QveTA1DEoIAw",
+      "text": "這是規範問題，我認為可以下週提出與PCM討論是否可以調整規範"
+    },
+    "webhookEventId": "01M3EHBVX5C9RACQA8NRFBSKTT",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790415596969,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9"
+    },
+    "replyToken": "dce2acf4bba24cee87e1560e91d5c780",
+    "mode": "active"
+  }
+}
