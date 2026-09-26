@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3EG2NJ4AY8STSBAZAMA970Q",
+  "MessageId": "633479059044564999",
+  "Timestamp": "2026-09-26T09:17:26.983Z",
+  "ReceivedTime": "2026-09-26T09:17:28.261Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "我們原本有設定如果沒抓到定位，會自動帶入原本點位資料的經緯度",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633479059044564999",
+      "quoteToken": "a16NPiP_thDHldhGzz_VvOJMginfHkbiBddJfG0SXTK9PJvZZVnwvtM6XSlGA-rzATQ7h-OC-gPIWXNFiJgfVEpMmc-sERQBNigxYtOjCYhuteuNtpXBPI5_MnYhv2A19UJa3vp8_ddsDThhvIk2qw",
+      "markAsReadToken": "QnHstare2Lw5juvhIz4MnKTOiAVLhY8RUak6D5S_1C0OBjuWsyuFks_H89UwujfUzlBx8AfJGqocYd8TO06XfjeFcWEdbbQ2r2jzmSsvJOSRF4DqjJCRxgDy3NwIp_t4QqBWoc1rsNIVJ8gPTTFJCmCUpPKFXAkKt0wT19RlgkNvXLXbGekW26ZV8zTEasTwSnYq5MoA_NEU396W4GAl6A",
+      "text": "我們原本有設定如果沒抓到定位，會自動帶入原本點位資料的經緯度"
+    },
+    "webhookEventId": "01M3EG2NJ4AY8STSBAZAMA970Q",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790414246983,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "c0c6a3936123483dba3c17616d04c776",
+    "mode": "active"
+  }
+}
