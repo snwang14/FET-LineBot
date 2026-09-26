@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3EG9J15AZR5JDWK738Y4T5K",
+  "MessageId": "633479438764081697",
+  "Timestamp": "2026-09-26T09:21:13.216Z",
+  "ReceivedTime": "2026-09-26T09:21:14.391Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "那能請問一下目前實際施工安排的時間嗎？\n我這邊收到的資訊，最一開始和我說平日早八晚十，到昨天變成需要我們 7*24 待命，資訊不統一的情況需要安排人力有點難度",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633479438764081697",
+      "quoteToken": "60a_aEQIIr87ZnM8XvKGqjw2LpdBjNf0PJNOzulX-wjiQOViS7kS9ymxmhSrv2919G2h3R56wmJbNUS4w1BeDOPQyflvdKVQCcKVxtcL__dVy2gXBE0TnCJOCADZf3ZcRd_0tLhXsa4XhFbU-0hi0g",
+      "markAsReadToken": "CrthwfLJvASpYPRmdNzXnUSpTbvaaaTw_lf3X5AEevFhjKLtspTGQpkQQCxsfEb3NrjQJEN6eLbvuYhP66XRPX-pWCbGZAaSDWF6kAcDGRKDi4mtBx5P4VZdR11Vhb6zDxSVMInj6bziio2JMF2vAdqQIK6_F83HikkNoN-tSUO-7lT4_uNBZnHRUWNgCOYfU5yx3acPOrhNnYpcmbOVQQ",
+      "text": "那能請問一下目前實際施工安排的時間嗎？\n我這邊收到的資訊，最一開始和我說平日早八晚十，到昨天變成需要我們 7*24 待命，資訊不統一的情況需要安排人力有點難度"
+    },
+    "webhookEventId": "01M3EG9J15AZR5JDWK738Y4T5K",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790414473216,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "e88a02e4b4da4efd89ff638ddca30cd0",
+    "mode": "active"
+  }
+}
