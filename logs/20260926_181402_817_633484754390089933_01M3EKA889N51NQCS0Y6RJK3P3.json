@@ -1,0 +1,48 @@
+{
+  "EventId": "01M3EKA889N51NQCS0Y6RJK3P3",
+  "MessageId": "633484754390089933",
+  "Timestamp": "2026-09-26T10:14:01.571Z",
+  "ReceivedTime": "2026-09-26T10:14:02.817Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "問題紀錄再請 @Andy 協調，另外現群組記事本已有提供給工班故障處理 SOP ，以不影響現場作業為原則撰寫，再請落實佈達，也請工班遇到問題先統一於群組截圖回報。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633484754390089933",
+      "quoteToken": "XaN8hOI9KywEqBbSK_T1gQvfQNmMhxxOXy8Rvi2H03DEXBB40nwbbso1GXIJp2D2ZQArQ1ZWWHAWABnsZp3EaPVgo9UEexT5TpeDOW8LWvY2_Je6bvRVjNVof2nvCEuxUHZJ_qw-xREahvzqE3Actg",
+      "markAsReadToken": "Rb2U1lJdOJQof2eaiK1kl2RrS_aX3IJU9Xmcf00cTcS-c0VDUnXuuImdiTSyQzEjEtcbxdrK1V8jER3PKmo4zKUL85fzmnq7UrQWC6N07Hg2oPW_vpBiC2tZNopGw36pYPhTmjSVDpnwClnGREtxXYj_I-DGN1JfPHa-TIoS8vKNAQGjMgHmUOlK1k3euGtbQt4ALy2rtbZ11QrWsiUZLg",
+      "text": "問題紀錄再請 @Andy 協調，另外現群組記事本已有提供給工班故障處理 SOP ，以不影響現場作業為原則撰寫，再請落實佈達，也請工班遇到問題先統一於群組截圖回報。",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 7,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3EKA889N51NQCS0Y6RJK3P3",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790417641571,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "63008f26efbe4bcd820ea88ba527fe12",
+    "mode": "active"
+  }
+}
