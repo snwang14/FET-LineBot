@@ -1,0 +1,38 @@
+{
+  "EventId": "01M3EDHM09KVH7VD63Z84RT900",
+  "MessageId": "633474603771232412",
+  "Timestamp": "2026-09-26T08:33:11.518Z",
+  "ReceivedTime": "2026-09-26T08:33:12.848Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "請問是在 App 上嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633474603771232412",
+      "quotedMessageId": "633467301521261344",
+      "quoteToken": "6e8aE7S0fRfpspe1svh4KSk3j7UwCCUsMHCLdpPGpzO71sYIWk4UZFN0JIS9KHMRvcBPcX7W866RTpEcE5xg25P9IAAPIT0e6FKlG1ZlrxH3oeFtTgp2qscZBLD5dOq6RdIZsza4I-4FOMwHMoQRYw",
+      "markAsReadToken": "-hl2b_CQuFK5W03JVL96e6etpXw-y5CFfMozkMMfCGYbgK9jBpDN1D5qWfQ6LmCfX5PNCkT4_Al8mlBx9BAk915gMhRgXLGC7S8Hdr9w_CbG0lemMAOIzVaGOk1YayCUtG3vrDF3P44JUCnq_8UrMM0YXeJJfR1WwZSrfes6cO5vl_XClhNif5rC39U5hTOv1OZTnKkzhjOIn7tDleSzNg",
+      "text": "請問是在 App 上嗎"
+    },
+    "webhookEventId": "01M3EDHM09KVH7VD63Z84RT900",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790411591518,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "6d44a34d623748a690e9ee0d5d5d60a8",
+    "mode": "active"
+  }
+}
