@@ -1,0 +1,48 @@
+{
+  "EventId": "01M3E9CSG8YYA70WW3R4MEZMT5",
+  "MessageId": "633467301521261344",
+  "Timestamp": "2026-09-26T07:20:38.857Z",
+  "ReceivedTime": "2026-09-26T07:20:41.338Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U397813499eab417a38ee6a8732dbf917",
+  "DisplayName": "張麗雅",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan 請問目前系統有時候照片拍好後、系統照片格會不見",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633467301521261344",
+      "quoteToken": "0XafgmZXbeqVg-JhSAgWMPEmsT9DOJOl7BImHlUCYoL4wzt_xKC6zbA7zc6TG2W8kCq6rAiFuLRA8pp9cecu0O2yBcEgSo2mjSrVba-0BeLIEenyXMZQ9VA4qPYwrvILBKBg8KdNvTtjdKqJCi5A7Q",
+      "markAsReadToken": "9Oa3JMFtCfxGCI-up96Fx8_4pSggFevOf75TrM2PZY-n-gnHY0kMfWkTpAMMoVfweDf-V_2_eRhx_KYIqeqXHluqGI8SqQ3NWy_P05enqdGf7ZLvYD3qEtUVQKIF-PYgDRc9LeVcQ2x8A70cEHwq4umaGrr0XphtrEM4px5gR8BkibtaIny2hpAEa2ikg_fiYYrCS4XHNtL3C9buqGCfFw",
+      "text": "@林郁翔 Alan 請問目前系統有時候照片拍好後、系統照片格會不見",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3E9CSG8YYA70WW3R4MEZMT5",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790407238857,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U397813499eab417a38ee6a8732dbf917"
+    },
+    "replyToken": "2daa7bc3f2a54f71b2f2901563d3c64f",
+    "mode": "active"
+  }
+}
