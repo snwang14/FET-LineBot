@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3EJPF0NX15DDY44BF166YM6",
+  "MessageId": "633483665984193219",
+  "Timestamp": "2026-09-26T10:03:12.836Z",
+  "ReceivedTime": "2026-09-26T10:03:14.129Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "是全面性，還是個案性？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633483665984193219",
+      "quoteToken": "2K3iKbZwMlakNjB2Mkf3brnKq9AX_HQ_0e2cgglPQF6Z6YcMwqZ7yGdOSbZdLqx8V8QQx2jnApXkcoey45hGwS43i8d233BI1cEh2KCKWyDG128sk9e2f4vaRoEq-3Ssgk9DtvXYxrbtDugNzf9fcA",
+      "markAsReadToken": "DhoLnLiKuGJQCIwkTu2pTbSWiLU5RR5hMhf2QndpljizusrTrGuacSLu0LQF9Ze9GeohLklEb1LJ4ywFvEHKwlKtin3dAOZOOTn1l_-8zDOUUc2eHFLZq9UecRI4tv3g7SIF2ZoD1VDAojv_vrDZj4zt3R8mrL4uJnb7Fft9bGHiqJOga-hZZTIOIX3Nb-0YHQ7upVdXLJ6Y943kFoxWWw",
+      "text": "是全面性，還是個案性？"
+    },
+    "webhookEventId": "01M3EJPF0NX15DDY44BF166YM6",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790416992836,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "1425b0b4f9ff4309abade729dfd67534",
+    "mode": "active"
+  }
+}
