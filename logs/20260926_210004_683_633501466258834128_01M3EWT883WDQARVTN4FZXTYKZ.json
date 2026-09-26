@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3EWT883WDQARVTN4FZXTYKZ",
+  "MessageId": "633501466258834128",
+  "Timestamp": "2026-09-26T13:00:02.804Z",
+  "ReceivedTime": "2026-09-26T13:00:04.683Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Uf38ab7997c845ced92a325202ffd1aac",
+  "DisplayName": "JiaU佳毛",
+  "MessageType": "text",
+  "MessageText": "目前師父換裝到第二盞\n送出時發生螢幕閃退的狀況\n因為是閃退所以沒辦法即時截圖",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633501466258834128",
+      "quoteToken": "iyHFw8u4Wyo-5e2-rmgya4Px3M5eh3bnALhRg411mc2TRYx2_5fUHXnPa6SzFMUvvlinvH6StYt6VJu8UFH9zrPPKC5ltF7Z3181hLH2kn_LjW7i4-8ZoGq3w8kVRSk-Vr9EGAMcWf9NGY1x2zVtpA",
+      "markAsReadToken": "KvonbiuNeTa-uqVgegQrCcFFishCzljXYWO_JEOzbn2wiO2WD-_NeuVThli4lx0IqiOjsXpdROCF-XmVE2GRQJjO35OCtW9kknKDRJ0nysjcinWLwgVB7nh0KF8vG4tTMInWBuc2X_f-0iUnV33hFthl7_tV6nKtnWlmjsJyEfpoEQ8IB5oHzACudX15qqDsecP0NJ7iHJByd0tbwFkZ2A",
+      "text": "目前師父換裝到第二盞\n送出時發生螢幕閃退的狀況\n因為是閃退所以沒辦法即時截圖"
+    },
+    "webhookEventId": "01M3EWT883WDQARVTN4FZXTYKZ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790427602804,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Uf38ab7997c845ced92a325202ffd1aac"
+    },
+    "replyToken": "2d09c163ecc843288ada130643338792",
+    "mode": "active"
+  }
+}
