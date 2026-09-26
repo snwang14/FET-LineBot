@@ -1,0 +1,62 @@
+{
+  "EventId": "01M3EDBFVF6K1EDXWZ9K77EG6Y",
+  "MessageId": "633474266414973621",
+  "Timestamp": "2026-09-26T08:29:50.410Z",
+  "ReceivedTime": "2026-09-26T08:29:51.754Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan @Andy @Michelle Pan 請問有回覆嗎？或在處理中？都需要先交代一下，謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633474266414973621",
+      "quoteToken": "S5A5_MIcfwBa17-E4cuRlBLZb00gakK4ZHDhbAZtRk-F0Y5XzbEzj0LIAuOertfwYK0_MbHY2np24kaDs5XnuqaNA4jpKyijBBGtuknVpOTFEzTIYBnHjPZMiDKcrqBjegi9mLQSG4YRvmfg71adYQ",
+      "markAsReadToken": "3QbKBeBzo_4E4YCcDbr28ChfkWcavig_vXxfCkgHwDlyYZTBcGnkkTZd3BwfclNJg3k1mM0pkUN1a1o73oT4IDrBTFiQ80EYgcuENTdENMbytn4mKvPBwKd9gneu4R8FN2o3vhnwAA2NNIPKDHxX5lptYH141Jag49Vo9kluI00OeJCS41ElfrhrjVTYrYu8s-XiEj22Vtag_GVfce7WOQ",
+      "text": "@林郁翔 Alan @Andy @Michelle Pan 請問有回覆嗎？或在處理中？都需要先交代一下，謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 10,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 16,
+            "length": 13,
+            "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3EDBFVF6K1EDXWZ9K77EG6Y",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790411390410,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "d8f03f69168a46e48b1cd3061c09c969",
+    "mode": "active"
+  }
+}
