@@ -1,0 +1,55 @@
+{
+  "EventId": "01M3E7X5XQZPSXRGKAR1VDCZS4",
+  "MessageId": "633464683403673963",
+  "Timestamp": "2026-09-26T06:54:38.524Z",
+  "ReceivedTime": "2026-09-26T06:54:39.844Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ueb641723e67562103c0ef055e5237fc4",
+  "DisplayName": "Andy",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan @Michelle Pan 上面有需要線上支援的部分要請你們幫忙",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633464683403673963",
+      "quoteToken": "c7Wv7GWEHyO0CISGqgxp2Bu-31HXC-yla2s-2eCCDiRzCn7XDixTb9l2Ibr7jM0D5amGnzE9kpv9qDacjG9b6FYxGGliXXtEkbEXN0OIxjAHSRdNaBmpCdiSxOQ4JDAiir_RLMQVy8wGg0s31AuXrw",
+      "markAsReadToken": "do32Y2nKvBsC_xCpWC2ulGLSXDLHizZ9VB1xy6LdzTrAbROfF0z6C7ECjprx04ZRmL4QP5Eot4QiRPuLIapzj1pJh8MacA8MnqC7tWNi7X8iP-cWepzR3TFIVLIO2sPGtVFgSWy_3Nx7laNTg4IdpEim25J2wdnIktgdBnZIMw6dJCz6RQdEPCF6wZT8CSalzoXbPzhryn0j_YnL0m-w8A",
+      "text": "@林郁翔 Alan @Michelle Pan 上面有需要線上支援的部分要請你們幫忙",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 10,
+            "length": 13,
+            "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3E7X5XQZPSXRGKAR1VDCZS4",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790405678524,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ueb641723e67562103c0ef055e5237fc4"
+    },
+    "replyToken": "78ce0996fea847d3bdea25050378134b",
+    "mode": "active"
+  }
+}
