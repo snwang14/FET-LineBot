@@ -1,0 +1,55 @@
+{
+  "EventId": "01M3EDMRT72ZX9BRT0KBYW5Y4W",
+  "MessageId": "633474776576557169",
+  "Timestamp": "2026-09-26T08:34:54.407Z",
+  "ReceivedTime": "2026-09-26T08:34:55.784Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "@Andy @Julia Lee 佩玲 麻煩一下，系統沒人輪值嗎？有問題一定要先處理，不然工班要怎麼趕工？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633474776576557169",
+      "quoteToken": "-U5hNCvkQIH_bSs8UTXvGNxgmgYMIpUzPGY8igDbbdcx2PKh1in9Sy4IAfTBOq_gQxzPQCXfqmklkpn5ZA0oNw9-DvS5i9batSjq3rPfXahbwPXgqwYA_MGp_Tx5yAZq0cqkkquQLXArqkGA3BQ9cg",
+      "markAsReadToken": "MM5XGqYSR18p6jGMzgTgbEQKHYYQzaSQCInTlsP2yrm7C8RkKNNs-MGC-BJZ3PEBqZRRU2h12Rld1DUMwtPWsGPk43-WpqRUM2qUTWt2TmQ0b_6y8g4Lk4cTHMwCftzq3j4LSTpcF3g3MSI2dfXoA3Ph3G2CdaZmRgpSuv-vFbk2iYW_Ztldcf4rbGBZPkLQ8QfZenn6BQfKvIcmE2qm7g",
+      "text": "@Andy @Julia Lee 佩玲 麻煩一下，系統沒人輪值嗎？有問題一定要先處理，不然工班要怎麼趕工？",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 6,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3EDMRT72ZX9BRT0KBYW5Y4W",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790411694407,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "9aed359eac7341c8b4213f5685fca14a",
+    "mode": "active"
+  }
+}
