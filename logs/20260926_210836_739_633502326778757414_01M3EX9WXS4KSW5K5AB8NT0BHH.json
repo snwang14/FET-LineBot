@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3EX9WXS4KSW5K5AB8NT0BHH",
+  "MessageId": "633502326778757414",
+  "Timestamp": "2026-09-26T13:08:35.645Z",
+  "ReceivedTime": "2026-09-26T13:08:36.739Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "好的，有空還是麻煩截圖給我一下，我記錄一下時間，確認一下系統有什麼狀況，避免之後發生",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633502326778757414",
+      "quoteToken": "decRnEgVD9A9473B9PPaLY7bRe095VcgM_x_mBj34_yH6mRnePFwkuqZF6wI7hIH4kAjpiUDx-az-A3fFR-pmVlQOvU9u36Ew2DpZmo18XLybT-IfwMGrsJCTsnO71Jnqre2tga9EY7GIzXYmlq--Q",
+      "markAsReadToken": "uvgdM1LG2E2rsVz5ru6IpbFjneCwiqfxVyKe1iw3a5KvnzfQguLSfaSr3mtUpeMHL3GGfGBIKiPiW-bNlyS6yFENtfAb_G8TT_Kau1Res4cTwAOCMPJamrWAIYvvthiY2wKMcsrI-_PcjzFcpH2jOHF0EUbG9qlqflVQ6ow7TTolFBAmO88osfXVt2vL5uTFBiHqXU--Kn90WZXmMXsWAw",
+      "text": "好的，有空還是麻煩截圖給我一下，我記錄一下時間，確認一下系統有什麼狀況，避免之後發生"
+    },
+    "webhookEventId": "01M3EX9WXS4KSW5K5AB8NT0BHH",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790428115645,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "0c88db7d25a941728273e4a10ac82dce",
+    "mode": "active"
+  }
+}
