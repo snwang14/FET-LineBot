@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3EJX4JM6TPGJ2919W6G7HQ3",
+  "MessageId": "633484032516030863",
+  "Timestamp": "2026-09-26T10:06:51.480Z",
+  "ReceivedTime": "2026-09-26T10:06:52.821Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+  "DisplayName": "Michelle Pan",
+  "MessageType": "text",
+  "MessageText": "我們後續會持續了解狀況，包含工班實際的工作流程",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633484032516030863",
+      "quoteToken": "GY1iVB42tTzY1vX2ackD59TrRDKtkvE8yFoRyxi9Qg_a1P3Q4ybFdj6LzUeMebG35eP5X8uXIBthLK03NFN2gy4SvFzKYO2Xi5g0rOMZ5JV1dUWrLPOQ_GTuAbY_puQWeaJSmSH5_S2YrEO-zdEktg",
+      "markAsReadToken": "GLJdZuJKNkalPjA__isQX7MuLySM9PmDaikBeqnszYlHyaBJq5ELCXth7QyxDNUURr4rkCba4pJQNrFy9E9P4xg40Cp59BMs2bHR1t8sfZ5coDCS4Dcby8dy5JF7eXDap7K-ldlVDBwx88hf3GQg7oCSGDoeAeYIe9-4uTTjY-x3700JnmLrxJPefbUhBniTN6m9Di-W5b13Qswa9TbNbw",
+      "text": "我們後續會持續了解狀況，包含工班實際的工作流程"
+    },
+    "webhookEventId": "01M3EJX4JM6TPGJ2919W6G7HQ3",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790417211480,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9"
+    },
+    "replyToken": "7fe7e1161500439b9daf99ad60f17637",
+    "mode": "active"
+  }
+}
