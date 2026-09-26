@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3EEPMXQ0V7C0XQ740CXP8T0",
+  "MessageId": "633476638898389456",
+  "Timestamp": "2026-09-26T08:53:24.539Z",
+  "ReceivedTime": "2026-09-26T08:53:25.988Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U397813499eab417a38ee6a8732dbf917",
+  "DisplayName": "張麗雅",
+  "MessageType": "text",
+  "MessageText": "稍等、我詢問一下換裝師傅",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633476638898389456",
+      "quoteToken": "ha5AVjiiwymOesuteTz2UJuAEV9tQrGIZs6oLHrgBRkzyW4kaTwpradc9Zs2k63PQHMbD06aorA9yW_1AyMt8d6AkTdGBE1hI7_C3S3XzyK73Hlg8UMoPLJobzibEu_Ur2re14spWYGUcldBg-TiDw",
+      "markAsReadToken": "aMKP4EzWUeY7wbaXqC7ztt1aVfG0MzFi5godl1I3QU2aElZYpCqanhYy2ej-URmO1VfM1fSWIqt2-lpaPY0cBRsQTb1quqJL92xYUjiCNNrk8fZC1BjM4RSbYgbfO58UeJmDYNMuwyca313XRWfSVrKchZ4nrzeaOVozL9xfOW2HhCrD1cMDpMyZQ9g9bYAnKFpam6ogsgMQGz3vSqv4yw",
+      "text": "稍等、我詢問一下換裝師傅"
+    },
+    "webhookEventId": "01M3EEPMXQ0V7C0XQ740CXP8T0",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790412804539,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U397813499eab417a38ee6a8732dbf917"
+    },
+    "replyToken": "40e4660bf1a94162a110b31f27935a5d",
+    "mode": "active"
+  }
+}
