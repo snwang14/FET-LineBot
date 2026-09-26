@@ -1,0 +1,38 @@
+{
+  "EventId": "01M3EJA134N2S0A2BD0Z1PKKSR",
+  "MessageId": "633482982933922168",
+  "Timestamp": "2026-09-26T09:56:25.781Z",
+  "ReceivedTime": "2026-09-26T09:56:26.642Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "目前正值換裝趕工期間，各工班都在搶工進，如果要求施工時間完全依照早八晚十的時段執行，現場實際上可能會比較難落實。畢竟如果因為時段限制而影響工進，最後機關端仍可能會回頭追究整體進度。\n\n且這個案子除了系統建置本身，後續還包含維護、保固等工作，相關工作也都還需要符合每期績效評核及 KPI 要求。\n\n所以在 APP 及系統穩定、沒有異常的前提下，施工時段可以盡量依照協調的方式辦理；但也請留意，工班本身有搶修及工進的 KPI，現場遇到問題一定會反應，也需要即時有人協助處理。\n\n尤其目前正值趕工階段，如果確實有特殊施工或搶修需求，建議還是保留適度彈性，依實際工進及現場狀況協調處理，避免因為時段限制反而影響整體施工進度。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633482982933922168",
+      "quotedMessageId": "633480536765760102",
+      "quoteToken": "ah3v8rd5krZFKl-OK_lGkA8JQmnT2RzbzRYSTNsrHGdxFxMIqc4mlpPSTRZ07evgM21It9Ypkvknhh17kZwqizamTKNsCTlAKQAK0-q_m4ytB0Wd6gJqUBhOhOUNDNrDhDxz7yal0369r5t2lkgJ1w",
+      "markAsReadToken": "ipIEVOMSQkHXEDJsXyOithAJGcV3NlHppvJQFtWOe28D7Uh8Ytb2vvCKEB7DFNlAZC_Rr3Av9qVBoA8gAweE4VPRSU2NWB9HqC9OqfYKLps8P8woHLTvpdllnqTv5yoG4mVNsMGYTHBvct9PIbDmFZJLvyAPji8kGUeEt6SbkEvNNoPyABPx0QSK9mNJq4a-pE8IjS4eHzOqf10jPJxP-Q",
+      "text": "目前正值換裝趕工期間，各工班都在搶工進，如果要求施工時間完全依照早八晚十的時段執行，現場實際上可能會比較難落實。畢竟如果因為時段限制而影響工進，最後機關端仍可能會回頭追究整體進度。\n\n且這個案子除了系統建置本身，後續還包含維護、保固等工作，相關工作也都還需要符合每期績效評核及 KPI 要求。\n\n所以在 APP 及系統穩定、沒有異常的前提下，施工時段可以盡量依照協調的方式辦理；但也請留意，工班本身有搶修及工進的 KPI，現場遇到問題一定會反應，也需要即時有人協助處理。\n\n尤其目前正值趕工階段，如果確實有特殊施工或搶修需求，建議還是保留適度彈性，依實際工進及現場狀況協調處理，避免因為時段限制反而影響整體施工進度。"
+    },
+    "webhookEventId": "01M3EJA134N2S0A2BD0Z1PKKSR",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790416585781,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "626b210192924c329803ed4d24d9ee1c",
+    "mode": "active"
+  }
+}
