@@ -1,0 +1,48 @@
+{
+  "EventId": "01M3EGXHM58TVTJVEYWRZR91KC",
+  "MessageId": "633480536765760102",
+  "Timestamp": "2026-09-26T09:32:07.692Z",
+  "ReceivedTime": "2026-09-26T09:32:09.121Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ueb641723e67562103c0ef055e5237fc4",
+  "DisplayName": "Andy",
+  "MessageType": "text",
+  "MessageText": "@Sammi 之前有討論早八晚十的時間，如有2家施工特殊支持請讓團隊知道，有規則依循",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633480536765760102",
+      "quoteToken": "WueX1KojMGhJHOgXLOcc6mA1sMpi-UIV97SOoIs16PSPZ8ITfXGztjF1nyuPnbO5kYLU2Byv7hQa-DY0K0e-9QnP3uM9HZWqXVsXU1luzyXVkohBt2lEEjio_KHxm2cznWVc2vl0LrKq18eBsLw7BA",
+      "markAsReadToken": "Rj1s6XfehQtO0Wy6KJ7X9fNnT-LIvb4agWLCB292EZGHjYe5Qq3dvUeVODFixD0Q26WQfTy0RkZsZVZAg4CBvI0bt_7G3JX0U6iKY1M33EVBeA4OhjfITOQGdW386gVw4M_cPjVA66ICdNrOb8Cj9rIisQFBNRyTyXhaHepQv7E66XswiI7k5MRm-nfLJ-of3rf5WiB0g5KJT3mdZKrndg",
+      "text": "@Sammi 之前有討論早八晚十的時間，如有2家施工特殊支持請讓團隊知道，有規則依循",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 6,
+            "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3EGXHM58TVTJVEYWRZR91KC",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790415127692,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ueb641723e67562103c0ef055e5237fc4"
+    },
+    "replyToken": "66c41de172f242f6bdb80a6df73a42f2",
+    "mode": "active"
+  }
+}
