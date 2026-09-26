@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3EJQAMZGSNRKFBY23KKY0CB",
+  "MessageId": "633483713832812567",
+  "Timestamp": "2026-09-26T10:03:41.531Z",
+  "ReceivedTime": "2026-09-26T10:04:06.714Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "另外建議可以先把現場可能遇到的問題整理成一份「問題懶人包」，例如施工時APP／系統操作、資料異常、搶修等，把「遇到什麼狀況、怎麼處理、要找誰」先整理清楚。先把答案準備好，不要等現場發生問題才臨時確認。目前正在趕工，這樣後續處理會比較快，也避免大家各自解讀，不會讓PCM覺得我們沒有及時處理，謝謝！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633483713832812567",
+      "quoteToken": "Uy17tVWTXK1Ce1fmU9vMvFtrCEtsNQ3x-o31XqUoM2Aq7cObLjpmjDaGhFEsGwN9B_ER3WO59BfurJnGSD3tgX-1rKEDP8Qx_D5iFzVDua5GA-f7kf94Pl0hLOHVJabQHoOoR1dD-QRufidvTZs2rw",
+      "markAsReadToken": "3ILQzt5Jtbl3dUPDvFR78GHEzkh4UlU-SS6-NxkGKNMDHwWuUnbKhTTwhsWFzLVWJdrKU2Q3w0FjZO5l9zCHoe5y47gVp9clLimpkFqZasc2yC1SMBSL-EU1O-j_iCmpxN-Sd0FgMrrF6G86NcCkb_s1Z6is6LaNFgoLwbm4JeG0l6TE5nVTigCkSaj5jAOuxmKhyafIst_AOiHJxdJ3ig",
+      "text": "另外建議可以先把現場可能遇到的問題整理成一份「問題懶人包」，例如施工時APP／系統操作、資料異常、搶修等，把「遇到什麼狀況、怎麼處理、要找誰」先整理清楚。先把答案準備好，不要等現場發生問題才臨時確認。目前正在趕工，這樣後續處理會比較快，也避免大家各自解讀，不會讓PCM覺得我們沒有及時處理，謝謝！"
+    },
+    "webhookEventId": "01M3EJQAMZGSNRKFBY23KKY0CB",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790417021531,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "0367cbf52c014e889d0e488c2691539d",
+    "mode": "active"
+  }
+}
