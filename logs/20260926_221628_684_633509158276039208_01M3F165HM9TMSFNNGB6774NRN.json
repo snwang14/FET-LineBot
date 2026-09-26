@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3F165HM9TMSFNNGB6774NRN",
+  "MessageId": "633509158276039208",
+  "Timestamp": "2026-09-26T14:16:27.548Z",
+  "ReceivedTime": "2026-09-26T14:16:28.684Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "目前我們後台統計有更新 App 只有三台手機，再麻煩工班同仁們協助佈達",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633509158276039208",
+      "quoteToken": "xMIQLYQeomP5tSFw08VHwAqBrxV4_ZtRE7PZpkh9n0_xESVjVfR6d8gmS1Gkm1qUMDMlOvYng5EysUWMXGtuNvQGU7cVan4VcCNv6pxJyFEDUUA3yFWgzLpa1bs8e1DrLdIne6ccLQmNcG35NId7ow",
+      "markAsReadToken": "Se8sFLZ3ol6qmPqCAqYZZr5tQxtyfV-ihDhtkgKo0g-Qoxe-b3-hd4gBvtmI_rmQcjpmWEk4NW2Ns8fMtRoAEc1hHLXyFYOY8_k0CH3_WBlgmROAgmzp2nN9bQ_6iFUYps8G6IQNDkAhgFFQtxMfq4R1mrINt9wfRYbMrIfY9kKMtNQuLPOAmmTXDLHVGSQtbp0hX5tthnNiumTKuInbMg",
+      "text": "目前我們後台統計有更新 App 只有三台手機，再麻煩工班同仁們協助佈達"
+    },
+    "webhookEventId": "01M3F165HM9TMSFNNGB6774NRN",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790432187548,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "19120bf070d240bfa213cddea53832e5",
+    "mode": "active"
+  }
+}
