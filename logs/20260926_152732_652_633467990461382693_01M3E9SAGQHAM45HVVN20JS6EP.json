@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3E9SAGQHAM45HVVN20JS6EP",
+  "MessageId": "633467990461382693",
+  "Timestamp": "2026-09-26T07:27:29.560Z",
+  "ReceivedTime": "2026-09-26T07:27:32.652Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "有時候有GPS有時候沒有",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633467990461382693",
+      "quoteToken": "7uSY6IaQYW8_E0UndbjazKw2AQ3mAaZsdn3nFjEJRk37M1nh_k11pFnhryQXNJb8CNcMkUzizUXw-9fz5hYVp6dS6YcPBHPdDgDIwbt33K8_Whz_l3nT0N8GFVdJeXh-6L0TFX0ic2ID4TGewcbNww",
+      "markAsReadToken": "d8EODPOdUJmhn5ydqL9_IZWXwX3naaVkdG2cFis80dNatY5j5cV1jpfN9nxvt92RLgNONXnRhV44qLPGwVs4NyuRObKvjgW3Zuorgu7mpFxq97o3J__UH8L8__ya2IX81a72wLHJDVq9bVHtX7Lk3bxHW6reZgXL1SAAlNv3tyAbOF-HNjjOKKQtsXEWb4gl-3DiIfigWM97qJm86tBurA",
+      "text": "有時候有GPS有時候沒有"
+    },
+    "webhookEventId": "01M3E9SAGQHAM45HVVN20JS6EP",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790407649560,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "8ee90a007f5845c3a98dffe509912160",
+    "mode": "active"
+  }
+}
