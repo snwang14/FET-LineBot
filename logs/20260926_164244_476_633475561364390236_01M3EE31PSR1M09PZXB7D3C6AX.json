@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3EE31PSR1M09PZXB7D3C6AX",
+  "MessageId": "633475561364390236",
+  "Timestamp": "2026-09-26T08:42:42.268Z",
+  "ReceivedTime": "2026-09-26T08:42:44.476Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U397813499eab417a38ee6a8732dbf917",
+  "DisplayName": "張麗雅",
+  "MessageType": "text",
+  "MessageText": "有通知換裝工班，等一下有無法上傳，會截圖傳上給你。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633475561364390236",
+      "quoteToken": "yYYdLBN9vqEAhgkCRczYYvwgAhep3P-lYZLjRpHNgztY6w5Qsr-t3g3hOQSFBdRYg8N_P90z96nlhI5ScI-HfdX6rfD8b8u4tfmIVDB6nHdsnbK5BEJ_teKCscYgR6my29BEows-dKtSDIflqHScdw",
+      "markAsReadToken": "03CufEACG6PLdnUxtZIYBHcnFnOP5s9BsJcvMcm4jCZptj1mslNTAoL1DEIOAF9VeXZbZKAlt-mLxscZOfFnYhdudx00eHB9kUwThCht637MmhRwB3UJMED5Jpt6h79fgZfOyUfGomE4P0T3G2mZhO6At-GoTyrEWgk-C7jrbiVTQLbJD2iY76Gb7fK3mcK32jr5n2CfzUolr1B10LdVnw",
+      "text": "有通知換裝工班，等一下有無法上傳，會截圖傳上給你。"
+    },
+    "webhookEventId": "01M3EE31PSR1M09PZXB7D3C6AX",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790412162268,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U397813499eab417a38ee6a8732dbf917"
+    },
+    "replyToken": "7c83cd3b965e452f96ed2bd77da81005",
+    "mode": "active"
+  }
+}
