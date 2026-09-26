@@ -1,0 +1,38 @@
+{
+  "EventId": "01M3EH6J76G5TS5Z75SFXTJHA2",
+  "MessageId": "633481032582300040",
+  "Timestamp": "2026-09-26T09:37:03.209Z",
+  "ReceivedTime": "2026-09-26T09:37:04.656Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U397813499eab417a38ee6a8732dbf917",
+  "DisplayName": "張麗雅",
+  "MessageType": "text",
+  "MessageText": "一定要有50公尺內的規定嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633481032582300040",
+      "quotedMessageId": "633479091726581830",
+      "quoteToken": "Lb1mp0NIbtsIwiZF6E3QSH3IhczO393Oqw2ocRs20PBuvpPTMDJSljEklfQMN7NeVblq7Ur8dyvP7rgcUPNkkWCmAk6YHQbPa87ABklI2t0D1CpLobQipy2FQZUu8c05yrHPuCvav6Tg3yTpYDmgeg",
+      "markAsReadToken": "mUxXqQw2cfIwOpO4va9JMowMLkSvf8cLfBoK63DRjuNMdA3nYAy6olzZ1w33zFXkomBpKsC0wFThxJr11YsiMxF7jp7Sjg16rhxDsORJjv3LpUnHsgQK_cCaKKc-L4XQXtpTt8I6JlzPxa3u336dDhd9gVzqXLmwEldvQ6c7mIcT12AFX3HxBWXHAh6Gyf1d2nNrijE5PQYK1rSz1ktXNA",
+      "text": "一定要有50公尺內的規定嗎？"
+    },
+    "webhookEventId": "01M3EH6J76G5TS5Z75SFXTJHA2",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790415423209,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U397813499eab417a38ee6a8732dbf917"
+    },
+    "replyToken": "ad416f67548942ee8d4839770f704dcf",
+    "mode": "active"
+  }
+}
