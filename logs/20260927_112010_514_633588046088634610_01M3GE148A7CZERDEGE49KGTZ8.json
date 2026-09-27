@@ -1,0 +1,49 @@
+{
+  "EventId": "01M3GE148A7CZERDEGE49KGTZ8",
+  "MessageId": "633588046088634610",
+  "Timestamp": "2026-09-27T03:20:08.334Z",
+  "ReceivedTime": "2026-09-27T03:20:10.514Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@小緯 \n請問問題排除了嗎\n\n若無 請先確認如下\n1.版本請更至最新\n2.請提供操作帳號\n3.直接截圖登入頁面",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633588046088634610",
+      "quotedMessageId": "633508207394554203",
+      "quoteToken": "zbbng04E0fR4-Y_Q2fsX4fYfnJXCAG3L50e-NEYviXC8r6Cdq07B4bozHMAQ5gwjML2NIQY4xjLbrk94CJcRgLjlr0pJNzSKfeuISzyisrVEgDAZBTzTjwGLtHweqEd-1H5huqQr7XpOBGvJ9oifBA",
+      "markAsReadToken": "L9wAaB8LrYnY5UWg2jxiWDmG3DAEiS2g3F8SsHjw8eEn8-X8ksK64pT0t1nfsUAgcJXSn5yUKb_kpoOSvj4a5B1AnHCZx8JWa6mHPDZlzCCBWL2z9Fu9EDTzvV_bQcVqLhFhTHXRrsnMC10TA7_ewfcn1iNVlvL2rs1St9GIi061LtmwaLmjSUb-uB3euUfTGWVcm0zAoOd7e2WGCT1LGg",
+      "text": "@小緯 \n請問問題排除了嗎\n\n若無 請先確認如下\n1.版本請更至最新\n2.請提供操作帳號\n3.直接截圖登入頁面",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 3,
+            "userId": "U7f6ba92f284175d74f127ed44467bbc4",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3GE148A7CZERDEGE49KGTZ8",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790479208334,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "8f85b07a04134479b6d832b451c53b5e",
+    "mode": "active"
+  }
+}
