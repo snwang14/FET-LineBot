@@ -1,0 +1,45 @@
+{
+  "EventId": "01M3KN1KCN3TZYQQ2TJB5D6SSB",
+  "MessageId": "633769271579377937",
+  "Timestamp": "2026-09-28T09:20:27.035Z",
+  "ReceivedTime": "2026-09-28T09:20:28.379Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "簡報內容不足部份\n再麻煩明天會議上，相關同仁補充\n(Brown bow)",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633769271579377937",
+      "quoteToken": "RLmvri3fUD3La7v0-4fiMcbmwSYpIZeIJHmTV7hWnhwdSxw0VSVcV_0hYP-1jwCcFgd49frs1R-mUnJ_5D3bTCvNuOu9VzNaGo1L1fKf0ZqoURt4jfxQ9DxkwhPVXmaBilyKXQIdJjnZhbqG9wXy8g",
+      "markAsReadToken": "GrQlP1KwVfpmVsV7XnjTUOBrP-lIzSLlpynX2p-BzjzZYw1M2aKvS1QWOWCN-dpx2wxpORe5gGApcC3xAybHpsdl-zxKVX6PAmzcw5IAnUg_zCZFobZmCe6688qW_dCaAbc8lNR3UsuDa2ounjxqcSHPxneygIMGlazCrsqpbx5pzJeAf8o5Y5dB9o3ywaxo6rEQJZvIg3snAOl7i6lnFw",
+      "text": "簡報內容不足部份\n再麻煩明天會議上，相關同仁補充\n(Brown bow)",
+      "emojis": [
+        {
+          "index": 25,
+          "length": 11,
+          "productId": "670e0cce840a8236ddd4ee4c",
+          "emojiId": "073"
+        }
+      ]
+    },
+    "webhookEventId": "01M3KN1KCN3TZYQQ2TJB5D6SSB",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790587227035,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "5ddfb9c0f6ab4ec6a5499e2efa330517",
+    "mode": "active"
+  }
+}
