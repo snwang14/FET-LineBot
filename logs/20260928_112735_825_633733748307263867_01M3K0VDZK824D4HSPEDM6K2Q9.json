@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3K0VDZK824D4HSPEDM6K2Q9",
+  "MessageId": "633733748307263867",
+  "Timestamp": "2026-09-28T03:27:33.654Z",
+  "ReceivedTime": "2026-09-28T03:27:35.825Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "請遠傳系统平台小组，針討换裝APP近期運作問題？於明日PCM與承商會議，及後天下午第六次例行週會中報告！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633733748307263867",
+      "quoteToken": "6niUPuRxqzGNOX5ExchJgTnvvjxbttiSXiOAQC7bu5Po9nY0_t3WN7I7PXiG2Gn-47LdrdkRjMbLVYk6IzbdW52mjwl6zkVI0OnXUZ77iNTfEaG9QtwF8Az1I4aNLKYkYmIW5547cMtHAALX8x9xDA",
+      "markAsReadToken": "RZh3rqo7bfKgtMlvpLPet1934Pu6o22yXpJ0m38L3thCgwPv4g-0oyx_hnPzreFpRZruRgaJ1JEAQ93iuVq-TdEjIeac106BUgpUyeumOwL-GxtM-BPkK_tT2Ey2-CQ_OtIHSFUqE3melAgZamU5_-4sxhbP6lSR0adlvBiYcPYaR0yepGt2GIgFTU-cizkkr_Pq1hhVVBtD2QEIjJpsVA",
+      "text": "請遠傳系统平台小组，針討换裝APP近期運作問題？於明日PCM與承商會議，及後天下午第六次例行週會中報告！"
+    },
+    "webhookEventId": "01M3K0VDZK824D4HSPEDM6K2Q9",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790566053654,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "45165279a4184ebd9aef1bb2cc689999",
+    "mode": "active"
+  }
+}
