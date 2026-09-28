@@ -1,0 +1,40 @@
+{
+  "EventId": "01M3KMZGECBH680B4S6E1P932W",
+  "MessageId": "633769153014792669",
+  "Timestamp": "2026-09-28T09:19:18.492Z",
+  "ReceivedTime": "2026-09-28T09:19:19.909Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "633769153014792669",
+      "markAsReadToken": "HYeemp5Ncoi3XCLSGOkHBHJKoqjP-t1DeljEEEWWEvyQqKmPrMw-s4sKWjHHYmYtWj1ucqahDK9U3_uoCd0kC_O8hz2WU-GJXlXdavQGKQn2rhKV4pdCzX_SJWrpictnegeZKU49OFr5UyoK8H79A3YhCz1TACTPbZuqsmb8l5c7X8wHJkRnl5-jtJwVVk5SVQfO7lfjd1x577EnW1sdQA",
+      "fileName": "1150929_台北路燈PCM與承攬商協調會議_ivy3.pdf",
+      "fileSize": 1505248,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M3KMZGECBH680B4S6E1P932W",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790587158492,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "75ececfb6c8c46f09e2fc24f3ca08720",
+    "mode": "active"
+  }
+}
