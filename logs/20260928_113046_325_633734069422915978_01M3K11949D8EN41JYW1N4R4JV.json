@@ -1,0 +1,69 @@
+{
+  "EventId": "01M3K11949D8EN41JYW1N4R4JV",
+  "MessageId": "633734069422915978",
+  "Timestamp": "2026-09-28T03:30:45.005Z",
+  "ReceivedTime": "2026-09-28T03:30:46.325Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "@Andy @余國維, Nick @Michelle Pan @林郁翔 Alan ",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633734069422915978",
+      "quoteToken": "38Yqx54d9BEfJzT3Y3YQdR-CeDTbPZ-O5K0hzwUuYIMzMr94GTum-3AAl2io4ZDEg9tTLS37-u5uIfkxmYK30vsJOKoskvMxAi8VTe5wGcbCMWEX-7YqZC5AsTkjs0o_CmB7WpxaH7cBj7CbCuBsQw",
+      "markAsReadToken": "lB7UgoJxA_cVmxRjfMW6Ux-hWeohehHzzjvcVe7GsP1J2CmCZXEJWGhWEhyaTsAbLF62WHUrp1WF4zCaLv1AiI92BC5-6TqPygvWGaPkjmB2Nr5zCVopOkHl72jK1sRx0sardAQhorJALdxc-kI1MZ5m4hNV5eHDq4DvNP5g8mCBRuW4XF_ssZYWrLj1iJGEJb9SOR-MJwqvPksUSr1DkQ",
+      "text": "@Andy @余國維, Nick @Michelle Pan @林郁翔 Alan ",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 6,
+            "length": 10,
+            "userId": "U3d1818b1c5d77ba851c4cb2ef24dadff",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 17,
+            "length": 13,
+            "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 31,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3K11949D8EN41JYW1N4R4JV",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790566245005,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "1e42f64f44204d7f963f0afce3afabef",
+    "mode": "active"
+  }
+}
