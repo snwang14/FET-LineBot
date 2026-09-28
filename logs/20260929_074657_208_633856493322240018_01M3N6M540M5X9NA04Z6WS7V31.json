@@ -1,0 +1,38 @@
+{
+  "EventId": "01M3N6M540M5X9NA04Z6WS7V31",
+  "MessageId": "633856493322240018",
+  "Timestamp": "2026-09-28T23:46:55.238Z",
+  "ReceivedTime": "2026-09-28T23:46:57.208Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "新增欄位：遠傳工班或億光工班",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633856493322240018",
+      "quotedMessageId": "633856178949980335",
+      "quoteToken": "dP6K-E_al28nwWNrDRO7nqNzRhR2kUIBCGsS2KTlACXLTFi-VOsHVaplKvx_llSyI3qn2vwisQzmQVI3OsIcXXifh4aPkraUaPeyMBBMtgVzivCm2FeJpqZRSFrjACstnGMNzvHGmbHkJPq0dJGXmA",
+      "markAsReadToken": "mlHcv1ebLweM24siQmKb-9UZcn9bCvTt3kkpCXb2pbzL5Rw0RQ46NCYmOVL-d_eAFH0ojypR6QTgpF8GNpTai2Q1PO8ez0krKuttk1IcdgUqCu1mU83D4jjcxsQPPy9iGK7w_jOGZaAjaOu6Rv9znbUtV6loMqKtR2aKN8wqHksBfH9w54KDdd9eNPlQ6C_ODRkxp9Z4XP_7f7UWTjqr_w",
+      "text": "新增欄位：遠傳工班或億光工班"
+    },
+    "webhookEventId": "01M3N6M540M5X9NA04Z6WS7V31",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790639215238,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "06241d5cd49a457ba4a8533b79efc4ee",
+    "mode": "active"
+  }
+}
