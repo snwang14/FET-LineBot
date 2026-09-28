@@ -1,0 +1,38 @@
+{
+  "EventId": "01M3JZDH6ZEHQ18Q4964XS2Q65",
+  "MessageId": "633731225114902580",
+  "Timestamp": "2026-09-28T03:02:29.569Z",
+  "ReceivedTime": "2026-09-28T03:02:30.563Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "必須同步作業，需要您們協助提供清單給我以收斂問題，至於工班因為很多都是臨時調派，公司無提供同一手機供換裝，要管制數量是有問題的，所以當天Alan直接回覆只有3個有更新，這是很好的資訊，以免後續問題不斷擴大，謝謝！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633731225114902580",
+      "quotedMessageId": "633730220276842622",
+      "quoteToken": "UtKdVhErRSWwZ594CiPTcanPxiMQtsZgWhyzglwWVye7yYP_TkkExE8QdPlVvFMwIq6hwsY3aODxVlg7Z4a1dXvYNpv4s2j0LHryvf5mCMITwiMyDNv9wotkRvmuDjNOM9LHTVNTyT3IPR9FSbqCLg",
+      "markAsReadToken": "Suk5sJZFFq4d0n5o-efOxkABSwETWgGcpso7MUFuT-2VV2obj6uYUG9BvJCawEMMEhMsIcP8kS50qWWiZwC958xNWaMFFYmadI46mbzumbGb9qYwm-kOQZtOxtiWRK8hvnUaP31HzJK1cqkvMME9d6MWgEimRfHU1Lhh-okMVc9iYj9KR3BdbVi-f5ILXSzbGTAX8XpjhHq5fztJ6JjOLQ",
+      "text": "必須同步作業，需要您們協助提供清單給我以收斂問題，至於工班因為很多都是臨時調派，公司無提供同一手機供換裝，要管制數量是有問題的，所以當天Alan直接回覆只有3個有更新，這是很好的資訊，以免後續問題不斷擴大，謝謝！"
+    },
+    "webhookEventId": "01M3JZDH6ZEHQ18Q4964XS2Q65",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790564549569,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "beb0b4bc9bac4d119540f6ad36840f0d",
+    "mode": "active"
+  }
+}
