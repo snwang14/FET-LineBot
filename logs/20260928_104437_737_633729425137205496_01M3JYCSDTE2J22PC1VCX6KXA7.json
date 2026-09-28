@@ -1,0 +1,49 @@
+{
+  "EventId": "01M3JYCSDTE2J22PC1VCX6KXA7",
+  "MessageId": "633729425137205496",
+  "Timestamp": "2026-09-28T02:44:36.888Z",
+  "ReceivedTime": "2026-09-28T02:44:37.737Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan 有空看一下，有多少已更新，謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633729425137205496",
+      "quotedMessageId": "633729367558324667",
+      "quoteToken": "yosZZonhuSDt94bdMj1bXgzNL0UAV5hSivmoQxQuZc2PoLImqVlk97_FLgxz8Mqd1elFcpTJtKLKwAqALuQA_5gIpKB3LN91CgkEZWqq4RX8Ws-Yp6B4rZqfxmY3pgRjEv9rNfMXKwEYNtG0H-9aIg",
+      "markAsReadToken": "Vv_NdHw2rVuOxjanHusxTOZhS0s7dHJOB5_-Ipjwf3_u-iIFp5Nw8b3cs4HIfuN34_XrItZImQpX8sl25C1DkKSOLa2c2ErB6qI1Ho2EHomoosHQR55NFDwoGT4lZ32-hfGydda9HxiWe0CKKvoYnDoILBeDY23ZZ7uELbqIO8KuXez74q4oacO7zsAwi15jdfoHfJok8O--OWrnR9WA7w",
+      "text": "@林郁翔 Alan 有空看一下，有多少已更新，謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3JYCSDTE2J22PC1VCX6KXA7",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790563476888,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "1ed5039153ef4464984370b51b2c9f97",
+    "mode": "active"
+  }
+}
