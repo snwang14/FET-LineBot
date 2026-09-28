@@ -1,0 +1,56 @@
+{
+  "EventId": "01M3KH43Y6CW1610F6HMCGC3B2",
+  "MessageId": "633762372972445755",
+  "Timestamp": "2026-09-28T08:11:55.212Z",
+  "ReceivedTime": "2026-09-28T08:11:57.454Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ueb641723e67562103c0ef055e5237fc4",
+  "DisplayName": "Andy",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan @Michelle Pan  再請安排",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633762372972445755",
+      "quotedMessageId": "633761919920767198",
+      "quoteToken": "TCk0PGiTHQwz26CbhDgIaRV5C0mU6bsZgGZnhhnvpXEZWkEw38_Gf0YmZzxhfs3ZWUU-YJh_mCnu2eLwJM0OQmL4R1x7Jst6OcvJDh9HsMPMhyON9q-_6qvDVYAu914m-2mzRop5RGIwsXlZ2tWnqA",
+      "markAsReadToken": "oyR4CY8Y7y7ygRmeiWSk41G47628r7erEjUP8SLjXvLfk2Ji-4iDs5gep4YITvLdaQrCeexcgESC8er3cda3sFF23fCxkjeegNOEtxDvnmtbJbctYHx1ljW3xe3ud6zCJpRricxnScBjkl6_FxMlKG7GL4BqZ8SWy-ut0l9sscfURv6nx3NBFr3IHPhdhcNWUzTsnpLO0wj181q4DEOMmg",
+      "text": "@林郁翔 Alan @Michelle Pan  再請安排",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 10,
+            "length": 13,
+            "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3KH43Y6CW1610F6HMCGC3B2",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790583115212,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ueb641723e67562103c0ef055e5237fc4"
+    },
+    "replyToken": "f2371af5f26c4de884a5245119adfb9e",
+    "mode": "active"
+  }
+}
