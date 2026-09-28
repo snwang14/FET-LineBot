@@ -1,0 +1,38 @@
+{
+  "EventId": "01M3JYF5K5HV9DBSQQ99X9FZPA",
+  "MessageId": "633729556066599460",
+  "Timestamp": "2026-09-28T02:45:54.893Z",
+  "ReceivedTime": "2026-09-28T02:45:55.894Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "了解，請問有私下請求協助的嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633729556066599460",
+      "quotedMessageId": "633729403327348788",
+      "quoteToken": "jNmyUNGQfhAu2nQoe16DlwRfFzOkB9Uf6NikaKjUqUvKLiDdkx2W-4S5Kpo0OQbdQPXMQA94BJ29ZU4dVSZ01Gw1LFIgz125xLTAg-M8AcL8ZZUaEwLSSKzZpMtZ25fDD58GN3zofgplJjY3yZvfpQ",
+      "markAsReadToken": "6nel3hq8TxtLXrTfouhsMWasD0VkWMgOVhkTSKBTem30qCzE2zxl59E_sazJw86Wfyv3unXW7w8ourMroKPyjMtUunSQS8WU-clyjfQgHTzqhVtax9ZhS5wG4pUTB7cO4qx0Vyotai4pZ_JSwLjb4Ilw1312N1U-rfFjrk7RTF4cfhGo8HTjfugHIF56HJGBBcfUF1O19EI-AOvSo9OdGQ",
+      "text": "了解，請問有私下請求協助的嗎？"
+    },
+    "webhookEventId": "01M3JYF5K5HV9DBSQQ99X9FZPA",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790563554893,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "1cb26d44fdaa46dabf62e3fc1145e0ee",
+    "mode": "active"
+  }
+}
