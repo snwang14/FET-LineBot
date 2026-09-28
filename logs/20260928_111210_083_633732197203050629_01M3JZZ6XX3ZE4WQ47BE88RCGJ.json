@@ -1,0 +1,48 @@
+{
+  "EventId": "01M3JZZ6XX3ZE4WQ47BE88RCGJ",
+  "MessageId": "633732197203050629",
+  "Timestamp": "2026-09-28T03:12:09.129Z",
+  "ReceivedTime": "2026-09-28T03:12:10.083Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "@胖仙女 今天億光PM已無在換裝群組上反應APP問題，僅剩遠傳工班反應，請加速了解遠傳工班使用狀況及有問題反應給誰處理，最重要的是有更新的最新版APP嗎，以收斂問題，謝謝！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633732197203050629",
+      "quoteToken": "s9xZC9LgSuM-V4irL_1qmBAQKHx3IKNGuBdV8fpnENt1Lqo5V8IEvJhuzmUVNxdn4EmFPIWGbgyZyMyhqUndL0_FpKLPMY9oWirM6YBu-uas6zF2ddfmHlp4thuJp0FQ-FB_n9TPbjEsQc7OXCZqaA",
+      "markAsReadToken": "REF-XB6mMWOgdxkdKurIq3WKL1WpIXNcU3lBs2lNuV4e28k6LJZtYOxSMdOMg2gz_84bm2xZTJ0ryCwLxzLiTg0RjsdpwJa1rBfLPqUqyNsbGF1RFY2rC8bskMkbL_DUM43aHEOxLlZksMDn6gMdXxy7G9mNFgU7ccZxbBFxzGTNzdGT6zCvw1OWY8Rqq93magLsz5HQmoSJeFJ7nzFdYg",
+      "text": "@胖仙女 今天億光PM已無在換裝群組上反應APP問題，僅剩遠傳工班反應，請加速了解遠傳工班使用狀況及有問題反應給誰處理，最重要的是有更新的最新版APP嗎，以收斂問題，謝謝！",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3JZZ6XX3ZE4WQ47BE88RCGJ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790565129129,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "96975d5aab2e4cd9ab9ae92d96a74b53",
+    "mode": "active"
+  }
+}
