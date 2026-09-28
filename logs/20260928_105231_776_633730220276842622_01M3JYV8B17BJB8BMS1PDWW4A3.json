@@ -1,0 +1,48 @@
+{
+  "EventId": "01M3JYV8B17BJB8BMS1PDWW4A3",
+  "MessageId": "633730220276842622",
+  "Timestamp": "2026-09-28T02:52:30.804Z",
+  "ReceivedTime": "2026-09-28T02:52:31.776Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ueb641723e67562103c0ef055e5237fc4",
+  "DisplayName": "Andy",
+  "MessageType": "text",
+  "MessageText": "@Sammi 先確認工班安裝App已經是我們指定的版本",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633730220276842622",
+      "quoteToken": "mMjIu8J6fgGFUvopdoF9cruCkh9e2r5b_LrEPAk2tgmHDB5UhyyHkLjAx9cENoDZ9lMlHIVi3yypRCYmmhTJxrw3aN_M-_1A_e7JXdIfvpaUwyc2wVKON9EVD5r-qu1MYsdhG-zkebmTFeEXZzbhuA",
+      "markAsReadToken": "_S0ObW2j1upBnm1nTTDtZjRGQc9MGq-C2H1L-2kgpmVC6FIKL4nirvXuPGgcix9lBhvidMwvyWfMGyTVtnjCbM9tPUGZwR0qCIQQqZR5qPIS_UbAonX9PGI0JC0xYe81OYkbKfXdiype97K3KXZ5NqtG-ybIv9v5_ZdOcWgyZUo95TSS-gTz4QLpwIuw_q4WG0qqNqM3IFd4RWzDLODXiw",
+      "text": "@Sammi 先確認工班安裝App已經是我們指定的版本",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 6,
+            "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3JYV8B17BJB8BMS1PDWW4A3",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790563950804,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ueb641723e67562103c0ef055e5237fc4"
+    },
+    "replyToken": "b38aecc7ffeb4df2918d29ebcd2806a7",
+    "mode": "active"
+  }
+}
