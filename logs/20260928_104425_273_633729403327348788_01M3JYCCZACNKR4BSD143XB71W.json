@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3JYCCZACNKR4BSD143XB71W",
+  "MessageId": "633729403327348788",
+  "Timestamp": "2026-09-28T02:44:23.698Z",
+  "ReceivedTime": "2026-09-28T02:44:25.273Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ueb641723e67562103c0ef055e5237fc4",
+  "DisplayName": "Andy",
+  "MessageType": "text",
+  "MessageText": "有反應到群組的，思納捷有回應，會要工班幫忙是否app 有更新",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633729403327348788",
+      "quoteToken": "P30m9SetXp1n0MFPPSj62k-v05MlGjlVUQXyf-dSb3gVGP5aXcqqC0y_M61E13cFPkFDLNNrV-QxYbHpSSWmk50oYUJLcc3geKM1qJ5wxY4otKQ0HKVs27ojltUH8nIa6PbjdpKSFaflDEiB0KuxOg",
+      "markAsReadToken": "lsUwyhSID8gOgLnpReFQFrjRIz6GZgblprL96kc93HZpq0JbepBLmf5tZQkD6XluSQSXJzvrO-j7q9sF63BgLCBOEpkXjjpGC-7mTsSbGhYZvY529NkBeHf5GWrfMLP5uo13Yrmdi71YjHI1FdjCfBgbGpI1b8J3vvDR_opnEGTUo56009AdvuVLySpSuHySVGhr_B2IHi-paZyaPvSBVA",
+      "text": "有反應到群組的，思納捷有回應，會要工班幫忙是否app 有更新"
+    },
+    "webhookEventId": "01M3JYCCZACNKR4BSD143XB71W",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790563463698,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ueb641723e67562103c0ef055e5237fc4"
+    },
+    "replyToken": "3eccfaee55024c4ca0a551b84655f935",
+    "mode": "active"
+  }
+}
