@@ -1,0 +1,49 @@
+{
+  "EventId": "01M3KGVW3VX6E6X376EXZEMKAX",
+  "MessageId": "633761919920767198",
+  "Timestamp": "2026-09-28T08:07:25.100Z",
+  "ReceivedTime": "2026-09-28T08:07:26.427Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ueb641723e67562103c0ef055e5237fc4",
+  "DisplayName": "Andy",
+  "MessageType": "text",
+  "MessageText": "週二我這裡出席，思納捷看那位與會，週三再請 @王志文 幫忙",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633761919920767198",
+      "quotedMessageId": "633759041016824134",
+      "quoteToken": "EKY8XCxoC3Q8Wulfp283Oiapu4ZpWFgo3Zpa9FmcQcwekV1fdqujV5a2N4RyopJQE2GXXYi-FlT_SEjVwDpOfnzwKfpjoxPq5nIfQq1drx0j3uC_JbngZUkB2gL57AkONvzUhB6LOc97Oe-eruDT3A",
+      "markAsReadToken": "cQs-JM0k-B7pnKaW2oHPZ7uBuAEerpEhQ2ikewV-cY76PYtSWosKMRnEBImJGVMC50SdBfB1i-OIM7NzOlPW2OS9IFfz02tE7rDw-ZO4aj2fWSABgDmf_jDrq24RyrxMJc6696IklRPoe94AaVOqBBpd9ptLhm7o8DIEMwwOXmsjspNbZYlJ2DP8VaUqykC6Drdn-lx3CTvLU702ZL9Txw",
+      "text": "週二我這裡出席，思納捷看那位與會，週三再請 @王志文 幫忙",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 22,
+            "length": 4,
+            "userId": "U45bb65710085fd8da690900d4545a7f6",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3KGVW3VX6E6X376EXZEMKAX",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790582845100,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ueb641723e67562103c0ef055e5237fc4"
+    },
+    "replyToken": "e1f3c6df3595491287a94074db4e6385",
+    "mode": "active"
+  }
+}
