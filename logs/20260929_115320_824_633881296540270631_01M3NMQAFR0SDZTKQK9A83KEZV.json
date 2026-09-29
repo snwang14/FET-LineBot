@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3NMQAFR0SDZTKQK9A83KEZV",
+  "MessageId": "633881296540270631",
+  "Timestamp": "2026-09-29T03:53:19.244Z",
+  "ReceivedTime": "2026-09-29T03:53:20.824Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "桃園回收價金資料&檢附照片\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633881296540270631",
+      "quoteToken": "HqUExjXQ8p0wPJ9lPVGkRBv9uBXD-JlHwFlGVSuHbsNaAtTb50Ertz2AaDlxTeRhwaSzclNv_rgfap5SPVPn-5RDGQ_VbVVvI0lLzqUgjmWaqeGADyZQJgpqXP4YpXWx0-QKXLaJUEKeali2uDHt2w",
+      "markAsReadToken": "tVM-p_pJvVw4KYgB-uMycLBbOVlLvR_IyMFF3Y9q5KyYvuXs0oz8UTPrly-l4FrCM_rnRdxKBRLL7PGQFyAqrfyJ4K7xvzFhG1HQUQ7U0YuNoxH69rq9IlpcrIEE-xj4JRhFN0LpGgYD0qty4rPjJGmCHfB-pImUAxdrUdL-qb541U8-_ROovs722cdF6-1CLI9irbRk6MlZETrwoXL5YA",
+      "text": "桃園回收價金資料&檢附照片\n"
+    },
+    "webhookEventId": "01M3NMQAFR0SDZTKQK9A83KEZV",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790653999244,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "30b1ceabc52f4050aae936f37f13ca3c",
+    "mode": "active"
+  }
+}
