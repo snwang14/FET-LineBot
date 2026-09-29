@@ -1,0 +1,40 @@
+{
+  "EventId": "01M3NM9NX1PG9M6A23KS9ZERTG",
+  "MessageId": "633880545356677509",
+  "Timestamp": "2026-09-29T03:45:52.457Z",
+  "ReceivedTime": "2026-09-29T03:45:53.669Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "633880545356677509",
+      "markAsReadToken": "pQw-MRBTB43gD26E6mW90E_hswv_Fj26DRTfJzG-h_hge9ts3_LuUphR9WpsYaht1Ij0sCo98NY9XeC73Vx6nDzukFAl8LZjNLLftKFu6eRogHv1mM3dc6xz-xVuIBeAH57mXi5Syy3vfM4RCV-ayWV2ODCk5EH3ABku4uQMFWUQSFLkBE2Q_pJdVPaJ4zJ6cyjj5Zb6piPgBiQL-od6iQ",
+      "fileName": "第13期績效評核用電申請PS1.2清冊(機關版本).xlsx",
+      "fileSize": 165692,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M3NM9NX1PG9M6A23KS9ZERTG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790653552457,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "4715bce11efc4ca28a260a64f436640d",
+    "mode": "active"
+  }
+}
