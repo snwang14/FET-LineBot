@@ -1,0 +1,39 @@
+{
+  "EventId": "01M3ND7XPD04782P3V8BN300PX",
+  "MessageId": "633868135133086327",
+  "Timestamp": "2026-09-29T01:42:34.492Z",
+  "ReceivedTime": "2026-09-29T01:42:36.446Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "image",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "image",
+      "id": "633868135133086327",
+      "quoteToken": "Zn1oP4BfLkHwIeZwVKfsxw50LIp5rgE9r5KeCToV-JA71ZV4R4sOIMAcmbJ1r6NmruviRoOdVDvrc3f1DYCt4XheJQRxXT2yQlzTrYSA3j37vItikBLKswgsZOBh_LdI5vNTh67yjYwByrVMZMr9kQ",
+      "markAsReadToken": "z4FVtMbbfoTQXYk7mka9_tHlaCHLJ-iacsTRGWrr7rEDFKLnh4dg77A5QzQULS1q2NP5ITi7XPqQ-25c0TIahswKMrgU9-0rtrEtgm4SQUpq02QZCUoIzX5QrEIgj14WI_eiMPBgrvEUjX7tH14u97-Z02W1vMk_xDd6RxTPex8SJ8-11EbkolmtGhvtOWH9YZlr-6XV1oMC4dXaRT1O1A",
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M3ND7XPD04782P3V8BN300PX",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790646154492,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "aeb3e7b96c164e8196b48bd3bb76051f",
+    "mode": "active"
+  }
+}
