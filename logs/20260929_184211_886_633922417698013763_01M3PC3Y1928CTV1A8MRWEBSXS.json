@@ -1,0 +1,40 @@
+{
+  "EventId": "01M3PC3Y1928CTV1A8MRWEBSXS",
+  "MessageId": "633922417698013763",
+  "Timestamp": "2026-09-29T10:42:09.584Z",
+  "ReceivedTime": "2026-09-29T10:42:11.886Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "633922417698013763",
+      "markAsReadToken": "-vENh2L7S-IpHYYWBt2UBlpAKvZ7h8a6E30DmrhwD8PWUQoR4sA5YlbFcTxUQrTLN970uDlUaXGTn3pOCoeEdC2GKtEO8Qc3L8I4XjTXpD2FRbuWwsnXlgMUlBwAmKJrFqcyakURLIyVsqo1LnmA5KrYoXlGI0Fql8Ji-9IoLhcoYtczWh93qaGWSv4YtEuxR-xv-qsgCp4COVaIydsOHw",
+      "fileName": "第12期績效評核報告1150409-修正版.docx",
+      "fileSize": 7106377,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M3PC3Y1928CTV1A8MRWEBSXS",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790678529584,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "460816c5038c42959e928e868a242b56",
+    "mode": "active"
+  }
+}
