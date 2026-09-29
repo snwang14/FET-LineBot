@@ -1,0 +1,40 @@
+{
+  "EventId": "01M3NMQDHRV39DEKG46H999B4F",
+  "MessageId": "633881263774367762",
+  "Timestamp": "2026-09-29T03:53:22.338Z",
+  "ReceivedTime": "2026-09-29T03:53:23.999Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "633881263774367762",
+      "markAsReadToken": "hI5mZKpqyJuC1-U8KqocJAH8yBR9IL5zhiAnpdIsNtx6dztxoUJmHiQznK2lcFSJq3H1qeTSACcZ4F6awKro-flXZuiW3YPPDIzQQq52-e1mnNVtajgmikrrNGiBqdfeI3z_fyRKUodLGLxPUcDZ0qnOS8aHgw0b9r5Os7jkmcnokE0CcSdJOATetSqlnpR4Fc7gVrYrkqU2qf_RTU50Jg",
+      "fileName": "第2.3期回收價金.pdf",
+      "fileSize": 4979599,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M3NMQDHRV39DEKG46H999B4F",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790654002338,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "53ab92b00ec848f3be59db507ea1159c",
+    "mode": "active"
+  }
+}
