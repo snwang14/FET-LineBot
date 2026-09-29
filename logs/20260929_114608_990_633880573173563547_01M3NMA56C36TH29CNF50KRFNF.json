@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3NMA56C36TH29CNF50KRFNF",
+  "MessageId": "633880573173563547",
+  "Timestamp": "2026-09-29T03:46:07.978Z",
+  "ReceivedTime": "2026-09-29T03:46:08.990Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "桃園換裝匯出&績效資料 請參考~",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633880573173563547",
+      "quoteToken": "goaCvjh9nZAoK1hnL79Tky2L3F2lo0eDn8EIrF1ffO5duN3etgyLrkSqDsy7wfyjqMb3Cyqlr1PM3R2kIIQpJFwcyqGzOFbWiYqdWLEeA6shmhIxdiAkyRaaRSi5Kq2mC3ABdHYR8FdXJti5x8DkGw",
+      "markAsReadToken": "D1jMWz3epK-A6Q-PeGTBP8pTpVobFFhMEQlbTENoW9HfopJoeXUdR-JDCNHM3IaWBnfUdVdE9cXaZhCTI_1QVeOOzM3fw86sUGTIFHvxYWiJwIKrGHk9bmgrZT9Na7O05k0Xu6bfyGT94JwkbHin7FzHtz2VhEScMJ_Bs6hA3zb8PlAHLDriEYguGntDOX3BrHsMtWe22V5JLa7bosXE6Q",
+      "text": "桃園換裝匯出&績效資料 請參考~"
+    },
+    "webhookEventId": "01M3NMA56C36TH29CNF50KRFNF",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790653567978,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "05479bc73b0c49b290347713063c0254",
+    "mode": "active"
+  }
+}
