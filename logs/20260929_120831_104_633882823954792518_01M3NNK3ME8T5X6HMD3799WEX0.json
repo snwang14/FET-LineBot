@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3NNK3ME8T5X6HMD3799WEX0",
+  "MessageId": "633882823954792518",
+  "Timestamp": "2026-09-29T04:08:29.586Z",
+  "ReceivedTime": "2026-09-29T04:08:31.104Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "路燈清冊資料匯出(及時)",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "633882823954792518",
+      "quoteToken": "Zg58_yqv2ybPihWRRy4Nr76AWRx9T8iaaMmJm6441WPJWXQme_JssrttEjGXUGtsuQ_UHm2c9-M_N7hlPfhRaCVHYFy_eFo_Z3KzJ2ir87Cc547DgrO8BcuqAk4Zz9OpbkQ1gm1XFEi3HtO0iwm8Iw",
+      "markAsReadToken": "fWtHstPrNBSAxjLi8C_tF-4ww5bT2Jg1o_G9Ua4fKnLWO0iRl3hfdH4AXzLMaqinlOrvJP-h1J1ikxfbGAKtFKT4exUPLz286mGho3W5OMfGejAQurJPp22sM6Y8tjVcZ2m9myzSWEMKlA_vHQIT1qXwvMZgSP_RyAs0kwmiw7cRBhFPWHMpG0EfH2-7WzdZnuIGz6t3kH--SFdUKoJvoQ",
+      "text": "路燈清冊資料匯出(及時)"
+    },
+    "webhookEventId": "01M3NNK3ME8T5X6HMD3799WEX0",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790654909586,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "d690ceb1d21647f4b8ee3a3314a409fb",
+    "mode": "active"
+  }
+}
