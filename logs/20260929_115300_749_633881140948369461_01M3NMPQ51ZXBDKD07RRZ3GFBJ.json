@@ -1,0 +1,40 @@
+{
+  "EventId": "01M3NMPQ51ZXBDKD07RRZ3GFBJ",
+  "MessageId": "633881140948369461",
+  "Timestamp": "2026-09-29T03:52:59.415Z",
+  "ReceivedTime": "2026-09-29T03:53:00.749Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "633881140948369461",
+      "markAsReadToken": "ZQUhFCCPtcLU3XH_wRAzq4HG6B2OYMr4k-Ilh1W2EfJlRVD5Y2Ow9GQw4RXUFqqUwIfPY2C6Qu8fZ5SCKZb7FjZfgPtnCfvqlR_pKBBawUmiKuVskOnCDKFdZ_jrJmYO4GQT7r5-THp5xOYwlPTqJzRV90ss7mmQf00oeoQJU4cyEveEZBdM9wmdfmTvDDtAY2HJX75MWTSJvM2MHPzhbw",
+      "fileName": "年度換裝拆卸燈具回收回流總清冊.pdf",
+      "fileSize": 14877488,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M3NMPQ51ZXBDKD07RRZ3GFBJ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790653979415,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "4f14dbe89ead496cab30d3bddf3c7aee",
+    "mode": "active"
+  }
+}
