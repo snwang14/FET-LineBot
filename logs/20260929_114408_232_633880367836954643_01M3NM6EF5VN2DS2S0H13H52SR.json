@@ -1,0 +1,40 @@
+{
+  "EventId": "01M3NM6EF5VN2DS2S0H13H52SR",
+  "MessageId": "633880367836954643",
+  "Timestamp": "2026-09-29T03:44:06.478Z",
+  "ReceivedTime": "2026-09-29T03:44:08.232Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "633880367836954643",
+      "markAsReadToken": "uK4cb7iDENsqm82Ffe2ZVkST6cfDWXsdY9nM9j4NLk8KmHA9igxT8itxhLDZiYWBnaEDw4Y9-GsCmbjbAXr8tb9iGMEhZHZuYuwSLxERzWXn6tWHp9YHMOi2usCKVvyqLxjBcixsXXZOoqq-TCz36TeTld0EYV1FzD1jK8z5D-b050-1Ta5NvI0g9kuCQYmApuTCo7j9_AL-5iWRP0rFGA",
+      "fileName": "北區_桃燈用電進度管制表(匯出)_20260709_20260918.xlsx",
+      "fileSize": 289298,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M3NM6EF5VN2DS2S0H13H52SR",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790653446478,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "2c3102e581504fab964f140305547a32",
+    "mode": "active"
+  }
+}
