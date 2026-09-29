@@ -1,0 +1,40 @@
+{
+  "EventId": "01M3NNK2672VFHX6F47CNW8AXB",
+  "MessageId": "633882789779604035",
+  "Timestamp": "2026-09-29T04:08:28.108Z",
+  "ReceivedTime": "2026-09-29T04:08:29.572Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "633882789779604035",
+      "markAsReadToken": "1k-lmqGYDTRoySh1MYGlVVo2lnYJtOoAvhfhbAs0RYTf0H9iciexPi9AhaeVxKNeW-VaXScyht5m2mtfZ5QKizp3tu6vuysAxJE5cezN0UF7rynXeWlK3Byj3wWIKEbTq3gGtGN5delo7mtaUXEb8iQxty7iUZyPwYqiiaFlsTjtaXjRrqo4vz-66Si4E0IC-FI0espz63vOGIUva4JuvQ",
+      "fileName": "路燈清冊資料 (1).xlsx",
+      "fileSize": 14063882,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M3NNK2672VFHX6F47CNW8AXB",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790654908108,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "8b4f13e3992940e48ca3a1d99ebc1d49",
+    "mode": "active"
+  }
+}
