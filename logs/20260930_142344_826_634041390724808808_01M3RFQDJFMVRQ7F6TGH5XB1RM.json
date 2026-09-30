@@ -1,0 +1,46 @@
+{
+  "EventId": "01M3RFQDJFMVRQ7F6TGH5XB1RM",
+  "MessageId": "634041390724808808",
+  "Timestamp": "2026-09-30T06:23:42.679Z",
+  "ReceivedTime": "2026-09-30T06:23:44.826Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@All 於9/1寄送給PCM平台的計畫書，已跟技師連絡上，他表示待需求訪查都完成後，全部更新後，他再來看",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634041390724808808",
+      "quoteToken": "n85723Lt4F8k6GhgnJbCk6Si0j0hqYuQAFCcsVVkYAJjQSKr3t0qHgBWtap2YJQfxlOeWsN_jbX4w7BxW2e9rpIffud4hkgJC6Rps3D-4pMSWZMoyZYWKqw4lmLo1wZmnHilLqnwy1qIvK8Kwb1Zzg",
+      "markAsReadToken": "eDrT839roDjOe9cN9JmYkT7a0pvcl-KNFhZWPYe-5AlKxBKbpqiSQGqwEMwq7wwxo5RbVcaWEu6HUHK1-6CHnFiUXFiazuPe8U9GeDkSuALwS6xsAf-e0Nf6RtTl0qpQW4ShFcEkwv8L1Kr50FEjYiX6zlW5TtOSdesS1R5AW4NZEq97hqV16DacLIKW-lxDrpRKTw-RDdWciuWNhhMgBA",
+      "text": "@All 於9/1寄送給PCM平台的計畫書，已跟技師連絡上，他表示待需求訪查都完成後，全部更新後，他再來看",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3RFQDJFMVRQ7F6TGH5XB1RM",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790749422679,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "923ab48a2945464583cd0a9fb3357ce9",
+    "mode": "active"
+  }
+}
