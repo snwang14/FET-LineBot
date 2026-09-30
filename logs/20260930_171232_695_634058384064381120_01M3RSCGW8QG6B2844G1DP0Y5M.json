@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3RSCGW8QG6B2844G1DP0Y5M",
+  "MessageId": "634058384064381120",
+  "Timestamp": "2026-09-30T09:12:31.564Z",
+  "ReceivedTime": "2026-09-30T09:12:32.695Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "工班先用自己手機進行照片和點位記錄",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634058384064381120",
+      "quoteToken": "ASr9O2MIe4Bswa_mhmkyaX1wh-oi4_L27ky4Ob2-LTTDfkWqKEgxfK6Rq2VU9gszGH-HKJS3QdjYMU0IH6GG6GwlFsMqx1JAkfyGre2XEOajRqZaqQOmn1Nqlf4HMpRGHadPtg1MdW1Qc8xopVC8Mg",
+      "markAsReadToken": "p01lcTzjka7qOc_0PYg-NZT3nTZSd4a8MjfG8xYxpLyugXIz0osRJ3NdX-mPRPIgXWQWPEmR2K4E0t3vY20dFdwhPNjeeQR_JUYtr_IWwcNo-7sBPt8HfBL3ohNcS5QRTQloN_MKMMzJSUUIY52Ehcoc9PxaVouKhlbs8hrzHrloqPWTyE8JnQ1JNJ7KXURnFJSz96MvHwXFZDkK9xlRqw",
+      "text": "工班先用自己手機進行照片和點位記錄"
+    },
+    "webhookEventId": "01M3RSCGW8QG6B2844G1DP0Y5M",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790759551564,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "7b6ce64d5db142168550f96867b93be1",
+    "mode": "active"
+  }
+}
