@@ -1,0 +1,46 @@
+{
+  "EventId": "01M3R2WVT00V9DE3ZPKF35JZQK",
+  "MessageId": "634018820201644730",
+  "Timestamp": "2026-09-30T02:39:29.604Z",
+  "ReceivedTime": "2026-09-30T02:39:32.271Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@All 需求訪談依實際需求將第四、第五場內容對調，更新如下，已通知承辦，同步給各位。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634018820201644730",
+      "quoteToken": "5TU52_VU3zV8REM36tlk1dm2-bhHFMtSk_xdwkux3PrVLKYbgo4vUb-rAt_ytyocO88JYaXc2KGUEBT_JirGzzLwl89JCOBL_XmMJWTe_c0ZisQlUs1tNrxN99t74rbG6Tc09Kyk8fUyLw66LbD7iA",
+      "markAsReadToken": "2bHDYwSZY9g3Hx_9hzm5qfQQ1P1PnyInjitXqSPbIEBedW7NYma9wTcFRZ-XFzDnVVu9BHAQbJtvyhOiFxBnd2w3bfx7NEpL5ScEH3zG6NJoY0sjbMJFoMu8wHkYzFUP3OYG7AGqLd5duHZTibNP7W1Lq1iY6D3yd72cNWFfAsismC5kHYUL-laUePBSkLhBeaMEAKngxuIkWmzpSplJvg",
+      "text": "@All 需求訪談依實際需求將第四、第五場內容對調，更新如下，已通知承辦，同步給各位。",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3R2WVT00V9DE3ZPKF35JZQK",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790735969604,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "1f06199e12d04da48744d7fd8db08aea",
+    "mode": "active"
+  }
+}
