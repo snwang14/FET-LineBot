@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3RS908BNWMJ16TSXHSKK31B",
+  "MessageId": "634058190455832700",
+  "Timestamp": "2026-09-30T09:10:36.164Z",
+  "ReceivedTime": "2026-09-30T09:10:37.374Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "工班現在換裝到一半",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634058190455832700",
+      "quoteToken": "KwDf1l_9HW6uJ0UbuB0VS4ygpnQuT1xEyi6Zw3v3Okr0Om-AtJNlDQv-UGxASzC0zS7wBAFwHgCeFRE3cFbja5ivayyTAUxIPfRpyXjI5cJzcNrBNhY1nR-EovoPIoEA4nJ7q7cc2sXpHEpTqkRkhQ",
+      "markAsReadToken": "VQWPQTEqEOBrJGiFdAKeedFaNZ7Vys8VGKD944VhCkiLkRpSm9TalyyBWqib5NbRU8afmG1fOaSS8OIqtjTbqNK_ynUKLVgHavPv7Q4lL26Hyq2ZmAvM76oot-11Ki0VK8PyyFHe6Ga69JXeJtzhOCxHUmPYrG5EToOjY4QveWIDHX2-QRwvrEVpCq1AiJ9FR-7QCIxUZyPAaTburL41Pg",
+      "text": "工班現在換裝到一半"
+    },
+    "webhookEventId": "01M3RS908BNWMJ16TSXHSKK31B",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790759436164,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "b9354f5ed72c46ccbba7bdc802f5722e",
+    "mode": "active"
+  }
+}
