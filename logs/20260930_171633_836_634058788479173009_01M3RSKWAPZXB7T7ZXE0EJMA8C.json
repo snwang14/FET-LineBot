@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3RSKWAPZXB7T7ZXE0EJMA8C",
+  "MessageId": "634058788479173009",
+  "Timestamp": "2026-09-30T09:16:32.728Z",
+  "ReceivedTime": "2026-09-30T09:16:33.836Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "App 請工班重新開啟",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634058788479173009",
+      "quoteToken": "4Eqaux2eg7GT1RIo8FycvWTS1Ni2tNTjlaUr6DOJA8P2oNvfhXWumRYzu-i9YWBg82HoyB2l5O0j7kKemHesYKGH0gN9aqFxFByUxS05Ow9tN_ejxA7cB5YxJpV8qlbR7WgKlsZdmLbxYpwzY9skzQ",
+      "markAsReadToken": "iHzsYSZg0JgdQoWFmn8qCmjFcD--8ZQqtksqYsXPXtfqfqMbZA1H3kPpO2f5YsaUas92Y-2CFTaICXkIv0ZS5AyWXdDA4SUrEYxOp26f5ULcw5sJ0c21pIg9DRQMzpVh5h5jv0vPDOjHo5bwFgav6DKM56mDfWl_nX8W38lm9cLoKD-3hp-AVaKXaKX_MaV28aI-36N-wcMv2tZ02qDoBw",
+      "text": "App 請工班重新開啟"
+    },
+    "webhookEventId": "01M3RSKWAPZXB7T7ZXE0EJMA8C",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790759792728,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "1145ca33ded84286893e608e7de51457",
+    "mode": "active"
+  }
+}
