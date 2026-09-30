@@ -1,0 +1,40 @@
+{
+  "EventId": "01M3RWSYVMY6F2EJYBTJXWYNSA",
+  "MessageId": "634064364639093094",
+  "Timestamp": "2026-09-30T10:12:17.578Z",
+  "ReceivedTime": "2026-09-30T10:12:19.015Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "634064364639093094",
+      "markAsReadToken": "qPrU_UjHVl74_d5rAB08ndaHq7padzXryyu_YFf-oh8g3ubBubDvhlaZMlhH0T2K2MX9pgOg6kcFTXOcQfS5am59ctQ1Pt1R2jWR4M1I6rZMlrCBKIzkNn1H_GAUcQHfT6sR0F7V8dCnsKK3k3x2qD6Iyqs4Y7XQU5ggk3GlIOrZ_D9c2hIAy4OYAExe7ZsUkfSwjH_S0Qb7PZVnzl8VXg",
+      "fileName": "1150930維護及換裝簡報公燈處_260930_1110_nick.pptx",
+      "fileSize": 11891359,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M3RWSYVMY6F2EJYBTJXWYNSA",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790763137578,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "2d9232cfa6db4cd186b3af6b413ea31f",
+    "mode": "active"
+  }
+}
