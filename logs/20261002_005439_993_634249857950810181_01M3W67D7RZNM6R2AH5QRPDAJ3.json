@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3W67D7RZNM6R2AH5QRPDAJ3",
+  "MessageId": "634249857950810181",
+  "Timestamp": "2026-10-01T16:54:38.830Z",
+  "ReceivedTime": "2026-10-01T16:54:39.993Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U9aa87aef88d21f42c7f180ce10320b5d",
+  "DisplayName": "陳慧娟",
+  "MessageType": "text",
+  "MessageText": "燈具編號無法用後台補入\n再麻煩後續協助可否編輯輸入\n謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634249857950810181",
+      "quoteToken": "SP9_9zETjgv-5cxpny4tG-laWdexgcnu6M27VGB1AETSqFadyGwq10lnrDEBt98fsHSdRPIyOn0uFoUBwn9X2_XTW3IyJnzicFCoX8m-4gaTADrK2Q54m0aKrC3T8DZAaZZOY9hN1jGvXjhkLmGDEA",
+      "markAsReadToken": "apYdHweMIFdNV7JLonglbxZlS_xWkd2HUEj4fLnA2y_0yFkEFY091KRD1avo46lHbkkMMMFYYELQtLv-U31lg1ZezYnCVt2tlohUgnJkwmCByBPXBnfY-9xf-bjGkYKwpqhm8diHdZuSo3ENAU4HzKdTeX4qg-6wlhFpeRx-UAyaiu2QR8XSKv1FOMF9N5f-zWx1INH0ZPbHiFj4pgPfbg",
+      "text": "燈具編號無法用後台補入\n再麻煩後續協助可否編輯輸入\n謝謝"
+    },
+    "webhookEventId": "01M3W67D7RZNM6R2AH5QRPDAJ3",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790873678830,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U9aa87aef88d21f42c7f180ce10320b5d"
+    },
+    "replyToken": "ae4eae16221444d28d5e33db16178000",
+    "mode": "active"
+  }
+}
