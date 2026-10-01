@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3W86T85FNXKVPHBFP1FQ0GD",
+  "MessageId": "634253343367102567",
+  "Timestamp": "2026-10-01T17:29:16.302Z",
+  "ReceivedTime": "2026-10-01T17:29:19.199Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "但麻煩還是要進行更新",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634253343367102567",
+      "quoteToken": "LFtMOK315YV7lA0Ivj1NzZhXXRhPSnG07ag6lvQQBfDLKQWannXWCjH5_qbOI8oSk2q0AaNA0f-WYEILtvIvO-cH4niBQEj_NHsJxGf-QaNVpGAPLnGa_LzgzcjgoseZtV3-ArmXywgB_3xcp-7zYg",
+      "markAsReadToken": "2NMeZRZ6xlNTEZDBD2xMVgnr-K2-Ng3rdC42sre5Y0q9MT5xJbUzkYlzEoYz8J8saLqxESUNDTFqKA_2Hxe3FI9IH7T-8SKxiz03GddP-xljMFUL4e8kRxjNCtmH_9gjbW8OkaT3MLjmljxakI__sJ4SQ1Tdx1r3NIv_4sVeQ1H-XAVooBD7hvL_EVHnbsG3pkSS0inIfvQTObuse_xlgw",
+      "text": "但麻煩還是要進行更新"
+    },
+    "webhookEventId": "01M3W86T85FNXKVPHBFP1FQ0GD",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790875756302,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "7d9fa14675ea4a88b20a78ae1f0c34d4",
+    "mode": "active"
+  }
+}
