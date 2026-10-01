@@ -1,0 +1,38 @@
+{
+  "EventId": "01M3TVQVERKZ1M045G47KNJD96",
+  "MessageId": "634175115017584888",
+  "Timestamp": "2026-10-01T04:32:08.719Z",
+  "ReceivedTime": "2026-10-01T04:32:12.017Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "這個剛才通話後確認為目前有多燈（兩燈以上）沒有全換才會出現的狀況，系統會再調整判斷值，讓欄位能正常送出",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634175115017584888",
+      "quotedMessageId": "634167989281489646",
+      "quoteToken": "mB8FqaEPnCBtdPBce8ghEQ8lsN_K_R1MdLtnEAHjImX5EC_qRbeXYNhblqaPTnytYI9enBSmSstcYOkuKAUm2KRp6zniNkZlkUhG0sxVrbZVhnSzmTpl4zcWne9HbbKDDxxbrCaTfnahdLlRG3gpmg",
+      "markAsReadToken": "AZPpIGcpsZ5Do5Z3njD_Rq5kmZfwH1wWS_WOwOc4Kx7laomD_jG81IyNveHUBtQydUi3g9CuYlBFGBwRJTdDGnqGjRYwfnAH0fUQA8e4szCvvaTp_zD7glW3cNJGrZtracreUYJe3J_F5kBfR4UU377LeQwT-TF4poNnBh1LkD_uQrb_QEd9QWtxV5cu38S2QdqwA1TOhr_GjMYPWdpLLA",
+      "text": "這個剛才通話後確認為目前有多燈（兩燈以上）沒有全換才會出現的狀況，系統會再調整判斷值，讓欄位能正常送出"
+    },
+    "webhookEventId": "01M3TVQVERKZ1M045G47KNJD96",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790829128719,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "5c4989a301c34b349a10212af32d1761",
+    "mode": "active"
+  }
+}
