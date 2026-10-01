@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3W854PAVDAY54ES95E3MQYG",
+  "MessageId": "634253251344072943",
+  "Timestamp": "2026-10-01T17:28:21.455Z",
+  "ReceivedTime": "2026-10-01T17:28:24.040Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U9aa87aef88d21f42c7f180ce10320b5d",
+  "DisplayName": "陳慧娟",
+  "MessageType": "text",
+  "MessageText": "師傅說可以用了\n謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634253251344072943",
+      "quoteToken": "4P-4zRG55V04Q6LSRbU6U7Dkp_DzEO4ASi9HDLjwl3YxvIKwL0ijhvTljUZVjb4XRcj7CulisgWlm-71ALj0-Rba_vH220GUI8_yyfF5ckNclTqM_-Ad2V6qnETvPklrIPQhiFkVrPhYQOvsHWw5Yw",
+      "markAsReadToken": "qLChFgbrvhtyY2kIgD9m40b_c1c1jqG4R47GFHTH6re3EATTP43mfh6BiRqxw5mPVKgoHRufZHQ7wfU-W0jDFTOwLr2aMzTHHhHzviP2CZu4ebQcEJHgot0rr9BdruMieUrzKE2aCPtCMATTU1llxojav0flmtGsU3uvK9NTuvoaRw0A3aRW9-tidS68td2bTx6bgx0bDn-npZTIbVMstQ",
+      "text": "師傅說可以用了\n謝謝"
+    },
+    "webhookEventId": "01M3W854PAVDAY54ES95E3MQYG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790875701455,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U9aa87aef88d21f42c7f180ce10320b5d"
+    },
+    "replyToken": "a17b2559a44c41e2a516854bf5539e9c",
+    "mode": "active"
+  }
+}
