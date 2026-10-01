@@ -1,0 +1,38 @@
+{
+  "EventId": "01M3W6EJV0GVPY6HZWQBTNQ9VK",
+  "MessageId": "634250252601262395",
+  "Timestamp": "2026-10-01T16:58:34.067Z",
+  "ReceivedTime": "2026-10-01T16:58:34.831Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "另外這組序號沒有提供給我過，現在仍然沒辦法使用，如果需要新增換裝使用的燈具資訊，要麻煩於上班時間提供才能進行匯入",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634250252601262395",
+      "quotedMessageId": "634249752607457350",
+      "quoteToken": "Zml6kgALka2RoVsBG271MIyrHhmA7xNX9OKMVk5D3UvUAgxGFrD6t3546DdsaZeOI9ureLWP7-hoDVdNZW98EEp_rr1mxAjTPeKL03idl6AoSDYCMJQUY0F3meNCaBwenQXk-QvnoTIQUQ1jOdR-qA",
+      "markAsReadToken": "t8LB0QPWR_GJ_dKYSYN_BlP0u7fEd3nvjn3BrsXDVwMEgF2e7HQA89u-cLYmMNy1NK5ImToaCaeveSxCqn1TRyx0APN-ZUvkAeKALD2cCiwXkYeaU_XOwxsLGtzibsdcJLqMvTozy8yvmmZ-UnLaQDiNkm7HAo5F4u88xQo30YH8fLnWSeEGAiX7LQl1KVAOhBEaXqX3OdjLrs7dDAw-QA",
+      "text": "另外這組序號沒有提供給我過，現在仍然沒辦法使用，如果需要新增換裝使用的燈具資訊，要麻煩於上班時間提供才能進行匯入"
+    },
+    "webhookEventId": "01M3W6EJV0GVPY6HZWQBTNQ9VK",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790873914067,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "1a29a1ea0a9145f58022e45a59c7c2a4",
+    "mode": "active"
+  }
+}
