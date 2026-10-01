@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3TSQ49CVWKSEH84WM3HAXYV",
+  "MessageId": "634171556871799352",
+  "Timestamp": "2026-10-01T03:56:47.825Z",
+  "ReceivedTime": "2026-10-01T03:56:49.288Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "路易．莎咖啡(重慶南店)\n\n\nhttps://share.google/s73fTvWHkrhBcwPq0",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634171556871799352",
+      "quoteToken": "aYJBg1MfylJg3XNEhZY-m-anDaXd4zi2uas1P5XCZX8A8r-mEe-hp__UHm7fG0lceV0PZsBU2hc0FRpf9QTQos4bIBTA65wug2YOKXOdOxM4sut8HCdTTN8uxlFvjc1WUA3VN1ZdYTDLXQDT5p3-Dg",
+      "markAsReadToken": "ATbMSO8lnoM17JJ7QiyX-SDDZWTKjwM1GH5emRDj0uf-rJvW0BtBS0quXLr18p34xOZc0s4DmSRS4uBCT1--QgABDIIgGa-cM9FjmQon5qWzfQVOMC8rLdRKBKaECwcZr4DzDUooG9XlsrN8ifiJ5W8chM5P5RHLTGbBJguc-mUg3d9ipd4Bgw1AEk0f6Zm3-nJj-_MZOuioG_O0TJHNzg",
+      "text": "路易．莎咖啡(重慶南店)\n\n\nhttps://share.google/s73fTvWHkrhBcwPq0"
+    },
+    "webhookEventId": "01M3TSQ49CVWKSEH84WM3HAXYV",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790827007825,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "aedcd0d8656449a4859d2b8efa36dd2d",
+    "mode": "active"
+  }
+}
