@@ -1,0 +1,38 @@
+{
+  "EventId": "01M3VFE0EYPQMMYFFR2Q2H22J0",
+  "MessageId": "634209758726848650",
+  "Timestamp": "2026-10-01T10:16:17.853Z",
+  "ReceivedTime": "2026-10-01T10:16:18.970Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "這邊先針對平台部分這四題做文字回應：\n1. 瓦數藉由換裝已更新至新平台資料庫，匯出格式尚在整理中。\n2. 全系統需求訪談完成後，於 10/31 前提供。\n3. 非平台部分。\n4. 今日討論北區由 Nick 與會，南區不需出席。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634209758726848650",
+      "quotedMessageId": "634164164294345130",
+      "quoteToken": "L7V__6rUVatiLWnKoJd9Lf417vuzflFQr8zay2lq0Zay-KHG2SI7mscaeIWQ0dSp4O8UXoqaKObqNdRhftJ33D5C2GGp-zmt5v2Ts-H7EEd3ayCnlgYHACgioLVZuMVzer63VaPErRyha_ifg8HSVA",
+      "markAsReadToken": "MuAeFfQ9MwFSBcxMgD20AeZcnFwy4ttcrQcskzJs2OuacjFAiZPaK-8dsonxB2APm0UZ-t-eA5bZmnugJrcecNMmXL9sfII3zOttNkbAZM0WDgNuU6KxceBMFGnmRuI102kqlVH8GU9lq98u8dl3Rp_7FGV-i2yZ8YjEvMCbo_KN-wcKWGXVkuM-XbOhh7hdF8Qm6WUbcZYAh8C5SQKoAw",
+      "text": "這邊先針對平台部分這四題做文字回應：\n1. 瓦數藉由換裝已更新至新平台資料庫，匯出格式尚在整理中。\n2. 全系統需求訪談完成後，於 10/31 前提供。\n3. 非平台部分。\n4. 今日討論北區由 Nick 與會，南區不需出席。"
+    },
+    "webhookEventId": "01M3VFE0EYPQMMYFFR2Q2H22J0",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790849777853,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "7c341ea1fd944216b5682b6d4807e7e0",
+    "mode": "active"
+  }
+}
