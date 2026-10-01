@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3W7PG1YK8ZN0WD6R1WPS08T",
+  "MessageId": "634252446239031586",
+  "Timestamp": "2026-10-01T17:20:21.575Z",
+  "ReceivedTime": "2026-10-01T17:20:22.919Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "雙燈是兩組燈都換嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634252446239031586",
+      "quoteToken": "DiYsxWAvfju1i84w9MvUCrBNN85U7hE8zF6X72LUw_nSxuxibfsOl_yGAd_NkH8Jo2-LMbQD0HGnuzRCF3hS6zyjfpwl80BxTNLcvVHaQ6xyethv9YPsUgiISqDBpHpoguolR7iqJiC3nGEpadczcw",
+      "markAsReadToken": "XGCrY5FjC2Zg4R0yvbHH915Etm7cJuBohDTaBL7S76C4koe6AIcd8fQg_jfi2P-d4A6Jh_u8MaOALJVOm_fSFM3yvhPSxo7r3FTVmKkWvqPA3ws9jkgOT_1z-iiTbM9cb6NsE5ETgXMIuWDe74x5KGX4ASaQ2eeh8pP3B1GcaayZRQ_kNFktHts0m2L8bzcF46mJJ-x8FLvr0lYODTrwqA",
+      "text": "雙燈是兩組燈都換嗎？"
+    },
+    "webhookEventId": "01M3W7PG1YK8ZN0WD6R1WPS08T",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790875221575,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "ff1828679d8b46b3888659ae318920c2",
+    "mode": "active"
+  }
+}
