@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3W9RFNN0M8BGRBWSM50D7EQ",
+  "MessageId": "634256073976447079",
+  "Timestamp": "2026-10-01T17:56:23.870Z",
+  "ReceivedTime": "2026-10-01T17:56:25.296Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "那此次確定是操作問題無需修復，若還要有操作相關問題，能參閱記事本操作手冊。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634256073976447079",
+      "quoteToken": "jvG4LOkbTMEAZgdie--ea0PTjkxjAmyrKbE10AFj0JZmCtLegpyTt1-PY9l0RXqzXz6P_fRnXszVJpu3KGXxfNVFECGgj1doDf91kOFSEMHPxvnNAbO2IUGMi3qlMFn3k1abgCmiieqAi44XOgvfPw",
+      "markAsReadToken": "a2eo691M1VZJNZmhUX9n5W56wCsmTL-bR2mTXw4ECHRpi1GMbglVxN7hIy4UBrKtFQ4AypFzPYy6jCLUZ_t8QZ9nIcJteBa4xOLjemaMr-rgtWFpcLCT_UNLrx-4r3jklx1h9-MWBvUxN3mX3HQuPUnFwXeshfq2CZjcpi1glfm4GWo44hpxgeWo7Qe_pqlCoQImvtq_1xWB8BdChMVFpQ",
+      "text": "那此次確定是操作問題無需修復，若還要有操作相關問題，能參閱記事本操作手冊。"
+    },
+    "webhookEventId": "01M3W9RFNN0M8BGRBWSM50D7EQ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790877383870,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "2a58a1909b314d8da982a811ecfd944b",
+    "mode": "active"
+  }
+}
