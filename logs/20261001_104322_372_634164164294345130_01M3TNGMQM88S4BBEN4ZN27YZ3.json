@@ -1,0 +1,48 @@
+{
+  "EventId": "01M3TNGMQM88S4BBEN4ZN27YZ3",
+  "MessageId": "634164164294345130",
+  "Timestamp": "2026-10-01T02:43:21.434Z",
+  "ReceivedTime": "2026-10-01T02:43:22.372Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan \n請問今天下午可以1430到嗎\n先sync以下相關議題\n(andy、sammi也會一起)\n\n1.台電瓦數資料如何更新? 更新何處?\n2.平台計劃書配合需訪 所交付時間，是否與合約衝突?\n3.智控器設備規格（for資訊局）\n4.10/6 財產管理需訪，北區、南區承商到場?\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634164164294345130",
+      "quoteToken": "z6hk42lFGq-uXg5iiVxfZDvKJXq-YxcfLExFvY9e71sfjaATjubOEsAplELpfR-2uLQJSxps06yyTqHK8JQJe2J1dEP5fz_rBMC-5SkA7SKmuhHoKIsNyJuY7B13KU7ToefTmDQ79VIBryT4r6B7ow",
+      "markAsReadToken": "o93QEPdjjF8InXefRHbCiztIwLrKO25fbH2MK76mwwZZMmW1WalteyvhI_5qP97o_pqS5Z8NIL6mzlZ3pHd-LnYOyWz2b0sjFK3ClZ1CeD5JVkMhCZWbMWhgaxbFD7zCFehcCviLxnq1jVXoKfcA0RQuWGqqIzRkspeLDe777uPDsXDl9oDR-59amxgzJN0Y7-UMNIDpdB8w7zbm2SwxCQ",
+      "text": "@林郁翔 Alan \n請問今天下午可以1430到嗎\n先sync以下相關議題\n(andy、sammi也會一起)\n\n1.台電瓦數資料如何更新? 更新何處?\n2.平台計劃書配合需訪 所交付時間，是否與合約衝突?\n3.智控器設備規格（for資訊局）\n4.10/6 財產管理需訪，北區、南區承商到場?\n",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3TNGMQM88S4BBEN4ZN27YZ3",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790822601434,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "cecf701df9084e62956577cee0a845d2",
+    "mode": "active"
+  }
+}
