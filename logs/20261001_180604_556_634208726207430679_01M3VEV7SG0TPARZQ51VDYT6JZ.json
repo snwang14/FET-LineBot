@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3VEV7SG0TPARZQ51VDYT6JZ",
+  "MessageId": "634208726207430679",
+  "Timestamp": "2026-10-01T10:06:02.553Z",
+  "ReceivedTime": "2026-10-01T10:06:04.556Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "近期安排需討論議題\n1. 智控器的 domain 設定議題\n2. 架構設計議題",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634208726207430679",
+      "quoteToken": "OWHmBNqk0-pcLA6olWQgGP05SaqiBpWaYsEIEyUpCqwPP6BaaAYu-2u3-e6aL3vN7aph2Odhu4-P6gVH8j4-SiqYNKBdgoOG_LevyEqooJQ07TaPtjNCFxXYuw7DE0tFOeYdUsb04OXO7v5y8QrUBg",
+      "markAsReadToken": "t9sPpkWLyXYGps-y5neNXo-HLBKqxhFdImFtkam4EvK9NinZWL2_B9utuzTsQXUjy5RVBZzANFynUVM80K0pUurgxUZ0DBcOM2J7UyHGg6irxwBFgV-7P9eWj5dHmRKqndbIHTQ5ufZkX39ERSemvHiMsqEXsBraecP4dB6E31aNTUBMFo9z_VmlNnQrf-S3K7DvLOT3BD7BHV3e4gARjg",
+      "text": "近期安排需討論議題\n1. 智控器的 domain 設定議題\n2. 架構設計議題"
+    },
+    "webhookEventId": "01M3VEV7SG0TPARZQ51VDYT6JZ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790849162553,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "6d99fb87157f45989854e9a0d39738bd",
+    "mode": "active"
+  }
+}
