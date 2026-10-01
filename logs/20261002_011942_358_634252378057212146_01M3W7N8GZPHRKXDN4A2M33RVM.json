@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3W7N8GZPHRKXDN4A2M33RVM",
+  "MessageId": "634252378057212146",
+  "Timestamp": "2026-10-01T17:19:41.084Z",
+  "ReceivedTime": "2026-10-01T17:19:42.358Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U7f6ba92f284175d74f127ed44467bbc4",
+  "DisplayName": "小緯",
+  "MessageType": "text",
+  "MessageText": "另外一組工班目前做雙燈\n無法上傳",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634252378057212146",
+      "quoteToken": "07xAjEJhWpV8zCQ66s4IiAKbIudJX69DV0kmtqdGVc2MDTkDQiqIR_X5AKXUDZrlDnoYXJ3k2NC9ufQdgA8Y8MR-3QIcrs5RS5nRQXLQReD5Zipq45ntluKSp0uFPZBIQ7HIJLTc-_-IyrOWR2UqQQ",
+      "markAsReadToken": "z0nFc6ayVQfchZOIdHQgb6d6mVbOot7jcqiAIQ0xNEl0l_QHN2qzn-QWQ2IIO1uYlhgthR9WoZy-dAzFigF223ep7zP_FvKMKO6gSkPhVfTY-YbXp-kYEPpG1WJj361JxOGDym1lU_K-rWA5AOnhuP2pVrRRjjGTAD6DeNNjoavnieHaCq-ipaoNyKKAS1zUo0N-Vc51Wl6kFnqpbhyeQQ",
+      "text": "另外一組工班目前做雙燈\n無法上傳"
+    },
+    "webhookEventId": "01M3W7N8GZPHRKXDN4A2M33RVM",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790875181084,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U7f6ba92f284175d74f127ed44467bbc4"
+    },
+    "replyToken": "58999ff4d4e14f578b1df0c858a353c7",
+    "mode": "active"
+  }
+}
