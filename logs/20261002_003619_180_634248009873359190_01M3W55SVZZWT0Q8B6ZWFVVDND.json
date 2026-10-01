@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3W55SVZZWT0Q8B6ZWFVVDND",
+  "MessageId": "634248009873359190",
+  "Timestamp": "2026-10-01T16:36:17.411Z",
+  "ReceivedTime": "2026-10-01T16:36:19.180Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U397813499eab417a38ee6a8732dbf917",
+  "DisplayName": "張麗雅",
+  "MessageType": "text",
+  "MessageText": "燈頭裡面有QR Code嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634248009873359190",
+      "quoteToken": "E7d5zE1wK1mwps5QglYv7WjJyWZS7MNNrG3dZN1-mSJo4MWbzSAi9zYuHS4sIojNtMkL1mIMsQfLuw03CrHt1bL5rvvTaxUM408w0Ha01xMWM9tC1CigX4rvk7gfiKvNaHiTtyqltc03-MVGCXS2QQ",
+      "markAsReadToken": "Ip4HPzclWoi5MWJdod5c09kHYJEZVFLC1rTxrpmJfWbyigzd5l7fkJV4Ycok3sFim4zIRoT9Et69iQspvERfXReVZrouejZPA7idFefukzuN_rQYV866_k1htg9N1JZkkg-huAij3n-UlnUc_TcOA0n8rSljGpBaujgtnHOUm_vC4bfZLNup3rkWL3ZVt8LyMAXKT4XKOAiEuOiGbGBBgg",
+      "text": "燈頭裡面有QR Code嗎？"
+    },
+    "webhookEventId": "01M3W55SVZZWT0Q8B6ZWFVVDND",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790872577411,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U397813499eab417a38ee6a8732dbf917"
+    },
+    "replyToken": "9487b26035d14d54bca043dba0300349",
+    "mode": "active"
+  }
+}
