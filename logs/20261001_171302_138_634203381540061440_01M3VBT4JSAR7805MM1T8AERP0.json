@@ -1,0 +1,39 @@
+{
+  "EventId": "01M3VBT4JSAR7805MM1T8AERP0",
+  "MessageId": "634203381540061440",
+  "Timestamp": "2026-10-01T09:13:00.769Z",
+  "ReceivedTime": "2026-10-01T09:13:02.138Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ueb641723e67562103c0ef055e5237fc4",
+  "DisplayName": "Andy",
+  "MessageType": "image",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "image",
+      "id": "634203381540061440",
+      "quoteToken": "NlFtZYTmCfleaKH4R4XgQg1ic1D9nWTrlOTgQy7yh45HbKim_O74xBVCNl9DVCxDVVjMcE1LsrLGZVAt6DKhdqzk_RWli_ik4kjXnylA0QjpOEX9dzSle2Bn41jVdwD-2h51b7AcgDOfzdriH2FdxQ",
+      "markAsReadToken": "TiT-VOHB6pzPl8F4vNpg6dpBcz2LPpKE26OR_R8V59HCw_24mKnDO6E2YE5HcfiTuM9OPcs6vP3HowRZlQ2H2RTG34SH13BckUNZX-xbt4DqQITySAdmD7n21VY74hvqdB7a6KZLJs5F0e7Bm0Qrkwt20HOofjxbUFlL3lvrZG71HHJ9ML_HVH0ykxStfXTAhIaHowSgx_SSmdvLLC1Xyw",
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M3VBT4JSAR7805MM1T8AERP0",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790845980769,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ueb641723e67562103c0ef055e5237fc4"
+    },
+    "replyToken": "28095d63ec0648c8bae53eb8eed6eaf2",
+    "mode": "active"
+  }
+}
