@@ -1,0 +1,44 @@
+{
+  "EventId": "01M3W533AAVKR9E0WEJQ0GGBYS",
+  "MessageId": "634247861478883486",
+  "Timestamp": "2026-10-01T16:34:49.058Z",
+  "ReceivedTime": "2026-10-01T16:34:51.469Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U7f6ba92f284175d74f127ed44467bbc4",
+  "DisplayName": "小緯",
+  "MessageType": "image",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "image",
+      "id": "634247861478883486",
+      "quoteToken": "mH7yB5TiSVc0mIzt34cHNeU6imcuQEmpXkAasgyA1Db7j6WicfBZyL46z_06XQ77rul3q-QDuMGidKTM3jhMrN_nW1luC4vIR8zhvQ-Cj3uHQyfKpg363q29kCcdL1Ijq-X36MvoUD8o-D1C6vIuPA",
+      "markAsReadToken": "xtilAZmFoutCWe_9V2RwRz4kGrx0ZJMx_qk5-W_JTdIMHjDaEjOxl6FYUqJGmWLLgwdzuMIcxReWMU_k7mivGyxM243FL5xKxTH9A7QCIStJW84Gn_TuKeVBmc4nVy24ZamxZ17iCiG1T9LKebikDk08PP_piCHyngdOr6WS-dO3w3fX6jByV4hlmp6UsLcHyR3nr6XWO3tlBCxqIR0LNw",
+      "contentProvider": {
+        "type": "line"
+      },
+      "imageSet": {
+        "id": "7A6E0AC73DA5686818E7B9F0F8D4E2066EB0AA69497E9257686B19606ECB9189",
+        "index": 1,
+        "total": 2
+      }
+    },
+    "webhookEventId": "01M3W533AAVKR9E0WEJQ0GGBYS",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790872489058,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U7f6ba92f284175d74f127ed44467bbc4"
+    },
+    "replyToken": "82b108629bd7474281f51139a8484960",
+    "mode": "active"
+  }
+}
