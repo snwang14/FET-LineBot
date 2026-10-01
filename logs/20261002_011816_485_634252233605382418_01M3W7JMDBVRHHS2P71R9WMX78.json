@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3W7JMDBVRHHS2P71R9WMX78",
+  "MessageId": "634252233605382418",
+  "Timestamp": "2026-10-01T17:18:14.963Z",
+  "ReceivedTime": "2026-10-01T17:18:16.485Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "請問是億光的工班嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634252233605382418",
+      "quoteToken": "MHR6DFOBBDiKWwtJkk9ALu_gnSM6M60kueU37_X7wdOIpkaErU9mVVgHEZQhtyEk6kSlqNnz0AuRTmwJIe-_vDTS6Cy9kqtvh2IlZbWIjG_vF4YFjmzU1YEOSVg9koMDgo75ATB6TzI9jMVLvS0hyg",
+      "markAsReadToken": "dryKUWedwirexWAyTlX5EaKBgDy1kekZsxUN5I_oLt-KcxoeZBTrB_JIuLt8_1Ucuh9KDM8WatOFbxy7dLyNWQHZUlJ3JMS6l-jTNCDlReKoOyHS-t74zKHWHacThn4pNzAQpxODGzcDR-ar5eicrTGBK1mJG5kpYZ43KdRZztfrpuQN7CspXHDlAfXaHUyMj-Xvx2k1lyrpaTyCrak7wA",
+      "text": "請問是億光的工班嗎？"
+    },
+    "webhookEventId": "01M3W7JMDBVRHHS2P71R9WMX78",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790875094963,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "671323039ad44f1d952b22505588bc33",
+    "mode": "active"
+  }
+}
