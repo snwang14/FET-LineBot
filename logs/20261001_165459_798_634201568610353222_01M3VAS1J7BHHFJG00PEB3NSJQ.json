@@ -1,0 +1,48 @@
+{
+  "EventId": "01M3VAS1J7BHHFJG00PEB3NSJQ",
+  "MessageId": "634201568610353222",
+  "Timestamp": "2026-10-01T08:54:56.333Z",
+  "ReceivedTime": "2026-10-01T08:54:59.798Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ueb641723e67562103c0ef055e5237fc4",
+  "DisplayName": "Andy",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan 今討論智控器(光林) 裡應會有 domain 指向 未來的 路燈平台 , 要考量 before & after ( 市府裡是否有dns 主機被 private 指向) ",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634201568610353222",
+      "quoteToken": "TQqIfHWpJ7h7iuQkjSega3QBhEIWfSvVwg83UUigFpFfck2g7kLH4I-Qp7uI6Hlm9yNAvUhSsZzSkinS8YF2hVY0b6oTC_zSegJazxV4SBe_ELk_XOXnYrxeM2mMYGrlYp1kaQHxVKZW9sI9AYsSag",
+      "markAsReadToken": "o7phMxlkQO5NYq1I7FJUmvtRHvy2nSaSNlupSkgCCAQJH1ZgTv8CXplC2u0rFl8ymXKClrEpu2vyP2pS_Se_57NMXFodeXrNlWjzkzMVQsf1qxJiNg87vpc8I40_wDOO6nCv3UeybmhrXhyuLdksKwlZbSzw9FY-6dbGjlhPcmgI0KJ-I6V6lm3Fw-FlBV25rhdVVFM26H4Rjwl3vBn0og",
+      "text": "@林郁翔 Alan 今討論智控器(光林) 裡應會有 domain 指向 未來的 路燈平台 , 要考量 before & after ( 市府裡是否有dns 主機被 private 指向) ",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3VAS1J7BHHFJG00PEB3NSJQ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790844896333,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ueb641723e67562103c0ef055e5237fc4"
+    },
+    "replyToken": "c48bad0a132143c3bd73b4ec81389190",
+    "mode": "active"
+  }
+}
