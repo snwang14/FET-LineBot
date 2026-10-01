@@ -1,0 +1,55 @@
+{
+  "EventId": "01M3TM520A5T96SK91EPVYQZ67",
+  "MessageId": "634161767232570064",
+  "Timestamp": "2026-10-01T02:19:32.781Z",
+  "ReceivedTime": "2026-10-01T02:19:34.983Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@Michelle Pan @林郁翔 Alan \n台電申請單範例已MAIL\n請留意，謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634161767232570064",
+      "quoteToken": "N0yHcj4ZCA0gsHeR34eSloXe5oqy3vWaxUTMYql537j4dp8LzM_XRB39BM0qnnm96F1EoPNieQ5MQSeMZbhnspneEsQG5TcsPm4bCj_lfA2YgpHiXRGihGE6Ot3NHEa1jNoaCOU2_0LIFhc2rBCoVA",
+      "markAsReadToken": "uPG1ti9X52vpWvCH_0wrM4dSp5FU3p0_MPKDcbY7Hcd2X4ZB0cxjpXqDhZCmHmtqt2Et7ztX9T5CsnqwjMppc27X1CoA9Ue2EtKq3EZU7NgWPlUUu2qBOnPeVoVA2OE3tzOPkYDkkXsuEe0Zs4urXXQtYW-yV1nTaJo9nf3u6sxhpZ1MfriU9GIEoR9peCEP32xVWqW8YFE0doRVYokzOg",
+      "text": "@Michelle Pan @林郁翔 Alan \n台電申請單範例已MAIL\n請留意，謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 14,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3TM520A5T96SK91EPVYQZ67",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790821172781,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "aadb8a8b1b00436288d3a6a0bffe889d",
+    "mode": "active"
+  }
+}
