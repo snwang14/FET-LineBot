@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3TSFRKK8K7640C0TZGFFYRR",
+  "MessageId": "634171152055140472",
+  "Timestamp": "2026-10-01T03:52:46.460Z",
+  "ReceivedTime": "2026-10-01T03:52:48.634Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "在露易莎嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634171152055140472",
+      "quoteToken": "yR-M-je1e0ZIuFyDurKBWnh6CGlXbe0HkImgLP_YwkyEd9ajINQdDa6Kvh5_5qfVWjgkTE-8MawRnGkdgJaDoppHE3lvQJXAdTZfzaYR5BS4bcuc4ej_NFVukfX5TKo-D93-C54XTNbm5pAMWHSHsA",
+      "markAsReadToken": "i2Q_5xYphaiefc1YOg1sElw4i0VmPmrg-pRIA5svvN-2vn37AG0PYasNmYEbz-2QGeBYfcX-lzFP1-R4fpFxROU5hxWQHZHWDdC-OCM4jLhYz-ho-YeCkFwUV4uWplBNUiEaIbjsmxL7_qf3sOzUK897f6aFqZo2_bJk6j_0k7SkPXvhKhWBsgwgAmOGUjK5na_jXHVkkc9x0I_zTKDzAg",
+      "text": "在露易莎嗎"
+    },
+    "webhookEventId": "01M3TSFRKK8K7640C0TZGFFYRR",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790826766460,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "c82f1394fe4b443e9d39d9cd1ccba4be",
+    "mode": "active"
+  }
+}
