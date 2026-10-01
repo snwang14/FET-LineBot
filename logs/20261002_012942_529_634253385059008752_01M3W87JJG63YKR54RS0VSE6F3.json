@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3W87JJG63YKR54RS0VSE6F3",
+  "MessageId": "634253385059008752",
+  "Timestamp": "2026-10-01T17:29:41.208Z",
+  "ReceivedTime": "2026-10-01T17:29:42.529Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "連結點進去下載很快就好了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634253385059008752",
+      "quoteToken": "F4ahqfkcfd1tqsCwCJIASAqcMWipBpWgrgiepxXNKRS0BlTSIiCbNjutczGsUpigdsiFkQSa2AU-f9tv9bI77ZKsi2beDp8I7GEz1nck4hdHIfOZ-FDO9Il5bwgyWcQkqOtqW3uJdE_BZr3ybJ7Wjg",
+      "markAsReadToken": "kk3B3ELPOBncKYlFC40MzLb4F7FzipJGxanYdc_6rbAA-OQDHfb9glzFSYnr4cBRuiWfz7ZWZVOfN6Sdp6ACnvZMmUTDvHd_mpLmQEZ22PNZMFGm6Bg4zPmBuZjGK79lyxSxr4WZokJpLXaZghecJG0Zn43IkMA39eHmfzf7dz5YzE_z2oG3BdBOvRgU3PFmIeqfhmTSjJXd5CWhXVMlXQ",
+      "text": "連結點進去下載很快就好了"
+    },
+    "webhookEventId": "01M3W87JJG63YKR54RS0VSE6F3",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790875781208,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "e52b91dcc07e4b0e813d21821644b479",
+    "mode": "active"
+  }
+}
