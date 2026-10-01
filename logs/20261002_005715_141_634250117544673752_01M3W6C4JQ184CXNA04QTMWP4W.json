@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3W6C4JQ184CXNA04QTMWP4W",
+  "MessageId": "634250117544673752",
+  "Timestamp": "2026-10-01T16:57:13.568Z",
+  "ReceivedTime": "2026-10-01T16:57:15.141Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "麻煩先確認單的狀況，或是提供整張單的資訊",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634250117544673752",
+      "quoteToken": "PDgOIAQiUaLCOj1nyU0zkRwKGxpt08WOULDyghaKPpt-diNhNvBoMKobPv3-_n8N6lcb0bF0vXQpShx2_YZ1nurGoZSSc5oM48oi7omINhGRx277VCNS_WxpYjLJF11cwbeLl6OvZfW2ONqUYpKDnA",
+      "markAsReadToken": "OuRkitti8nyflItUCJCkTaSpk3pteTB6M4JxFmV2eBZC3TfqEnVd1RdwE89eh2MqT23a8_XT1xy8fkL2JDo9iD5RAxFqdnAFNKo9KVX3sOKE0BUa5SscnAv5TemMGafVwWuOX32MQ2cpRh0_gq24_BQhaQK4tsd8Oi9tIzioE8J2RXPkETK1FthnERTBhEm11XfL-Cky41hwWbWwFXNQzg",
+      "text": "麻煩先確認單的狀況，或是提供整張單的資訊"
+    },
+    "webhookEventId": "01M3W6C4JQ184CXNA04QTMWP4W",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790873833568,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "ae2041b1937243539a1a7f5ff80c7eb3",
+    "mode": "active"
+  }
+}
