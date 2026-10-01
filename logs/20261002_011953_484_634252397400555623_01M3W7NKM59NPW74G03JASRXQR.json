@@ -1,0 +1,38 @@
+{
+  "EventId": "01M3W7NKM59NPW74G03JASRXQR",
+  "MessageId": "634252397400555623",
+  "Timestamp": "2026-10-01T17:19:52.461Z",
+  "ReceivedTime": "2026-10-01T17:19:53.484Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "請先詳閱回報流程",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634252397400555623",
+      "quotedMessageId": "633511197765271589",
+      "quoteToken": "C9ZJkMzRgsO3cm_aE7pWFZfBIb1AZwmkMPNhn_xaBhikZsxNjOQuFDBNRLveLGWjlqB1fW62gTYrU84rXo9zHQqxDJNlQPbLi5GK5llj3Eh56BpkrgyMzLpwDj7O_3pfGUZzJHvCUegHhvUGb5zLdQ",
+      "markAsReadToken": "ty01Euc6IEDBSSDjqn48NcmevsKeZMVFL-KSQegL48Ywoh964gRRu36KcXgCFCp7roVvv4nPXXYdYUcaw5bThq5UD86nBEU-9cBNZwqwvQazTwM8yevGI63O1GuJrd4E3TkQooU3dljzlk2Ml6JAjw8xI-9qSrv8cYqVCj-57YF6LvBdmeRdUcaO6hVIzQgtSprhS-AQyfd_bHYzaORr9A",
+      "text": "請先詳閱回報流程"
+    },
+    "webhookEventId": "01M3W7NKM59NPW74G03JASRXQR",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790875192461,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "a384122a4cb94b7e816beeacb583e560",
+    "mode": "active"
+  }
+}
