@@ -1,0 +1,38 @@
+{
+  "EventId": "01M3W9GXMTBAP4FXMGT96PQJX0",
+  "MessageId": "634255658069262474",
+  "Timestamp": "2026-10-01T17:52:16.035Z",
+  "ReceivedTime": "2026-10-01T17:52:17.377Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "好的，地圖可以是因為剛好在要換裝的點位附近",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634255658069262474",
+      "quotedMessageId": "634254884438278468",
+      "quoteToken": "wWR3wprSkckC4mpSpqWoDuXVRhR-tcij0U1GcRpTqI6yZ0WEhapSnOau67Rc0UhB_o263tkh8QlOWewBEhj1PI68dQSjeZbSQwjWvz_gzuGm67XUPXNSytI8T0JYRYEX_IHndNIO_1L7vNVDkNJMuQ",
+      "markAsReadToken": "7GpolnKi4AQlxe-apTkWQe_RGaIMFJm7JfsKSjjNTcRa6vSANmCF87jKHsVjPQhr9gvoEsQPjRIsjUiI-_bokshYD_vXPu0q810tcZsNDkDHAmrKt4h07_uu2gD5hyTiboYXCJpqdx6E3tpTNsnQDHbpXHk7aUzySHcfi4MJ5efINgJA3Il3GuRJgKeoTBrqeCujpvgKRerMp2JXlkUIFg",
+      "text": "好的，地圖可以是因為剛好在要換裝的點位附近"
+    },
+    "webhookEventId": "01M3W9GXMTBAP4FXMGT96PQJX0",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790877136035,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "5fcd923b4bb24453b52a4964d69b66a6",
+    "mode": "active"
+  }
+}
