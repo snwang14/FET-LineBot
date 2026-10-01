@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3W7PY243KDPQ0CJR2VP2FV9",
+  "MessageId": "634252471069310977",
+  "Timestamp": "2026-10-01T17:20:36.368Z",
+  "ReceivedTime": "2026-10-01T17:20:37.186Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U7f6ba92f284175d74f127ed44467bbc4",
+  "DisplayName": "小緯",
+  "MessageType": "text",
+  "MessageText": "對的",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634252471069310977",
+      "quoteToken": "Mdhcye04I8XdJ1ZzTuzQBmvzRGqKkPUIW93gO3RY_TC_yLqrup36OrrZp6QUJqHW4-dqXB8ugPg7Fqe-uL9FyQWidZx6eZ4nGHbwalJmsBz-LMGjgogJa7NByFgvQpha7TLtQQPWELu4VjoS5b6Mpw",
+      "markAsReadToken": "H2FznA65BWf69IFpbHPg0FRZ47RS693FnvOxZAfyCfkJcwLHN2QYpeGlnDcyXhLKMCljpV6HbYwbjtaK2nglsbR0PAe_OX7Suwn0JJNiPrTSOVlpZltBSMrn2s6YYOhK83ygjTYrJaeZ6n8MpTYsWhy-cGNuhTQ922_Tdrujm5pl0XiqtNK_pwmdIbBZMRzWHZEPRdcjW4JxTvwW05D4pw",
+      "text": "對的"
+    },
+    "webhookEventId": "01M3W7PY243KDPQ0CJR2VP2FV9",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790875236368,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U7f6ba92f284175d74f127ed44467bbc4"
+    },
+    "replyToken": "b90ad4c5f9674d498e7483c37aba9c41",
+    "mode": "active"
+  }
+}
