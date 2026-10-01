@@ -1,0 +1,38 @@
+{
+  "EventId": "01M3W6FE248BPYYHCT5W7KGXKG",
+  "MessageId": "634250299057635398",
+  "Timestamp": "2026-10-01T16:59:01.826Z",
+  "ReceivedTime": "2026-10-01T16:59:02.807Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "待自主審核就不能異動工單內容",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634250299057635398",
+      "quotedMessageId": "634250217553658180",
+      "quoteToken": "haYI3QMWO9Ly_WvciAv6tnkgcO-MyB3Yf9lamPMQc0E1clYaggfV2stmZFdoayYDmFS2AV04Kquyh8RqBTuZdj0l-Qd64snOVDF66urSjGCfBvM-ksjZAgpgjbsc92mSpyAmd01ExhulHAEvdlZ0NA",
+      "markAsReadToken": "rCJNxMSHv6k_fGa5j_aFUszFF8SLzzUB03qmj7fm7CkFuI_r5oz64MqbxKgJbaDcCXHWZnBfWWgIU1r9peIPT2wodTZiTzVkkXx0hsKRXlour8QaxM7l4FP8cl3kS0YP-Yiwb5WjjPhHZZPfGMa5MLBIqLK3KvYeiBgaReHUsIbia2nYfPhRGz9MLl8_a7eqe7zhIeSheF3Sb5thdOgHlw",
+      "text": "待自主審核就不能異動工單內容"
+    },
+    "webhookEventId": "01M3W6FE248BPYYHCT5W7KGXKG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790873941826,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "a5a475c6ad4c4b4abbf05ddeaf3c3708",
+    "mode": "active"
+  }
+}
