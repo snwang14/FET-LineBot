@@ -1,0 +1,49 @@
+{
+  "EventId": "01M3W83GA9F11WFJR2JFHS2KJM",
+  "MessageId": "634253161284239621",
+  "Timestamp": "2026-10-01T17:27:27.826Z",
+  "ReceivedTime": "2026-10-01T17:27:29.991Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@小緯 如果版本非最新，要麻煩先進行更新，理應不會有剛剛錄影的問題發生，\n如果已經是這個版號了，再麻煩給我登入頁的截圖，我再進行確認",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634253161284239621",
+      "quotedMessageId": "633224180501840549",
+      "quoteToken": "nt1v9pBW_UEqF2h9nqEcNaZS5FkvCuhYtK-nK_f_7odq-12F414QMa9DefTlQDtIzDzqOxoRDrESF1JxfQXSvToi___JErAIi9zPOKgu6TN1_tcUZdvi5mLFTT_eqAt1uV0Fa5NETvSjXLYvM9lfqw",
+      "markAsReadToken": "LPOJvbaw0eepTteM5B4S-l8bLO3HGYgbBJjp_ux837YCExeurg-lu8yDjD1fBaqFONYzrMIahrbNokzt6fT2BLhmwU74-Drdai0TvSP-kJGR5Z9z_9eSgCWIsWAHhDt7pOeRU3HYzSghuA6YxB9Qlim1ar7I_K4VImbYyEsXCAqRRShQXYUIMQKiz9UkEDpyXZZbn25LvNvnUXm6XGDWRw",
+      "text": "@小緯 如果版本非最新，要麻煩先進行更新，理應不會有剛剛錄影的問題發生，\n如果已經是這個版號了，再麻煩給我登入頁的截圖，我再進行確認",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 3,
+            "userId": "U7f6ba92f284175d74f127ed44467bbc4",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M3W83GA9F11WFJR2JFHS2KJM",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790875647826,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "86436218a18b4a5195c81f17e8b958d6",
+    "mode": "active"
+  }
+}
