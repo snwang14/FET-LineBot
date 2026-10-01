@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3W86N6X2YAKCQ3JFMFQSHQH",
+  "MessageId": "634253335112712397",
+  "Timestamp": "2026-10-01T17:29:11.382Z",
+  "ReceivedTime": "2026-10-01T17:29:12.503Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "好的，重新登入應該就可以使用",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634253335112712397",
+      "quoteToken": "bFtNct-U1JO74mZA3FklLVQHvCnx0dvf9Xvs7_8g5QKdx7Q1s6fH4T_6d29vaH4CD2YozZ7W3lhzpDB4fFpBRx28wX2XcucRcvNEv4w5QwoHujy7UxgQsyARtDXTHbTk-31hKsdGl1rxiILoSO8GzA",
+      "markAsReadToken": "RufggYvC5Jh2LZBZASA3KlhBLC1erW0CJA397SlkmjraBdLx26J1DDrdTbUCfRY4eTAAm0WrgSne3PrUxfDp8SNvtWbpKc-8rVtoYXZWiazYmpfke0IkWfBZDW-6QH6JhOJt5tro2pPQfIk6tLqi9LraGjHwspvDXDzJ_npQ_BMIhI40IY_gejA6o5mWCy4pO3-9iibn4GpFvGtuSAj3TA",
+      "text": "好的，重新登入應該就可以使用"
+    },
+    "webhookEventId": "01M3W86N6X2YAKCQ3JFMFQSHQH",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790875751382,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "30ce83031ddd462d8d57ddf15837615b",
+    "mode": "active"
+  }
+}
