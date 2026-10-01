@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3W5MYBD7RZ307VXPAK7JGW9",
+  "MessageId": "634248842140712980",
+  "Timestamp": "2026-10-01T16:44:33.526Z",
+  "ReceivedTime": "2026-10-01T16:44:35.989Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "掃不到是因為先前沒有提供要換裝的燈具資訊給我們，非系統問題",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634248842140712980",
+      "quoteToken": "t5JDVVoWFOZFNYXHF6RjoI19x7pcKNumGtZlph5lB8ylpDJmEjPulfZzQdm_Nm38pT6gkMnLr0KlBxTmD1PKZng8JBqW22zDh-F_eePeZEXrVj0vPRuce3EFX8410MDywOOCDU0-uKdOzQyUa0dqdg",
+      "markAsReadToken": "k5gbS3tg8X-vRwBy__9OcChywlLtW4HBeXGN9QjgEu2DDBILLN6MKC-DYnh55KyaIQB5AgpBlogqPneFQlIa1PVZrMp360Ad2hKC51VilCRKrosRo1066dYvjcPpF6I6utEP4YvMOXd_dIejIjE4zezCtbA5kX70RKH-s23eg0txvYXqe_nmBer2xzcPeM6goihIwGelIrgv5NwQdYDcCA",
+      "text": "掃不到是因為先前沒有提供要換裝的燈具資訊給我們，非系統問題"
+    },
+    "webhookEventId": "01M3W5MYBD7RZ307VXPAK7JGW9",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790873073526,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "d5d31f87b6dd4ee4b244561f9ce72ffc",
+    "mode": "active"
+  }
+}
