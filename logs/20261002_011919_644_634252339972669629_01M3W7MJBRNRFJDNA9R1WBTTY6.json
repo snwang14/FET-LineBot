@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3W7MJBRNRFJDNA9R1WBTTY6",
+  "MessageId": "634252339972669629",
+  "Timestamp": "2026-10-01T17:19:18.400Z",
+  "ReceivedTime": "2026-10-01T17:19:19.644Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "請直接點單進入查看點位內容 裡面也有地圖",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634252339972669629",
+      "quoteToken": "OPau0NdnGM6tef4uqugFfjZn7QF4_kCtxrup1LXEY9p7zYv-1li6DLtaOFMNnZjD2XL6omnoRGEHJkfKBiDZ_yYCvSap9bBFJcMk0EuSJyhiWDGtvo5G5fkcecgd4t9rS-VdGT7OGO-umR6Qi0ShkA",
+      "markAsReadToken": "nk1iKf1NagD_WA58TT39Ca9mRwH92D8jn7FOE8vHxvn-1u253ltF_tX-Lm9SYuyd4g8IzmCB7kWwQgbwP4E-FfELHrhfun_pks-4-Vu7p4cAh7wcbg1FOzgbE8pGzXxs34WD3HPkG39iyhVmq1wHt2vfKaPZCealdFmYcksiQu-h62ptUh8GimvKqwz7sorBywRtxw3hoHFC_ld5RZ-orw",
+      "text": "請直接點單進入查看點位內容 裡面也有地圖"
+    },
+    "webhookEventId": "01M3W7MJBRNRFJDNA9R1WBTTY6",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790875158400,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "57a41f1102b543238f061518e2a88f90",
+    "mode": "active"
+  }
+}
