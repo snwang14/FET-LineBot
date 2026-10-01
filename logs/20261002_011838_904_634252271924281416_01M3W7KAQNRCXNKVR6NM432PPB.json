@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3W7KAQNRCXNKVR6NM432PPB",
+  "MessageId": "634252271924281416",
+  "Timestamp": "2026-10-01T17:18:37.820Z",
+  "ReceivedTime": "2026-10-01T17:18:38.904Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "因為地圖上不是你可以換的",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634252271924281416",
+      "quoteToken": "8ekdSjE2qKGutONFxZSMGn5qU1vrWx4ntc22GUQ_vI6agqlCSitu8q7SWG0wL4I1f2h8RGq_FSUZyoLq2q4BKaNXTCZ4LMeC1pKq73q98fhejG8fHujqskESWPmvw3YEJqyOBftuuMlNMIDAq5Cueg",
+      "markAsReadToken": "rF8kX3t6hQ5uZCxXQFMbrKXMve-qWexYxnTb6DUIMo4Msgkn7gcoi05Qa0K0qE5qqM6x3hYyR45OX0HJ0FckAFr85ZbjmEPyvMgsBacE2BKZQBYrcgJKI5h2irmesb2G0LJdvmK49qBP6KXliTv2rXY48WROTjfnBqzA2etFegXseT6p_oROwPS9D6BxSEeLkyxhrVGL4gQzYuzUtuSCDg",
+      "text": "因為地圖上不是你可以換的"
+    },
+    "webhookEventId": "01M3W7KAQNRCXNKVR6NM432PPB",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790875117820,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "4c894d3c9cf946b09132f604990678f2",
+    "mode": "active"
+  }
+}
