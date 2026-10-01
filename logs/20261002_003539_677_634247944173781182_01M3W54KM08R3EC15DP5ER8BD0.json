@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3W54KM08R3EC15DP5ER8BD0",
+  "MessageId": "634247944173781182",
+  "Timestamp": "2026-10-01T16:35:38.246Z",
+  "ReceivedTime": "2026-10-01T16:35:39.677Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U7f6ba92f284175d74f127ed44467bbc4",
+  "DisplayName": "小緯",
+  "MessageType": "text",
+  "MessageText": "請問一下燈具景觀燈\n顯示序列號是否正確\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634247944173781182",
+      "quoteToken": "jhp9MwEaEeLZ1A4VFKkse0LIG8YzCepbWgaXro9DOFKNmOA7xbz7j5sVL1Ajke60H_xAAHbkCnKbHQfd58Q1qcAwEjErz6skobDE6_eGXn3jvpBKvEK1Yz2PguyqIgsfO3wVDRyw6YvPupiCxQ24Sg",
+      "markAsReadToken": "N9DF7JqHg5weVEYHM3UpSF7iC2WxZCOcg2ygGMrI3EalgAws6Km7XETN_mh8FuxWySBE0zvhrPSe3ENdMdnG6CBxPeiy9qGZgJZPCKN9FSQeM1KPXtixMCF-UL2UUHc-MCy9-S-krBWL8KhlVirnRnCfMgJGRPLVDCbim9Y8BiNwZBt4XUcHOZJgDBOL9DIbMLI-KEz-wBrC7TN8ph_dpA",
+      "text": "請問一下燈具景觀燈\n顯示序列號是否正確\n"
+    },
+    "webhookEventId": "01M3W54KM08R3EC15DP5ER8BD0",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790872538246,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U7f6ba92f284175d74f127ed44467bbc4"
+    },
+    "replyToken": "1a2fa89519324e778999e73b160186c9",
+    "mode": "active"
+  }
+}
