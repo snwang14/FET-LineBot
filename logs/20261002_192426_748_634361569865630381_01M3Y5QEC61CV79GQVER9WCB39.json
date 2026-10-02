@@ -1,0 +1,66 @@
+{
+  "EventId": "01M3Y5QEC61CV79GQVER9WCB39",
+  "MessageId": "634361569865630381",
+  "Timestamp": "2026-10-02T11:24:24.329Z",
+  "ReceivedTime": "2026-10-02T11:24:26.748Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@All \n【再次提醒工班】\n請各工班出門換裝前，務必先確認手機狀態\n\n1. APP 版本是否最新，若無，請至「換裝APP報修小組」查看最新版號進行更版\n\n2. APP是否可登入系統，若無，請提供登入頁至「換裝APP報修小組」反應\n\n3. 超過十點或假日要換裝時，麻煩到「換裝APP報修小組」喊一聲，工程師才可以提早準備哦\n\n(hands together)(hands together)(hands together)",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634361569865630381",
+      "quoteToken": "Z8xD-BK6thHJnRDQoOO7ukyvAVRSv3IONkp1XZ3-z-osUHLV_rbYxGACToFk_6HzG-PD3_b5qhlkwWZrgsyygwdBjb-L03zhe8nwDuoYp_3qU-A6qA9iPSorOOAE75a7kLpoYXj8yNqx-LLKcLY48A",
+      "markAsReadToken": "EJZvAaFEQyDjRVcMgmRQfz7REmqt9Ko7uccwXzPhL7d9MRtJS-6_8kAqyn2Kgrjc6zDC5zAFQ77fIGoIQuEt5rpG6BjgGj5YBn5M-lN4cOEBjZRn8VGQpCY_feG2We5Cz2ucKZlHEmVYY_citYKwddkYG0U3M2t_fxci8b1oKZ-rIBgU52Q2ySeY3xi2dLzptNsvNvW0WlTDv2buFcKqyg",
+      "text": "@All \n【再次提醒工班】\n請各工班出門換裝前，務必先確認手機狀態\n\n1. APP 版本是否最新，若無，請至「換裝APP報修小組」查看最新版號進行更版\n\n2. APP是否可登入系統，若無，請提供登入頁至「換裝APP報修小組」反應\n\n3. 超過十點或假日要換裝時，麻煩到「換裝APP報修小組」喊一聲，工程師才可以提早準備哦\n\n(hands together)(hands together)(hands together)",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      },
+      "emojis": [
+        {
+          "index": 163,
+          "length": 16,
+          "productId": "670e0cce840a8236ddd4ee4c",
+          "emojiId": "148"
+        },
+        {
+          "index": 179,
+          "length": 16,
+          "productId": "670e0cce840a8236ddd4ee4c",
+          "emojiId": "148"
+        },
+        {
+          "index": 195,
+          "length": 16,
+          "productId": "670e0cce840a8236ddd4ee4c",
+          "emojiId": "148"
+        }
+      ]
+    },
+    "webhookEventId": "01M3Y5QEC61CV79GQVER9WCB39",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790940264329,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "21d72dd4d9544e6ea3e93cdd54088535",
+    "mode": "active"
+  }
+}
