@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3YR5DKBAHDQA93421B5CMH5",
+  "MessageId": "634394004133249233",
+  "Timestamp": "2026-10-02T16:46:36.655Z",
+  "ReceivedTime": "2026-10-02T16:46:38.041Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U7f6ba92f284175d74f127ed44467bbc4",
+  "DisplayName": "小緯",
+  "MessageType": "text",
+  "MessageText": "請問一下工程師能否在項目裡面添加 要汰換的桿高幾米嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634394004133249233",
+      "quoteToken": "gbJilIxi8fwRIe8xsPqMj1_PvRDnwsMbvRzjcaTOEVs5OGzMN7gFiKXx0NSDzpzsT6I-PCthBtA9JUrKZ9Q43KAknk4qy0iO7702kpG5LnLZqqf3cB0j1sM0XXOjZu3R5E_4-6GOMbnsjtKa-tVeBw",
+      "markAsReadToken": "ZWeZ9aM6BCMg8xvHRkuN5eO6luIveUWHzmDPkVGlVJYlvTYaXTm7g6ELmJCjhGDNM6JiIt7qvuYmuydWovac-R0LvMywrgErYUf_3FbuXx6qUaYij1O9S43a9cFYfyCU1OPzOCCX2LCXQtnFUe7WbYhhaTLQ5yBmcCgBilHL4RxvXIpSpr6ZBJnJrd4gPw_sntVvkvmtB1oookuGXqv-mg",
+      "text": "請問一下工程師能否在項目裡面添加 要汰換的桿高幾米嗎？"
+    },
+    "webhookEventId": "01M3YR5DKBAHDQA93421B5CMH5",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790959596655,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U7f6ba92f284175d74f127ed44467bbc4"
+    },
+    "replyToken": "ee0ddee32305449aa6c69b992e0e2541",
+    "mode": "active"
+  }
+}
