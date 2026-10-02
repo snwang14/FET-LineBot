@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3X626VWNW1GCSTRXXRXFR14",
+  "MessageId": "634305867529584862",
+  "Timestamp": "2026-10-02T02:11:03.140Z",
+  "ReceivedTime": "2026-10-02T02:11:04.691Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U45bb65710085fd8da690900d4545a7f6",
+  "DisplayName": "王志文",
+  "MessageType": "text",
+  "MessageText": "七、有關路燈新系統平台部份:\r\n(一)請遠傳提供新系統輸出之換裝明細欄位,提供檢視。\r\n十月底前出來\n科長指示：不是只有表格欄位，也要有實際資料，才能比對",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634305867529584862",
+      "quoteToken": "wKLjNRwrgLADXUetuV_JD43JNdtJwUQ0kLdHsMoNvZGuCmE10Z4Rj4srJUPKSWSl0RLHxPk1y6SgBa3g0Gm5d5s6hc6gH4pWFRaXFgegz-D1VWrsYRuT2wyR3NNtxvj0fvv81QZRCM0esh0fW8PzLQ",
+      "markAsReadToken": "euPG8Fdad7L88OT4lxm-q_N7Lg3zOl3jntVsAn_0ujQuyLSCcbfI-E3GL2w-XZvvX_vY1pvXkvlPoVRmpWq6TjLzKWfXANO5wYTas6CdD4ZP4zHXf1mmUqccV5doS81u_M-OzbmEtcnnFouQk8gkBmTUKEgn4b9GYu57gR0Q3KyRKn6oAZ2S7W7zhJ01voGkZiPtVo4TrLiIu0pWlqunBw",
+      "text": "七、有關路燈新系統平台部份:\r\n(一)請遠傳提供新系統輸出之換裝明細欄位,提供檢視。\r\n十月底前出來\n科長指示：不是只有表格欄位，也要有實際資料，才能比對"
+    },
+    "webhookEventId": "01M3X626VWNW1GCSTRXXRXFR14",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790907063140,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U45bb65710085fd8da690900d4545a7f6"
+    },
+    "replyToken": "48c4e07bdaf94edbb4a03e54c3dcdbac",
+    "mode": "active"
+  }
+}
