@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3YVXVVMSFRET1BZBX1F9S0N",
+  "MessageId": "634400625546756407",
+  "Timestamp": "2026-10-02T17:52:23.421Z",
+  "ReceivedTime": "2026-10-02T17:52:26.306Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "是要作為辨識嗎？\n昨中午有和 Maggie 王小姐通話過，後續會針對辨識換裝點位做優化，會先以地址和燈牌的顯示為出發。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634400625546756407",
+      "quoteToken": "xQhgmTZ910ZELL4dkjhwCCcbwcZIdG0xGWl02MimAOjNhZu9D7AFlkQWVPTEAGYPN-CK-jOQSpOHEsvc35t0N05B_eLa3xRg4KtNUNNtwUnyW-u3pZWxhf3UwpufXKqyROL7gom-WhdDCkOoF-zbcw",
+      "markAsReadToken": "Fhn-nl_CmSDZnG1rEwh9i6GQ2K-YDynOR3S0Pjd2yw2gwVwGRrlSCwCDTifaAjlPpKoNbSsfaKFsQP5s1HiCR4HFf74lNiJPKGfulhfLxoyWRUso37KEO9hW7_uGDgk4vRBafET3u6E-W_r55lm4K758WOuuAfIQpsezhBs658hAuILPsjFxl_xhdok9p4oELvhboiiZekH8-i31TBvUbw",
+      "text": "是要作為辨識嗎？\n昨中午有和 Maggie 王小姐通話過，後續會針對辨識換裝點位做優化，會先以地址和燈牌的顯示為出發。"
+    },
+    "webhookEventId": "01M3YVXVVMSFRET1BZBX1F9S0N",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790963543421,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "2cb308fb5f0e47f487d360b44a4e43e7",
+    "mode": "active"
+  }
+}
