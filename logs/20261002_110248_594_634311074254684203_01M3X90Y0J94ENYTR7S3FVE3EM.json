@@ -1,0 +1,37 @@
+{
+  "EventId": "01M3X90Y0J94ENYTR7S3FVE3EM",
+  "MessageId": "634311074254684203",
+  "Timestamp": "2026-10-02T03:02:46.743Z",
+  "ReceivedTime": "2026-10-02T03:02:48.594Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "收到，那就需要時間整理",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634311074254684203",
+      "quoteToken": "8RkwQrjgLtLZPrmebNFb_odk-nQa-BcNZyw75ospEVWsbLKTEqNC4wN0f7-Yl1O-T2bD_N9hxyh8e8GboH3S0pVGY-anb6EAf5-sqznYmDp-hmaXVmfH5D6XL4a-TbQJa_-fJA0hliF4cyFG0zX-fw",
+      "markAsReadToken": "6zpRazCKUIhgQ887oEEKv3sYzCoCE1YSglNX4siY06ellKZVi8TVVg_s-yocfQ_1EoXEsjP4NEEQ9uLMlgzXj_Mu5o_Yj7PosIM3EWoy59i-FEivLwKAfyB9lbdHaOjPq73blrmbXIcd_rGSoCsZ95wWcQHnllkDXZWzn_4EJzYMmwIdWa1zPabbSKbTkahsKN2Bf7p_IoVtipT9FZaxLA",
+      "text": "收到，那就需要時間整理"
+    },
+    "webhookEventId": "01M3X90Y0J94ENYTR7S3FVE3EM",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1790910166743,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "04bd9f5d85fb4f43bdd006b99ffa465b",
+    "mode": "active"
+  }
+}
