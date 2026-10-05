@@ -1,0 +1,69 @@
+{
+  "EventId": "01M4518WX70NCCX90JY66Z26YN",
+  "MessageId": "634747798390571352",
+  "Timestamp": "2026-10-05T03:21:14.608Z",
+  "ReceivedTime": "2026-10-05T03:21:16.722Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@Andy @Julia Lee 佩玲 @Michelle Pan @林郁翔 Alan \n提醒~\n明天需訪哦",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "634747798390571352",
+      "quoteToken": "Dht-lmDszQ-DFp4FyD1cOBC6yTIWi2mvjNG-UOq145kHdL3yzblBdwuXOl111YJLHChVW85i9AYAykeeNNYkozm8z9bMgAHs8FodDDwHcgRKOVBoZL-ENxKBUhfidT8dS-BRB6d12qy6UuyqBV39Eg",
+      "markAsReadToken": "ScAnWUVqKDjPVenhoby3Xq-zqUDeBTYPxTtsSSgEbWvNda5sYHp2r_aqQDOiwlQbpKuI8Ne7dlPiJrHrY03R2smd98sHqa4uF-_F04smz5Pp1J8QbZv_5fHPfLGb5hOhVs8DfZ7owMOiVS1ZVaFfZZ8VG6-dImxVo_92uVygcwbEryFrjyn-FV_I7-BlO0zsiU7L2k6sdl_lWdwewh4kmA",
+      "text": "@Andy @Julia Lee 佩玲 @Michelle Pan @林郁翔 Alan \n提醒~\n明天需訪哦",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 6,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 20,
+            "length": 13,
+            "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 34,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4518WX70NCCX90JY66Z26YN",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791170474608,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "e9d2fc19535b4d068d32880ca2533231",
+    "mode": "active"
+  }
+}
