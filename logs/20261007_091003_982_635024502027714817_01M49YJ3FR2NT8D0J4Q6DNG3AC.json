@@ -1,0 +1,37 @@
+{
+  "EventId": "01M49YJ3FR2NT8D0J4Q6DNG3AC",
+  "MessageId": "635024502027714817",
+  "Timestamp": "2026-10-07T01:10:02.700Z",
+  "ReceivedTime": "2026-10-07T01:10:03.982Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ubbaa1336273d3a58e330e446818dad40",
+  "DisplayName": "黃遵哲(小璋)",
+  "MessageType": "text",
+  "MessageText": "看怎樣處理比較妥當",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635024502027714817",
+      "quoteToken": "Fdm8tN2SO1WKjEg0-ImYtK56--iac3SmIIMV0zw_9PAfAcLh915m52Y6Z4EmgiXgflu8y0cHFNin-Ef-cX7uvxXO2y5lMUUkXJHtV3SSmESZoPBIQjyOWqsYUwwnbsCsKk7Vp-kNVKVRFpZ-oHCmow",
+      "markAsReadToken": "YDhBsOm9XHTvojIIfHFAtNSnV2SxsRlSg97U3124SsttpYiFM0QFz5Z3NA8Oas9XMIvtjz0hGt2i6-fZbi3IDFEnWBnyglycqYtY64VS7Hzonv83SaWd71MBbYkS5Cd7QIXE7X7Sjc8Mv53O2cQswePLbxRlR-593kYw0BhXMIa7Fg0g3Zz0igFCMkDjbBY2aPHTJ6MCYT_OTmMBPYzL6g",
+      "text": "看怎樣處理比較妥當"
+    },
+    "webhookEventId": "01M49YJ3FR2NT8D0J4Q6DNG3AC",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791335402700,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ubbaa1336273d3a58e330e446818dad40"
+    },
+    "replyToken": "a5566740ce474e87931c113446a44a2c",
+    "mode": "active"
+  }
+}
