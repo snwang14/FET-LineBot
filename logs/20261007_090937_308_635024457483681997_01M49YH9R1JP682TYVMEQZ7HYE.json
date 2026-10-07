@@ -1,0 +1,37 @@
+{
+  "EventId": "01M49YH9R1JP682TYVMEQZ7HYE",
+  "MessageId": "635024457483681997",
+  "Timestamp": "2026-10-07T01:09:36.133Z",
+  "ReceivedTime": "2026-10-07T01:09:37.308Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ubbaa1336273d3a58e330e446818dad40",
+  "DisplayName": "黃遵哲(小璋)",
+  "MessageType": "text",
+  "MessageText": "PCM與機關看的是數量",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635024457483681997",
+      "quoteToken": "gXdIqbBWEPP7EdXixlx134pPHG6_SobwxTkrpdAII16gm71uCGkHEkc_lOMOQYVggo3QL-nQh92whBHryVbTKDzK-r8yvdD6W81FHbFytmaQq492ePQHoQfuSOCYlVI4kycfXgfnIEOmJ9bH7x9H8A",
+      "markAsReadToken": "KMhSuKwGhr7mRdgi-8cCpvHzBTGavH2qTi63JrA1_VcBb8dXHBQ-x4yqvFJ8cNpVgkD1hQ-pEHCA3FLPp4hKiCzjPsgeGy1uEbZux_6lgSXTiRcK1MozVOzh45cMn6C1ypLDJyOZVdi5xoLyaf4zlqlEq9reX4poc_1Rojit_EhsuGhMe-NCw_l0Bbzixv7ASZKZhAELD49jKUxdflsaew",
+      "text": "PCM與機關看的是數量"
+    },
+    "webhookEventId": "01M49YH9R1JP682TYVMEQZ7HYE",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791335376133,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ubbaa1336273d3a58e330e446818dad40"
+    },
+    "replyToken": "b45cb4cead804e3bb8918e3b8a17dd37",
+    "mode": "active"
+  }
+}
