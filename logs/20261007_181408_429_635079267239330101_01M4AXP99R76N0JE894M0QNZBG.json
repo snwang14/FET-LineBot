@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4AXP99R76N0JE894M0QNZBG",
+  "MessageId": "635079267239330101",
+  "Timestamp": "2026-10-07T10:14:05.428Z",
+  "ReceivedTime": "2026-10-07T10:14:08.429Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "我再請工程師排查，那五點多操作是正常的嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635079267239330101",
+      "quoteToken": "1nqA2TdoxMYTN-ikmuuHZi_9va41Pb7OrC0AFN1klpACzmF8pLvUNd09AcL3m8pnqFi99g08-2foTAONoqKaXTa-L53F0htn56YPJrMNLraORzeZJvDWz9IuCtTBbU4Lo7dxrb2c8HcvdwIQ4z0c_A",
+      "markAsReadToken": "uCuEklAuTmwRFv6nGzp2H3ynzlGC4HuiwsgXzoK31sbiZVG1sb9R25hovfU1YAaa3IQr4W_QGULv5PEQDcAl3FZ7eR5AENQGsB5IxkW5Jt7oqbY6wGXPb5txAGNuZSUxoxNZ0UJbxAcJva7RkAzIpZ8PcM60cTSGJ9UKC5VA2-CVy3sUpdV0HimsFk-HVNGHmP-hIQZlfWU6piD77FosdQ",
+      "text": "我再請工程師排查，那五點多操作是正常的嗎"
+    },
+    "webhookEventId": "01M4AXP99R76N0JE894M0QNZBG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791368045428,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "6dd63b8f4ee343fd835976e4282e53e6",
+    "mode": "active"
+  }
+}
