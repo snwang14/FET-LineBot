@@ -1,0 +1,37 @@
+{
+  "EventId": "01M49YZKPD9GM2G52NQ1E8VDFR",
+  "MessageId": "635025244234449543",
+  "Timestamp": "2026-10-07T01:17:25.077Z",
+  "ReceivedTime": "2026-10-07T01:17:26.403Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "那這部分判斷並不屬於系統故障異常，故無修復動作需進行，會納入儀表板製作這一塊的需求建議內，謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635025244234449543",
+      "quoteToken": "NkxwB7Qz3GInDMCfmJDtk_-c-WCzAQfYQgphgBYgLZyfZe3biAzT2m_AKqxfDistbP4-uNPefY-qgNf-F4UQdaqdaqZZgn184_rVA3Vjbhlm-PE66GJXcRlITm45vZXIvJxt8ZRD-eCRhuiWAxXy7g",
+      "markAsReadToken": "CH-hyQA5ff4MS3jPtTMNYwSUT1q_hX1vmPQIwmmV8MOo4OhssMYcBm62GRj-p6bsPYMtyctbI2Xt9MmAmZXjH4TKOEzj3LiSHQj_73dLC4--vDJVZg1g-_7daE1g-3qSgvvvP6QAxr4KKB5VUcVeF4tz0wVEi4BVkGlL1nUIb5kfqh1HzNDm31KZgN02TeIm379QUnAETeIH0WxnIN0itA",
+      "text": "那這部分判斷並不屬於系統故障異常，故無修復動作需進行，會納入儀表板製作這一塊的需求建議內，謝謝"
+    },
+    "webhookEventId": "01M49YZKPD9GM2G52NQ1E8VDFR",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791335845077,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "9eaca81510c74130a0f82710b33ef129",
+    "mode": "active"
+  }
+}
