@@ -1,0 +1,37 @@
+{
+  "EventId": "01M49YHJ3SZTFTZZBF380M050J",
+  "MessageId": "635024472415404118",
+  "Timestamp": "2026-10-07T01:09:45.030Z",
+  "ReceivedTime": "2026-10-07T01:09:46.056Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ubbaa1336273d3a58e330e446818dad40",
+  "DisplayName": "黃遵哲(小璋)",
+  "MessageType": "text",
+  "MessageText": "不是ID數量",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635024472415404118",
+      "quoteToken": "v93gxWCkDrMqMfoPTsnfZEFEBMwiYVVOSEHDMuQuAVMNZWodyF2opBVjeQuhAr57JUhumCpJY4e1iRRNxIZa9c3AHQNJyGsywMPnGxTj14NhxKZuC3HtIfJXpEwHUgoUDL8GYi1CE4BllJhBBShQFQ",
+      "markAsReadToken": "sRLfMaiIII3BglbEeRgC6QA_EXijUUBzLN_tL2fkjX0s00-ySuPbo0KtW-glt_05E5nremutL-DpGZXc8t-gEjYm6uxnuR-f71uqvcfAoDPphNzG5hKE_vsNdP_vXzSmGw59l45J29TesQRTMCYeDYWsmnVPxH_95lgPbxqowWcOthPlaOwHDCrfg8JLGLR28Naaob0NkysUI6PU5r05SQ",
+      "text": "不是ID數量"
+    },
+    "webhookEventId": "01M49YHJ3SZTFTZZBF380M050J",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791335385030,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ubbaa1336273d3a58e330e446818dad40"
+    },
+    "replyToken": "e83278043bc743de8126b1cc36571b14",
+    "mode": "active"
+  }
+}
