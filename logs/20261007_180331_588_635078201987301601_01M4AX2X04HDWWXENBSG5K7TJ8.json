@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4AX2X04HDWWXENBSG5K7TJ8",
+  "MessageId": "635078201987301601",
+  "Timestamp": "2026-10-07T10:03:30.435Z",
+  "ReceivedTime": "2026-10-07T10:03:31.588Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "這個 bug 我記得在上周有遠傳的工班同仁和我反應過，目前已經修復了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635078201987301601",
+      "quoteToken": "NCdRZEuSUpkwNxaEcA7gvtifeY7yJpUXxGzJfpxF6A1HHCTUWH-uOY7nH4DKIC08zjOQMQHeLhFSCLza27tmdtvsv5cuQ-jPbIgr_IDSERnFgp3SaAqR9KEDu5PJFsSLGpwkkkf31_iXJpK191pQtw",
+      "markAsReadToken": "2jHw7xCfkU3xrubXMcMCAFfkDSsVKQqxxwogvl3EgXqF8OuNfX4cZKKCR0XUE7fJyNdX9eiW3Iq5behPfN0-41MVZozfopx6uRLupizayjqKuN8OjYRNs8T3oGto73PTvStkFU30DCcCGXYAPY5t3zCch_8ozSLIQJYmsQpeCusMbWLVVWFOPAO8riSJ-303T2fSx_NPmKNamPf1G56HXg",
+      "text": "這個 bug 我記得在上周有遠傳的工班同仁和我反應過，目前已經修復了"
+    },
+    "webhookEventId": "01M4AX2X04HDWWXENBSG5K7TJ8",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791367410435,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "fc16ba60e2ac4e979a50f5777122a0d7",
+    "mode": "active"
+  }
+}
