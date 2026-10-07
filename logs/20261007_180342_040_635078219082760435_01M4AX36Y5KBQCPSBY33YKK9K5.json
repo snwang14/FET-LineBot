@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4AX36Y5KBQCPSBY33YKK9K5",
+  "MessageId": "635078219082760435",
+  "Timestamp": "2026-10-07T10:03:40.680Z",
+  "ReceivedTime": "2026-10-07T10:03:42.040Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "會需要麻煩再把單子刪掉重新填寫",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635078219082760435",
+      "quoteToken": "ucdM3FrGIrll3LOQBO4rFp5XQ7uOd8HmZYSP-4gJAJsRNiwkGX4nStOcSkUPk1LqQwnsi5jzoDvuyn2kWwQGvf8BPzMEfWCChCu5k_T5VfyNaTvxqefA_LtW7qaRUepMa6n_MLDexNJiSPo2aLYx9w",
+      "markAsReadToken": "45c1OiQiCu61RCkRUOdNXbmKRVuNXiZ9JdJDruue4ZPOu1p5TAzlCFzrNa6_fJGg3VTh2VJI6bxErvmrrNALg05z-jx-DY59mcOiCEDwp2r-xrPtQyN39XRdwljCATdPrBwD3cxrCdQi8OvNozKZAcQs2DgswWyf1bnsSvbmuQnrpdFHQgjLGtI38N4aOQEG6FBXyeRP5JZ8Psafb3Z3DA",
+      "text": "會需要麻煩再把單子刪掉重新填寫"
+    },
+    "webhookEventId": "01M4AX36Y5KBQCPSBY33YKK9K5",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791367420680,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "363ed46c48c347509001eff437a1c952",
+    "mode": "active"
+  }
+}
