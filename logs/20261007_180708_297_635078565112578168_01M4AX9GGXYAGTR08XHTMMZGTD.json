@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4AX9GGXYAGTR08XHTMMZGTD",
+  "MessageId": "635078565112578168",
+  "Timestamp": "2026-10-07T10:07:06.790Z",
+  "ReceivedTime": "2026-10-07T10:07:08.297Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "好的，是回報的那段時間操作的對嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635078565112578168",
+      "quoteToken": "iKYudBJC-2taRm_fIBs8WsjlBNlXKpn3yaP3PSww5cb855_cGd5J--7e6T3lsS38nbDTrwagZXjPNinoOTdhOMU6A9x3MHG3sbPK2ka_e2IuoidmaonlAAAOpIa-xhMKo92PcqIgeW2suSe7wHNMKA",
+      "markAsReadToken": "7o0f5HkqKLYrlOxyo0LPOjnDO23enze_3Vf3SF7E8bkK53_9JRzwbF49istRyiQSjOHpt4jBK_e-ku4zJeD65tRokeV9a7iyt-rX-xaZHLANJD8YUqwIb8VwFmq19MZ77I2G8TswxfdZZGGQTnHkoTfXQa79HIOoyh_89z7cTIGIOpFVAU-4oVYU9bbskcNVcgiYL_bD7qrzpykNhkX_vQ",
+      "text": "好的，是回報的那段時間操作的對嗎"
+    },
+    "webhookEventId": "01M4AX9GGXYAGTR08XHTMMZGTD",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791367626790,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "61af3a1d13c242bc91c4865b0370c6f0",
+    "mode": "active"
+  }
+}
