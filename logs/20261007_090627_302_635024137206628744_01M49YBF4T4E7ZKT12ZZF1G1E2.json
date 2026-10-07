@@ -1,0 +1,39 @@
+{
+  "EventId": "01M49YBF4T4E7ZKT12ZZF1G1E2",
+  "MessageId": "635024137206628744",
+  "Timestamp": "2026-10-07T01:06:25.367Z",
+  "ReceivedTime": "2026-10-07T01:06:27.302Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ubbaa1336273d3a58e330e446818dad40",
+  "DisplayName": "黃遵哲(小璋)",
+  "MessageType": "image",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "image",
+      "id": "635024137206628744",
+      "quoteToken": "MGX5n0ZTgVX5w3N-CbkNUk6xywDkhFC2d3vJPQ72HYKEga3o1BKBIosJp_TpXqJK1tNy3oc5xwlmUaV8q4dLaIY-HWjxacLpNx42ovHKVxu45NzGnPJ26t947YcDtD_U64hO_d5tYByaEB4KNOmAiQ",
+      "markAsReadToken": "UTdIHr3Jcvc9zLXvw9dc5Vee6roFCkW9oc-5A6AnCG7bzxU1egQI7Y06xTOTEvwQ5FeH06l8Kr9nQTkUeoD1tZg8nAr7Y5l7pdZDDJHVnFXGIgvR0N_H9cznxZC6-eWM_mMt-Jc185-MQGbxjpPfrGjoJ62JNqkw51yePe3K25OhKsUfcf-UMGmXUOPE5cIjn-dKzSB6pRtgnmHDI6iTNA",
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M49YBF4T4E7ZKT12ZZF1G1E2",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791335185367,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ubbaa1336273d3a58e330e446818dad40"
+    },
+    "replyToken": "a0b548d64cb64508b2d2a9295ca7de27",
+    "mode": "active"
+  }
+}
