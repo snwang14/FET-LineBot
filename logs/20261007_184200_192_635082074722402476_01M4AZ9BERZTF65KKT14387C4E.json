@@ -1,0 +1,38 @@
+{
+  "EventId": "01M4AZ9BERZTF65KKT14387C4E",
+  "MessageId": "635082074722402476",
+  "Timestamp": "2026-10-07T10:41:58.750Z",
+  "ReceivedTime": "2026-10-07T10:42:00.192Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U91dd2d31029b2ca3f65722584702c5be",
+  "DisplayName": "玄",
+  "MessageType": "text",
+  "MessageText": "可以協助把20260922122440、20260922122528、20260922122625、20260922122711這四件的上傳資料清掉，我在全部重傳嗎?",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635082074722402476",
+      "quotedMessageId": "635078219082760435",
+      "quoteToken": "V7xcJCpEs2vgiqwJ1leCo_Xq-q9pzctYJLLTN7jaK_BDi9EpwxQ4D00eadUusv3U9sd2tcVJVPMrKXnsdWoK0_lJfJS9CM7cKicuc8sSFrzGHlYpNcr_7sSlpAAZnduMIQy_1rM8ER9ciLhtbvzH5w",
+      "markAsReadToken": "HkX1HqzD608rUkK0s82Q4WTmd0FaSSO2A-42QzIbpueb4KcPPoftqcy9yKKErkNcXWHnCYGSKgOW0Af7h4LBUWpDAFgwPpF3Vu_RRVZMoAeApW6U3QU9qLfu6a_YcUxau-DrSKbYCB3M6IH4ATq8mAmuQySUpCGx-gVdnhAFjGQjQF53-mH6Xt_fJ2O6bELvDA8FJaFA_HMGisdZLhphbw",
+      "text": "可以協助把20260922122440、20260922122528、20260922122625、20260922122711這四件的上傳資料清掉，我在全部重傳嗎?"
+    },
+    "webhookEventId": "01M4AZ9BERZTF65KKT14387C4E",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791369718750,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U91dd2d31029b2ca3f65722584702c5be"
+    },
+    "replyToken": "349151a19a344618994f6ca1a777310b",
+    "mode": "active"
+  }
+}
