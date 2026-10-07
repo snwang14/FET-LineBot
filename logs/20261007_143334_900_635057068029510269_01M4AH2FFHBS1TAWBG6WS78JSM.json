@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4AH2FFHBS1TAWBG6WS78JSM",
+  "MessageId": "635057068029510269",
+  "Timestamp": "2026-10-07T06:33:33.654Z",
+  "ReceivedTime": "2026-10-07T06:33:34.900Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "我記得有在會議中說過喔,別忘記............",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635057068029510269",
+      "quoteToken": "GPCmTBwQHKmSz7RGUWAXpfZND4yxLrAor6uuc9h5yondeoeC5edYyoUGvCHYUPggyfDMgWhyAfQez1F0KrG4rCozsbnYgjrnkNRZZLLg7xPyxg_Jo9X74oKBVAACoIL6PrP7niQVQDs5HvsJCFPjyw",
+      "markAsReadToken": "ms19WqM9DGfSAKx-1AUCf_RY1Xc7pW_7ZmrrReK6STyMtxjO9N1L1MutEUSJ8BQa1W5wGJpvfRhpzOXXK6Sw0TQYxdWtoBmuMJfDPdzX--HJQ1Qs1lltgMSkAQ8BWa2b1Tv0KsJsymTJmaC6E1Pmp9u7AxoRiGkfwbiYtX9ZjkdH7ekGf3bZtqKeAmBMgtGhBKI5DkuN4GOVxClbvU9jHA",
+      "text": "我記得有在會議中說過喔,別忘記............"
+    },
+    "webhookEventId": "01M4AH2FFHBS1TAWBG6WS78JSM",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791354813654,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "1facae06a2a3446eb76dd3043c06d531",
+    "mode": "active"
+  }
+}
