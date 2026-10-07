@@ -1,0 +1,37 @@
+{
+  "EventId": "01M49YDY956PDKE520QYD09BWC",
+  "MessageId": "635024273521770927",
+  "Timestamp": "2026-10-07T01:07:46.560Z",
+  "ReceivedTime": "2026-10-07T01:07:47.493Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ubbaa1336273d3a58e330e446818dad40",
+  "DisplayName": "黃遵哲(小璋)",
+  "MessageType": "text",
+  "MessageText": "有辦法變成數量盞數嗎，或者加入怎樣的條件可以呈現出來",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635024273521770927",
+      "quoteToken": "EJxwFl90BY_n0J5aiV2NVTbRtX7qS7Mt7H5bemHs1pLIztUWYjTF5uU-MnKNg0cRgUgZ5cjWcK0usCJM3C-no8M8iFL9qTiKloiqW1CieIq6pTx2wU0Pui9OENLAsheodZC-os905ze9-4G14_n2QA",
+      "markAsReadToken": "H8xc32-R1Kvys4Ja9IYHO09Bjkc9Ytv0OGsRbgy7PhljU3T1KFfXv6x0dWuWLnGVhpK_pwDNFm_PIjTgL906oPjpUtpZfDNCM7amkurKIEXGrRGUy3bPC7JkHTO3nvyCci9klSMBPLTBJJsUQTvBFJ4TvCXYrxhhszasz1nyAPSKNyeXQfjlzdY48_wQFplOS3dQkUCZd58ImiB-jv2y1w",
+      "text": "有辦法變成數量盞數嗎，或者加入怎樣的條件可以呈現出來"
+    },
+    "webhookEventId": "01M49YDY956PDKE520QYD09BWC",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791335266560,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ubbaa1336273d3a58e330e446818dad40"
+    },
+    "replyToken": "943dbf04a3f842149f65e9e221464ede",
+    "mode": "active"
+  }
+}
