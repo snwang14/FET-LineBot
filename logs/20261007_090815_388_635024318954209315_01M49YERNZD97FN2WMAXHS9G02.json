@@ -1,0 +1,37 @@
+{
+  "EventId": "01M49YERNZD97FN2WMAXHS9G02",
+  "MessageId": "635024318954209315",
+  "Timestamp": "2026-10-07T01:08:13.558Z",
+  "ReceivedTime": "2026-10-07T01:08:15.388Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "是現場盞數和 App 盞數對不起來嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635024318954209315",
+      "quoteToken": "ohDoBfhjYMqsF6qKYiMtxX8gQ4AiXfJWJW__yhQTJqfZM5yaZrl7AVjYDvA5GQluugWnK_pMp1o4Q5YA9ph0BAf3i00HVAzzl4_ZqokCh4B1l2Q1-J61cD8HaWZoi3OJ57VnxRgLWgPyrBNBPVoiSw",
+      "markAsReadToken": "JxjgaVC4901eqwQV25AJqa8eVL85tpPp2m7rCg5NadaikkySCgx_gbfjzLj_FXV5n8RT_e1Nw9pDwvaEGbkyq1guUNOFDPM3LEiPD4OARiM1YwAtqxWBaF2ZGq9yOc7ZxkuEaOTrrXBfc4vRQV5xyOZFxn4AKWxYwsMN5sKibv_3duDf1kdzkzRhezBYSmoc1grqQdFVOktmIzD-ZAGG7w",
+      "text": "是現場盞數和 App 盞數對不起來嗎？"
+    },
+    "webhookEventId": "01M49YERNZD97FN2WMAXHS9G02",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791335293558,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "2d2d471782bc41ceaf04bb3cc4f0647c",
+    "mode": "active"
+  }
+}
