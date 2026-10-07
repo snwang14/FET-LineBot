@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4AX6D6KKN5EKZDRWNZ76X8P",
+  "MessageId": "635078394672841012",
+  "Timestamp": "2026-10-07T10:05:25.304Z",
+  "ReceivedTime": "2026-10-07T10:05:26.555Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "後來還有跳類似的錯誤訊息嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635078394672841012",
+      "quoteToken": "myt1yhBYZrqK5S7Vco1gnHtuEhz4mTl4ID0MultjuT7zIjPbMthKTgGiJCfnwEetXN8ffBlzO1VTA3AmXKRHn0F_IlvHjXxMz71XYiqmKdXymxqwV5vK-mKq9q6IwZ-Gza2D7NNp14lvHqnxiGtMTw",
+      "markAsReadToken": "3Uy1dz-hv4SDBxWvVN9IjrxjrQDeX6wjGi9wI3MtcFsvqQXQr_CiBEXjA8mp-ZukU4BUdNgFO-x_5MM6KntHUvppwCFKxYSI0l2hUF2zco2ofLbaZ4U6U5fo8bOmBi8dNpSMeqy0nytXty2UfBswwZjaGpNPDYfF2E2nU8Jsw_uAPa67TCigrlLajrIdi-PzAdwAilXjcZi18P4P6CYeGQ",
+      "text": "後來還有跳類似的錯誤訊息嗎？"
+    },
+    "webhookEventId": "01M4AX6D6KKN5EKZDRWNZ76X8P",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791367525304,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "cb1f77f776e84823bb31c1aa07634369",
+    "mode": "active"
+  }
+}
