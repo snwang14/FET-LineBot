@@ -1,0 +1,54 @@
+{
+  "EventId": "01M4ASDAD4C9BM6F0GB97C9H9B",
+  "MessageId": "635071737926517457",
+  "Timestamp": "2026-10-07T08:59:17.662Z",
+  "ReceivedTime": "2026-10-07T08:59:18.705Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@Albert-yang楊 \n楊經理好，如同電話中確認:\n有關系統平台建置進度每月報告\n1. 「月工作報告」 於 次月10前發文交付\n2. 文件大綱要有 平台Milestone、本月完成項目、下個月預定完成項目等\n\n其他:\n3. 訪談紀錄要含需求單位、人員姓名、需求問題、是否列入平台功能等議題\n4. 訪談可提供現場照片、簽到表\n以上\n\n@All FYI",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635071737926517457",
+      "quotedMessageId": "635056886987096610",
+      "quoteToken": "93FHQniYKTaOWVQY6GlDksXBNF9JCDvx6vnk_w4QaZfBnA3TpABBBFtGccegXOBqVtXyeie8W5xvdPrHCTMYjVx5oQ1GYYqieyi6SkRAmno79Y463w9F0vAHHYY3i0vjSMKGO3QFbV2E8jCl6vQoUw",
+      "markAsReadToken": "n7FTMFwpd46uUjmWH2pasPUl5GmfI5JeMGQvdv9qy9ZUrYaD_4KjW_lnAOaRG19zRnT0k_vn066hxS-FVeTwSqqtHoSOO59g27UfadVOEk0KVm7FKGSa0YWRNRAd3T1dYGjGC_U6_1H8Gpo3bwW_t92C5KB8gBujoUxG7KlNNSwqZcFTXfKdIBruMsRMWZwUFwCWfzlAaqfE7-pKMSGG0g",
+      "text": "@Albert-yang楊 \n楊經理好，如同電話中確認:\n有關系統平台建置進度每月報告\n1. 「月工作報告」 於 次月10前發文交付\n2. 文件大綱要有 平台Milestone、本月完成項目、下個月預定完成項目等\n\n其他:\n3. 訪談紀錄要含需求單位、人員姓名、需求問題、是否列入平台功能等議題\n4. 訪談可提供現場照片、簽到表\n以上\n\n@All FYI",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 169,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4ASDAD4C9BM6F0GB97C9H9B",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791363557662,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "5161f6013d6d46bbba7180b87e3e372c",
+    "mode": "active"
+  }
+}
