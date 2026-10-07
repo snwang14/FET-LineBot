@@ -1,0 +1,37 @@
+{
+  "EventId": "01M49YJSZJ3H2056Y23C04E0T4",
+  "MessageId": "635024540044361935",
+  "Timestamp": "2026-10-07T01:10:25.531Z",
+  "ReceivedTime": "2026-10-07T01:10:26.729Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "這邊的數量是指燈具數量 沒錯嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635024540044361935",
+      "quoteToken": "a5HK49ODQladBLfKNjB0nmpcZuuZN9X0Y_gueLdLw7UwB3ymr8-02OMUz-P9I4kCvvnWYHVKWltquM-Yq3VqUgpiiatV4jOq616AjDWLLnjMjFBob8jEydAwk0BRWYXhOfYCjq0My8fOCyG-L_aAiA",
+      "markAsReadToken": "eiJvV9iUEA_O7uUuOfds08N4X-odGkAxwI8ugnwzA7ll81093VdkBeZjMUyHn33g-0RZDEJo8uwwClZ2VQom-3xSTb0XnKuaUEmdr4ctyHFTsGNKwiPpSejCYwRMFGouRbNjM9sqL011-STra1Cc6kXFu07530F6wxbA2hGDNyH6p3xMfGz5Y0yJ2nS-zG0Tc5Bvd8lBEevZjr9Uzvbitw",
+      "text": "這邊的數量是指燈具數量 沒錯嗎"
+    },
+    "webhookEventId": "01M49YJSZJ3H2056Y23C04E0T4",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791335425531,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "87bc25a2507b4c608d7bce619006e847",
+    "mode": "active"
+  }
+}
