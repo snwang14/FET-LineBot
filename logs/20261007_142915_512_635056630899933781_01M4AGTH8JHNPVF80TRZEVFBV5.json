@@ -1,0 +1,62 @@
+{
+  "EventId": "01M4AGTH8JHNPVF80TRZEVFBV5",
+  "MessageId": "635056630899933781",
+  "Timestamp": "2026-10-07T06:29:13.111Z",
+  "ReceivedTime": "2026-10-07T06:29:15.512Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "每月系統平台建置進度報告?次月要提送PCM備查?這部分是誰再處理?@Julia Lee 佩玲 @Andy @Sammi JI3RU42K6",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635056630899933781",
+      "quoteToken": "UeWDKj6oVguNMSdHzFSfVhBzYVVn1bbSuKMbM_e8g87DPBSao3tvwyDvG1xXZR_TlqU3Pw7WMwJNIrRg1uE1sodw7NQ8p5lY7V15dKpFF6kZR2M5ab1eHPnfJkrK1tSUBWdGN6GEcv7_zi1c-Ot_Iw",
+      "markAsReadToken": "ojNYa5oOAuyDHpeUYod0rtFqDIwyGvix9R9TWP8fWFvpmdBzLuZ_fcvuCO7zrMsHlnkujTG2Q_OT7GA8rjce2U_WT_NIV4ZGyQQ0XybFtJX9-78-HlbGM1m6oePTz83m_myLY34ZRRpg4-H7D-owpcPMQZzsr7nUJRoapsNXofOOoffzELAQgplUuaWMjAoJ5IZT3lYVERL_bddqpsq5Gw",
+      "text": "每月系統平台建置進度報告?次月要提送PCM備查?這部分是誰再處理?@Julia Lee 佩玲 @Andy @Sammi JI3RU42K6",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 33,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 47,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 53,
+            "length": 6,
+            "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4AGTH8JHNPVF80TRZEVFBV5",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791354553111,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "39bcde21f45d4118886840dd89bfa64c",
+    "mode": "active"
+  }
+}
