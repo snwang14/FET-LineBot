@@ -1,0 +1,38 @@
+{
+  "EventId": "01M4AWQ5JM3PN65R1AZ7DT6YH5",
+  "MessageId": "635077556718534965",
+  "Timestamp": "2026-10-07T09:57:05.858Z",
+  "ReceivedTime": "2026-10-07T09:57:07.706Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "請問這幾筆單是透過 web 填單並且送審的嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635077556718534965",
+      "quotedMessageId": "635067006886347027",
+      "quoteToken": "lMeobnbAhPkVj8qJ1RvNIolpjchCiYAYxWe7hAHt3Q78exHrBYv_1ux3qDToeR_LjSukfJ5x5PlBCsTUkGRjLq7lfff21GFiHEiftHCDRhzXZozN-KpOZ8UqO68UgD6tKgPaj5wCn1gR7bllezK08w",
+      "markAsReadToken": "R6On1YUMmrJnSDwhABtFAtYtaQGa3juBBAON-AlJwdx0WyGxxLUxRn5r5s8Kg0b4ax2xD9Xbo9dco0E0JQAIJPK70udEkSl5s7h7osib0uZmFTY1ofP1LFstVgLoS-NJG1ySKEhEOgIijGVDboXb-MgwfNVEjJ0ItRvpcPI0Hf1xXxWCwSoDbWWHIgE76YtvPDe0cbOboVYujW5XxrVqIA",
+      "text": "請問這幾筆單是透過 web 填單並且送審的嗎"
+    },
+    "webhookEventId": "01M4AWQ5JM3PN65R1AZ7DT6YH5",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791367025858,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "47ed01a50ebd4325a99091260b83b9ad",
+    "mode": "active"
+  }
+}
