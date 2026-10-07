@@ -1,0 +1,37 @@
+{
+  "EventId": "01M49YG1SBETBEC0Y1YQ7J8KZR",
+  "MessageId": "635024388713873940",
+  "Timestamp": "2026-10-07T01:08:55.145Z",
+  "ReceivedTime": "2026-10-07T01:08:56.675Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ubbaa1336273d3a58e330e446818dad40",
+  "DisplayName": "黃遵哲(小璋)",
+  "MessageType": "text",
+  "MessageText": "我貼圖就是一個ID 安裝兩盞燈",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635024388713873940",
+      "quoteToken": "9QbLRQpbfTy-Cx6gOQij9lcyuJI_K3JVwW2BJlfL8Xk6S-ag1H98FeqXCl6ZAD2x6FLto8v0ekX35aym_ZkBbh-_sgdP3N0xxCSihUreJ7opUXtr3Kne_eajUfR5Bu12dOhmG1tHoyxBJZdXXRtF_w",
+      "markAsReadToken": "i-Js0Yp_5wIms0P5UdwefoH6VJZFDIaT48YohsmkjyZBsFNL5aK47xW0HqEqxOkfaCVwTzLUXHkuXevPp9ABOz3MbrTR8QqMDsAgDiwDUZsvZCbtk2sGPMpi-dpXigOqRXiaT184bURKf11yununsELiGEtYOBgLDMSu_xMH08vbd9GMXxdUZe65aH50K5q9kguXHERNeU46E32zFswDJQ",
+      "text": "我貼圖就是一個ID 安裝兩盞燈"
+    },
+    "webhookEventId": "01M49YG1SBETBEC0Y1YQ7J8KZR",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791335335145,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ubbaa1336273d3a58e330e446818dad40"
+    },
+    "replyToken": "111ce2abd3834aca8cf28186a4a29fe7",
+    "mode": "active"
+  }
+}
