@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4AX5RC8QEHMN7H288WNB4QP",
+  "MessageId": "635078358954410004",
+  "Timestamp": "2026-10-07T10:05:04.053Z",
+  "ReceivedTime": "2026-10-07T10:05:05.172Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U9aa87aef88d21f42c7f180ce10320b5d",
+  "DisplayName": "陳慧娟",
+  "MessageType": "text",
+  "MessageText": "everlight003",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635078358954410004",
+      "quoteToken": "lPk9pVsm5rguiy1FFjWuv5_yLEASqpFZTNQ_UJd0xznJyzwgsQBE7Q_Lgbb6q8er-nbMJq5bXKjm_qpG0TVgU5ZQIP_UNJnsDXasVu-fnFBufFljiQ90nHs_w82ifgFO4JXtKwiRVJJTqP9W-qvFKg",
+      "markAsReadToken": "N7dsjvqpO-hDPvX6OqbX83hWcre_ypft5AUA7NvLoYt1znYk6J0pC6SlaD_mBcLT36Ge4hcIBiRXkZcyWRcHl-j4enIIPXSDLlowuxwhW51TUgMuq1WHzGGzReKksYfgXASRI91qLKlA2s--cddCB7wQMnbuozTil5fZoB7sKUpGbuF0rqE4wugZ32xdMdtYiAMJVFj7qGLcbByft_cw0w",
+      "text": "everlight003"
+    },
+    "webhookEventId": "01M4AX5RC8QEHMN7H288WNB4QP",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791367504053,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U9aa87aef88d21f42c7f180ce10320b5d"
+    },
+    "replyToken": "1506eb03869945f9937c688841541a8c",
+    "mode": "active"
+  }
+}
