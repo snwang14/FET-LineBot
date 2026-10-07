@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4AX8QRX47W96WWGDFPGKYMB",
+  "MessageId": "635078522448904908",
+  "Timestamp": "2026-10-07T10:06:41.441Z",
+  "ReceivedTime": "2026-10-07T10:06:43.042Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U9aa87aef88d21f42c7f180ce10320b5d",
+  "DisplayName": "陳慧娟",
+  "MessageType": "text",
+  "MessageText": "我按了3-4次\n再換別的案件\n也是一樣無法儲存\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635078522448904908",
+      "quoteToken": "zqW9L9l690_fqtzFEWC04-c63AZIGaftysxr5mg5zZ4fZQ-XD7EAWz6g7LqTTjci_HNtCyTNRYmT_AoCqZJSdw0JKBKgfkxtAXQL3T2WBFUYK_IiIIHB1ZO3vYEhPAByonWKttt5Zkkc9sS617v7lA",
+      "markAsReadToken": "i7MoqDrA7mOK5lE7dvSi1gSyFRaGAhqdT67LW_S9g0J0un2zPJuuPO99nw0ld35lvFzidGGlm7KNWLGTIZidFNCNW22LBtZ-0grsaOgTS9Kt3twxUpxhsOEGqjgmaBZRNCQJLLnn0SJDYX_9ZHBxiv4-Gsn8hue2Wz0pzvujVHCmCYGPpNadTUWy8Ut0Dn9wdwbAbVT7FShUdn3vcWAZDg",
+      "text": "我按了3-4次\n再換別的案件\n也是一樣無法儲存\n"
+    },
+    "webhookEventId": "01M4AX8QRX47W96WWGDFPGKYMB",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791367601441,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U9aa87aef88d21f42c7f180ce10320b5d"
+    },
+    "replyToken": "f0d5ddf5dc7b40dd83faa10867e1fd45",
+    "mode": "active"
+  }
+}
