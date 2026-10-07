@@ -1,0 +1,37 @@
+{
+  "EventId": "01M49YGD8CYEQ9Z0W3CAB8Q138",
+  "MessageId": "635024408611651874",
+  "Timestamp": "2026-10-07T01:09:07.005Z",
+  "ReceivedTime": "2026-10-07T01:09:08.148Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ubbaa1336273d3a58e330e446818dad40",
+  "DisplayName": "黃遵哲(小璋)",
+  "MessageType": "text",
+  "MessageText": "有兩個燈具編號",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635024408611651874",
+      "quoteToken": "vsw-km6DMdoUd9TMoDJlcoDdANrne7rkC5d9GVCHExyfkHqaydvIWx_4Lskzx5tCewe21-Sl8CVP0sswLZ2PNTCEqVpic1Cs0NxfSurBGKoU5gV3CucUFu07teCUfbQc6enygr8ZjGiH8QP_Hz6Gpg",
+      "markAsReadToken": "k3DDAh-pWT85h7StSpd_yD4Gm1ON9Jk-Ncu5gJSEXwbYMW3jnjomyNYJYcnO-_Dw0t_eAshz-0lcCCPETIiSR9K4ZgZHu4vI6Nf0UESmebr2GPrIcaB6ermPJl2sLKrPhg_L5otQm2NBinYSStG7uWGy6ZEdQDP7H4S3fPGTqM4Bm9aD5DVEgeZMdW3x5LGd8BqViXOkcFdMW5LHMSM5TA",
+      "text": "有兩個燈具編號"
+    },
+    "webhookEventId": "01M49YGD8CYEQ9Z0W3CAB8Q138",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791335347005,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ubbaa1336273d3a58e330e446818dad40"
+    },
+    "replyToken": "30f5c8347e1e49ad8736247f1b62db76",
+    "mode": "active"
+  }
+}
