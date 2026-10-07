@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4AQW8ZX7NX1Z261719J2M8Z",
+  "MessageId": "635069041375183277",
+  "Timestamp": "2026-10-07T08:32:30.361Z",
+  "ReceivedTime": "2026-10-07T08:32:31.434Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U9aa87aef88d21f42c7f180ce10320b5d",
+  "DisplayName": "陳慧娟",
+  "MessageType": "text",
+  "MessageText": "你好請問無法儲存 出現伺服器系統忙碌中\n是什麼原因呢?",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635069041375183277",
+      "quoteToken": "Ix5t-8lMM2gfwo9VRT9pMWhUIbPGQbhRifRt4BV2RQlfpK_3WurCb_xAeJt4SfnKEf-kX2WJNcUKxF873yR6JENMFTbvYcJeQkCUglKH7vkE3VUnb5wlnOJhlCVkPYsC3uYA5UHUNdY9U-YHe1Fv1A",
+      "markAsReadToken": "nuTN7reBZHAaA-qQRacHYmXFuQHNDwntZDIeOLu_a1NQ4gx17X95SvlkxPrRNJYYa8iAAQEKD5ngr4L9lReTO-KwwzGJPhoZltTx0zn_JLqkggB5vWhRAat0xHp2drnVEcgCkLsMxHtDISaqSXGkEV0I6b_zA7P1bVuS0H3RgeENBqRD_dIlAY-uS1HxEdvashADlSVQkJuO2r1GeEBlLQ",
+      "text": "你好請問無法儲存 出現伺服器系統忙碌中\n是什麼原因呢?"
+    },
+    "webhookEventId": "01M4AQW8ZX7NX1Z261719J2M8Z",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791361950361,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U9aa87aef88d21f42c7f180ce10320b5d"
+    },
+    "replyToken": "cfd9780c48a64a55a9649a414144a17d",
+    "mode": "active"
+  }
+}
