@@ -1,0 +1,38 @@
+{
+  "EventId": "01M4AX4DCKBJQWXPKQM4AM6MYZ",
+  "MessageId": "635078284547719867",
+  "Timestamp": "2026-10-07T10:04:19.739Z",
+  "ReceivedTime": "2026-10-07T10:04:21.277Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "請問這邊是點擊儲存跳錯誤訊息嗎？\n能否提供帳號呢？\n目前我操作是沒問題的，要請工程師排查",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635078284547719867",
+      "quotedMessageId": "635068874139632047",
+      "quoteToken": "mUHY1tUKnkKP6OTYUxN7ot65JVQRF-Je6rpDvvSn3kcbaIYEjCMSwq2zOTdqr4ddBdJ-rgm3HBbYLFLtRNiIqX7oe9s8hJ53A15azEePNhZzNsVfHWDlCe5Ndvbpx58DoH6EswYTmNxHOfVhS3zR6w",
+      "markAsReadToken": "j7SSAIN05LozLOurkryoHzMw5iK6M-2Mfa5hjyVm3V5_Xm55K_BuO6uLQQ7McdwdSlZfkkfOeqt6xfxt7W2cWLg0KWpD8cd3vbN1btwi2gCNR00XEXNCQSFMtKZUz1_lIeXpcwGpID3tegsLRFLTVKfq-ugL7Q8Y16lcUkfLGKjwNxZGBTggvBO2RTJYnK7H2CSxMcyly62jt24kYCht-w",
+      "text": "請問這邊是點擊儲存跳錯誤訊息嗎？\n能否提供帳號呢？\n目前我操作是沒問題的，要請工程師排查"
+    },
+    "webhookEventId": "01M4AX4DCKBJQWXPKQM4AM6MYZ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791367459739,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "0756ed6e711d4b739a2d7879b90120dc",
+    "mode": "active"
+  }
+}
