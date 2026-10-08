@@ -1,0 +1,38 @@
+{
+  "EventId": "01M4DK2233E5KF7THNG7B2S41Q",
+  "MessageId": "635229448891531792",
+  "Timestamp": "2026-10-08T11:06:00.538Z",
+  "ReceivedTime": "2026-10-08T11:06:01.414Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U375f2b0f385cb715667fe836bb7a29ad",
+  "DisplayName": "sanjinchen",
+  "MessageType": "text",
+  "MessageText": "那這應該是可行的,會不會有網路速度的問題?因為大家都是透過WVPN 連\n這個,可以再進一步確認",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635229448891531792",
+      "quotedMessageId": "635228084434108859",
+      "quoteToken": "CiCzbVKKyLy4EG9CIn2JQi4NJ5wgQIu00zZqzVRRGkc87h1FbLD5cnqWy1f1svlwrhpzJ4dVFbTLyYl-fhEjLFVLqIKJ1cDBk7EG1z7hnDCPfiwLzsqS_mcktvho30YIjJW7NhyAvDusLmAwvoHcEQ",
+      "markAsReadToken": "yvIDFNLPhsoNi_ggCw1nDkLCRiNDWV2P6ZLZojkAd794-vEK8VJ7fHLajvKGIuj0-mD5XMfQju9dUk655jWaQovMxTBKGI9C2z8M0vw2QUoB7h4_2xaaijdxEoOz1webOtRtFlkZnHB3iFG1xN1HxVjLoYkLHX-aS1-Cu-F0M3C6AQDR58_Zwk6jdHfKHncaZm59YiA61mdy6pjH6dNM3A",
+      "text": "那這應該是可行的,會不會有網路速度的問題?因為大家都是透過WVPN 連\n這個,可以再進一步確認"
+    },
+    "webhookEventId": "01M4DK2233E5KF7THNG7B2S41Q",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791457560538,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U375f2b0f385cb715667fe836bb7a29ad"
+    },
+    "replyToken": "8ece788c91a546bdbb049ce2948640de",
+    "mode": "active"
+  }
+}
