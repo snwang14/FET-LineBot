@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4CGZ7F5365ZMAFXHA5S5RSG",
+  "MessageId": "635169479689240613",
+  "Timestamp": "2026-10-08T01:10:16.201Z",
+  "ReceivedTime": "2026-10-08T01:10:17.603Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "我應該剛好在火車上應該沒問題",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635169479689240613",
+      "quoteToken": "YQ0CM0pAZI_AUtZjNQd6YKYbXIykgX2lXTiE-HV_tax4am9QBuBjdKrrTFmE5VhUHRsQ87CvMvzEV3D6zFkLMAgtrQgysNgH1feo3zY8-ZZ4y5zkbVPovZG5-UJcrgWUS17Ks5LypNpBEWRnjHbjlQ",
+      "markAsReadToken": "s8E6XaSmB4h2LBd9ge4qOUMdk2pyUyTS7YcUNhx5AHihu6MlOUlY1L6k3K106CHiQssyIgRqBiC5D7j5Z5Be4zkkbMYaCJ0ZUEThiceqWK_mMeho38j0DDLFuQiBsgQjGrd2tfUL2JqZAImbsFx1T5vMPESs2n_oHYHcf2DC1eJL4nbkoSwhChjx162Jak3Qbwyhn8Q19kFAaiR_3XjTfQ",
+      "text": "我應該剛好在火車上應該沒問題"
+    },
+    "webhookEventId": "01M4CGZ7F5365ZMAFXHA5S5RSG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791421816201,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "c9237bd8011d45feb05e3c92b71f88c2",
+    "mode": "active"
+  }
+}
