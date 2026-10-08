@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4CK02K32GVQFX5AN2666YKH",
+  "MessageId": "635173043924631797",
+  "Timestamp": "2026-10-08T01:45:40.713Z",
+  "ReceivedTime": "2026-10-08T01:45:43.267Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U9aa87aef88d21f42c7f180ce10320b5d",
+  "DisplayName": "陳慧娟",
+  "MessageType": "text",
+  "MessageText": "我回辦公室再跟你聯絡\n看你是否有空檔\n謝謝你了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635173043924631797",
+      "quoteToken": "189DwL6uJE_brDUkP70HG-i7rUTnuFs0RE5oepLnjxdf2oLUSsEUNnZ0zD37sHcgChENRnQ_pVj4W7J7Jshoz5tJ6WPZyUmNvyWkudIZVc4BDmLaump6bYG3o5TCaFWWet9bEEo0QvGHCwMCnxbJsw",
+      "markAsReadToken": "nU7Q9vbknOGaM9taMCsFdw4GXnv7buqiYmrvfJzlLK0ZJk1Gg2M7GRAHY1QGXJ0UVz6TN3V-WMZHvuYadKs-zkIlJmCaSI1-7aMcgIheoaZ7wC46eZ1DoObHSms9zFci42x30F96_-DEPmmgf2WKM3pwPhPcGAwg2G3Pth45GBS5WMFXhsTqpjoVV7pPraRpBZSo8CPsjfOF5a7PT8W9Zg",
+      "text": "我回辦公室再跟你聯絡\n看你是否有空檔\n謝謝你了"
+    },
+    "webhookEventId": "01M4CK02K32GVQFX5AN2666YKH",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791423940713,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U9aa87aef88d21f42c7f180ce10320b5d"
+    },
+    "replyToken": "12103e8a1669494fad7adb4be8e2dd42",
+    "mode": "active"
+  }
+}
