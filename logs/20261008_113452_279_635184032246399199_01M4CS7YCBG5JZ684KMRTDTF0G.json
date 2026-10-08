@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4CS7YCBG5JZ684KMRTDTF0G",
+  "MessageId": "635184032246399199",
+  "Timestamp": "2026-10-08T03:34:50.114Z",
+  "ReceivedTime": "2026-10-08T03:34:52.279Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "訪談紀錄要請紀錄詳實喔,各場次需求問題要列管編號及說明處理期程,以作為後續驗收標準(契約要求.訪談需求.平台小組優化)等,要請大家多費心了,另績效評核部分也同步要趕快進行",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635184032246399199",
+      "quoteToken": "xuzp3_c_eU57g8BGVu4f6QEs3ObdEb2CSYOXBX-zm0w77daLbukryI5OUAjXUG-lQzbcpp7KjdKrw5ttjn_cyIkKFGUQpqZfAmuvljFSwR6_5GEofEVbWLAXmZSDCjGkFX-gUnsyWjGxpap4yS-0hQ",
+      "markAsReadToken": "58EjuAOR4_PHNzG_74Bz5hvzb4Dt_CYbuhlD67FPduT63gj4TI246TEIqVmu3wmcURdsAh2tKcJybyZ0x-JLdqWbfmPs-5QJ03fLhICbcmucLMDENYefK2scxI3fl8u7xO3YaMClpzUs66de3aI-WEP8mguHl4P0pNHw5vpi_J-_sB9OcamXeaXOuH9URxE6NL8-dvsTqAM66W4zyk_iBA",
+      "text": "訪談紀錄要請紀錄詳實喔,各場次需求問題要列管編號及說明處理期程,以作為後續驗收標準(契約要求.訪談需求.平台小組優化)等,要請大家多費心了,另績效評核部分也同步要趕快進行"
+    },
+    "webhookEventId": "01M4CS7YCBG5JZ684KMRTDTF0G",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791430490114,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "a763fed8cc4143dfa4928f07dae0714d",
+    "mode": "active"
+  }
+}
