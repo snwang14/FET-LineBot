@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4D3YJXVPM3NE1KE11RF0CM4",
+  "MessageId": "635202868982317606",
+  "Timestamp": "2026-10-08T06:41:57.737Z",
+  "ReceivedTime": "2026-10-08T06:41:59.099Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "點位地圖狀況已經處理完成，可以正常看到了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635202868982317606",
+      "quoteToken": "RPPFSMSQUjRmTXmJ82q5hUR6EGxVFnEj8GcQ26k3mhws2qGwd9MJqtBYusMAhlY2VJF50OGShwfLVNggKGvazeA7BscjepUWzO8UKCEAYh4JaEO0hS45zOgMYBg4IzgR5vsCy_AgNKPr4tp01_6hdA",
+      "markAsReadToken": "MkpJKuGkrS-DNVS_UhHW_yLuTQHamXD1QfRRXjvNWBg1LSqyDlde7TTEb3okMdIc6mVsEWEgb8aczIa_zLO-LdQChfpJMy30pPhuQapQufT2j7ZCu07C7KxbjVuKyBZNx-wYVapi9Z4KJkRWn0fbjyhJ2pTsIq6clJf2d7mNHTsIQLbq7t2EVXKp9LuVSEZOC0FP7gm0fYpe2BLYu0Q0LQ",
+      "text": "點位地圖狀況已經處理完成，可以正常看到了"
+    },
+    "webhookEventId": "01M4D3YJXVPM3NE1KE11RF0CM4",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791441717737,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "cf36bee212194a45a0eed4378e69d672",
+    "mode": "active"
+  }
+}
