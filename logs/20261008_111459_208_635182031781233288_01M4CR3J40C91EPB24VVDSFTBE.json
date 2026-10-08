@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4CR3J40C91EPB24VVDSFTBE",
+  "MessageId": "635182031781233288",
+  "Timestamp": "2026-10-08T03:14:57.800Z",
+  "ReceivedTime": "2026-10-08T03:14:59.208Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "不好意思更新剛才有點問題，現在可以下載更新了謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635182031781233288",
+      "quoteToken": "MNqCMb3KKhfK4nj4YDI0Z9ZexbWkYJkgFKfU8Ct5Z6KS5WpBBsT7ISBA2oIgQbHZUxeRULuYWAVpmRNT25uWo-i8oWK4ZvZKWhwGdTRBpBjH0ZBX9FtI6LjL5URujoQsZzzXYDK_0iqGdzw-rXrsdQ",
+      "markAsReadToken": "cPDlK4Dg3AGJGJHSq7rO9P8yUfFe_b44TdmJ_c2pAiiSYlTSZN1cIOGmiUkSoj9XitcR8DMvdmMw-26PqAf-UJAb6xaBAfqdbZrOa3tbLSSYUIfFrJmpfhyE6ewIce7-v0H5OoiQh9tvBOmpr3FnX4mw6WaTWVcoRXWytEqhrceMEv2QunJ6yI2kKo0ZSXjH6q73l1Sj43N1LUrWvUueLg",
+      "text": "不好意思更新剛才有點問題，現在可以下載更新了謝謝"
+    },
+    "webhookEventId": "01M4CR3J40C91EPB24VVDSFTBE",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791429297800,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "b085df37a11140b087cbada61cc2c25b",
+    "mode": "active"
+  }
+}
