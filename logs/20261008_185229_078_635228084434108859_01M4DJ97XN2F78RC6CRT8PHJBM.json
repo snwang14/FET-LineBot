@@ -1,0 +1,38 @@
+{
+  "EventId": "01M4DJ97XN2F78RC6CRT8PHJBM",
+  "MessageId": "635228084434108859",
+  "Timestamp": "2026-10-08T10:52:27.254Z",
+  "ReceivedTime": "2026-10-08T10:52:29.078Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ueb641723e67562103c0ef055e5237fc4",
+  "DisplayName": "Andy",
+  "MessageType": "text",
+  "MessageText": "應該是指 智控器",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635228084434108859",
+      "quotedMessageId": "635227937130152177",
+      "quoteToken": "giMcTljXPaqFBlN2w5GyM6nP22n6RsbbarVndqlbJDpynTI1Gf9ZY4xS5R4t6haLPMIx4gY3bKXlIo2j8eizf1AC7I1jxNMbrqDA20uTwwxu3tPBqL6cWA9a3mNRWxDVaSLwbNKX4_6nEzK901cP_g",
+      "markAsReadToken": "lMPBnE63iryaQ983prPM9iFGYQTJvxDKpZG6As_Q-KOf9FlADwVUaAVzFYOPnExEZPrsml4ss2KZ3qLltszUdwUsKeJL0VoJq5LILtXwVZgIJ8NfvVPm0e4HliDvyFLPLLU24JDVRPnswJb2qIWjxfUoVNW7xniXW2Ti4ahQcoxwgKj5XLi6EMe66vMvoEYfrzd2ruGYq29H8ZFn8Lm6uA",
+      "text": "應該是指 智控器"
+    },
+    "webhookEventId": "01M4DJ97XN2F78RC6CRT8PHJBM",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791456747254,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ueb641723e67562103c0ef055e5237fc4"
+    },
+    "replyToken": "3f80dfdbab6f4af0bc5aec938aaf52e2",
+    "mode": "active"
+  }
+}
