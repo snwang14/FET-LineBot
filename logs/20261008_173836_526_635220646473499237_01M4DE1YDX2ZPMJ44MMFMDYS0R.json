@@ -1,0 +1,40 @@
+{
+  "EventId": "01M4DE1YDX2ZPMJ44MMFMDYS0R",
+  "MessageId": "635220646473499237",
+  "Timestamp": "2026-10-08T09:38:34.015Z",
+  "ReceivedTime": "2026-10-08T09:38:36.526Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "635220646473499237",
+      "markAsReadToken": "Tq7_nPMCLa-IWnB7mC5t9_fCC6R4E9SX-JRdZgZpIe_GkYZkGVz6x6bkDCatEER1aSBOBceRU4k0lyU2msaE4jYtIEf0HNMrV0FI5T5Y-yrwsrPI6UKnAJ2iKyI_tDV__OTPOzxznUUtwv-ys0oVLWRwv8BNVrDtE6uXouN7HDIPh2hFainKL5XBwedILMxBEUEP4oLxDK-T5Xot1JCBpw",
+      "fileName": "路燈財產登帳明細（1140101-1141211).xlsx",
+      "fileSize": 157735,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M4DE1YDX2ZPMJ44MMFMDYS0R",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791452314015,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "abf0fc2ef6d64234b5bc966e39b69351",
+    "mode": "active"
+  }
+}
