@@ -1,0 +1,40 @@
+{
+  "EventId": "01M4DE1YAX3460P5AZ5E6M2Y0A",
+  "MessageId": "635220639963939106",
+  "Timestamp": "2026-10-08T09:38:33.823Z",
+  "ReceivedTime": "2026-10-08T09:38:34.872Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "635220639963939106",
+      "markAsReadToken": "4WpB70vZaq1KqdirdK-TfDzyO2lubRlzR9Pf5nVS7ZGvbUYdg_rT4pWGEv9Y4T-mrr6m9WMZl9Kwt6JuvSmGDpeZv8ZbT6XDOE_7rizHBNJ15-ClgtZ8dwM8Se7kJxhBGZGsV6oHR0U7SSbBZNiLoXDjsU75eO-1NGM0VMbgkUUTuINICM0RPFpEr3ThLLiLAqBNZmjQt5z6bgKzyWzHcw",
+      "fileName": "庫存報表.pdf",
+      "fileSize": 4884688,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M4DE1YAX3460P5AZ5E6M2Y0A",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791452313823,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "d93761414ab44ef6bda29ad38eda8e73",
+    "mode": "active"
+  }
+}
