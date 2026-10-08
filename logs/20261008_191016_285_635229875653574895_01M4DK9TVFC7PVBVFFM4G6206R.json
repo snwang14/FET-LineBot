@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4DK9TVFC7PVBVFFM4G6206R",
+  "MessageId": "635229875653574895",
+  "Timestamp": "2026-10-08T11:10:14.901Z",
+  "ReceivedTime": "2026-10-08T11:10:16.285Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U375f2b0f385cb715667fe836bb7a29ad",
+  "DisplayName": "sanjinchen",
+  "MessageType": "text",
+  "MessageText": "那禮拜一後可以再來討論,因為我也想知道WVPN 的網段會怎麼規劃",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635229875653574895",
+      "quoteToken": "q4RGUnXM_I1dRPNHe72QtmHjPQC5Gt0bkIrpoXr3lCMSdxoZSCneP83t5GyfTbsh1QXf8Fwwo1Uu4aVdDi-9GKLyDgorMyieo8Wh-HLljHfNbRrda7bE1X0YJoW9DM6dQmuxj4_NSnvaKa37aSxBkA",
+      "markAsReadToken": "q_9C0mwxRhunBw8Fgk5zaomGJnzYerMRJA0K0ia_4tH8_LssjVXt088mziXt-Ewn-B53QHR_EApqXcxFrX5UunurVQM975uaoZYdd8LsggAiFAtTo7w__pl_vfW1MDCZswEPeFXt9Ft2yZr1XIam94F4LnSVL9SLjXG5kjl31dEf8op8Ddn2jLQ-REc5qihOpukDoTxUpDU-mSuyTfTQxw",
+      "text": "那禮拜一後可以再來討論,因為我也想知道WVPN 的網段會怎麼規劃"
+    },
+    "webhookEventId": "01M4DK9TVFC7PVBVFFM4G6206R",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791457814901,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U375f2b0f385cb715667fe836bb7a29ad"
+    },
+    "replyToken": "ef6cbf76663e4246b35be28aa504beb5",
+    "mode": "active"
+  }
+}
