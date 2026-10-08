@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4CGTFD4M3A2JT1FMRCMEPT2",
+  "MessageId": "635169217914339652",
+  "Timestamp": "2026-10-08T01:07:40.072Z",
+  "ReceivedTime": "2026-10-08T01:07:42.018Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "有的\n請問10點，你可以嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635169217914339652",
+      "quoteToken": "4CcsYu7xS30ZeB_6oViw6yJSJzbk-b9CMBawrGSV4oNt2Z9UZ_PVdOzoLPbErHYamEDp2tuZQs-ppeZBZKBElAFq2myiRBLVpj7mZMCR5x8_koVo0s8hDFuIxLHshULxY57I1XnNdxb0H4bk0jK6jg",
+      "markAsReadToken": "aZxAU_Gu5KoZ7KhLb4a7p5TgWJ_p6LT5kHhbfie2cBDAK8dx8A4Hq3K1KS5NN79FiufvUVnYbeRXZpD_JljhldGpGQAMFDM3EGTPFcsgdEEt-6YdTXZD_ceXAvKSlBroZ0P0opq3kgQ7pQCxbsXNJzlQrXUSL4nBDc7v87DA01OzF9yo1kWtJ4KX1fzVsh9lhM2FQOGBx-vnO3dGQlEiww",
+      "text": "有的\n請問10點，你可以嗎"
+    },
+    "webhookEventId": "01M4CGTFD4M3A2JT1FMRCMEPT2",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791421660072,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "5a14358d0421483ab6b1b2d10aaff5d9",
+    "mode": "active"
+  }
+}
