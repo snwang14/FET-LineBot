@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4D2JD390GPAZZ1ZRH2NXZ2C",
+  "MessageId": "635200440413192333",
+  "Timestamp": "2026-10-08T06:17:50.130Z",
+  "ReceivedTime": "2026-10-08T06:17:51.410Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "他們說更新前用都很正常\n更新完就用不了了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635200440413192333",
+      "quoteToken": "nNBTeVqJj8KDJerSYwFP3s0QnnwcBCruy3AXdKDUmYCojKTEf5MyV1pYcZSyn8OGtZo55zs_gc4iIoXlb6J1AQpb-8z4mHehtrZS4Z60dTl7k0SD9Uwv-RIbyc3m91Yi_IxqsR7xmq3AtN2qZArsSQ",
+      "markAsReadToken": "F3DMEscaGuggrRhU__UO7NnoriRnal0kpDAceJ_Mzn0QnJCTAKmVrsoJGD0Q105TaUktdQhEP-_4lYNV6k7xUTzmfO8CjV-HUiki8arjf7NYOei_isM99j_w9UoBiHkJJECqWiFxKKJgggwBUY2Qu_po4Sxe69Z_9jCcH_eeRwoUCEjxB2kI9ibwka2gLeBxfVLYM_g-uIlMyiX-xGN_Xw",
+      "text": "他們說更新前用都很正常\n更新完就用不了了"
+    },
+    "webhookEventId": "01M4D2JD390GPAZZ1ZRH2NXZ2C",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791440270130,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "a347d220d998450da9bfb4806d9c070e",
+    "mode": "active"
+  }
+}
