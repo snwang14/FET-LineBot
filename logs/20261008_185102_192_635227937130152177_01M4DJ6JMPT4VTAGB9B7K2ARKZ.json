@@ -1,0 +1,38 @@
+{
+  "EventId": "01M4DJ6JMPT4VTAGB9B7K2ARKZ",
+  "MessageId": "635227937130152177",
+  "Timestamp": "2026-10-08T10:50:59.612Z",
+  "ReceivedTime": "2026-10-08T10:51:02.192Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U375f2b0f385cb715667fe836bb7a29ad",
+  "DisplayName": "sanjinchen",
+  "MessageType": "text",
+  "MessageText": "滯空氣 ?這是什麼?我原本以為我們這案只要收燈的資料就好",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635227937130152177",
+      "quotedMessageId": "635204537577898563",
+      "quoteToken": "PxS7q6gVYVvkJnNvldNeB_gLOgDB1U56Or__hxrMiKkbho6JIWuj2Jpjbx_KWh6M5GL6v0CofccOI92eoNybvGhUBjwvNZXbQACX71UMWk1qL2l0MhtorVNaU7FMTECl1FeEwnEDAHx830_RRI14Pw",
+      "markAsReadToken": "4Y8EKMeVfhTNRU5HWm3Nm5axv0-U92sBM4__h6zvlsLlZSxEpyjvfgQRUM55JsLRScb0_ffT6A8yq5biWPXJpU1brvbYAaTv-bnGBMJV_b_zmdfdi7utog2_yE9azzAjiB1ixaLDkGxWYCY8AM1h03BU8OM733B74lYVfYvYTzfncDDVUhrzRMfdW5KhxDOz9TyywCvR4fKSouEIGhQI3A",
+      "text": "滯空氣 ?這是什麼?我原本以為我們這案只要收燈的資料就好"
+    },
+    "webhookEventId": "01M4DJ6JMPT4VTAGB9B7K2ARKZ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791456659612,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U375f2b0f385cb715667fe836bb7a29ad"
+    },
+    "replyToken": "03fdefbb1af04b6ba833753d4f771ca7",
+    "mode": "active"
+  }
+}
