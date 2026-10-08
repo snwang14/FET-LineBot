@@ -1,0 +1,49 @@
+{
+  "EventId": "01M4CKTVFNKHA8QM0K0VJGHKZX",
+  "MessageId": "635174516376469627",
+  "Timestamp": "2026-10-08T02:00:18.400Z",
+  "ReceivedTime": "2026-10-08T02:00:19.751Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@玄 確認一下，這四張主單的內容要全部都刪掉對嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635174516376469627",
+      "quotedMessageId": "635082074722402476",
+      "quoteToken": "PhmVFxQlmOyu_ncXiwQz_Vm4lC1RUwZfitjrOvpkpKeKok4yKr-wt6OM3vbn8-PCgD3Rlc1KURYQkpf1ZRudXgRe0zN97PwOmeS46FgiE1-_MuedSfmeDBvIcLTBSNLoxa9uFvzgVYHHwQWKRYFpzQ",
+      "markAsReadToken": "9SS_vgltVpe2ND-bSkMm4S8cAuvWxM-vx8EEdz-608rTp4QEhglgzvz1Sj6NU-0XVWo0XMpMYd2TEpfSX1mPp8ytBNfSyUNx-67npLCZAr0fHcydTWybFVmGO7whcxLMiPMQiUvEljlXE-UxaABab0Bqoi_AMGTJV6rK7V4felVZVTySH7EUxAyp9vH1WRepKm1hAoItTc4sIe9TNhI7rA",
+      "text": "@玄 確認一下，這四張主單的內容要全部都刪掉對嗎？",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 2,
+            "userId": "U91dd2d31029b2ca3f65722584702c5be",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4CKTVFNKHA8QM0K0VJGHKZX",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791424818400,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "47e8512e34164211abdd39f22ef283cb",
+    "mode": "active"
+  }
+}
