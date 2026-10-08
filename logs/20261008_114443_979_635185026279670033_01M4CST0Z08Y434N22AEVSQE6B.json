@@ -1,0 +1,40 @@
+{
+  "EventId": "01M4CST0Z08Y434N22AEVSQE6B",
+  "MessageId": "635185026279670033",
+  "Timestamp": "2026-10-08T03:44:42.652Z",
+  "ReceivedTime": "2026-10-08T03:44:43.979Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "635185026279670033",
+      "markAsReadToken": "rlmPO4nFD2cIjMXybL2sdXkzd9clK9Sab8gkUt87iyYz9jD-ygwlW0FMe9tdl6XBycDYBy76l1s98UV5-kOy-QvcCApltgbLNy0FV5Y0PkOhs8Jw_AKA2EpJHzW-eUhFdOp_zxmmq-oiTUMG01pZVIsW4Pv7CIK9jeVj6bU9ShZ9mV3J1QUhu0aAIia-Vs5K0YduxVPMz0XWBnVJ0eAtUQ",
+      "fileName": "每月工作進度表 - 九月.docx",
+      "fileSize": 130041,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M4CST0Z08Y434N22AEVSQE6B",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791431082652,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "70780f4761a44e9b84be916110190aa7",
+    "mode": "active"
+  }
+}
