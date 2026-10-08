@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4D7CE5W7436X36R9SJVGQPD",
+  "MessageId": "635208907924701752",
+  "Timestamp": "2026-10-08T07:41:57.316Z",
+  "ReceivedTime": "2026-10-08T07:41:59.600Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "楊經理剛剛來電有反應 50m 這個議題會在下周會議提出",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635208907924701752",
+      "quoteToken": "lSye6G1TYV9gwulpMeJMiqut517dDDcLjzyEZ5rUflxnL5hXy0yAkD5MNGSVV-PlM9HYAIWV8EyO1ofsumpJgJBdoyOa4VGhikX7KI8kF4QEpWLaMjsJh7KeRaQzUXbRq8VdKw5nBOAaAhVEnOcxgQ",
+      "markAsReadToken": "S5qePQDFql7RDASU146_Pl9IN2y-hZHsK0ETt4nRyL3ztcgSLi-mTHDoRsWCFXCioVefp1NPVtGqDc_i2SUuy3ZJHsXdomR5hx8pbfbLSAepyMtqYsvFKdnbYm-hl1w-9lhCy_5xGOZ6HuZ3hHHYGSP3tr4YvVKBdIPNvZqnLQpbt5UXNPgEapY31m9eRQnP-ElO78EsKa_p5kK0Teyrvw",
+      "text": "楊經理剛剛來電有反應 50m 這個議題會在下周會議提出"
+    },
+    "webhookEventId": "01M4D7CE5W7436X36R9SJVGQPD",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791445317316,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "f609e5f014244e168b732bca0822b6a5",
+    "mode": "active"
+  }
+}
