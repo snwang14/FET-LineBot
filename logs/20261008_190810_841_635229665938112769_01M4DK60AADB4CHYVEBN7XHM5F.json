@@ -1,0 +1,38 @@
+{
+  "EventId": "01M4DK60AADB4CHYVEBN7XHM5F",
+  "MessageId": "635229665938112769",
+  "Timestamp": "2026-10-08T11:08:09.900Z",
+  "ReceivedTime": "2026-10-08T11:08:10.841Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "好 因為這樣可以暫時解決平台還沒搬進去市府尷尬的期間",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635229665938112769",
+      "quotedMessageId": "635229448891531792",
+      "quoteToken": "yt5uHq4dwommu4fQmHxR4HKzIVbDMiShyZwx5k70UHbkioi1rFshWjmQ3KReU5KnmDVtslz3rhlR35SFGtqrY-315VjnWMgrOh2GSl2HhvbDAyhFHMtMQNPQJqjHqxRxyB7NaTBL0egNlps6nZcMJA",
+      "markAsReadToken": "JG-Bl11RH8QOjcDxjYi8QNo9YAqgAl7sf5li0xwZRCZqaDQnJzA0Tj7K1h98n3SPGxU6HivMGjbOgBUuJJ_hBSm6JlRWCLISZzRsa3-5SPf7h7TZcbjOdnyulFn8GTtxYu_E2VG5iZbnCXjWU2DGRdzIXUDQc5j3AgnA3u2XvK_nnJPiM5mRpV5q8r9KLExS-1QsDOAwwfxv8PEqndTjdw",
+      "text": "好 因為這樣可以暫時解決平台還沒搬進去市府尷尬的期間"
+    },
+    "webhookEventId": "01M4DK60AADB4CHYVEBN7XHM5F",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791457689900,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "a4d1e22e522a42f1bb5ba3a4a0a23dbf",
+    "mode": "active"
+  }
+}
