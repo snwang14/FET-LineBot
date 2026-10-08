@@ -1,0 +1,46 @@
+{
+  "EventId": "01M4CQNH8WSF204P90BR9PWG2X",
+  "MessageId": "635181260784533608",
+  "Timestamp": "2026-10-08T03:07:18.180Z",
+  "ReceivedTime": "2026-10-08T03:07:19.664Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@All 因遇連假，App 針對易影響操作流程部分提早進行一次更版",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635181260784533608",
+      "quoteToken": "sxQ3ZafWKasxjijK5b0siL6W50qkPX-Ahx_MGddrTGkOXsXEaI1ZzXIyzoiKe9CzriY8DHzyfWQkz1XTCrtaepiApRHLhzZn34-4ntc9iZrqdJRUUJ_vgYxnS8VSbBxKj4dS5zPSQSHsjwtDE5-nOA",
+      "markAsReadToken": "4jyuGQLZd3HeXBCMW1vc3rLbNwhcPHzD64UauanleR7_vXoKX15uk068Tl26PnPEG7GDG7CdKmBrjo48xE0R8mB4XWhOlDKSE657PXs1DOQbhWC2rBSm__6ADubvvgV3fn_hxYtWbeMkw9s4c6kf2Ntz_F5jQJW0BTFZwMDCKnbaEN2v_ytW3pNnjngAYKoDpFSHtxtf_RivYAmpLF7o3g",
+      "text": "@All 因遇連假，App 針對易影響操作流程部分提早進行一次更版",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4CQNH8WSF204P90BR9PWG2X",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791428838180,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "a3f14620f9fd4657aa0aabde2779eff9",
+    "mode": "active"
+  }
+}
