@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4D27HJVK42W1W86WJPGAWGT",
+  "MessageId": "635199843748544702",
+  "Timestamp": "2026-10-08T06:11:54.526Z",
+  "ReceivedTime": "2026-10-08T06:11:55.444Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "工班更新到最新版本後地圖上沒有顯示點位",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635199843748544702",
+      "quoteToken": "lmZ1A16oQx_ohrgN2RaD1m3uCGi_bU-4pMJprX1KANlBQZiLvTGOr7qIIL4JQBNfkDy6cYYhyAjm5z4fganZfOt8fPUO1bdSsqfpjqSM-O5D6_YoW17x5hKdaZjYnp9l4IqGmZSv25YZAQ9jbppmDQ",
+      "markAsReadToken": "5i41A97Y-GxHifEungLLSKaqvxt-y2offLkH7hdLgnULSd6a_2cFE1xs6rsmLa0jwtnB46RAy19py1cRhqW2Jb8kYnoWC_9JRdImYo5sDgIoGRUAhUfFuIVKgM0i51Aq2SYfoni-z7UFXxEJ2gJIIdQyZlhWUqV2iMtXkZOdLZleYgYo-ldTNe9ug7bfDWEIN6zIl7s4qW1NLFyvDn5EfA",
+      "text": "工班更新到最新版本後地圖上沒有顯示點位"
+    },
+    "webhookEventId": "01M4D27HJVK42W1W86WJPGAWGT",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791439914526,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "835a54f129a9467ca91b0cbcd42a7f25",
+    "mode": "active"
+  }
+}
