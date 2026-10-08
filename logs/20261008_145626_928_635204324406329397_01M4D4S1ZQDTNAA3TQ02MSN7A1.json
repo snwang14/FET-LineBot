@@ -1,0 +1,55 @@
+{
+  "EventId": "01M4D4S1ZQDTNAA3TQ02MSN7A1",
+  "MessageId": "635204324406329397",
+  "Timestamp": "2026-10-08T06:56:25.190Z",
+  "ReceivedTime": "2026-10-08T06:56:26.928Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+  "DisplayName": "Michelle Pan",
+  "MessageType": "text",
+  "MessageText": "@Julia Lee 佩玲 東堅在這 @sanjinchen ",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635204324406329397",
+      "quoteToken": "mj2OzY4yX4wRSO-57ghQZXSYaf8kQ3-roI4uBF5It982kNFYXLBVoJp2q-dv9hWiBnGaQKxXT8D1wLDqCqC9gVN1crv3GkMw6zy_tBjBApetO1rBnSwnGiI7HQfqbD66TzfsXg0qX3QClW4KknKXkw",
+      "markAsReadToken": "TnF0R2TlV2-soBpCOsHQ3svDmHThR9uDIqDQswpBJZjyXnTEs56_560LTiRYbdZHcLPCru3umJ_SvUT4roZP_OOcVgPM82ikxU54_cNc4Yegmvq2kmo5gsPrpi2vq95tC6cDw3aXNrI4GqcnEAsZnULeWtJ0FofZsr3K3eT8e-0xqgSlcpW_fl7nnpRJrRgstPsrCwEvCd6kY5RExLLjpw",
+      "text": "@Julia Lee 佩玲 東堅在這 @sanjinchen ",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 19,
+            "length": 11,
+            "userId": "U375f2b0f385cb715667fe836bb7a29ad",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4D4S1ZQDTNAA3TQ02MSN7A1",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791442585190,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9"
+    },
+    "replyToken": "6c5f4770551f425b885ddd96184340b5",
+    "mode": "active"
+  }
+}
