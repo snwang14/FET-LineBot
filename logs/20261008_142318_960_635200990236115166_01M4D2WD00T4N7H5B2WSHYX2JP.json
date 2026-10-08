@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4D2WD00T4N7H5B2WSHYX2JP",
+  "MessageId": "635200990236115166",
+  "Timestamp": "2026-10-08T06:23:17.850Z",
+  "ReceivedTime": "2026-10-08T06:23:18.960Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "1.0.17（18）這個版本沒辦法掃燈具\n1.0.18（19）這個版本看不到點位地圖",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635200990236115166",
+      "quoteToken": "4f_kZagEsuMavxaaUxe6fJiDSURZzC5rmeTTRnMWM9IJF7SV4ST5rmezkxu4hYnSUZ2hhE7f2Opwf1T_t1zHOvrsWNNU2FPRLXz9x12mju0mSktunI1IEsfz9l4MIKmGsJwCTcEGYqNlfMfL0hrohA",
+      "markAsReadToken": "0-FGGmOZfXAL4PtX0rXM4KNCyMkZRk8IbMSg2mArU4kSKoGJzM3qrxg4URetr2TlD-hOkfmdBdGchsLVKKKk3Xh_dfzg_wCfeXI1ESHd0oi0oLl4WkvJEoEFw7Tv8KT1-jNLdZVakDr-8Z_pu2vuaD5XjUJ2mppbYI4A_U_x0wYGU4m0iDLyt2gueQBPf8IqReUv-GxsfiTYIbaiA4xmkg",
+      "text": "1.0.17（18）這個版本沒辦法掃燈具\n1.0.18（19）這個版本看不到點位地圖"
+    },
+    "webhookEventId": "01M4D2WD00T4N7H5B2WSHYX2JP",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791440597850,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "9163b0dcbc1c48edaa8dd04105cbc9ff",
+    "mode": "active"
+  }
+}
