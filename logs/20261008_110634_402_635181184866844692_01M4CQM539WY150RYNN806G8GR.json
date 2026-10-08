@@ -1,0 +1,51 @@
+{
+  "EventId": "01M4CQM539WY150RYNN806G8GR",
+  "MessageId": "635181184866844692",
+  "Timestamp": "2026-10-08T03:06:32.951Z",
+  "ReceivedTime": "2026-10-08T03:06:34.402Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "(index pointing right)App 更新 apk 下載(index pointing left)\n目前版本：1.0.18 （19）\nhttps://appdistribution.firebase.google.com/testerapps/1:10016324482:android:6916f82550dc70b9f3ad9b/releases/5ufktkqad7hvg",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635181184866844692",
+      "quoteToken": "Vlhi5YC2mvaIQif4noItZJ9XrcvjKsayDszH9nqRYkAdQbROs5JricPhM0UNLzkIxEKmupMBEt9cwYQFc6Pw-33pqVEsOEF1Yrj4Tu1BwLHZ0xBWgtgDiWe2iSRL4pefju-bu2_0GwvPwY1zVX8Sxg",
+      "markAsReadToken": "B4NnEWPe1aZXs5Mk1jjMDxqCDSfOvC83D_JcZU0ObkVwQoESVlyKPVCEl-eChwDv8qpLTfo3KF829_LO1S3M1Om3_MjQ8qgqj3dvZqQmdZlaCYElqbB_ALMWD_AhDIWi81aY_oI50jJozFQErH2A_7z5otodnImEle1DnMxSm1bGTLzyMl_oEw-CADNqztgk7_aHEzXqqkZXOM7OGm-UFw",
+      "text": "(index pointing right)App 更新 apk 下載(index pointing left)\n目前版本：1.0.18 （19）\nhttps://appdistribution.firebase.google.com/testerapps/1:10016324482:android:6916f82550dc70b9f3ad9b/releases/5ufktkqad7hvg",
+      "emojis": [
+        {
+          "index": 0,
+          "length": 22,
+          "productId": "670e0cce840a8236ddd4ee4c",
+          "emojiId": "152"
+        },
+        {
+          "index": 35,
+          "length": 21,
+          "productId": "670e0cce840a8236ddd4ee4c",
+          "emojiId": "151"
+        }
+      ]
+    },
+    "webhookEventId": "01M4CQM539WY150RYNN806G8GR",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791428792951,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "a3a08dae194f4df8b33c56d6d32a996e",
+    "mode": "active"
+  }
+}
