@@ -1,0 +1,39 @@
+{
+  "EventId": "01M4CXR87XH4KH1ZG8SX4SVEXY",
+  "MessageId": "635191965319168224",
+  "Timestamp": "2026-10-08T04:53:38.873Z",
+  "ReceivedTime": "2026-10-08T04:53:40.209Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "image",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "image",
+      "id": "635191965319168224",
+      "quoteToken": "V4pp8gUiBJK8OFzVs9uUPXTH2ofFdsXXfdCYs3q98kqEHIZD2TlJhl-HjOKVID8p_44T4EyO0DZla3VdWyB43lcHc_awfouMqsBaurSkn1-S78jXRjkWdHOv4UtZkxi863HEYArm7_2ii1rYbD3jXw",
+      "markAsReadToken": "Fb6Vh01jmlPmC6sGMtf6G_Ta4FFZM3VTvdsR1qQ9OkNkDiy-FJvwH4dnL5_cVkJjTRRxvcDUVIKsmmDkyR0knJIUdVBf_Za4Z42-k-3H5yqNnI7gHBCE0zMuoFn1GiQON8oLgcJ4klSAivVcAfaJzCdfXL7gAt3uWuM_WMaypRwDP8NYSDADKmDKlfX-4G7IspW-Pe-Dz_L6BxDwH4Guug",
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M4CXR87XH4KH1ZG8SX4SVEXY",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791435218873,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "47f04b731f5547379ccfd132667fad5b",
+    "mode": "active"
+  }
+}
