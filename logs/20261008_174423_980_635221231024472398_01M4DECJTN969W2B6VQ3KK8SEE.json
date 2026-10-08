@@ -1,0 +1,55 @@
+{
+  "EventId": "01M4DECJTN969W2B6VQ3KK8SEE",
+  "MessageId": "635221231024472398",
+  "Timestamp": "2026-10-08T09:44:22.501Z",
+  "ReceivedTime": "2026-10-08T09:44:23.980Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@Albert-yang楊 \n楊經理好，如同電話中，工作報告需調整如下\n1.針對需訪簡報架構有調整的，需說明\n2.陸、二、功能訪談紀錄\n-->列入平台的功能，需說明處理原因、處理期限，再說明平台廠商的作法或建議\n-->是否有【否】\n-->9/23只有6條太少，應該還有其他項目\n3. 請列入9/30、10/6需訪內容\n\n@林郁翔 Alan FYI",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635221231024472398",
+      "quoteToken": "fjkBE5-4A3KELcHVso1GbiEWpRvF5ms7ArAc7n2tJFqcUIPL1ITSvtFuqNLKv5ee_FLXMCyNdGfOiKpfl7aQFIbWSmjg96H3z_V5yos1sfxIy201l7t6pqyF9KiixcORyt3KbDZUyAd3fhXV-q-Lxw",
+      "markAsReadToken": "-Q7OdflcmZoVmKiGvFSXKecHk7h7_tsl46GAU53qXFDrHw_-hbVJ66tatS9ZUgn1MieMMpNTd0mGaWkMSqvrs0b-7hsHe7nsh-q1qaeipeZRFStObBfE-iKW8tF4Okth2CStdhCVq6iWkGEEa8X2WFIyQjlkrYhCFeBYz2LL52nKaV7Jqi89OYWcP7_2dOm7J-Jsq_AevXf7BAsU7kdOJA",
+      "text": "@Albert-yang楊 \n楊經理好，如同電話中，工作報告需調整如下\n1.針對需訪簡報架構有調整的，需說明\n2.陸、二、功能訪談紀錄\n-->列入平台的功能，需說明處理原因、處理期限，再說明平台廠商的作法或建議\n-->是否有【否】\n-->9/23只有6條太少，應該還有其他項目\n3. 請列入9/30、10/6需訪內容\n\n@林郁翔 Alan FYI",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 160,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4DECJTN969W2B6VQ3KK8SEE",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791452662501,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "816c5d4960924c2082ec5c41e1bec09d",
+    "mode": "active"
+  }
+}
