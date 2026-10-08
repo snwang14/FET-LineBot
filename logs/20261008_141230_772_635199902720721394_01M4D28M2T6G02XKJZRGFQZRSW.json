@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4D28M2T6G02XKJZRGFQZRSW",
+  "MessageId": "635199902720721394",
+  "Timestamp": "2026-10-08T06:12:29.820Z",
+  "ReceivedTime": "2026-10-08T06:12:30.772Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "更新完也無法掃碼",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635199902720721394",
+      "quoteToken": "614F_UMPlsBdGRcEeChaSVZUbDVQtdZ3uN9X81cq0qz7jeF2MO7DTc7q22jj0VKXw49aOy2ZxI16QTxgv8K8wC97umTh7Ydpxm1uNXoWzFx7j8anxHv2JJVyXhNM7CvUM9vUCTrmeCMOl1XBQJofQA",
+      "markAsReadToken": "oPb5phJ6hdr-umv8aM1J1S5jlzRbgBkIilEzn6OemF6exrbXrcjGXCMHmA2Ja8blCVArHQjFq38z7aWKynS3X2R1RJ6GNPK4xUOeqwhQ62nscQRgc2k2c99xpdZhMzvbYoFH-OudY05C44JfHi5pfsatpo3BOw75yBnBBjyOg0B3g35KIUYQG20Yqtw_z3gAmDTs6nW_VYq4afx9Jz0pDA",
+      "text": "更新完也無法掃碼"
+    },
+    "webhookEventId": "01M4D28M2T6G02XKJZRGFQZRSW",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791439949820,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "2c567e7403614c25b1be77f1ad4b4ce1",
+    "mode": "active"
+  }
+}
