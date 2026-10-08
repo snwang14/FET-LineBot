@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4CQ26KKP79MNV0M9YKD2RM4",
+  "MessageId": "635180197745787154",
+  "Timestamp": "2026-10-08T02:56:44.668Z",
+  "ReceivedTime": "2026-10-08T02:56:46.045Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "收到\n目前都有持續在跟進工班同仁的使用狀況唷",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635180197745787154",
+      "quoteToken": "del9kKFRMSxIepj-MxmAZJymIgCO1orLNFOzH_KP_K0bK0q2abJGSrTn0B1JCNaHSJc3Ne8L3nj1DO8xPxGfr0FxSVFCYrEV-ItV-ugzv7HfD1RcnEuUMDzHAKVqXjjEtr3sRqcou-nocnmQywtpsg",
+      "markAsReadToken": "XvrT2C5cFqq0kGFn77KaBHYQKUWoIAtSO6Pj4S0XCU2zxkzCZ1iPEDEGjTGZN0IMFeogoSdF8COpd7wryXYXCtWLzZbXKkvhSEPRUyPZ0q-79KJahkSo51_AoCs5AyVDYDGVNNODf4MfiIsIibu7WLY7h1a0lqZzSubIo1frLoEaD2r9nM61xP9KzBm51DEkocuZb-hZyMyJhiaaG8_kNQ",
+      "text": "收到\n目前都有持續在跟進工班同仁的使用狀況唷"
+    },
+    "webhookEventId": "01M4CQ26KKP79MNV0M9YKD2RM4",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791428204668,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "79db51a3a515474a9aa41b40a2709647",
+    "mode": "active"
+  }
+}
