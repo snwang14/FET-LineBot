@@ -1,0 +1,48 @@
+{
+  "EventId": "01M4DEPMDXDY2H4MATDW7923ZT",
+  "MessageId": "635221783968219342",
+  "Timestamp": "2026-10-08T09:49:51.889Z",
+  "ReceivedTime": "2026-10-08T09:49:53.477Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan \n針對今天提交的 9月工作報告\n楊經理剛剛電話有說明調整方向\n後續文件調整部份需麻煩你\n\n另，楊經理說明\n該文件，他預計10/12退文，給7日調整\n預計10/20發文補正\n\n再麻煩你10/14前提供V2.0\n謝謝哦",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635221783968219342",
+      "quoteToken": "2h9fXc1teTS7QuA7ylba1HhepxfXWC7EOnnEUWOAH9kAhfKR1JUmRoAjQBxerBM4WeLNVMZxHW3Z0_OqLdzWf6KB7PQ9TfCIRhDacN-bmlx0U5ivn3VCvvFMB9fa14tidoZXtZp7m0GJBU-6BuBVUA",
+      "markAsReadToken": "Ly3vYuJXZi0KpqkYRGEk9itntdakcAsnvxwETVSRhcDw9k9FMK0Vu1bHqA-yXXfQ6NgG3U8LBPzGPOpPgBqQRXsibxrQLYrbnA2WrUWNnETRLyE-iFY99zq1x73kAFg9p85a82PazNBM5Lvmh3fcXAV3H58dtamg4kUogfNtKF2lB3uARc09GjLy2_gk-NsTY7BPkKFStuHoAVBiIbTWGA",
+      "text": "@林郁翔 Alan \n針對今天提交的 9月工作報告\n楊經理剛剛電話有說明調整方向\n後續文件調整部份需麻煩你\n\n另，楊經理說明\n該文件，他預計10/12退文，給7日調整\n預計10/20發文補正\n\n再麻煩你10/14前提供V2.0\n謝謝哦",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4DEPMDXDY2H4MATDW7923ZT",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791452991889,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "d38d666d264e4203ae15db2e2b922487",
+    "mode": "active"
+  }
+}
