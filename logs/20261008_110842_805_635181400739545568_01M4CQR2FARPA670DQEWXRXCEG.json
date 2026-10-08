@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4CQR2FARPA670DQEWXRXCEG",
+  "MessageId": "635181400739545568",
+  "Timestamp": "2026-10-08T03:08:41.680Z",
+  "ReceivedTime": "2026-10-08T03:08:42.805Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "依據近兩周和遠傳及億光同仁討論優化方向，調整如下：\n-修正 token 過期\n-指定點位: 只顯示主單指定的點位\n-指定數量: 只顯示與主單同場域，100m 內的點位\n-加入\"流明\"欄位\n-修改\"地址\"改為\"地點描述\"\n\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635181400739545568",
+      "quoteToken": "0cAe7Wc5kQRTbd5mek6w8hFrOg2KTIWsBGOE8Sjsku7sINN-OnXtpnPaR24Q5Gi05QAlWyBXweXKCV--66VljIEMZ0Ro0H9zXrzO6Sqi7yMKzsMTFlosuXNhbfIaqWhscHDyLy7zPMThf48qt-0dqQ",
+      "markAsReadToken": "FSnZpXeFrmCPYMx9e90pFpfR00oXbbkN8_SJsgB6bCi8caQvNOqbh9cgsn_Jz8aCEf2yv9jeQMDptTGWOd6bkCbXPJIpmGpdiQFgZkJJbsBpO8jsRGynt8V7gjkKK_drhOEjwBztr-s-q-Lhp_i1V8lzvYG3e34SwGp38hVOgVz0YrshXnJkKrWEf02r9TT8yQzaXNehuYgZZ1UOG43dzQ",
+      "text": "依據近兩周和遠傳及億光同仁討論優化方向，調整如下：\n-修正 token 過期\n-指定點位: 只顯示主單指定的點位\n-指定數量: 只顯示與主單同場域，100m 內的點位\n-加入\"流明\"欄位\n-修改\"地址\"改為\"地點描述\"\n\n"
+    },
+    "webhookEventId": "01M4CQR2FARPA670DQEWXRXCEG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791428921680,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "b08c76c302344291ba0c7911cec67c62",
+    "mode": "active"
+  }
+}
