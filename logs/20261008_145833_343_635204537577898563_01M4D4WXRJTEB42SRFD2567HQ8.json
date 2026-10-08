@@ -1,0 +1,48 @@
+{
+  "EventId": "01M4D4WXRJTEB42SRFD2567HQ8",
+  "MessageId": "635204537577898563",
+  "Timestamp": "2026-10-08T06:58:32.237Z",
+  "ReceivedTime": "2026-10-08T06:58:33.343Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@sanjinchen 東堅 想請問在平台的伺服器尚未搬進市府之前 如果我們要收滯空氣的資料 是否可以在你們位置裝一台4G Router插WVPN SIM卡來連線？讓控制器的資料可以先這樣收進到你們平台？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635204537577898563",
+      "quoteToken": "iWThoapzQOr8WD7k9dQZJYCvc78JEWA1qI4o6NIFxe55q02Gb3tY1Rnnq53fPOeyXW6qZCNuHO0paNgtSphsasOeBktH5-TiAxT7Kr4d0zFYDrYMa31-2vqumjFNs4S8mUxY8qErjp7qRDMEbFhqnw",
+      "markAsReadToken": "advilrwHsj7SqidlHq4ZtaSrmIco1ft2WzC35lW62Tk3zIbk1sFPXI5izqQt4vXShHTQ2tUOER2VQVd2MMKOaK_S9CfYg5fUh4pwcOCTo0QEQf6gCWw_Qimy5y2dPlGDH29RVykwe4NYKvJvCXp50-CBbwUDg84knCteqb6hR_Xk7Lx5VvLZtGj9gGyowFTq0rsDU_IiaO9GBLNyNkUlbg",
+      "text": "@sanjinchen 東堅 想請問在平台的伺服器尚未搬進市府之前 如果我們要收滯空氣的資料 是否可以在你們位置裝一台4G Router插WVPN SIM卡來連線？讓控制器的資料可以先這樣收進到你們平台？",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 11,
+            "userId": "U375f2b0f385cb715667fe836bb7a29ad",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4D4WXRJTEB42SRFD2567HQ8",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791442712237,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "c7ce716b72ba43ffa637c860cc5ed675",
+    "mode": "active"
+  }
+}
