@@ -1,0 +1,48 @@
+{
+  "EventId": "01M4D1Y4ZCNCSHJJDFS3K8FTH4",
+  "MessageId": "635199326574608524",
+  "Timestamp": "2026-10-08T06:06:46.284Z",
+  "ReceivedTime": "2026-10-08T06:06:47.977Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan 上次的系統會議監造王來福技師有同意解除50公尺的限制請問系統解除了嗎\n工班反應稍微移動就超過50公尺了很難操作\n想問一下50公尺的限制解除了嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635199326574608524",
+      "quoteToken": "3reYAazzc_y5OHnSgUSFtDkkQ3yDLPutmEiCHT2qCZBnjXFJblbbRwJVDkjdX-2utBSOkakYfCGj_p08x_n3syyyBk7R2tefN98LYWAz09Uvc_KlhFMoTNOKHck8gMclpKJfy0puj9ruMmLcVoYc4Q",
+      "markAsReadToken": "QAwmGQFm_gKTQGmONEvzwV54YB9FD-P2MCtKbdS92v-7qnabrB2LNKVhlOu55sPs4CH6NErk1jKgZ_BssNV9jpPTACwcCx6XY-P7YSJjcL1Fco20JgakXC0TpGkkeF1dQZPCUKbSWoamMHfUL0gKW4gWCgY7zssSt7lmlMAf5oI9IOI9-RcIKL7Swvb1xuGc4i6T10tcy8-RuGBM9GR9CQ",
+      "text": "@林郁翔 Alan 上次的系統會議監造王來福技師有同意解除50公尺的限制請問系統解除了嗎\n工班反應稍微移動就超過50公尺了很難操作\n想問一下50公尺的限制解除了嗎？",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4D1Y4ZCNCSHJJDFS3K8FTH4",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791439606284,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "46dd0ccc07f34cdc9988d70054d6003e",
+    "mode": "active"
+  }
+}
