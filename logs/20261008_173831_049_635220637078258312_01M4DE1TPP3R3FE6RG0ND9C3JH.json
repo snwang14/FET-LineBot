@@ -1,0 +1,40 @@
+{
+  "EventId": "01M4DE1TPP3R3FE6RG0ND9C3JH",
+  "MessageId": "635220637078258312",
+  "Timestamp": "2026-10-08T09:38:29.911Z",
+  "ReceivedTime": "2026-10-08T09:38:31.049Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "635220637078258312",
+      "markAsReadToken": "qAwg64iRZwnc1EmJrHQ8I5NCH6MpUXmkxDDcDlrbKIdjOzVyxf7q213_buB9pCTXIlAHxJSAUp7nH5Leep8Hx5-qTX2kp6aeT4LlajCwiiyvjDp-8Q4tmcN1Q4yR7WP8hqmzSHAIhe6qWEla2JgmxM3rOSkoOIZmakpfS-vzCmL55GBEmB3v3Sth9ifscE1mDamyZ3gaoOfNxmoodnfkQw",
+      "fileName": "物品報廢單_萬元以下1121208修正版(1式4份).xls",
+      "fileSize": 1864192,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M4DE1TPP3R3FE6RG0ND9C3JH",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791452309911,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "6a8b35fc07434b85917de84be5bdd923",
+    "mode": "active"
+  }
+}
