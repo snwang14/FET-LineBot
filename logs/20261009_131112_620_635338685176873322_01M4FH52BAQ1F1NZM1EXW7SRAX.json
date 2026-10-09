@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4FH52BAQ1F1NZM1EXW7SRAX",
+  "MessageId": "635338685176873322",
+  "Timestamp": "2026-10-09T05:11:10.569Z",
+  "ReceivedTime": "2026-10-09T05:11:12.620Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "請拍攝燈具的序號給我",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635338685176873322",
+      "quoteToken": "SLwEPDA8LiObEn1u0c0q3p51wFvSnXCHo40SYOd2RYs7fo9kIBuu10pQcaOPlSPUKjbX1mB9X5ZEDA-fqxtFbl5GFCn9tA_hWJKe-27AilIgY9SAlUvBT-xvnFU6_l2XNl0qpoQ03vvVYpkoDmMDHg",
+      "markAsReadToken": "RcnRCrRS_Yhx1G5lg_Nb4QrXInDpSPuL0C0xKdwghZqZ7L0u-99qE4m3Z7EPgk5jkVYxjrcVYsjw4MsgNaWPCtk_PI9whsJPxy8FZTPRLamqTPywsX6dR-wcZrN2PIi6_-224ws6SrjQUR6p75v1P60C9Esd3r-bDrOQQWJV80EIg3VuU0v12DxKfyLlKOFdcuueR2K4TJcW7rTdAbqVvg",
+      "text": "請拍攝燈具的序號給我"
+    },
+    "webhookEventId": "01M4FH52BAQ1F1NZM1EXW7SRAX",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791522670569,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "0f32f84d7d1a436393b665249a0a1666",
+    "mode": "active"
+  }
+}
