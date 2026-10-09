@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4FH2B9RYMA4F34T3AEMCAV7",
+  "MessageId": "635338535641022983",
+  "Timestamp": "2026-10-09T05:09:41.307Z",
+  "ReceivedTime": "2026-10-09T05:09:43.678Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "@Kai小愷 燈具碼沒辦法掃",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635338535641022983",
+      "quoteToken": "-ZfeNJUcF-fSlBYzllIpn5OQcHQP-xLfhw5pe9ZHxkdJnJerzV4aCPgUFgcinTAoC6eH3GJs30icQykp5xxyrr5eunrbQMM-JsAdF3_dih1lpxhwfcWZai5jlNahGbziF_UxMTBV66IrfMGYUDEi9Q",
+      "markAsReadToken": "sk3JT-k6zbqrl0AXsog-TbjZy8dv7IXO6i7nEju4HBTJEE95wS1nWpXTIf14ANQ3tqa6dOSPfFvBW6iP6o5ZxC8cDDhNojAnKoSd2cJdgFJw23dKkja3GaR7WdahxgGDx9bERkMNGYaYNIa1h1OtaiKXdWPKTmpW9uxs2_Qp-oF3hiK6-AR9iL_8iCbLKxyBuRatqnV4r3-EfBlYXLQfbQ",
+      "text": "@Kai小愷 燈具碼沒辦法掃"
+    },
+    "webhookEventId": "01M4FH2B9RYMA4F34T3AEMCAV7",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791522581307,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "2e54b200f27f48c1b649ba48f578529c",
+    "mode": "active"
+  }
+}
