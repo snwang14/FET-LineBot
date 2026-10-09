@@ -1,0 +1,38 @@
+{
+  "EventId": "01M4FKN5GVH0M9REFSYG58M5BE",
+  "MessageId": "635343089413653008",
+  "Timestamp": "2026-10-09T05:54:55.566Z",
+  "ReceivedTime": "2026-10-09T05:54:57.099Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2eb01cd07205346aecd445a7bd04e7d0",
+  "DisplayName": "WANG PEI CHING",
+  "MessageType": "text",
+  "MessageText": "億光這邊會重新確認目前已提供之清冊資料，於週一重新提供給您，屆時再請協助幫忙入系統\n\n抱歉造成困擾再請見諒，抱歉",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635343089413653008",
+      "quotedMessageId": "635339528734769204",
+      "quoteToken": "SA0HhWLis7iupNWJVpxfw6mVYrdtKdN0mtQTR2RemMQsCgaTv2keWBhp3UGf_RMS6ocMyhYb-M7zXpqddo2CntizALhl5P92xEfxdJ6_vJ5TsztNF4EKvMwc-l_EdIU8qvvp3MUKhUbUOG3sruvXiQ",
+      "markAsReadToken": "YSo9klB9U2SgR555aKgorRxtOfWX6HVHXK3esG1WXac-TxiU5hX-pnhvq9U1oDydPJZV9TjlNxEYNquG54-drfi_U8TVsCpiv5ial9L9ISCW14Q8de5NxfDmcSTna9BCXZe88katnPG3BYc_zx9evRkIENPTXXPApHvCyLRGgs6wOa4iROyFTeZDGmkOLiPRNzvVTkh4kg1Mvlxt2-xbgQ",
+      "text": "億光這邊會重新確認目前已提供之清冊資料，於週一重新提供給您，屆時再請協助幫忙入系統\n\n抱歉造成困擾再請見諒，抱歉"
+    },
+    "webhookEventId": "01M4FKN5GVH0M9REFSYG58M5BE",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791525295566,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2eb01cd07205346aecd445a7bd04e7d0"
+    },
+    "replyToken": "e813c59f8bb74bde8c41faafc868021b",
+    "mode": "active"
+  }
+}
