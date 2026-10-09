@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4FHMDB4YHPF9MZJAV7MTZBP",
+  "MessageId": "635339528734769204",
+  "Timestamp": "2026-10-09T05:19:33.229Z",
+  "ReceivedTime": "2026-10-09T05:19:34.643Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "給我匯入的序號和 QR Code 不一致",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635339528734769204",
+      "quoteToken": "xGnirpEqwuzzxQzo_0Limzcc1meL3Xq0vfecJHjKK1zgIFkmEYZRGg9WuXkepZo2liXdy6iNzqEXDdNdR6IgYtEZHQ5Gz4sp_2dEG2AhkYtvnwnywL_NImBugUhD0L9PSYjC8KkM2EuOyAzmcYF-5g",
+      "markAsReadToken": "4prsExm4wjcDaRYlwJw3XJvabWE4r7xT5dU0NOWCx8_9ck0I6Jc9xNJh-TpUuuOSqMnlKu7BGpp4UnTHVBp3xyrBwc7K-d-FUYu0nAh00JIpE45IDiL_v8tLJSshiuG-V5L1iAuOw8kQZBKDscwZ6I_QprUgFS4qx7qQ5MtKrp4R0G1GTyqSUPhGPugpr1a1TwrQmhH_WqN3IonsOL3_1A",
+      "text": "給我匯入的序號和 QR Code 不一致"
+    },
+    "webhookEventId": "01M4FHMDB4YHPF9MZJAV7MTZBP",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791523173229,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "358046e12f2e4649ae7ab6cd8883c40d",
+    "mode": "active"
+  }
+}
