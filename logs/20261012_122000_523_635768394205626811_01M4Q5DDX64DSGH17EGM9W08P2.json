@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4Q5DDX64DSGH17EGM9W08P2",
+  "MessageId": "635768394205626811",
+  "Timestamp": "2026-10-12T04:19:56.976Z",
+  "ReceivedTime": "2026-10-12T04:20:00.523Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "請問週例會有哪些議題是我們這邊需要協助準備的嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635768394205626811",
+      "quoteToken": "ZWrl4IQ9RoWAInsotXii1p0PbndYR4jQhn8PBpVmApOztNUzaqFgycE492dCvh19z5xSRc2lf0o3yzEcre1BAYJa3lk9pzrKlY0sirNH3m6xLXTbnPMLGY_Hd21qJPq5D9vInlz-YwH6zldn1q5LBg",
+      "markAsReadToken": "fRspnw-yhjR-QIwZyI-lK96DCfSrOOBsyY0QIfkQuqvAJJ_gP1WPrPWaRE7UAnSeW8g6YHhCmeZhBSUjNPPeoJK6eafZ0CLRKYj6JLlQjoVP_RXSZhfSKYTuKtyfiDM9UNJlFS6k0ipqx9AVG3W2FxeWb_0Z8ABrUTTqQEyxrOXB2y4bSRYZyUhUzuAtojYPfSNh4PZO9d8iRe3__itmhQ",
+      "text": "請問週例會有哪些議題是我們這邊需要協助準備的嗎"
+    },
+    "webhookEventId": "01M4Q5DDX64DSGH17EGM9W08P2",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791778796976,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "eaf9ca0c978b4732ac172dacd176a59e",
+    "mode": "active"
+  }
+}
