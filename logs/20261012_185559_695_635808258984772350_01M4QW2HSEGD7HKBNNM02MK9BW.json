@@ -1,0 +1,38 @@
+{
+  "EventId": "01M4QW2HSEGD7HKBNNM02MK9BW",
+  "MessageId": "635808258984772350",
+  "Timestamp": "2026-10-12T10:55:58.236Z",
+  "ReceivedTime": "2026-10-12T10:55:59.695Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "可能要問楊經理會比較清楚",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635808258984772350",
+      "quotedMessageId": "635808083226132959",
+      "quoteToken": "aq7cueX5cCALC1E9dD-BtNNgVyxR23ry3FSQRbIBbUExBq7jY0VeKj9Hzs0pvRW3vFPNqkgZlquHi_wLn3vwBJVDcXEg-T7u7MztMNen2e2uzwQ3CcUGE5Epf9WrjO_8NU5mDyViH75B8nen-TT1XA",
+      "markAsReadToken": "-FEEL5gdxHvKTAsCoqn1lhrfIUAkSVcGzl849wzxWd_lX0VhXIE2_hSvsKkHcpx2_RxXUf3pw-9biBMiUuOTRHS073u0g4o0eaf8Cit_6gwPE0SAKRAHiENeAbNFpMTvHui9GCI-T-I4jey9A5F7nKjzi39Ln0YmQV2RBUpV1AwPkQrCylHhQFhDnjwLYTbdYHHyPS1iOhQF-hd5fwz3pg",
+      "text": "可能要問楊經理會比較清楚"
+    },
+    "webhookEventId": "01M4QW2HSEGD7HKBNNM02MK9BW",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791802558236,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "6d12fb800b2a416882477be1b56555e9",
+    "mode": "active"
+  }
+}
