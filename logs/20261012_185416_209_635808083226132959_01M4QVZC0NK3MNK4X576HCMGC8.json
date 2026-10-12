@@ -1,0 +1,62 @@
+{
+  "EventId": "01M4QVZC0NK3MNK4X576HCMGC8",
+  "MessageId": "635808083226132959",
+  "Timestamp": "2026-10-12T10:54:13.534Z",
+  "ReceivedTime": "2026-10-12T10:54:16.209Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@胖仙女 @Nick Chiang @Sammi 你們誰有路燈科呂文助的聯絡方式？或者你們已經有跟他們討論過控制器出廠廠驗的流程了？我想要問一下機關廠驗的問題 謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635808083226132959",
+      "quoteToken": "A_n2SRkW3_SzAVltDFolb7b0zrUyGXM2oNMbkxuOGtGBxjIQVSPKc64Pz_IwkB5EQdELtqguwO7udbW2CLh6oWLYh6NG4ooauLRmyDzLwvcVuZiiNp2jWxJouI9VJ1KZsP62_FhPL--wd_zI331Ckw",
+      "markAsReadToken": "u1EXAo4M3ELk4h8crP0hidpgBqt4AikQPjF3q3ephwcjulOHzJVBHiqiWW5UTksoP52fBxPCWEffT3a95ekeaJD7oQOnRnH2NBOxLiaeNfGVZ743zMub5-YlXQWxG2STLleDnwSYyetEh5lLs18UjVVzddnP1cULphd01DHVPvWcUBhodax7ZBplPBJG4zjtPOTooRqGIkriZz_dNNWVhA",
+      "text": "@胖仙女 @Nick Chiang @Sammi 你們誰有路燈科呂文助的聯絡方式？或者你們已經有跟他們討論過控制器出廠廠驗的流程了？我想要問一下機關廠驗的問題 謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 5,
+            "length": 12,
+            "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 18,
+            "length": 6,
+            "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4QVZC0NK3MNK4X576HCMGC8",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791802453534,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "60688518d58642269e5bbae2401352dd",
+    "mode": "active"
+  }
+}
