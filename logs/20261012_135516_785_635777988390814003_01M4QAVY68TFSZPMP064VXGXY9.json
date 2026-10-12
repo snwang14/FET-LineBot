@@ -1,0 +1,55 @@
+{
+  "EventId": "01M4QAVY68TFSZPMP064VXGXY9",
+  "MessageId": "635777988390814003",
+  "Timestamp": "2026-10-12T05:55:15.553Z",
+  "ReceivedTime": "2026-10-12T05:55:16.785Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@Jason廖賢文 @Andy 今天稍早 Brown 來訊提醒，台北路燈有少部分智慧共杆也需要收資料",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635777988390814003",
+      "quoteToken": "fYyhlYbcfltP9XfMeNB6zpQ9yVWd4GfUDJbkkRyoRSLifQgNkeVUcE5jaUpc-gTlLfsx2zqXaSO4Rq97OIxwXGyAoCzcBRY4znVvpFbUF5IPL_JXF3SLq_hyUY-13loR92aTd5FinQ-W9BIAW1Gr_w",
+      "markAsReadToken": "mtBQAq5ZWUMH6e46earP9Hv_IKhZlFbW3fDQ4p6_rr4xTdMB7npsAr5SmD18RpSVQIbIAlVA9EFanDjaZGiA_60qTQqWlvElJMbFmBngw9JX5PGJjpOgsHpQtoRNjUH8MgC0RM6VaK3lmqBTSBiBYlfvVQstOsoWHKs_FfTZGWMyNki22X2GvVv6xjptO7XuVaj61z5w-SUdQmQ1SwTYng",
+      "text": "@Jason廖賢文 @Andy 今天稍早 Brown 來訊提醒，台北路燈有少部分智慧共杆也需要收資料",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U21620661d4adb885147ac04fa12857dd",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 10,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4QAVY68TFSZPMP064VXGXY9",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791784515553,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "d5febb19e1204e25a09eacb47564910d",
+    "mode": "active"
+  }
+}
