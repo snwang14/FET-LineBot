@@ -1,0 +1,38 @@
+{
+  "EventId": "01M4Q5GJ6FTBRJPP9HYR9HXVVW",
+  "MessageId": "635768566943318499",
+  "Timestamp": "2026-10-12T04:21:40.020Z",
+  "ReceivedTime": "2026-10-12T04:21:41.166Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "目前楊經理預計會提出這個議題，可能要麻煩協助整理因為這個限制工班會遇到的狀況，可以在會議上提出",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635768566943318499",
+      "quotedMessageId": "635208907924701752",
+      "quoteToken": "hlt5yW1hwSxh2_dlrkJJenbULQd7c20XcVptst_2YwECIkEpInq2B0xFDDivEVMlk4lEFSuX5Pffe-4vetAmsb7Q4Ockn9EubOR08qicRiT_gf1X-c6YBMYUcInterwU5zQOzXFG2y-W6LVRl1Fs8g",
+      "markAsReadToken": "O6Z2phcLZHi0K1cm7SOi08KvWN-HnMlC7QhRtF_Cax6EbTtVnECIGEmiBJOhdqWySYVmbYeUOCXUtjKqMb1aK3twl0WPErhj_F5y0Gr4jXtiJ7gUm8hPrM6_7JGBTsX0OGbngxiXOCAPfSXzEFWKKMmG72O-jWXxmXZnOshlkpfYpZa7AAdxwxgxvzimevxHgr19yOlnY9B8opZdDAta7A",
+      "text": "目前楊經理預計會提出這個議題，可能要麻煩協助整理因為這個限制工班會遇到的狀況，可以在會議上提出"
+    },
+    "webhookEventId": "01M4Q5GJ6FTBRJPP9HYR9HXVVW",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791778900020,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "9cb2bcd1d2b24998b7ebd60b47022cc0",
+    "mode": "active"
+  }
+}
