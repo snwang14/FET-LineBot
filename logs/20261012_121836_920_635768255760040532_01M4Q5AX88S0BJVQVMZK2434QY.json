@@ -1,0 +1,69 @@
+{
+  "EventId": "01M4Q5AX88S0BJVQVMZK2434QY",
+  "MessageId": "635768255760040532",
+  "Timestamp": "2026-10-12T04:18:34.457Z",
+  "ReceivedTime": "2026-10-12T04:18:36.920Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@Andy @Julia Lee 佩玲 @Michelle Pan @林郁翔 Alan \n會議通知～\n1. 10/14(三)上午9點於第三會議室召開第五次平台需求訪談，針對智能路燈及儀表板功能進行相關訪談，再麻煩分隊派員與會。\n2. 10/14(三)下午15:30於第一會議室召開PFI每周例會",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635768255760040532",
+      "quoteToken": "gTDbkqGEP_6gMfOf_awNTiYz_XJFwU5AhYeJiiFtDwlKdagB8_v4GQ6MC4sWDsZ2gIsFXnVhmI1DchaCZUvEzVEmevHZnZ01NFWa6nyEDbMUGMvbB8SazzWVq3KnGI0_ulyUmNekUdJmabaQULPvLw",
+      "markAsReadToken": "dDNX8maaLDe70RxruIQsMvFzunpFXS3ej7RXTjqXYiq-CO3wi-tl7AW6Y2nUovKIxe_NRM8GJ-o6_7wLwmeD3wps255W0PZBByqXtbL3lnC6hzA_RmXN_jrYvyDHVG7S-NMszWh5aosaky_kGrMUhq5PxsQAdH4NRkeQ3MhP7szGWKz8It0f7f_IBMBkpI9LXE9cH7vkpKSwK-KBqqqIgw",
+      "text": "@Andy @Julia Lee 佩玲 @Michelle Pan @林郁翔 Alan \n會議通知～\n1. 10/14(三)上午9點於第三會議室召開第五次平台需求訪談，針對智能路燈及儀表板功能進行相關訪談，再麻煩分隊派員與會。\n2. 10/14(三)下午15:30於第一會議室召開PFI每周例會",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 6,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 20,
+            "length": 13,
+            "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 34,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4Q5AX88S0BJVQVMZK2434QY",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791778714457,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "78ad6b9f91744ff79766c6a48bf476b4",
+    "mode": "active"
+  }
+}
