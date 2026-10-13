@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4TCAK7ATBBQ128B74ZW79B5",
+  "MessageId": "635949438367695362",
+  "Timestamp": "2026-10-13T10:18:27.848Z",
+  "ReceivedTime": "2026-10-13T10:18:29.111Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "我後來有再查一下契约內容，所以大綱內容要做一些修正和補充！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635949438367695362",
+      "quoteToken": "lwmkVyekoLzzBI18olfJWibOOoaTJ1mMgNkg05naCMY8bSaUIc5-mjql-LzPDcygrgJChz2IbiUM3qjKS26oWA8mZskfAgGJcJr55dwy7ZYQPDf-PRnhohYdHXb59_LDUWki3lPmgUfGb7ZlnB2Bjw",
+      "markAsReadToken": "PWjw0ZVNfZosN6kEr3A5Ea8n-zEi_2rdDL-PKsqV1wUWn5_BvqIV1YQeoldoFNmRdb7TaE_q6tCHv6eHPo7uo4usbcNXD_Lm80OfNRwzCMchGV1BDQ18naWzy2Ti5vam0CFZMw50FnsknnfqXjvFsBTlh16Sx-Hl1uJu7MvQsc1ARZdpGJilSCz_g-4mQZP0YSpmwTIStl8WkDqjXvizmg",
+      "text": "我後來有再查一下契约內容，所以大綱內容要做一些修正和補充！"
+    },
+    "webhookEventId": "01M4TCAK7ATBBQ128B74ZW79B5",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791886707848,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "423c70788e9044efb3723e2c588ab852",
+    "mode": "active"
+  }
+}
