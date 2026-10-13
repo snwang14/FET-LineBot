@@ -1,0 +1,48 @@
+{
+  "EventId": "01M4T94AAN4JMNA4759NZZB1BN",
+  "MessageId": "635943815752450559",
+  "Timestamp": "2026-10-13T09:22:36.363Z",
+  "ReceivedTime": "2026-10-13T09:22:38.750Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@Albert-yang楊 \n楊經理好，\n9月月報更新如下，請參閱",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635943815752450559",
+      "quoteToken": "IB5ftLCdtN0OENJBGWbVgwNQWW8J6A2-WHOe-3xdT33MIV7rRZvho7MYuAagKp7D-2j1znhorvpQgLNgX_OpLSJS6x4HhzYXJUmmB8o9peKk7HVq_-HzRZD3Wf-4i6dA1M7m_Y4i6vdSJIFhY7BH1A",
+      "markAsReadToken": "vREMQYv71oGW510hIqvuYWkSAyFoR2NTyX8ufma_JlIck5VCmiGBdaTjj9A6ueRaglbfkG_daF7G6uXPV7DaZaWaSCIUaEbTbVAmCdziA7tM67LTPN5-AyPKnSrq9iXEyaQpelMxq_7DNgrpYC7HgtXqv6HskHezAE0uhhqHbyKWQDNX8zGAdq9zC6Ha_tTPP-ob_ViOr_zNjItUQksTag",
+      "text": "@Albert-yang楊 \n楊經理好，\n9月月報更新如下，請參閱",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4T94AAN4JMNA4759NZZB1BN",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791883356363,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "e1a73412757749118df5113ea4e55267",
+    "mode": "active"
+  }
+}
