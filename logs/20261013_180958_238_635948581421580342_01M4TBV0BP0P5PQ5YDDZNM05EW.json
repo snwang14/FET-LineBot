@@ -1,0 +1,45 @@
+{
+  "EventId": "01M4TBV0BP0P5PQ5YDDZNM05EW",
+  "MessageId": "635948581421580342",
+  "Timestamp": "2026-10-13T10:09:56.924Z",
+  "ReceivedTime": "2026-10-13T10:09:58.238Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "了解\n那可以麻煩楊經理確認一下 \n此版內容可以嗎 (emotional)",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635948581421580342",
+      "quoteToken": "HZdQbz2yuvt-Lk7g_sr_2AjPVPpl3VfOxF4hffdZjMUYnnNqwklD3Kqc7o0lcfn0MQDKwMem_TKAsNSll2IfrLv6P9-jFF2rG6OViLK1BzhDWxsnEcXZ8gbmCf7HPGijhtq5cgPP0ImaCpLJw0HhbQ",
+      "markAsReadToken": "uA2WeZIzYx-vorjAmRaipzbv4OYm3yxoj0wIjdorlI2juA8FyZ7YwlS-gpN6M2NHlIMicuAzrlDJeJ-gzUTrrJLiZsuJZestBFpA3CkQ06I0_ujwJ48uH0TSs5qarBTVdB79YwqHIh-aSfTy2WMQeqxV2HjymNuSWX1z-1zX99DeWnKKbglfIrURpsG7W-r5ARXE5egQyRbkTZGojiN_3Q",
+      "text": "了解\n那可以麻煩楊經理確認一下 \n此版內容可以嗎 (emotional)",
+      "emojis": [
+        {
+          "index": 25,
+          "length": 11,
+          "productId": "670e0cce840a8236ddd4ee4c",
+          "emojiId": "114"
+        }
+      ]
+    },
+    "webhookEventId": "01M4TBV0BP0P5PQ5YDDZNM05EW",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791886196924,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "fbb09b330a3c4961b77c995f66199ed7",
+    "mode": "active"
+  }
+}
