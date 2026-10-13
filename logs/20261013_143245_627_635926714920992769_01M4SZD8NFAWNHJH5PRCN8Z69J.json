@@ -1,0 +1,38 @@
+{
+  "EventId": "01M4SZD8NFAWNHJH5PRCN8Z69J",
+  "MessageId": "635926714920992769",
+  "Timestamp": "2026-10-13T06:32:43.468Z",
+  "ReceivedTime": "2026-10-13T06:32:45.627Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "明天下午簡報請參考如下\n需要 平台小組 說明的請詳P5~P6\n主要是在 Line群組反應問題\n後續為優化、新需求或待裁示",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635926714920992769",
+      "quotedMessageId": "635923942234391175",
+      "quoteToken": "mzJkXOjdMxl54_tKH7RZu3bFbP4aaNUAbQem2krF0ckEaQBNVInNyH2p-wqegDQCJwLP-6Sridk8fA8M8xjm0OjWIesyjI1ct5YBeLOOvlgpjdpDrlLV155sxCrH5Lp2qwn0-mirCLBq4H858_AiCw",
+      "markAsReadToken": "wTSPqrqJBEEqVGA9pJBYDJYtY27chwuOrf_myjLVuajtHX2wO3aZY65pLvKNRd8nziGcemLDytC0OTi08EWm_J6t3Atf1WmDloFBqjo7Pu49A0q0L_SfoKQLO8rXlciqnrS9epOK4ajo6ynxXOc2b7mWvwM7j2A3TBD4d3bZD4tfeTw2nD2J806ilJfx-XgSch8q8M8QdCO_P5XP-HqTQQ",
+      "text": "明天下午簡報請參考如下\n需要 平台小組 說明的請詳P5~P6\n主要是在 Line群組反應問題\n後續為優化、新需求或待裁示"
+    },
+    "webhookEventId": "01M4SZD8NFAWNHJH5PRCN8Z69J",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791873163468,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "bcaa2190a44a42b79f5487fee2a2ae09",
+    "mode": "active"
+  }
+}
