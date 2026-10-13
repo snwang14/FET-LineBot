@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4TBC4TPM2Y5SNDMMV4R6HHZ",
+  "MessageId": "635947764253458484",
+  "Timestamp": "2026-10-13T10:01:49.846Z",
+  "ReceivedTime": "2026-10-13T10:01:52.391Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "我今天已請公司發文退了！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635947764253458484",
+      "quoteToken": "ppq-Tfij-rlt1qgYGKr7e18L1P_ci7QIEuqnUWSc1XPhKAn5AgzQV62MDVlpB4n5t2JmLUYtsSFmT5AZ-KRc17MrMVClSgchm_imi7eGfvuBnrlglEMBTWmM6UwdTrx_bldWm5w4EwrkBeokLykW4A",
+      "markAsReadToken": "v8dwwa_-mp80pV87uLoXwQuLeDHYavGNDLwnDr_iHXM_JGg-agMSWsQsTc1TXE4xA8cvHOYHIc_QowHPCodgz-yXZWAKhO8EV-3Jtzi0DmtvbH9ej6PlDIHSvP8XEv6lQ34MAN3lCxH9TOUMSfetL6_fm_OTUpFDtywphwez-tWFNq1LgJg2FZEWdBbpty2HcZuitZRm6QjJdOT8QLBvGQ",
+      "text": "我今天已請公司發文退了！"
+    },
+    "webhookEventId": "01M4TBC4TPM2Y5SNDMMV4R6HHZ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791885709846,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "aafa65128e824b0cb611c80f3a4aeaa7",
+    "mode": "active"
+  }
+}
