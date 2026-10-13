@@ -1,0 +1,48 @@
+{
+  "EventId": "01M4SXTTJJV63GJFXWA45YJ3BF",
+  "MessageId": "635923942234391175",
+  "Timestamp": "2026-10-13T06:05:10.827Z",
+  "ReceivedTime": "2026-10-13T06:05:13.416Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@胖仙女 Ivy 能麻煩妳整理一下明天下午例會，平台這邊會需要報告的議題嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635923942234391175",
+      "quoteToken": "IGzZTrXnm-W1r1YZn-2VifLM74F2YuWk15GeCf5gf5kOrOORI9SRIM3VjAVebtGmDd1jPjCfcZ6c4yS4Alp3xW2G5qr4N35zfB-rp_cJ7lNIZ3m3HMDqW6kYOZaIUgU9MkbJqpjST5QhnF2qzmPksA",
+      "markAsReadToken": "OO90z1fbEIq5phwho6UjBY74hR4xyekcb9F2GUbXT3u0HghkaxofNiAFA1-nXQLx4hORovVdPe3_VS3UpK-sSJoXyZvEbLm8kD6648hs_OIe-q-7OvqhBugt8zyAThEZii8KobQoxNPjQR23K6XYfuVfBdLHUCzxdskmFbsuTtHKTxSV1IKBF_yY5BiiPkgKRNVubT9cO3da5MlMjzvIbQ",
+      "text": "@胖仙女 Ivy 能麻煩妳整理一下明天下午例會，平台這邊會需要報告的議題嗎",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4SXTTJJV63GJFXWA45YJ3BF",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791871510827,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "82da094c7c4d4a018730a3d92c93226c",
+    "mode": "active"
+  }
+}
