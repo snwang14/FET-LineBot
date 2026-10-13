@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4SY0WHXRYYVKQ87TTG1TZ4Y",
+  "MessageId": "635924275429638249",
+  "Timestamp": "2026-10-13T06:08:29.575Z",
+  "ReceivedTime": "2026-10-13T06:08:31.070Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "另外月工作報告修正好了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635924275429638249",
+      "quoteToken": "mf63Qm_jIXn2qqVuh59g11azXoZFvW2W0R66535w-zwt4AEDBecteu04otpxQfvRtjZTBZkHD31K9cbaQ3z3j92gy6bYN5LioQQGxAwgUpVi8ip78oryoy_VU9MRNconJ_aYmFfM9KKWd2OUEIGJ7Q",
+      "markAsReadToken": "etSEoVw8R4FmeQmMGDz1Xt1a8Qon8HduqQl0t-690U2n6lLdIJcuClZaAG_TCGcs26juS1SvOep2ND9FM2X_OPPNeJodB_O-TtaEzW1E0Due4CauXHknemXu5AaaYrRxd9-MhV1RfNUSn66sm2WjvPpO5Uv0Y4wEOCE_7eHygodUUXv7v2lrmb0Z4EUtLjpFD4p3iQITNNaiywDl2IRAGA",
+      "text": "另外月工作報告修正好了"
+    },
+    "webhookEventId": "01M4SY0WHXRYYVKQ87TTG1TZ4Y",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791871709575,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "40090adf07dc4ac3950e3c9812377403",
+    "mode": "active"
+  }
+}
