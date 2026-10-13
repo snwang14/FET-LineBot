@@ -1,0 +1,49 @@
+{
+  "EventId": "01M4T9W9T5F1YVK74RZXE5C22B",
+  "MessageId": "635945133670137959",
+  "Timestamp": "2026-10-13T09:35:41.899Z",
+  "ReceivedTime": "2026-10-13T09:35:43.294Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan \n這版我有微調\n已先交付給 楊經理",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "635945133670137959",
+      "quotedMessageId": "635924275429638249",
+      "quoteToken": "cs5PbCHBNIxtkppLl-wjScncSQDldEnxdUbRXWyENj7BHlrxEKG9QgITUlkN9vor6rkB8v_1E1EIuyDgJ3RHP5tIQnPpH4w7AGVcJvqT1luTR7uTaN75CsFSO-nzCFYXNDQ2PmwnXbxE0boF3yqxrg",
+      "markAsReadToken": "U9-LaW6MxGaK46C-15LcMKBf-wvU-V5z-ocKLntgoqvW7SzEXfHDvJw9YenMWD30_D-FnG30CX5DJ_YL2fnqFQmbVAxahixukJIrgPJWcQ2exkVfrmgtuKoWITWOtuXnhNh43Y6CcsZ2pNNvKbZ1OLmxs6ZcBF6ATyI9liVxx2R0ezav1p8QbkIc4stJ_V4p8xzvp3ndxjFTF_QwG160FQ",
+      "text": "@林郁翔 Alan \n這版我有微調\n已先交付給 楊經理",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4T9W9T5F1YVK74RZXE5C22B",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791884141899,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "98efd2d860594d6193f3310e1360c220",
+    "mode": "active"
+  }
+}
