@@ -1,0 +1,40 @@
+{
+  "EventId": "01M4T94EHKTEHZRNDPW5CF1764",
+  "MessageId": "635943821490258516",
+  "Timestamp": "2026-10-13T09:22:40.314Z",
+  "ReceivedTime": "2026-10-13T09:22:41.596Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "635943821490258516",
+      "markAsReadToken": "5u9kV6RlYeD6cpAWI6xF_DWJ7IxvEc-q6n44LWMOiD5jgAAON4QnX3HZq8izbBJ642WdodAv3nFkHlth1nlb4YVc11i3XLv1slc9oSAX7Cn6JroIOeoqV1PLcaeWxAESiCJHutI0FR1HNVnuh_n-NhQbo5EbfftwW7vyngx4cEzSsc0CQLucNLqHrd1nCmKl97yxOdTRao_hyt57Hi4D6A",
+      "fileName": "臺北市路燈換裝暨維護案(A項)_115年9月平台月工作報告_20261013.docx",
+      "fileSize": 4301492,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M4T94EHKTEHZRNDPW5CF1764",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791883360314,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "b0a0f44832b449179191e705e8d4515e",
+    "mode": "active"
+  }
+}
