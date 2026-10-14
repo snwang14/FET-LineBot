@@ -1,0 +1,48 @@
+{
+  "EventId": "01M4WFWEVZE5S0NYZR8A4F0X6X",
+  "MessageId": "636068287914443148",
+  "Timestamp": "2026-10-14T05:59:07.745Z",
+  "ReceivedTime": "2026-10-14T05:59:09.859Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@胖仙女 Ivy ~ 再麻煩妳傳上午需求訪談的簽到表給我一下",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636068287914443148",
+      "quoteToken": "kLOAZbaVrzkK8ezOfHb_DqO25z5vD5xDflA79kX7AKZHtUykn0hqLtaZwpT29NY0S-jm0nD2yQ8a_bEpMPT3vXZLsGIIUhG8Y5svLDObCxrMS_ReC-WnOFJU4yXAiccR54chdfcmZqmozxrTUdlpIA",
+      "markAsReadToken": "AkMH0tkfVP0Q70ReE-vOJsQrJdmno2iiv7SQnnXfTNI1iuwrDLDbHBo1PLacY8iOj593GLgO71Rl6vi2HEwxqEL6bXqLH-0P6b1sQ0YCIouYcaAB33X6qoZjgj0SK6bHu-aV8f4RyDwHan9oL3jT8t5pKDJt5l21-oAyco5afdDEpUxE2RujsGSI67Z7BTmLsSLbiJCFkUQ7L9pBy6fVPA",
+      "text": "@胖仙女 Ivy ~ 再麻煩妳傳上午需求訪談的簽到表給我一下",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4WFWEVZE5S0NYZR8A4F0X6X",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791957547745,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "f38827efc3a04240ad572301a62a960f",
+    "mode": "active"
+  }
+}
