@@ -1,0 +1,48 @@
+{
+  "EventId": "01M4W3N1YR92FNVCGX6REV9AXQ",
+  "MessageId": "636046770027888948",
+  "Timestamp": "2026-10-14T02:25:21.892Z",
+  "ReceivedTime": "2026-10-14T02:25:24.613Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan \n有關平台月報，PCM楊經理有回文審查意見\n公文已寄給你\n會後向楊經理再確認一下\n謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636046770027888948",
+      "quoteToken": "av5amRkk1JC0AiUjjK5VojJj-ldN_qBtJiHZ4-VvU_3UfrNct4O2vJMWWF01Wcug4dGBIYpy3ESg9MfUxNMl4-fOwsB0VGC2nvvvsNRCwtowHIlD1k564xmSoT2a8qi00J31k1CPvXiSsziTnmPpuA",
+      "markAsReadToken": "vDNlbQW9DH1X3xNNQ-7ZFyShecVHtIutA9l0MDrZigiDhin116wCJKX0dgsIhNj-nhd1757oa-7QFC0kKK-gqV_OpHBBQ7lYE6sNjxfiktWXA6EHRgiWSDOSDYYDpwwa08JiFgm-EeHA5efAhNw8ddGLiVf9xXyLtXb3pVaSQu-IvfbrWPiUv4DJs4222mqK3OtukemTQIKNrq56yzYTVQ",
+      "text": "@林郁翔 Alan \n有關平台月報，PCM楊經理有回文審查意見\n公文已寄給你\n會後向楊經理再確認一下\n謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4W3N1YR92FNVCGX6REV9AXQ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1791944721892,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "db1304bad66842c9aec050ed39a6719a",
+    "mode": "active"
+  }
+}
