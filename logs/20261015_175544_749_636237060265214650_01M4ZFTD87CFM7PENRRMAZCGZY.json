@@ -1,0 +1,48 @@
+{
+  "EventId": "01M4ZFTD87CFM7PENRRMAZCGZY",
+  "MessageId": "636237060265214650",
+  "Timestamp": "2026-10-15T09:55:43.716Z",
+  "ReceivedTime": "2026-10-15T09:55:44.749Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@Julia Lee 佩玲 \n\n10/21 下週需訪 action item \n1. 資產管理清冊畫面核對\n2. RC1 RC2 設計頁面展示核對\n3. 換裝儀錶板的畫面展示確認\n4. 換裝整流程設計頁面展示核對\n5. iOS App 系統展示\n6. 台電網格圖台頁面展示核對\n7. 報修維護流程確認（如果來得及）\n8. 說明換裝明細給楊經理確認；材料管理流程已經提供給明峰",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636237060265214650",
+      "quoteToken": "kVJDPpvsdhUEV02v9OjPJt-WYyjBt4E1oKWgCwSM5MBgD-AzI5bfqaO_UyDstkoNWaaNLvVO89Ttrfa2DJID_uvBe_hEA2RKa85FMVubB8S0yfWfMAVLz9dZDtgSK2BDwBkCuCsB7DZbeizaJIjUQA",
+      "markAsReadToken": "eOEdnLNZeDj1xc7mU3ZzKLXPpMxLwuGHMKxOTP3QulLebund4mF-MZ74VHsy6HMhSvloog-alnjFcCKjXjmii0tIdpixiLoCninVT9uY29OyoDWTjg7oqXBZDYBoUWZ6WxyzYRCQNzWkAIx28mTX3cVK04G-M4yG-DYtMJgX5g-DbEnaWexFAB21bVJYWqcvn6dAMtUb8HijcvBp_EC3Dg",
+      "text": "@Julia Lee 佩玲 \n\n10/21 下週需訪 action item \n1. 資產管理清冊畫面核對\n2. RC1 RC2 設計頁面展示核對\n3. 換裝儀錶板的畫面展示確認\n4. 換裝整流程設計頁面展示核對\n5. iOS App 系統展示\n6. 台電網格圖台頁面展示核對\n7. 報修維護流程確認（如果來得及）\n8. 說明換裝明細給楊經理確認；材料管理流程已經提供給明峰",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4ZFTD87CFM7PENRRMAZCGZY",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792058143716,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "ca80d79df1204127814e0da637b0d311",
+    "mode": "active"
+  }
+}
