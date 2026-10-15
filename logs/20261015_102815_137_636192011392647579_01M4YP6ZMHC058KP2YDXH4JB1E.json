@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4YP6ZMHC058KP2YDXH4JB1E",
+  "MessageId": "636192011392647579",
+  "Timestamp": "2026-10-15T02:28:12.562Z",
+  "ReceivedTime": "2026-10-15T02:28:15.137Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Uc61db25e5b9796ca87e83a4207189f80",
+  "DisplayName": "小潔",
+  "MessageType": "text",
+  "MessageText": "everlight123 工班帳號已啟用，但派工人員 沒有選項",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636192011392647579",
+      "quoteToken": "4NQbl-wITgj-OO5P1sWPXeer6sEUgn-TOjXi3OHKr8J0cVxuCKgaf5BgIoyzueiyNFylJAikyNgel1hO-YBwTJp0WZjc0Wx1yYM5igXv0jC2MNiiJFkxLoTD9y1prjHM1WGPcKgOyGg41aMFjrHQlg",
+      "markAsReadToken": "I_RScQCHCNKRromStkhK8VGfHSCbbeqWy7lgimXB_KlZRKUvKtzcmtWO1Hl_Ku1EidQwSH7MMK2eUylDygpLZv_mgQ0CywnjP4IoTZzcR6JgK756Cj3KghILO2Q__SdOvuB4GD2otutLnFg3uFBTk5cwHY6rJVl7D3HqbuRmmNgRayNtBRez0CVT5-JlDXPLPFWONH3OylwJUVTdlKgh4Q",
+      "text": "everlight123 工班帳號已啟用，但派工人員 沒有選項"
+    },
+    "webhookEventId": "01M4YP6ZMHC058KP2YDXH4JB1E",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792031292562,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Uc61db25e5b9796ca87e83a4207189f80"
+    },
+    "replyToken": "9f17e3e94ceb46da91d5745ba11968dc",
+    "mode": "active"
+  }
+}
