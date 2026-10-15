@@ -1,0 +1,44 @@
+{
+  "EventId": "01M4ZF7NNN61KG2JSSJ4JDTFRM",
+  "MessageId": "636236029908484523",
+  "Timestamp": "2026-10-15T09:45:29.894Z",
+  "ReceivedTime": "2026-10-15T09:45:32.093Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "image",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "image",
+      "id": "636236029908484523",
+      "quoteToken": "sfxpwRwpmJeRIIzJpqSkTko7mX48UatpS5SE8BUEJZFrLzvwGOdMM-_IxEZuD7jl4EP9NerUpKn9sgaxHUaFFCMMgRmx96rJLH-putbWxW0K1QUFLDvH5ZlJ57_sr9PMidlzDmcCvlJ1pftt89h70w",
+      "markAsReadToken": "JyzAdAtFy0jj6eCp9YKdvzATfTMpK5zhr19GhXAlALMDAGD_21tIsmyg-G3oQHLu2eny2Qf3e9rhZsFgD7hI1mx4SwFAs2s6IAsRIBOQBv0YsQhnyjLJgY0-O357SUJmKhgJdNx862QMsSGbapUa9daN1sDEGNjPvo834PoKKRlqh_24oCP3u_OBgrox1voDVb2TquHWtUn-qHfujgJp9A",
+      "contentProvider": {
+        "type": "line"
+      },
+      "imageSet": {
+        "id": "CA481D73EEA6859DFF7B40DA26B2DBBA857A5820629BD090936E671E4269506C",
+        "index": 2,
+        "total": 2
+      }
+    },
+    "webhookEventId": "01M4ZF7NNN61KG2JSSJ4JDTFRM",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792057529894,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "0968c77c6c424b039735db1904428a3a",
+    "mode": "active"
+  }
+}
