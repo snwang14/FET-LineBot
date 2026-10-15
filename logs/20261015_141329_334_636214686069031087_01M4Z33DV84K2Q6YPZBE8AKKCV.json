@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4Z33DV84K2Q6YPZBE8AKKCV",
+  "MessageId": "636214686069031087",
+  "Timestamp": "2026-10-15T06:13:27.794Z",
+  "ReceivedTime": "2026-10-15T06:13:29.334Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "收到唷",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636214686069031087",
+      "quoteToken": "Asiim1kebFQQ5wGrxeU608s42sGoJLDTUJnX9JnxTjFEvca5d-D-2QiJempyzPW1Evddx2_L38mw6BLvrWGHo4a_NbLYhur5ZyHUjQpPwUnXUKq1Nj6odvCWSdA7ZDsxgVkeUKWlmA9JblUPX17lCg",
+      "markAsReadToken": "KogPPQ8M3Smwb5h6b9s-zpf9kbAN_vXTPvsnjqmbzyb7atP-CT13j6KaTAjxGrGq_-YnJz7oEHFnVnxHoTrbP8gM0M4OyZlB7OAY5wt0K1x9ouXomJ04iuRgmBdHPZCxF6jM7GSegXh6hd-26UBRyGHnoPPzU-YESTBCuCEK7s5oalIrgnzT4xZ3ssRAAZ1wo-fMzeqYEVqJbIeg7wootQ",
+      "text": "收到唷"
+    },
+    "webhookEventId": "01M4Z33DV84K2Q6YPZBE8AKKCV",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792044807794,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "b1f49368a3264d1181d14c3d3ffe8d4b",
+    "mode": "active"
+  }
+}
