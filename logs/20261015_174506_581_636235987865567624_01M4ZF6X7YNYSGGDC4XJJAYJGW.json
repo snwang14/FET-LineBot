@@ -1,0 +1,48 @@
+{
+  "EventId": "01M4ZF6X7YNYSGGDC4XJJAYJGW",
+  "MessageId": "636235987865567624",
+  "Timestamp": "2026-10-15T09:45:04.514Z",
+  "ReceivedTime": "2026-10-15T09:45:06.581Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan \nAlan~\n和你同步 台電查看新瓦數 議題\n\nPCM楊經理和遠傳預計10月底給台電人員查看新平台介面\n (參考如下圖)",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636235987865567624",
+      "quoteToken": "4_QdH_rfnhTJPkK4NA0YPZQsl9j-4naOKTOuh-eVXenZPndZHrtrHAU5_l4EomPBvCXRmVJ_BRcnIWQICV1R0MqHwr_fJOv0SfqtH9yY67pihv1YzVff51PBeilaTg2snU0Ud0gT1apWEfOYNCi8fg",
+      "markAsReadToken": "5a9iWOdPiRm-3LARtUtQthI1Ou9bHsBOnyLJ0xB86mnUAfUQ6usXN4oYYBJ_s-6AIY_M0EChTloeUKHKd-OssBbTe625rOlSdpb0swb1aS0W3kQuArUHpupv30MylNaaf2_OD4xIgu1eAdCSjR-1an2jW_nMcxVz9hwmF4W43FKAt7u9-xK4UhxtsXFNcVuDpbmcB1O2iaolDnjENZ8h9w",
+      "text": "@林郁翔 Alan \nAlan~\n和你同步 台電查看新瓦數 議題\n\nPCM楊經理和遠傳預計10月底給台電人員查看新平台介面\n (參考如下圖)",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4ZF6X7YNYSGGDC4XJJAYJGW",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792057504514,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "0a97cf1aed9146ffa760c4ec1a145b53",
+    "mode": "active"
+  }
+}
