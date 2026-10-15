@@ -1,0 +1,39 @@
+{
+  "EventId": "01M4YPQVCJTNWMKESFQZ0GDMSC",
+  "MessageId": "636192937529049565",
+  "Timestamp": "2026-10-15T02:37:25.446Z",
+  "ReceivedTime": "2026-10-15T02:37:28.045Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "image",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "image",
+      "id": "636192937529049565",
+      "quoteToken": "ixJ2nNq_IIEDGudvrO-0nLUkAuhLnFTQh99UTww7MvAs7wO4KhFwYufTJSKwBYEB869ynC0wE7lJCyFcz21mtuok-hmc7bjFXbl_2K6UyiHyhKOLQkXxNiVMk-4Wp1YnfY678ot3yMFCoxZ48d4HAA",
+      "markAsReadToken": "PwiG9JFKvvM2ASwpg8UZrkUABOrW-4CttuHqxQfS7LSanTo7JgVbrn-vtBZbpq2ZgyNVt_smMKLz1XxnbJ70OTtbmvcG6Ku66b8EDzDC6rpQJShDdU9hU-byGt99MFzWip4t1OKgy4joG29LphufTI-XYhbA3p-LnWX2ylQjFuiGgnwixiOkhE2YwpGcmGZ_gubsFr_12Rv6A8luEjrTqw",
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M4YPQVCJTNWMKESFQZ0GDMSC",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792031845446,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "51623527dce64c3db207f68cc028d5f5",
+    "mode": "active"
+  }
+}
