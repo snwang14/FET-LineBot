@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4Z2VCR1ZGWDJT959TDTB82Z",
+  "MessageId": "636214244324933922",
+  "Timestamp": "2026-10-15T06:09:04.350Z",
+  "ReceivedTime": "2026-10-15T06:09:05.728Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "有請示過路燈科科長，會列入昨天之例會紀錄內，請優先列入近期更版內！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636214244324933922",
+      "quoteToken": "peVAa19Ij0kvah5tTM4HV3Z4X-tsodgJYMKRU_cFpDTL7TVMZ15nYaLmCzwNb9KwfRK4TZVRp3kMhMhx8whZKmdwsbPcdcplzEghB2cJZXvj-C6EbMb4S0C2Faxj_Tqcu0FmRuaAuEoPRPcw_8zJRA",
+      "markAsReadToken": "al8qjkP6c-9veqDlP0Tl8BPKPiAdtwwCzQQjsLlEMwH5l1wb6F8DfjcUvIUYAUXXqMWfpWCF4_fPnyhkUIVQOauSPLMorZhpdUPHIlk8i6EnFQZ38Mhq79cFygFYvjBGuIsvXzli0BXrpvNrd_RKtzBDC8omorRgmp3Js6nTyP-nsobey8JqdxAuCYdWLtTqBMXllGwl3vo8aKzzfl7Eew",
+      "text": "有請示過路燈科科長，會列入昨天之例會紀錄內，請優先列入近期更版內！"
+    },
+    "webhookEventId": "01M4Z2VCR1ZGWDJT959TDTB82Z",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792044544350,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "5dbbf5687caa44819d3886f5eeb1a82e",
+    "mode": "active"
+  }
+}
