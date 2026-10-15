@@ -1,0 +1,46 @@
+{
+  "EventId": "01M4YPQTWHSD1P9TZ288GBBF0N",
+  "MessageId": "636192937948479812",
+  "Timestamp": "2026-10-15T02:37:24.760Z",
+  "ReceivedTime": "2026-10-15T02:37:27.215Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@All 需求訪談下週時間跟內容有微調，提醒一下大家喔~",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636192937948479812",
+      "quoteToken": "NnLAoXUUMPIQgwRcqZ1KGQc5-ZjwnLjz21ysYTXiRMelQiwoDk5e3Xpw-NIqIzqwR0lODxHDnRP651NzIPRpslw-6qabNV-22TLAI2HDACFD0239EpjBRdxolswhsHpZ5JNONpxqy44tojhI6CTZAg",
+      "markAsReadToken": "5WmSz8J-PKcPnGyvwuRAS_V-jixOxzMib4L_wP5ljUAS7KvPjrZ9MYjdsUOcfA03xgWopMWPFgNx1sIDGj8WzqYbUJamrVn-iIf32uqG9Gw11eDREeunVwMuDVjtxH81QoaoZC1Qkj96BbIiaxrwAa84kq4vcS5diWyGEDTezl74ibXpCfq8FKFk55gocN49IfdJRoqmQzhkjlM9aKqtMg",
+      "text": "@All 需求訪談下週時間跟內容有微調，提醒一下大家喔~",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4YPQTWHSD1P9TZ288GBBF0N",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792031844760,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "fbf3d7ebf84e4b67a4be8832dce6e6ff",
+    "mode": "active"
+  }
+}
