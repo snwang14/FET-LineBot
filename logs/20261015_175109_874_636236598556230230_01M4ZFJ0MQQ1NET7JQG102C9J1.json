@@ -1,0 +1,48 @@
+{
+  "EventId": "01M4ZFJ0MQQ1NET7JQG102C9J1",
+  "MessageId": "636236598556230230",
+  "Timestamp": "2026-10-15T09:51:08.707Z",
+  "ReceivedTime": "2026-10-15T09:51:09.874Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@Julia Lee 佩玲 \n10/21 下週需訪 action item \n1. 資產管理清冊畫面核對\n2. RC1 RC2 設計頁面展示核對\n3. 換裝儀錶板的畫面展示確認\n4. 換裝整流程設計頁面展示核對\n5. iOS App 系統展示\n6. 報修維護流程確認（如果來得及）",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636236598556230230",
+      "quoteToken": "_hk8Fmk-XR-uGDO9GnO2e-YujDxHH8mq1sZl5YTly5rhV86mDNWCo193SddTmiYmZx5wVCSOtZ6jImHOLFjOBPGWrYGV9cXqLwn5KY4dfzzqRlxhh6J2lGMusmyl8Hz1OP0fDeim7f7b6JRYCpEaaw",
+      "markAsReadToken": "KEYqfVCi08ppSCHcdjhO5MBgNbvKC4iJz4A4ukrb3Ju-FT-Fiz1uMKQxDDptmsKMA5_SwZmwraxFMHmJjrdVr8tN3MV-QyqDAXafghdkuU5WwMWO0FG9UyqDNDwfrD_iFt3v6F7pdppEYpnhknyVbFTOBO9ArF3MOn_3f46Vo9dVgkbMEVbT3hbYbzbS0VX3iph-f4_OiFcJKfphbe6vXw",
+      "text": "@Julia Lee 佩玲 \n10/21 下週需訪 action item \n1. 資產管理清冊畫面核對\n2. RC1 RC2 設計頁面展示核對\n3. 換裝儀錶板的畫面展示確認\n4. 換裝整流程設計頁面展示核對\n5. iOS App 系統展示\n6. 報修維護流程確認（如果來得及）",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4ZFJ0MQQ1NET7JQG102C9J1",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792057868707,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "4108ffd833d44430be8c1f410c095982",
+    "mode": "active"
+  }
+}
