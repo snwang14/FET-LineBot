@@ -1,0 +1,62 @@
+{
+  "EventId": "01M4ZCG71J5SK1GH2CFMG0S81C",
+  "MessageId": "636231221525086621",
+  "Timestamp": "2026-10-15T08:57:43.739Z",
+  "ReceivedTime": "2026-10-15T08:57:46.262Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@Andy @王志文 @Julia Lee 佩玲 稍後進度會議連結~\n\nGoogle Meet 會議參加資訊\n視訊通話連結：https://meet.google.com/rzc-kxgy-ikk",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636231221525086621",
+      "quoteToken": "fVvQrUN4OKkR_q5XNiIkjc-pVmK6uYMViO1QkpnYOBisUL8Am2muC4UBAmnUPbIw3HHJm61PgtblMmCft43J_Jp2FgxW0OPbe6PK5UFgiKFd5KwehlFNZ4jzvfotr0WwTnNatvjlp74k8QuSr375RQ",
+      "markAsReadToken": "VcHI09CXw4gwVqQJ5L_JGhoUOkkxddmYinAja5tQFteedDJGNv8Qkzpb8-A04Tb8S1uzdUIyot-kbXa5i6R1nimRU0-UXvY1BJk0v_bRza7sdgxglp7MvnzJiiudeO6zQQD4sxukNoTfWgmsObvjiWCFA88b_Bx0zO42ZGskTEGgmtE8zfbDckGViDPDI_iKI5cQiugZM8J8cHuoiCYkUQ",
+      "text": "@Andy @王志文 @Julia Lee 佩玲 稍後進度會議連結~\n\nGoogle Meet 會議參加資訊\n視訊通話連結：https://meet.google.com/rzc-kxgy-ikk",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 6,
+            "length": 4,
+            "userId": "U45bb65710085fd8da690900d4545a7f6",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 11,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4ZCG71J5SK1GH2CFMG0S81C",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792054663739,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "10a7d84efcb3463d8a670c0215a0476a",
+    "mode": "active"
+  }
+}
