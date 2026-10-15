@@ -1,0 +1,55 @@
+{
+  "EventId": "01M4YPD32C9BJAPE8QX4N734ZG",
+  "MessageId": "636192347457585460",
+  "Timestamp": "2026-10-15T02:31:32.837Z",
+  "ReceivedTime": "2026-10-15T02:31:34.094Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Uc61db25e5b9796ca87e83a4207189f80",
+  "DisplayName": "小潔",
+  "MessageType": "text",
+  "MessageText": "@胖仙女 @林郁翔 Alan 請問有誰可以協故",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636192347457585460",
+      "quoteToken": "BS0nPmEkcRwsYvKI7nTV1h9cbf6Sk70C-Z514K1tAwlR8XPa7HcyaTdiu3boFy1eHkUd8c5BzTlURxzCLdkh7C2bbcFrwDMWgaBpwdFkIfJ44Dj4_4HlqnkStDeuQEoTJSPl8zNCdK0ua4if8RHNBQ",
+      "markAsReadToken": "fPZMSYJdkpub-l31RnkAvWouLK2Hz9j5eB2_lqMsEBIILgVe108qHH-34xZ_0S3PaoFbz_Gc34T9YUOIrUYVsmQfNEcyVirkGW8AeK1FlG95GRh778KRAsRyjwdcmEwwmKhriD5W0KfZ81sOuuJD-H9d2jKgnfEbiaiB17gMX8LNMbrAL7WMedE89m4XBDRtdTey9G45oki5ujY-JKfDcw",
+      "text": "@胖仙女 @林郁翔 Alan 請問有誰可以協故",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 5,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M4YPD32C9BJAPE8QX4N734ZG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792031492837,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Uc61db25e5b9796ca87e83a4207189f80"
+    },
+    "replyToken": "988f715e67f342d597538e6d3d4df73c",
+    "mode": "active"
+  }
+}
