@@ -1,0 +1,37 @@
+{
+  "EventId": "01M4Z2PBK8G8DXCCMZPQFX294S",
+  "MessageId": "636213967551201638",
+  "Timestamp": "2026-10-15T06:06:19.381Z",
+  "ReceivedTime": "2026-10-15T06:06:20.877Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "針對換裝APP功能請取消50公尺內進行操作限制，會議紀錄後補！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636213967551201638",
+      "quoteToken": "3Bkn5LDExYPnwrFa1FWr6P9bL66gXGUyJc5keCgG_NABIl3nw4CjleMNvC1softgKIEvNUFyu7qh988NkYHTw_DOqShOrA65VxOJrMVf2HfQ3zxOrfy9hcfqro5jls-QGIlo76pb4eZxcqLmUgogcw",
+      "markAsReadToken": "xgMbdXVM3a1eOLYc4F5ZuZor1aasa8YpIkTxwhNj2WtLdxsLjGQeePDF6HHaPkFYzqLqdO_iAfJuIUE_p-wovteWHGFcwsrt3Uu6thZT_NcYejgz_GkWH_EEKc9lvOyR2n4WT-qQLUKQQdX7C0LmxTQl7j1IcLlFQmOxKhF2oHmV41dk7xQ0qX7k_Vs98DZVCYRpOpsfxmNuW7k6Y-LfRQ",
+      "text": "針對換裝APP功能請取消50公尺內進行操作限制，會議紀錄後補！"
+    },
+    "webhookEventId": "01M4Z2PBK8G8DXCCMZPQFX294S",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792044379381,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "a8af2d09510349028dd83959687bec2b",
+    "mode": "active"
+  }
+}
