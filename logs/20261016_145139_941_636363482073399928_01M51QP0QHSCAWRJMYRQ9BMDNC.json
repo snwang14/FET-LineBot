@@ -1,0 +1,48 @@
+{
+  "EventId": "01M51QP0QHSCAWRJMYRQ9BMDNC",
+  "MessageId": "636363482073399928",
+  "Timestamp": "2026-10-16T06:51:37.076Z",
+  "ReceivedTime": "2026-10-16T06:51:39.941Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ubd660949e0d018f982364a2256d022c6",
+  "DisplayName": "林承哲",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan 您好，我是上景照明剛加入換裝，有些問題想請教您，方便通話嗎？謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636363482073399928",
+      "quoteToken": "Km8jUJT_zwiiY2jITXGUn2KCVevvJFbMmlZX1nV1Y2mN1HPpu2bORWX67WNFXVvZU-6wB5RroRfbzDZgqcL7fnPEknrzs5ZQc8spClRaHhlFDsgG03x9-fE5G5L-0Lm0eCPsydFjVz36AoQdQccS-Q",
+      "markAsReadToken": "9TBtrHg8DRe4EKKIgXPy_fmt235FjJZOc_vjCvngnLHgbvx9G-1XxgEo-Ncj05XQaQwf3xsfl_eaXUk894PLeZnjsvAD86t1c_ooyCDwpKkVAmS0X9I_Lg-3XVWyIaHdZia7TySFTv2bGcmx2B1l_d3TrmLOmDVs-iRW_ojxSEiv1auQBn5spzmQbyxvTUWt1v5K949Oa5VpJd__oEoQAA",
+      "text": "@林郁翔 Alan 您好，我是上景照明剛加入換裝，有些問題想請教您，方便通話嗎？謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M51QP0QHSCAWRJMYRQ9BMDNC",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792133497076,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ubd660949e0d018f982364a2256d022c6"
+    },
+    "replyToken": "666f762119f84bf6b0711413124f0a0f",
+    "mode": "active"
+  }
+}
