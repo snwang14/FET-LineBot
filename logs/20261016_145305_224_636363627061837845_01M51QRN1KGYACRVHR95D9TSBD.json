@@ -1,0 +1,48 @@
+{
+  "EventId": "01M51QRN1KGYACRVHR95D9TSBD",
+  "MessageId": "636363627061837845",
+  "Timestamp": "2026-10-16T06:53:03.562Z",
+  "ReceivedTime": "2026-10-16T06:53:05.224Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ubd660949e0d018f982364a2256d022c6",
+  "DisplayName": "林承哲",
+  "MessageType": "sticker",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "sticker",
+      "id": "636363627061837845",
+      "quoteToken": "76ZRBI_jwxc8YWaiE-4hUknYDJ2w302fym5Yib_l75IOlid5p9uuZtp8Yz3Zv5204KmlfLjfXNLAB8VYzy0anS0kGzIlcpV0Vapg5RJyEBA0Zp3VwKcjbNXb35s2ckKuDzman4gfCHtanyexdataZw",
+      "markAsReadToken": "n7yYTHuHTkSoJA0_yGgy0dqlgzFX6SkVdQegFThcnphqBIyEsFejmHwARpnpSMoMmMaCALf6mW1xP-q3C8thikvidV9fx6HP4t3IRYJ6ryT3DzsqoG6p5t2sbHE_RJ5FhDRBpA5XkqUZ_5KmJW4hLZlF-WhCjU7NJomRzpEzgGKxaGIH0glrNVdx9JQFCd94YtZLrsmQVU4Y1WeKtMmdow",
+      "stickerId": "329671119",
+      "packageId": "12427134",
+      "stickerResourceType": "STATIC",
+      "keywords": [
+        "Thanks",
+        "Monkey",
+        "Moved",
+        "Sorry",
+        "Apologizing",
+        "emo",
+        "Thank you very much for your help last year"
+      ]
+    },
+    "webhookEventId": "01M51QRN1KGYACRVHR95D9TSBD",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792133583562,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ubd660949e0d018f982364a2256d022c6"
+    },
+    "replyToken": "78ed3bacc7bb46e9aec092d6e5f82497",
+    "mode": "active"
+  }
+}
