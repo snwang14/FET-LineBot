@@ -1,0 +1,37 @@
+{
+  "EventId": "01M51QR9EH5E4Y2F094G8HN202",
+  "MessageId": "636363607667638495",
+  "Timestamp": "2026-10-16T06:52:51.918Z",
+  "ReceivedTime": "2026-10-16T06:52:54.187Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "已經加入 Line 了，目前方便，可以直接撥過來",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636363607667638495",
+      "quoteToken": "saj2or1Qb6oJz8WmAgdg0k_XxwIE1n5KQMONjxxE7pyAKmR5EwOavPQeXA7-V3pX59HXLtjCeb82byK--Y6JEnsQwb2T8U4xpBc5-u289LLFvRcOqezvcC9vAfIWOnpnZBmf1-2xhI0m2b3rPRCyqQ",
+      "markAsReadToken": "ZEdyG968XJbTTD4rbg0XT16K7Rf_NPltOdjDdtJJhJeFL9IMCV2-uJ7u7Wbbl7PRidoqi64e658wnCHpVWfxMKM0UnNz-S2yUIp3n5bRyiahtqpzDX_7e0Sj4AWzBsiEmOK5qyeJUQZ0RxZ5Ezq1xmP7OyO70fO-dUuLPZYdgeeTcLndHpOKlZ8Zbx2BF6XrhqEFobxNiYMLHMa8HQRV1w",
+      "text": "已經加入 Line 了，目前方便，可以直接撥過來"
+    },
+    "webhookEventId": "01M51QR9EH5E4Y2F094G8HN202",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792133571918,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "720829c694de45038e4b425e67c23bd2",
+    "mode": "active"
+  }
+}
