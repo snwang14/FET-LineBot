@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5416HHZ8BS8YVDTHG5NZ8HQ",
+  "MessageId": "636492814208991253",
+  "Timestamp": "2026-10-17T04:16:25.038Z",
+  "ReceivedTime": "2026-10-17T04:16:26.504Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "現在工班正在外面換裝遇到一個問題拍完照要拍下一張的時候手機會跳回主畫面",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636492814208991253",
+      "quoteToken": "Lp5bt7bogPnzJodn5dZSsENIF69Juxun4sc1a5g5vD37232Fsl4oT_TIKHdtQ0gumtGn7m-6Kfb1bNSEtiwU68LBQy1GoUUOhvq1OSQHVz0jecP1b4uGt3p9K5w1aOo3cT4mqDuN13pe5IdOFZgs4Q",
+      "markAsReadToken": "6f7-4CD_4jcHy5ALNtB1YLwmrXavlzuxuG7bIoet2rTeOLjeuGN528JCCua6gpN3Gw3bHNzvdweTSvC1L8R5fDCXnc7jWLZjZVnlDvcK0G0o8KHWby0b1H2k9Lpou7r62DBR04RNtr1ZgFyYXiaB_CFAdosYIO6hjTNHldrLnzjCexFqRZgWRKigL3IjBkOTnpBo-vCTcSKlK1Xp42uc2g",
+      "text": "現在工班正在外面換裝遇到一個問題拍完照要拍下一張的時候手機會跳回主畫面"
+    },
+    "webhookEventId": "01M5416HHZ8BS8YVDTHG5NZ8HQ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792210585038,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "fb44ca8957a647298c2bffcc861b8d9f",
+    "mode": "active"
+  }
+}
