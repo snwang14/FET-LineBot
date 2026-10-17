@@ -1,0 +1,37 @@
+{
+  "EventId": "01M54HQ0G4BP5TG96RARHCBTKF",
+  "MessageId": "636521866374152420",
+  "Timestamp": "2026-10-17T09:05:01.452Z",
+  "ReceivedTime": "2026-10-17T09:05:02.745Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "後台目前看這張單已經送出待審核了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636521866374152420",
+      "quoteToken": "zN3T8Tk1mhuLgBPH4awCRFQ4JllwWSqFTvfip_jAPqviQA1IP4-UOXY1K4s-fKOpCZLVWgt-0SsfUVtE6I0b8hVSnL0j4c7yWLXfM1pzi5BjfOo-bSh6gPauEx2z5GGP8S_Oh_uVqFAQFCb1K9QgcQ",
+      "markAsReadToken": "IG4iojLrVVqaS-CMZ3S9MSAYyP4itzTgGOBYqg1UhTDwhmfynDX9yvO8xzCK-L6LQVXSZo2fto-yVko8D7qrkoqdZtx8rkN_uX1lMP9P-TTAiyBNSgT-5icgvQKfN8AdEMgpEIW4pOvqnI57kcO6hNS7HJGGv46nI-1IL5EDxaYgKFzRwEcGbEWAdfNkXXTntlsAU3U634JIAwIfU_DkfA",
+      "text": "後台目前看這張單已經送出待審核了"
+    },
+    "webhookEventId": "01M54HQ0G4BP5TG96RARHCBTKF",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792227901452,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "c2180cae90d34647baca711f14aa7334",
+    "mode": "active"
+  }
+}
