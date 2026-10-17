@@ -1,0 +1,38 @@
+{
+  "EventId": "01M54DA8ZR9DWTS7RGTECGCMMP",
+  "MessageId": "636514129360191798",
+  "Timestamp": "2026-10-17T07:48:09.851Z",
+  "ReceivedTime": "2026-10-17T07:48:11.305Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U86a8777f7ab589b73cf61298f980b2c9",
+  "DisplayName": "公務機",
+  "MessageType": "text",
+  "MessageText": "要拍放亮照片突然閃退，就要在重頭開始了。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636514129360191798",
+      "quotedMessageId": "636513917211770884",
+      "quoteToken": "86MmPmELFKnOBeGGcS3g6b1PfflUgNtU15Fcr8SgfPuIFAzx1NY-Bdw6YFIxPbIJ-8BvInClxzw0sGBLW20jKEGiTJs8BTsWF3Z6oC7Qrn5fOsWBs4St5upSwr40aMty979s1TXA9dz8L-D-D3azbg",
+      "markAsReadToken": "ZhJTfptoI25LFjRcB5StUDxcCkbOW1iwYKe2oTwA_JCYm5NxlfSlDuVbSJbGW8PnYQf92zOrAn4OzeqlkJUurFMh1jtYguZgeLXiyzQdP_g_Jb0CjPz8MQwliWTmHc4O2jmhn8YPKQjJNXwLSx1-JYDsD5EyJsAy0kgM8xyccFY4O84Qzk_9U-i0ZpBsTiPZSV20SZTvF7i-7t_BwS-qbw",
+      "text": "要拍放亮照片突然閃退，就要在重頭開始了。"
+    },
+    "webhookEventId": "01M54DA8ZR9DWTS7RGTECGCMMP",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792223289851,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U86a8777f7ab589b73cf61298f980b2c9"
+    },
+    "replyToken": "4885c7eb08e54afd88ce7cad5483c954",
+    "mode": "active"
+  }
+}
