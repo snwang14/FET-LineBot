@@ -1,0 +1,37 @@
+{
+  "EventId": "01M54DATTGHXMTNDYNW3SW6PYW",
+  "MessageId": "636514160582066347",
+  "Timestamp": "2026-10-17T07:48:28.370Z",
+  "ReceivedTime": "2026-10-17T07:48:32.837Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "幫我參照記事本故障通報流程一下，請幫我截圖登入頁，我才有辦法判斷是什麼狀況",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636514160582066347",
+      "quoteToken": "Q-UHlsdi-DXQgtM3KpC3pOQcYXH0WKm7PKMWgAxFrd6V50lIm_pI1crxYn8OrkaSdHRVVQQ9jMx8Yt5__DyebA1U_NhPqEIRhCipiZ1Y2F4pj6iQdXILdxNiUqttS1FsDN4bJhZVeeiRwp2du6FvLg",
+      "markAsReadToken": "Du3_dcM1bB-524dnPcLSFaUVrxK-oE97Q9kMtko8D-00F5tyolVAJUiil6Qy7MWI13xKIeACv-Q9qc3T2x1nbxBud83fWLDyjnvVK1pI0Wyu7knzKMHUZWPSt3T9-pEufsrdeFiBNC2Gqr0gAAY6l49irq3Q06qclAng6BFfuXaLzQNHv7hi9Da7wi6ccQ_v33k_M6u-XZvLt16NWVPqZA",
+      "text": "幫我參照記事本故障通報流程一下，請幫我截圖登入頁，我才有辦法判斷是什麼狀況"
+    },
+    "webhookEventId": "01M54DATTGHXMTNDYNW3SW6PYW",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792223308370,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "81643897dd4c4ce8aaedccf7e23135db",
+    "mode": "active"
+  }
+}
