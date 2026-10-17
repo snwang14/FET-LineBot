@@ -1,0 +1,37 @@
+{
+  "EventId": "01M54DN8WZDKY1VDWVCP1DB2FY",
+  "MessageId": "636514734094418605",
+  "Timestamp": "2026-10-17T07:54:10.241Z",
+  "ReceivedTime": "2026-10-17T07:54:12.969Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "請問其他工班也有遇到這個狀況嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636514734094418605",
+      "quoteToken": "YKEmC_jiFjnrRrnTdMfGRQpBqQXsuKRIESCDJ4ruIIWcUs8Qw5747BAXzsAN6qlbDTRzq6aqxK7_G1kf7egoCt7om28uCQISbQVR_Vf3QhqsIMOf9WV01cEKBReno8wPFSCE8rqg5dXM0B-qWm74vQ",
+      "markAsReadToken": "uuJHwiJXVm3PSzdiCni1T9Cnv6kxAge6OUs78FfnvLFP-Nf3cqfuSBurm0AmShrAwgWIIG3s-3efCglADsEeKDcae8a7ky30avU6wuI6CJcFLU5tgx2fR6_tha5sKPrVpbkGFKZFbBkfF_yP3Bdu5gKsOmY4-dXcUlces8fJtdg-qGlX53CXfPJliA-dpOWa_WGPtpNGzydzVPoe-HXNvg",
+      "text": "請問其他工班也有遇到這個狀況嗎？"
+    },
+    "webhookEventId": "01M54DN8WZDKY1VDWVCP1DB2FY",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792223650241,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "cffffd338e7549cd8d5d8dbf7749bb39",
+    "mode": "active"
+  }
+}
