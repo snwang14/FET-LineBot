@@ -1,0 +1,37 @@
+{
+  "EventId": "01M54DC5VQ58XA6HY1PJGAGSYX",
+  "MessageId": "636514234603405935",
+  "Timestamp": "2026-10-17T07:49:12.568Z",
+  "ReceivedTime": "2026-10-17T07:49:13.467Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "方便的話也幫我開個螢幕錄影",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636514234603405935",
+      "quoteToken": "WTbNRq6qPo2CO4Bq2I73HUXzpKTbvajs4PUs_wUm0pDrpqMojhYk9VWGKgzAhh1o4sMDPiBX29EjuepKCHufZjtyCYxO0fxMcAAadQdXpozO_hmhWOQog8oANWY_4XrvhsNbx4gzfKLpNeKUiiFnDQ",
+      "markAsReadToken": "MOc3bR8GOZOoJdgKzil_8F6CTqZbxjTJGUm3cwUiIlWuPC3jfiq1hmPxl2WM8Cc_9mj73z9dgMosfUYWxxttm2PzoyN7qWgSjvGG73_2YooHpKBVSIrM7a_wudIj6tcZYwdUO8ZrORkHk_dGECoxlgaGt1w2fZ0KCo5iYOpz04bT_2-7Nsh0V24oq2iIFtFchOkDWZltf5b4kksY85551g",
+      "text": "方便的話也幫我開個螢幕錄影"
+    },
+    "webhookEventId": "01M54DC5VQ58XA6HY1PJGAGSYX",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792223352568,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "1a27f13374a94daf95158f0c42b6f168",
+    "mode": "active"
+  }
+}
