@@ -1,0 +1,48 @@
+{
+  "EventId": "01M54CK8NZFHYD8J5AY587NFFS",
+  "MessageId": "636512864475021484",
+  "Timestamp": "2026-10-17T07:35:35.874Z",
+  "ReceivedTime": "2026-10-17T07:35:38.447Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U86a8777f7ab589b73cf61298f980b2c9",
+  "DisplayName": "公務機",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan 有",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636512864475021484",
+      "quoteToken": "JNY_P0ln344_2ZllIpdLNPyjBT3JS5uEtSLlTcCi3Ce1DOTNH3BY__DvwJLqHwRIpyLYsTgcFyQbEskh0hMDEUOZdmFmvY1Kgr1rmPRjpy9ykXXlvD4YY2li2KbX_aX84ShF7xtP8mnitXVc7rNWCw",
+      "markAsReadToken": "wGb9_mhN03xlWX_oS7wVNYeUCFCP3oPj-8dQxbW9cQ68JXhn0ww8iwq8p9Hwin7cwynY99WLpEjmhax3WSDw8xUix5RMeJxd4Ytnppeb3SkpIEWwigrAV9rzalIRU5v8So_aaKtxd9UEALzobao3RjZ1a6aL26lxguHGVUXScpykzr2GfS7t8XtQBo_rFi4TMnDkDkgOmXEQs6OpAmJdgQ",
+      "text": "@林郁翔 Alan 有",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M54CK8NZFHYD8J5AY587NFFS",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792222535874,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U86a8777f7ab589b73cf61298f980b2c9"
+    },
+    "replyToken": "f1fd2af6c5df4155ac879d4c3085afda",
+    "mode": "active"
+  }
+}
