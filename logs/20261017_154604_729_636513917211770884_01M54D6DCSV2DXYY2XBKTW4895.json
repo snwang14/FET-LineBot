@@ -1,0 +1,37 @@
+{
+  "EventId": "01M54D6DCSV2DXYY2XBKTW4895",
+  "MessageId": "636513917211770884",
+  "Timestamp": "2026-10-17T07:46:03.402Z",
+  "ReceivedTime": "2026-10-17T07:46:04.729Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "請問是偶發嗎？\n有沒有辦法錄影呢",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636513917211770884",
+      "quoteToken": "xjDxKsj36hFTzB5DbPAj19_--TjR42-ty7YWWxYdTgHiAi55Ouv8nneSbXy-RtAzDpgOzXdxw9jmH-7qF3odtCUlEdvut5H2wAKkDn6b7SO3UpHm3rg1WJvm9l8uCWcVoZR_fzZr9QOBdjtnRkLirw",
+      "markAsReadToken": "3ic_ToMeb3bD6gnoeAZXwLE6MVWjT8sn1kE0M3XxMoy_eJ6PAdE_VtA0vJHE92nRPhObMAG-JFJxAg-zw7_d2E93ubG9fc943wcrTUr2WFHJelwAPl0bR8232sNxr2M_CWSyTGTVCU6o9IUH5xgAk4dQX2gIXFC7UNHpCfNzuvzTnSTzXpyg-ADXjCcVObivCp3sl836biXA6RuQ0W47UQ",
+      "text": "請問是偶發嗎？\n有沒有辦法錄影呢"
+    },
+    "webhookEventId": "01M54D6DCSV2DXYY2XBKTW4895",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792223163402,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "82a8eadafcb24fcb9346ecf722f58f38",
+    "mode": "active"
+  }
+}
