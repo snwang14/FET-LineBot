@@ -1,0 +1,38 @@
+{
+  "EventId": "01M54HVXVTDY6MEC66WBYVES3T",
+  "MessageId": "636522137309413969",
+  "Timestamp": "2026-10-17T09:07:42.966Z",
+  "ReceivedTime": "2026-10-17T09:07:43.868Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "那麻煩幫我留意一下，這樣我比較好看出是不是填寫的時候有遇到什麼狀況，能給妳們比較正確的指引",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636522137309413969",
+      "quotedMessageId": "636521995391729785",
+      "quoteToken": "zQSGfSDdlU7DjstyY0Kw6Py4bFZCPUvDNOKBYD81BmiYQbqp3D_unjBmJMpLRpBos21YlSvJ0HrY-q67Z8mwtYIDem5bQ_g4e5OFahaqBX0LNP3v9Bnn78-kPvrjCsRGlUZTwLf0kCclyI0ftMna_w",
+      "markAsReadToken": "KTrSfXRYzONpyMgouVSFQUKxwKfSX32J9rSgNmMbI-oL6FsEljOlaHBxmX_2Ngqsij3xMlePJiuQHL9_NE2HzNkT9nh3vyYuAQ9NWElqOhC7F8sUFoInW0o-gubS_eDPVaq0f8grlm020SaJUBduSUlZRU3oI-FMGAR5T6NyNeAsvYLxw4OFhQ3RgHNJ0byogBwM6ppPJUgnlB-VXWEtQw",
+      "text": "那麻煩幫我留意一下，這樣我比較好看出是不是填寫的時候有遇到什麼狀況，能給妳們比較正確的指引"
+    },
+    "webhookEventId": "01M54HVXVTDY6MEC66WBYVES3T",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792228062966,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "75e9a600d7e74083b724a1a539d7c58b",
+    "mode": "active"
+  }
+}
