@@ -1,0 +1,37 @@
+{
+  "EventId": "01M54FZAB7P2Z6SQ0FQMNEDQCH",
+  "MessageId": "636518804734345645",
+  "Timestamp": "2026-10-17T08:34:36.554Z",
+  "ReceivedTime": "2026-10-17T08:34:38.355Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U530366a7e67848e67fce17e2e89f33d2",
+  "DisplayName": "ㄚ棓",
+  "MessageType": "text",
+  "MessageText": "請問0708990這隻桿為什麼一直傳不上去。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636518804734345645",
+      "quoteToken": "yP8S9Mgo_l6LklpRokENl9ZPqYx7xq1jbZD2aKEYVKvCS8iKTUymIiFmIZ3Ap1-CEL9gP_sUjIOIZ3Av4YyW6cqqou6LplmhSktCN9fd4N3d9yU6iS5bvqqgSTenvi666lKM9YvGfQd6AIdOkiTdOQ",
+      "markAsReadToken": "4lWtGd56rNW6rS34eDqez90yzfn3bwocwRMneh6yMUa7HgyjkDdNhK_vbkfcU6bWw0Jm-luI0Dj9JCFvqLdL9WPLJlJEcUcpKY3pdZY8P3iOfjqMpWl0r50bb9QAoEfGhM9-jJDtq-v3SiIfcWw282JvTmMj3vysrINnbjgbu5P5f24DdSg6oUJ37JCyYWduM-Ko93dDKtyCn0-q647zAA",
+      "text": "請問0708990這隻桿為什麼一直傳不上去。"
+    },
+    "webhookEventId": "01M54FZAB7P2Z6SQ0FQMNEDQCH",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792226076554,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U530366a7e67848e67fce17e2e89f33d2"
+    },
+    "replyToken": "948f21b9be4347c6bc9dddd3a05202e6",
+    "mode": "active"
+  }
+}
