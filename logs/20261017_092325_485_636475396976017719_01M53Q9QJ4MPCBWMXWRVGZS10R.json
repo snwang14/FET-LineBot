@@ -1,0 +1,37 @@
+{
+  "EventId": "01M53Q9QJ4MPCBWMXWRVGZS10R",
+  "MessageId": "636475396976017719",
+  "Timestamp": "2026-10-17T01:23:23.652Z",
+  "ReceivedTime": "2026-10-17T01:23:25.485Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U855d8d78740604c641a0d90c1313bc2d",
+  "DisplayName": "廖小喵",
+  "MessageType": "text",
+  "MessageText": "請問\n阿柔洋產業道路，多處無網路，要如何處理？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636475396976017719",
+      "quoteToken": "e4j_8rGbdN8eDCYOoyu4A67VQuDPcEotqLaehHKqHg5nqQ5HOhF7IoewiN900sPu84TmkGuXoRUKHtGJvxZnVthr1LluLuP59Qhh5s_6bnIXweKhxrYnBHymQgYsQClHO8ajT8TPj99sbiGE6UkWVQ",
+      "markAsReadToken": "Tlv3ZY96sJux1GM94BcYIYHKqI_7O6-jciBXP07BGHKZvflJclFa8TLyLWLPRWd8axG3ZUbIrwluRjA8chRaFbuJOCjH0LNW2Z5rA9IcP0yeoNtMKF9x3kKAPSeCLJjWRYdED8uqAJBjg2_Xz3pL_CIUA1jen5wkdvm7O4CDnbmjekOEV78xGzUsfcpvgzSlEdjEKKdsFd_tbUuaOb9tmA",
+      "text": "請問\n阿柔洋產業道路，多處無網路，要如何處理？"
+    },
+    "webhookEventId": "01M53Q9QJ4MPCBWMXWRVGZS10R",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792200203652,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U855d8d78740604c641a0d90c1313bc2d"
+    },
+    "replyToken": "9c3821b5233840f7bbd3ce7f021d7037",
+    "mode": "active"
+  }
+}
