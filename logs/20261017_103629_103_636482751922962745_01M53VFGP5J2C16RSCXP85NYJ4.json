@@ -1,0 +1,37 @@
+{
+  "EventId": "01M53VFGP5J2C16RSCXP85NYJ4",
+  "MessageId": "636482751922962745",
+  "Timestamp": "2026-10-17T02:36:27.487Z",
+  "ReceivedTime": "2026-10-17T02:36:29.103Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "@All 近期各區陸續有新的工班投入換裝作業，\n要再麻煩遠傳及億光的同仁協助佈達群組內記事本訊息，\n再請初次出工前的工班及內業同仁，都要先詳閱過記事本的教學文件唷！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636482751922962745",
+      "quoteToken": "NvxUuP4PlZzO_qXWmvIz-ke1M-GqvviBE529GaO4fUoGscxjO9Tr0wUn-edQy432qqwwqgAKoywRUxDxhD4uIgWFPogzXx-kpcMmShf4EqTA-lUZydH7p-t_GPdVNe2xUKzNUF6DkuMyGNxfNmKyTQ",
+      "markAsReadToken": "WpQOsrHsxrYeU6gvK7c0u_VQi2hKakxH7kq4XAf4CKnnwUJAoAaVEqEkT43CfdRgZPuHKXZuZyPEdCDwEfwXf2m3zXq74jh5YehQqp_ExzRQB335rXRMgTEbw8R_5nI5szvHnvn6MY6PW8nPvCdMxGJsDH-Pgv6WW2UPZIsdQ0YPy-4JBtmb7K2RzkbbR8Qq4jM4aH_kOmbF3B9VXYGi2A",
+      "text": "@All 近期各區陸續有新的工班投入換裝作業，\n要再麻煩遠傳及億光的同仁協助佈達群組內記事本訊息，\n再請初次出工前的工班及內業同仁，都要先詳閱過記事本的教學文件唷！"
+    },
+    "webhookEventId": "01M53VFGP5J2C16RSCXP85NYJ4",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792204587487,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "e1822c3a8d5849d3aa1f564609cfb72b",
+    "mode": "active"
+  }
+}
