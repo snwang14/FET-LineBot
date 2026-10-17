@@ -1,0 +1,37 @@
+{
+  "EventId": "01M54G1GQXFSTQ40TCHW370YZ0",
+  "MessageId": "636518925663994286",
+  "Timestamp": "2026-10-17T08:35:48.692Z",
+  "ReceivedTime": "2026-10-17T08:35:50.036Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U530366a7e67848e67fce17e2e89f33d2",
+  "DisplayName": "ㄚ棓",
+  "MessageType": "text",
+  "MessageText": "傳送破10次以上。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636518925663994286",
+      "quoteToken": "zc-iWUpaUyEGGEeEdmsLBcp4AUjTYUppHPt3FLTbJ83P-cNhS9yo93nvgjkGSi3WyTmCPB_CoFAVdS-edx9xwpaPRJbY1AEGnEUp7WnIXlVsHPb2r7YONNwBzxHW59d5W80Gtbp237ydaSUvdxKxzw",
+      "markAsReadToken": "hrvl5FMhYJlTtB1q-_vsV78KxzlnLRr2xx2CODLKPDYT4Pmnw1HuCrULPS9JDlN22eOz3hwDJLbj9H7DySkpjXqRkpZmCcK_DR5N4T4zNZ-kCz0Rb62MUeIScEz-kFeA3HNUqTltYqZwqgiqnsw_xC166b61sX9Yt2EHQC6MXojL2LR0Rtzss1_OXMj6BmwrE3Q4-0BLJf2YR57nlDhsvw",
+      "text": "傳送破10次以上。"
+    },
+    "webhookEventId": "01M54G1GQXFSTQ40TCHW370YZ0",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792226148692,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U530366a7e67848e67fce17e2e89f33d2"
+    },
+    "replyToken": "3082d5e624f0445896cbedd795fddee6",
+    "mode": "active"
+  }
+}
