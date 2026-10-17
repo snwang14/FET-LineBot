@@ -1,0 +1,37 @@
+{
+  "EventId": "01M53VKFX1PTT0NYGAW9SKWRG3",
+  "MessageId": "636482970412122385",
+  "Timestamp": "2026-10-17T02:38:37.581Z",
+  "ReceivedTime": "2026-10-17T02:38:38.785Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "請遠傳及億光對於新進工班進埸前務必說明換裝APP操作程序！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636482970412122385",
+      "quoteToken": "e8HFue_MDeua_uyySMG8lNTWMpKydbEL0xHmr86jVOw66gXtFYvTVrX8XBMwdsZqP5karut2L6SBcz-i9fKZ4tooSx3jDtQEQ-7iKF7OImgiENZ2KkpYsgur-BKf2JTeCba3VpzTAS1gqd6uoGgM0Q",
+      "markAsReadToken": "DxhfQlL3RF740zidrmAPJkLo-JEEfi3tLuk9xh4kzvRudasuGIB4QV6XVi4tu4823S-a6bVwePuunLEKEjgKEsN__YUPxl8kzZVOPrbzA4kECQFs33iDzyyQY7nq02AORoVDLl_KkYLt9bLfOYvNl4zsacezICqZVgY3zYnnbcLnmlUiDA_a0yD7OmIRSDpNCJYqgW4iaDE-na2YtGjVIA",
+      "text": "請遠傳及億光對於新進工班進埸前務必說明換裝APP操作程序！"
+    },
+    "webhookEventId": "01M53VKFX1PTT0NYGAW9SKWRG3",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792204717581,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "ae5c181c82654056a51ef89ca3cfcaca",
+    "mode": "active"
+  }
+}
