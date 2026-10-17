@@ -1,0 +1,37 @@
+{
+  "EventId": "01M53QDCRSH4AE1N4Q9B7M78JW",
+  "MessageId": "636475598185169323",
+  "Timestamp": "2026-10-17T01:25:23.469Z",
+  "ReceivedTime": "2026-10-17T01:25:24.670Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U855d8d78740604c641a0d90c1313bc2d",
+  "DisplayName": "廖小喵",
+  "MessageType": "text",
+  "MessageText": "還有多處5m桿改6m,重點都沒燈號牌",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636475598185169323",
+      "quoteToken": "YwJQPqDMARBz0QCEkOnQVjDJqmAQTR8Jwf3LnEwKlVtmSAkh7mNpEnaHhh5tPWgmHwERCIXQnEnKCBmzMOvM1ddrm8zUwrLVMcmwZfv6cvDs1BBpJxWsOemiGvyaJgfzKb1Gg2v96kaonl9Iks05xA",
+      "markAsReadToken": "Kq-pQGcWZdrSQO0jzEwubjHRbPmWKIQTCcZTnbYzrpIGN0_GDleTx4rx17F9oPQEyIzO6oA_TJ1VwvMDRtyNvFeep_8Le_4euMNdgPDj-hU9Fj7pKdGKFH7dGxd5zl_4MpZlmwVobKZggEl7ToAmgg8YCaQLUbVK-T8rScAEEmlquWB9REBmI_paTW_QmbFegTgYT7UkmLUVLyV3jHWliQ",
+      "text": "還有多處5m桿改6m,重點都沒燈號牌"
+    },
+    "webhookEventId": "01M53QDCRSH4AE1N4Q9B7M78JW",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792200323469,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U855d8d78740604c641a0d90c1313bc2d"
+    },
+    "replyToken": "1b79f9a23b244056a08150c16b64faf4",
+    "mode": "active"
+  }
+}
