@@ -1,0 +1,37 @@
+{
+  "EventId": "01M59HA2DF5CXNS2335AZY1PZ3",
+  "MessageId": "636802630081577131",
+  "Timestamp": "2026-10-19T07:34:09.590Z",
+  "ReceivedTime": "2026-10-19T07:34:11.222Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "加入: https://teams.microsoft.com/meet/434176729287763?p=dY5RDw63WLVGQcuDbs \n會議識別碼: 434 176 729 287 763 \n密碼: MQ6bU3Xz \n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636802630081577131",
+      "quoteToken": "SK-Xm1G58utq_7XZjG7xjIpUdgG7_38WNTSCwUaUhdy1fT0wjmuj3bUzPOdzuphytoP_r8t28S14Hi3fI67n9xsQDjtoRxtXtZxips4gbXM8Yim6CYLv1GiJ67-DPOk-upwsvRAR_lZlqC4E__inJQ",
+      "markAsReadToken": "GDLg2-BZZhsqgawVgOMt9JCBQtJwtDs26o6_j_7bs-X5PMGFudEeyf2lRyxJCC6fYG_A6og66j9dAVWh31YZEJEcpHu_ui4T2a8hIwOh4q07nrxjuTaX49CZqasaj0uc-9eoX7zwEy3zBm6mkXUtHCBUipLBj3JSVN2TLWVehALKUUPdrxEre4L2MGCGVeQqhTbSs8Phkj5MTtPqjHLNjA",
+      "text": "加入: https://teams.microsoft.com/meet/434176729287763?p=dY5RDw63WLVGQcuDbs \n會議識別碼: 434 176 729 287 763 \n密碼: MQ6bU3Xz \n"
+    },
+    "webhookEventId": "01M59HA2DF5CXNS2335AZY1PZ3",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792395249590,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "3fed38d05ccf46fabcebb32f052e4a4e",
+    "mode": "active"
+  }
+}
