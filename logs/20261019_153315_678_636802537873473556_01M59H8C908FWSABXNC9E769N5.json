@@ -1,0 +1,46 @@
+{
+  "EventId": "01M59H8C908FWSABXNC9E769N5",
+  "MessageId": "636802537873473556",
+  "Timestamp": "2026-10-19T07:33:14.631Z",
+  "ReceivedTime": "2026-10-19T07:33:15.678Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@All 思納捷大家 我們都上線囉",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636802537873473556",
+      "quoteToken": "atqEgNGbmHoO7-nPr27S_FSnGPDbl5_8D23srY9aj7HX7Eb7NTbKMOFFzk5PtHtEydAF4pXhPS0gVqILyNNTyPvTSqnBVk22UyAZNTMNKtBShQRt9pIuIoX6pSdxo_plP3MGtmtWl4jGifjVL6yIhQ",
+      "markAsReadToken": "aEA5yqGlsLkUqngXTIkvNTroQzMOzjjlSO_EiAgFZHJLCw4Lx9Zif1hDQYYCEk6vdsF1nt2gActInBv4_Lqmvgui7M07RCdM51aAHR6fCZ4e4iyVEzI78bnQLEopTxbGwlu8lVsGJHShBFAlSVn7bp-oY7OHEVv0n2G9OCuaJOCH68Eyf2DMNrHVq-D7P3pDxbc2wMIKC625YTnq0kTm2A",
+      "text": "@All 思納捷大家 我們都上線囉",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M59H8C908FWSABXNC9E769N5",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792395194631,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "99d3718c0a8b46399a18db088183c8a7",
+    "mode": "active"
+  }
+}
