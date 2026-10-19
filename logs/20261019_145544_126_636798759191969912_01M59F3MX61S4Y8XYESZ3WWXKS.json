@@ -1,0 +1,38 @@
+{
+  "EventId": "01M59F3MX61S4Y8XYESZ3WWXKS",
+  "MessageId": "636798759191969912",
+  "Timestamp": "2026-10-19T06:55:42.359Z",
+  "ReceivedTime": "2026-10-19T06:55:44.126Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U375f2b0f385cb715667fe836bb7a29ad",
+  "DisplayName": "sanjinchen",
+  "MessageType": "text",
+  "MessageText": "SOORY,剛從桃園趕回來,我看會議經改到三點半,我們就三點半開始",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636798759191969912",
+      "quotedMessageId": "636795004500836902",
+      "quoteToken": "HAi5vgnCduWmY8Uc8XuBBErHruRCWIzQvG0UVZtXt5JrSoHrMmXWLf3sDLGf3lCxr8NaxnkmsD-y6LAjtszr1-wimu2n2TjXA12Waa8viozCZgC1Bpaei67BioB22Wroimv1EqL5fQbMOie0KrV7xA",
+      "markAsReadToken": "Un9LUmv0YsniA_UHA1SFZvooSrEbvgsTExy0XcwZ4CK3V-dJLJHo-_1Ay2YDLp49LKlFywiEorB0vemhAUWhXiDNyO6XmVdckBrBLVSgEiqA3AwY6bF7pt1zg1tq-vJvJuO3xIgxs8ugAinn1dVNoHPon07cexbpBcHDy1mU0R7su1IAmoZe62BM1230ve6-99dD_sL7-gH2AjwQvrGrFw",
+      "text": "SOORY,剛從桃園趕回來,我看會議經改到三點半,我們就三點半開始"
+    },
+    "webhookEventId": "01M59F3MX61S4Y8XYESZ3WWXKS",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792392942359,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U375f2b0f385cb715667fe836bb7a29ad"
+    },
+    "replyToken": "7f32b134224644e98e8dbef060232292",
+    "mode": "active"
+  }
+}
