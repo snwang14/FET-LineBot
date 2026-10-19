@@ -1,0 +1,48 @@
+{
+  "EventId": "01M59CZBSS90F3EZKEPR6GQAPZ",
+  "MessageId": "636795004500836902",
+  "Timestamp": "2026-10-19T06:18:24.449Z",
+  "ReceivedTime": "2026-10-19T06:18:26.996Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@sanjinchen 會上線嗎？　台北平台會議",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636795004500836902",
+      "quoteToken": "1cYVcy3iWodAhEywj8oPJY_eZgTkx-c1SuARDZIDTsttn817Hxlrzg25YP62ZzdjxpNnh53sVQTaINNlGEus5utGhOivIbk5IG7_D8fJ7bERaQQmXIvjzftC4cXwDQ4KDbJZewZ6AOfkLOXfb9X-gQ",
+      "markAsReadToken": "N_fhkyW1UPcYtEYjjV8cZigejz52C2VkXN8Lmln4DOjt7cq1qCdwqE1Hq9f7VpCEtaclvwhRq9H-WGXYoVVrum0pZ4Kg8iE9UrWOx3rc9QuugbD4Q0ep-kTpZsumTM2aRb7uruR-Y8CrJbBXDmPDUNY8pjloI8LP1x76FWuvjwQExWf5JOos9v3Po1kCMuQSIxwmXQpIGoyDvnvKOs62qA",
+      "text": "@sanjinchen 會上線嗎？　台北平台會議",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 11,
+            "userId": "U375f2b0f385cb715667fe836bb7a29ad",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M59CZBSS90F3EZKEPR6GQAPZ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792390704449,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "fe3777143fc043c48de89b3978e74bac",
+    "mode": "active"
+  }
+}
