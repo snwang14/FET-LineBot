@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5BPBF436200B90NWKZR8EFK",
+  "MessageId": "636924092963881508",
+  "Timestamp": "2026-10-20T03:40:47.116Z",
+  "ReceivedTime": "2026-10-20T03:40:48.479Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "工程師會先進行修復，期間可以用 web 版進行換裝作業",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636924092963881508",
+      "quoteToken": "j0scVqG1ibtu7Qa7AVuytEbh7coMTexygMP89B1NVCVq1esL5qJtgkeEmcA0oPyJSsfcB6K-ESgPhvKfCXZm_UJKNkzrELVHjUidjGAvh8xBh9mtrjjeeyw_krGd5Z6usiLDKT71jFBtZzqnY0SFxw",
+      "markAsReadToken": "lGFfg1OINRPYUmJq2zFJY-hXw_bDL_WSJdiDMtnZiyKHMg5jHLcqpSThCr5uohqFcRpuzZz44NsgVT0Uho6TJOlIXy2gKP80YBWRiT1U-iTQg9uiWoWOplUsyxS7KH5n58r2NIcvGe1HygBEcx8Q6ri2_Sg_bY722k9R_bFFXawLwPam4Ra84SxqCXhXPQnWJMKpckzAm9MzB3A2Iu6G2w",
+      "text": "工程師會先進行修復，期間可以用 web 版進行換裝作業"
+    },
+    "webhookEventId": "01M5BPBF436200B90NWKZR8EFK",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792467647116,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "27e40de83aab49409417005584e77786",
+    "mode": "active"
+  }
+}
