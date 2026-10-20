@@ -1,0 +1,38 @@
+{
+  "EventId": "01M5BNSZ68JH6JAYSMSQQ2315G",
+  "MessageId": "636923131193196563",
+  "Timestamp": "2026-10-20T03:31:13.851Z",
+  "ReceivedTime": "2026-10-20T03:31:15.102Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "手機是有網路的嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636923131193196563",
+      "quotedMessageId": "636922999861149833",
+      "quoteToken": "xOV4VV-YW6qPqikNKB4zBeZe-Udn0kaPaZD-DEEt-iYHwVB-12MtTNBLFD3fwYCA0bcW4DB9NWkoZLVicwyP5Mul_ZKtfInM5cS-NsG8hWkrgFu755nr-1_XV4ckXAQgeqDiAySpwFlFGB8XqxPGvQ",
+      "markAsReadToken": "091BiqrOc-81AvVMpzf4BFzJ3BBQ5edxUYtU3Z_Wc3kdH60U5ZILRLWqoPlHDbKt7mal7bHgj9W53q3NzNcBnz_qYNRcZQLAjz3QAe1i8_FYIHWL4ttLocpf5A0X7z8Pwb7BjASgmhE6PMrV6xRmGccxNOzbsG6AZ4UN-BiJgXq3xdHYKMtBWuzI3WFXoiRJjBHcY8eep-bV-LwtFnZcqw",
+      "text": "手機是有網路的嗎"
+    },
+    "webhookEventId": "01M5BNSZ68JH6JAYSMSQQ2315G",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792467073851,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "92a7c4203f2b40cab764bc1160b743c2",
+    "mode": "active"
+  }
+}
