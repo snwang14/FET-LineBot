@@ -1,0 +1,38 @@
+{
+  "EventId": "01M5BR1MDXCHVYNREJ4R2M7VTS",
+  "MessageId": "636927070735171833",
+  "Timestamp": "2026-10-20T04:10:22.071Z",
+  "ReceivedTime": "2026-10-20T04:10:24.587Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "取消嗎？還是改時間？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636927070735171833",
+      "quotedMessageId": "636926488851251713",
+      "quoteToken": "r0taeGv2E1038uHgXAG0XYlyDoBJ_bhLY-89D4ICC3AJIRJZNl4e7mhWTvup8Ho04iPVPrMvkRsBMDEI9y6XAbxvf3Es_l_Om8AwKYozg52asu-2M-9MPd2iFLjiOkCU76zUEkrBKDJ0whKKzjq3ng",
+      "markAsReadToken": "aNqoS_A4LiZc-fl8JtsoScDyvGzuJ55zGT69Rrvg0Lhg9XIQ_EJzobCDnpztLLW2bNCl3KNgn2T66EVWGqlRz_WeaGQc4YMHdayPa7kgVTdl84pw7nBeVmxPBmUTP6Q6b_P0FutQ-a7vH-KesVmIeOeFSLDtrbjs8Y5066cFE7wZn3Qb7RCrN4XWBjwDgfSwgWYXAcRWB6Dv0fiGS_iHgw",
+      "text": "取消嗎？還是改時間？"
+    },
+    "webhookEventId": "01M5BR1MDXCHVYNREJ4R2M7VTS",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792469422071,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "a98afd3e044d41a5ba640230ed865532",
+    "mode": "active"
+  }
+}
