@@ -1,0 +1,48 @@
+{
+  "EventId": "01M5C0MK1FE47Y1DK0GKR3XQY3",
+  "MessageId": "636942186637689340",
+  "Timestamp": "2026-10-20T06:40:31.798Z",
+  "ReceivedTime": "2026-10-20T06:40:33.670Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@Sammi 換裝明細匯出欄位提供參考，資料是測試機的請先忽略~",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636942186637689340",
+      "quoteToken": "SmEyRx5U6BGkzcE0Avt1V2T0DwUeMcOA2e2N2jPquhmyOn10IVXQSO0JwDxWSHX4kSMrgiw99RMGLSZgiNHf38FalqZadRxo_-KNkDlAPTEZun6TJQIFj_ghO2BOWS4JARyiidnAtvYD1QHCLuRI3A",
+      "markAsReadToken": "mp3vJgkpuWOSHdlCjNfAltt3tOvv1WiOKmglKgcKAmbAnXgVFiFRr6hw9-iUW7J0b8VWURBKsR0MycG8n2zo61SUGaq_nxbHCZxB7zSicsFw8R8EYMCCi3frJ_NOqQCrtXAdHzZrOdedyJcnMC-nGvzeiTyticOjDfjZZ99vxfXcyG9SGF9VcyTdn8k52DNS0dGZu4eektt9_Ny8votqtA",
+      "text": "@Sammi 換裝明細匯出欄位提供參考，資料是測試機的請先忽略~",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 6,
+            "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5C0MK1FE47Y1DK0GKR3XQY3",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792478431798,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "f09b0366d13942d2843ab777325ae21b",
+    "mode": "active"
+  }
+}
