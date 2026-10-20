@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5BP2ZSBQDPQYRYB58VANY75",
+  "MessageId": "636923626507731048",
+  "Timestamp": "2026-10-20T03:36:09.267Z",
+  "ReceivedTime": "2026-10-20T03:36:10.886Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "請問手機作業系統是 Android 9 嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636923626507731048",
+      "quoteToken": "hB9gNfHcYpHhzhakuqukp8S7RwHkxXu2gQLvrYzXmNJCvlvf8i2dwTPv8oGVRq1DXvxKSIIH_ZbGd8mZaQ_ShIfKz8vQFo8M0vyQD_ZD0F8zCfI5U-P1NNFs4PRQhFPCLj5iC2pEgozZUzNj5-51ag",
+      "markAsReadToken": "JXqR8GlDKqXfZ--hR3a6cEm-iHyQ7sGjh6TQ1jvOSyC7Nl02PAtq_tR4tmP_27xLy7a6AEwy8iUkP2i3M2jAc-y_AE027sJc9K6zsrXjgStWi8YKBYCXghKWqiruooJi9RRoLvMxXwAFLsKPGsWZnB3mnzczBcYHDR2QLdg9vEqLUude50mnGNiEBxZwv-o35q7rtt9xwoV-ed-K8_f5rQ",
+      "text": "請問手機作業系統是 Android 9 嗎"
+    },
+    "webhookEventId": "01M5BP2ZSBQDPQYRYB58VANY75",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792467369267,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "c1b70b0403384d328bcb2c7d055ba321",
+    "mode": "active"
+  }
+}
