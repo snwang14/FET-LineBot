@@ -1,0 +1,69 @@
+{
+  "EventId": "01M5BQNQZJW121YQVN9VHF5H2X",
+  "MessageId": "636926417481498795",
+  "Timestamp": "2026-10-20T04:03:52.630Z",
+  "ReceivedTime": "2026-10-20T04:03:55.053Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@Andy @Julia Lee 佩玲 @Michelle Pan @林郁翔 Alan \nPCM楊經理通知\n明天 (10/20 下午)機關週會暫停哦",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636926417481498795",
+      "quoteToken": "LdAxB6gOovZDy3zJfmkTg97MlCUUEV3eMKzF4_t_eRQ4ZxIJB0HcsGX1DCmnih-qNyvYl0R1VdQS5kAI6d72ui8iGS81Y8ZEgPriKKUkG4Tb-2fskh1uSUXcm1UQyIuvPXFncYvqVvo3HtYyCg601g",
+      "markAsReadToken": "5Uqm8lGF4fjoFqBLvBB1XYFvJSYHrvB_lBiqM_4uGFpbq675I_HzudoDDg_EKzo4EEQjg-0pJHP1ocuGctkgUBps-j-rDaiUktjlFavCfbmkWhPaeEoqu-L7Qu1KFzd1ojCrcRk0JzI80sK8T_1Z-1akilZKCD7UIENcIEaDEMAfm4bkT-ts4rBBwDy6y728n8MjarsFMQVsi82VInwWLg",
+      "text": "@Andy @Julia Lee 佩玲 @Michelle Pan @林郁翔 Alan \nPCM楊經理通知\n明天 (10/20 下午)機關週會暫停哦",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 6,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 20,
+            "length": 13,
+            "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 34,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5BQNQZJW121YQVN9VHF5H2X",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792469032630,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "aec838ce5e7648d79affeeb37e4b9f98",
+    "mode": "active"
+  }
+}
