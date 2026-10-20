@@ -1,0 +1,46 @@
+{
+  "EventId": "01M5BKDYNMFF4MMXK6BG13SDBV",
+  "MessageId": "636918952425160894",
+  "Timestamp": "2026-10-20T02:49:43.272Z",
+  "ReceivedTime": "2026-10-20T02:49:45.031Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@All 近期有接到幾筆換裝錯誤，需要復原點位資訊的需求，\n這邊提醒工班及內業同仁，自主審核通過後，燈具即更新至系統最新點位上，\n麻煩自主審核務必落實確認後才可通過，\n要進行復原點位資訊的需求會卡掉工程師 1-1.5 天以上量能，對系統調整時間會造成不小的延宕，\n為避免造成各位施工時的不便，再請協助留意，謝謝！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636918952425160894",
+      "quoteToken": "UgkUouSYKWEkjH_ivYWotq0GaqxrTEa4WZj1mkAEfPcFtOEFQLPWvPZhbZ_SASMeqWz6rt2OT7KWfzhtzOTHBlKbE27xplDr7QWzXRrkIw_x-m8GX2S9ApCY3Xq6BF3SDoueTaRgOzoN62ewmsItTQ",
+      "markAsReadToken": "kpy5zYzX3RS37C-SpWGPaXyRHAwKkPBIvV7MdLaL8BXO0cAaNACdUjhVFGRwNft1CFUh_95cojaUU1mOlMq0kZwvgyJRT2csVgiUuBdjGURM0Kb0-bXsibsykOnflTbhthhmwe-ViTHnJZKTSF0SYjOAkSIAj9yrLokF3DMn5CRNB8Vdjn_ZuNZUn2GATbVNwD9XEOQ8I3F0ewRR--L0aw",
+      "text": "@All 近期有接到幾筆換裝錯誤，需要復原點位資訊的需求，\n這邊提醒工班及內業同仁，自主審核通過後，燈具即更新至系統最新點位上，\n麻煩自主審核務必落實確認後才可通過，\n要進行復原點位資訊的需求會卡掉工程師 1-1.5 天以上量能，對系統調整時間會造成不小的延宕，\n為避免造成各位施工時的不便，再請協助留意，謝謝！",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5BKDYNMFF4MMXK6BG13SDBV",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792464583272,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "33e5181eb5364399bdc0cc7b823bf7b4",
+    "mode": "active"
+  }
+}
