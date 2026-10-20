@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5BMV4FP77BNCYE96M04EM1A",
+  "MessageId": "636921436275213252",
+  "Timestamp": "2026-10-20T03:14:23.733Z",
+  "ReceivedTime": "2026-10-20T03:14:25.219Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2d0c972fe80e1c475e0664d66ccea46c",
+  "DisplayName": "Chiuan",
+  "MessageType": "text",
+  "MessageText": "請問一下。拍照時候閃退  重開機跟重下載也是一樣 那這樣是手機的問題嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636921436275213252",
+      "quoteToken": "JqP4eYHi1hLsB-6s10b_1-x9agXN2uGcwTNYMiHQkSPbGpkSgsRpIJc37rxpkcn3fJb8OLn7FYgc4RA2lp-K7hhzKRpvITEFWR-ZSgz42MfJIV8wWpMoJEIfa2Ki9yDwVaX_NFtO_syAxqKmq_DV_Q",
+      "markAsReadToken": "D0nKLrL2igD9fTpaagML9OLZu2vvgre9w_bnapXwX9_8MfN17eM7fJYhbQ8rS6svbGJkiqcDi8aJKfE4U9TRnn_0b59W9uH9WjCJgMqhNFG6icwwd6m3RZojcjNLZn070mnZbRtKcErcyZ9RlK-YkVPkncRCPAeapB3uVi4FHSnmmKS6L2rZXKiXvXwrcfCA6k27rVYCNo-MhX8rj3yjvA",
+      "text": "請問一下。拍照時候閃退  重開機跟重下載也是一樣 那這樣是手機的問題嗎"
+    },
+    "webhookEventId": "01M5BMV4FP77BNCYE96M04EM1A",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792466063733,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2d0c972fe80e1c475e0664d66ccea46c"
+    },
+    "replyToken": "4c8da3c681b143bebb7b1affa56855c2",
+    "mode": "active"
+  }
+}
