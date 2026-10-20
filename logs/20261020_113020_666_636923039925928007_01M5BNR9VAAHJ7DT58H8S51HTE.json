@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5BNR9VAAHJ7DT58H8S51HTE",
+  "MessageId": "636923039925928007",
+  "Timestamp": "2026-10-20T03:30:19.513Z",
+  "ReceivedTime": "2026-10-20T03:30:20.666Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U5cfd4dafdd4aa67f7f226f257f38293f",
+  "DisplayName": "Pcl",
+  "MessageType": "text",
+  "MessageText": "在照片這邊就跳出去了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636923039925928007",
+      "quoteToken": "yzeWZffduJRVYlmjIAwFlXC6BNm5QUfVCe7F5fQ8EEHrx2UC9AgPwVfzK0dvTbBaHRkbs3u30ZSYt51kr9aQyGzAlraQ5CvusimGw39HjGBkbwBkBoaT9j1pyLZJb4vDSRWjW0C1Uyx2cN7IovIvaA",
+      "markAsReadToken": "fLcnMqGAVn0H2yNuJrdhlh1sqjw4TwYNH8eKQKBUJSvWM0dfXF_XzSb36IF1hkX-0aLNHOf5mYuDdgL3VN3pk79Oi-Uf8O_rrLHc96SZifgvvZkZ5j6eWfKWnxhFWLNggIRJHR0bWP8CXvPJOR1EytNbkNUscOQKr1bchWyDP6eqskyJjqmKxkZNc70Izibaje9e-YwLyBeFar1o2fYJHA",
+      "text": "在照片這邊就跳出去了"
+    },
+    "webhookEventId": "01M5BNR9VAAHJ7DT58H8S51HTE",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792467019513,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U5cfd4dafdd4aa67f7f226f257f38293f"
+    },
+    "replyToken": "e43523383d504098bba1714200ca0f68",
+    "mode": "active"
+  }
+}
