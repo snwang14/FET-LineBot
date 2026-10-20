@@ -1,0 +1,46 @@
+{
+  "EventId": "01M5C34X2N09AN4EJ0T6AMNZ7E",
+  "MessageId": "636946602418242122",
+  "Timestamp": "2026-10-20T07:24:23.948Z",
+  "ReceivedTime": "2026-10-20T07:24:24.961Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@All 本週會進行 App 更版，預計於週五前發布更版資訊，再麻煩工班同仁留意，謝謝！\n\n預計調整部分：\n-子單列表加入燈牌號碼\n-序號為空值仍可進行送審\n-修正 Android 9 需要取得儲存權限\n-移除 50m 內換裝限制",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636946602418242122",
+      "quoteToken": "ZaRrf4tLMLbB7gzgnSepr4G4WYuMYyTDLWK01-HuQmhWiTn7aultiWmtU0s-iP9nnWcZG9Lys6lnYX32WuH0LHUe2ccmtlpuPsCfl_4g9P8qdME4oBXV9NkGTdOQSnVU6Yen2knHPrjrVOd7EUEaiQ",
+      "markAsReadToken": "7EX1UcZ26ws4wkziRPcxR7TtayoFbEQxShKTglR4DPk_qkY2kCXI-I1qK72foh1fdlXLbPBZ4bFBKj6Xcn3w-iqf_X6DBVLCyRzYQXW6bvH1BUpdwrHt4jYYjum3LKZU4rxZ7TDIJ1YrSYfWKzsnTSdFPWgX4XNP_TySmeW_OYkHkz7HpUD9scu9FraRE5vEKIqqDUS5JuMBLcFnUYfYMw",
+      "text": "@All 本週會進行 App 更版，預計於週五前發布更版資訊，再麻煩工班同仁留意，謝謝！\n\n預計調整部分：\n-子單列表加入燈牌號碼\n-序號為空值仍可進行送審\n-修正 Android 9 需要取得儲存權限\n-移除 50m 內換裝限制",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5C34X2N09AN4EJ0T6AMNZ7E",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792481063948,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "89ff688d98d745df980dbb853a6e4586",
+    "mode": "active"
+  }
+}
