@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5BMYS9K72CC7T7E4KTNTYVW",
+  "MessageId": "636921636326736166",
+  "Timestamp": "2026-10-20T03:16:22.972Z",
+  "ReceivedTime": "2026-10-20T03:16:24.109Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "然後是一直完全無法拍照,，還是偶而才會發生這樣的狀況？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636921636326736166",
+      "quoteToken": "9xqHhaFiIJ9H0H1OXd0rCfSOMcUhhMINGhG6UaNo3_x1ARIYzi5xVJdtBoZFqHKBoZVLq2KOJAiMJwMzdn1M6EvCBpBmLhIF4fiuulAVYMWbE_UqQM_rDm4v9E6ZLmxEpUhlqx142GtUl7b7slBmsQ",
+      "markAsReadToken": "FQdbzIrc_NB33F2E-fCL92NT8gl3_5ev2EQWTh6nhSRgezyjnLZUiCjOdW6t3DtqGbcs5fNvIXlqeBx0QPaOSzeSqhXBGgCKd7RHjB28ki43_21OHMgdQ223cz-2V14BzySR7oVw-aC8KZOx4DvgN8STf3ps32JcXFW7OmYbjoBZU8LDAchfQRIzRq_fdCHxeZxGfizQ_CGTwhIfZVcxzg",
+      "text": "然後是一直完全無法拍照,，還是偶而才會發生這樣的狀況？"
+    },
+    "webhookEventId": "01M5BMYS9K72CC7T7E4KTNTYVW",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792466182972,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "dd81797af8c74372a7b59b03c8df242f",
+    "mode": "active"
+  }
+}
