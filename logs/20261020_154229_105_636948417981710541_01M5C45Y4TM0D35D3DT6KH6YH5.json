@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5C45Y4TM0D35D3DT6KH6YH5",
+  "MessageId": "636948417981710541",
+  "Timestamp": "2026-10-20T07:42:25.952Z",
+  "ReceivedTime": "2026-10-20T07:42:29.105Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U45bb65710085fd8da690900d4545a7f6",
+  "DisplayName": "王志文",
+  "MessageType": "text",
+  "MessageText": "明早需訪是10點第三會議室嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "636948417981710541",
+      "quoteToken": "Qtl0wAMi38rm_YAwHXF_0O74KnCVG_dr09MmZUzDVHejSaaPOLnlN0yMTXGLoW2Z4A_BfujSvCAhBpnbSxZ_2bQhzKBp147kwrd1R4QBO3ae4Dgo_3G-4Lh5isnwwAPdrD92nY9F30dfpavETHRGvQ",
+      "markAsReadToken": "XD3spSPq2OzBRwNDWR0ncc-lyLIt2olGR-r0dmXYF2CHsagYScdzAFa3PIdLua9aEVBtCgIQwCunM_gghmgQFNbxnoQ_qZY5d_8MAMb8WNsr5Q4WqHiwZXNtNLivUMN88P7rnAdHBT7JXi1VrLxmEbOJXQ9Da3DY2xzbvV6nc4A4Pp3JoF71CUueuNVfMrCDqDULfHNmP26nKO670KbmPg",
+      "text": "明早需訪是10點第三會議室嗎？"
+    },
+    "webhookEventId": "01M5C45Y4TM0D35D3DT6KH6YH5",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792482145952,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U45bb65710085fd8da690900d4545a7f6"
+    },
+    "replyToken": "91cb35821fb74a0c80b017170267c98b",
+    "mode": "active"
+  }
+}
