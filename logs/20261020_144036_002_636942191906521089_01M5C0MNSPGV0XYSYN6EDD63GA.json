@@ -1,0 +1,40 @@
+{
+  "EventId": "01M5C0MNSPGV0XYSYN6EDD63GA",
+  "MessageId": "636942191906521089",
+  "Timestamp": "2026-10-20T06:40:34.985Z",
+  "ReceivedTime": "2026-10-20T06:40:36.002Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "636942191906521089",
+      "markAsReadToken": "0XulSjSfiV9GejlLLeCQxqdNXQ4GwhaV50eo6Z33ZMdKn10Pn6FXxyJAZCtLBvyV41FjqvK9q4_xhqhUgYDQSuVUQZ_J3TXjs3nsbz2YpJTrIgJO8H3b6sJnlaV-Kwu_SbNP3ecXMsjmseXRg6L2IMQyGk4Kh8NPBNGmgz5kWxOUyugRm6dtWYMzXOE0dF2GIaG5-eIwmCMc7R7cCFcs8w",
+      "fileName": "換裝明細.xlsx",
+      "fileSize": 6347,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M5C0MNSPGV0XYSYN6EDD63GA",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792478434985,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "2d228a139bde43d2a78a06f2019baf04",
+    "mode": "active"
+  }
+}
