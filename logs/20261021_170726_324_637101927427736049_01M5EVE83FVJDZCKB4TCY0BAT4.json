@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5EVE83FVJDZCKB4TCY0BAT4",
+  "MessageId": "637101927427736049",
+  "Timestamp": "2026-10-21T09:07:24.867Z",
+  "ReceivedTime": "2026-10-21T09:07:26.324Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ueb641723e67562103c0ef055e5237fc4",
+  "DisplayName": "Andy",
+  "MessageType": "text",
+  "MessageText": "和光林的會議連結再麻煩發給我們",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637101927427736049",
+      "quoteToken": "kpe2u5FR5UZ-kLsOB3dcGvFnpsYI7ANb2-W-MP12HV4zx2My_BI4AhlfjaVg8Cs9NT-5RRr7-prl_fF1OESBysSF71oxbqUgmRLde-lu2otraUqlm7eGtLWgQRluCJu5YLkS9pU-VmRwhNd2gsG9Fw",
+      "markAsReadToken": "o8blT6x8Seo8ySf_BDG-yL7QpNRMjMhsBK2EC69CppA88z5gUBxijKjv5Wfc2IjTkpvWo2uC69z7sbFQnhgE-9nFGkvnK94D7-u3dqMnHBP2-TKa3lk6Nd1emdzgOn8yq3s878KpPxo4YE69XOSisZoSOS-THEcbjCbhYvNZx8FVjDpaMpiy1wbUt13RaAGQWjubuzWCx-4YHfgFk3RVmg",
+      "text": "和光林的會議連結再麻煩發給我們"
+    },
+    "webhookEventId": "01M5EVE83FVJDZCKB4TCY0BAT4",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792573644867,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ueb641723e67562103c0ef055e5237fc4"
+    },
+    "replyToken": "04bfe076ea22422a8b47731199dce901",
+    "mode": "active"
+  }
+}
