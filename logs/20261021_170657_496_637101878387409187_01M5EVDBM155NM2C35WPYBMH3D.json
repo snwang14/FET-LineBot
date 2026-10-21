@@ -1,0 +1,55 @@
+{
+  "EventId": "01M5EVDBM155NM2C35WPYBMH3D",
+  "MessageId": "637101878387409187",
+  "Timestamp": "2026-10-21T09:06:55.624Z",
+  "ReceivedTime": "2026-10-21T09:06:57.496Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ueb641723e67562103c0ef055e5237fc4",
+  "DisplayName": "Andy",
+  "MessageType": "text",
+  "MessageText": "@Jason廖賢文 @sanjinchen  遠傳己設好4G 及 DNS 指向, 協請設備重開連線, 並協助確認何時可以與光林對測的時間及內容",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637101878387409187",
+      "quoteToken": "oN4HnO8h8HGUMUaIhVZF8f1KN5u8gw_EbquENw9iXyd__I99ZYCSESkHhHtwy7oMAuZ2QfqLWN3yHlOnxfX-YPX6dgqmLWAYlxhDZkbnJxk-GuxwC1xquaU-lJkIVtBNWedq0nr9mBENL1v6ftKjag",
+      "markAsReadToken": "El0xzGPE3u1x4L5ZNudLN99p1FX6IddEhopyQge6uf8dn7h2HfRtfJVqIm4aKXoW4FcvSVvSseOwY9c6FBjPSYQaIMxPb6p6_HrbPsy2M__KZzbQTn7-ENDUscMsGh5GPfRaRq_YA6aIRXIw9qa2_nGJw3ADcMzryXj3Ea9S5I9cQ0P8iSsj3K8rjJffKguPK5WxZx3n7QYIgYOP0jq_RA",
+      "text": "@Jason廖賢文 @sanjinchen  遠傳己設好4G 及 DNS 指向, 協請設備重開連線, 並協助確認何時可以與光林對測的時間及內容",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U21620661d4adb885147ac04fa12857dd",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 10,
+            "length": 11,
+            "userId": "U375f2b0f385cb715667fe836bb7a29ad",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5EVDBM155NM2C35WPYBMH3D",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792573615624,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ueb641723e67562103c0ef055e5237fc4"
+    },
+    "replyToken": "a1dbf648f0f94919a3df5ed6a0df1ab3",
+    "mode": "active"
+  }
+}
