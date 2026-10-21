@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5EXWTG4B0AEC17ZVC033F34",
+  "MessageId": "637106247141163078",
+  "Timestamp": "2026-10-21T09:50:19.478Z",
+  "ReceivedTime": "2026-10-21T09:50:21.130Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U21620661d4adb885147ac04fa12857dd",
+  "DisplayName": "Jason廖賢文",
+  "MessageType": "text",
+  "MessageText": "收到，已通知光林將燈控器上電進行通訊測試",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637106247141163078",
+      "quoteToken": "ZJik6_B6PfvQuv8m35obo5gna9HXo1b_t8apmxSPmx30T8rbuEhN_bNjVx2uiNMGYvx7Rj7ZIaIGpjHkc__UiMrnB6I2n37QW04SPFP2IjJFgrQJWkEqUFhGGBWHLRF-vyzkFPfufOcFeqh5UsJXFQ",
+      "markAsReadToken": "FGvctpMUfTnfWe6E9JSk7u5NmWP3FceqcHYVFoEma6_gjj-hss_4JTKU0cH3a0OMWOS8MzEOHP5sAyBsRV6yl255A8lSS9G24_aBM4qqXPQWutb1uyWie5_gKZ2GCjLxXHlPwm3BETIZCya-Z_2nKrUQaBFg6y3u74BBKfGLOc5nmiPAScFqQf1XSFehSdeRf1o1FdEjWOwCq0BvJQilZQ",
+      "text": "收到，已通知光林將燈控器上電進行通訊測試"
+    },
+    "webhookEventId": "01M5EXWTG4B0AEC17ZVC033F34",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792576219478,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U21620661d4adb885147ac04fa12857dd"
+    },
+    "replyToken": "c282e394d4a14b5b83f03f8cdb543847",
+    "mode": "active"
+  }
+}
