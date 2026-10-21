@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5E2PF69YXK8B0D740AP3NT6",
+  "MessageId": "637058399142150367",
+  "Timestamp": "2026-10-21T01:54:59.849Z",
+  "ReceivedTime": "2026-10-21T01:55:01.471Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "好的  我在門口\n我進去",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637058399142150367",
+      "quoteToken": "P4pQXCYW8THYcoJ89coI9-D0bk7QsiLRlF9t4QAXAkzuQN3MNvz76gPkwsxiGenbhOx6mpdvzMxBiCakty7Lhkk4FpHz1eKigrrvMH7L6YdDh4NxS4-G85EdcelJY1pG6GUO4WsqIKRu8xzoAzi5pw",
+      "markAsReadToken": "w_7XbP8XH8oIzzuOE9iA62--4p8uxz_w1RXIuYh71h-4NftuhZ0c3WzO_1fZJZMrDLQVzpoYkavB6V4qn4nf-IXId3pWLwd6VgKmViRoXiIRmidZyr_IFSRaHbUBfYYpKeM7ooLn_Cx-NnT3rHevGAbqC83PheS0HSC_5flBm43-4TWTkLYzJvkkF94IjuGCHzcnUs_bdppt3xsvNGr5Eg",
+      "text": "好的  我在門口\n我進去"
+    },
+    "webhookEventId": "01M5E2PF69YXK8B0D740AP3NT6",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792547699849,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "d075faa4af7f4bf1866464db3fdd4925",
+    "mode": "active"
+  }
+}
