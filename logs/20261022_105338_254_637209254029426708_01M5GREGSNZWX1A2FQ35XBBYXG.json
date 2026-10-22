@@ -1,0 +1,38 @@
+{
+  "EventId": "01M5GREGSNZWX1A2FQ35XBBYXG",
+  "MessageId": "637209254029426708",
+  "Timestamp": "2026-10-22T02:53:36.446Z",
+  "ReceivedTime": "2026-10-22T02:53:38.254Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "換裝 App 現有新版本可以下載，調整項目請參考該訊息，再請內業同仁提醒工班師傅更新至最新版 App",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637209254029426708",
+      "quotedMessageId": "636946602418242122",
+      "quoteToken": "emUZMS-CQUrHLjcNRWQ71gmvwwZVWC2AEV1ozjAmWd48IuNlOF4Stl4rIDwkYc_lNHh_xvJyq81XxhXfjdNNQXIm1oOIjWgtdjo-9HnbTDMHgZfJmsgEMyCw2yiRARGxBD9SytLN-PW67RCwNfiwwg",
+      "markAsReadToken": "use0FpGwXXAFSuk5_kpMVjroNrS005Un5gKs16Dn4Xrhxjy7cPDbErDiIuloA-bUonUqLI640sizbn-4lwoNOvofcy95hlNKI3n77ynjWir09cJIDVKtiHGErDlV3G0POyQRuSQVWqB5zc3HhH5-CZQjqcS9io5fXF_Xoxkq9THRoGBDaSOD68S6Gq14ZCq6ss6XNHsMgydKdeYF0qneWQ",
+      "text": "換裝 App 現有新版本可以下載，調整項目請參考該訊息，再請內業同仁提醒工班師傅更新至最新版 App"
+    },
+    "webhookEventId": "01M5GREGSNZWX1A2FQ35XBBYXG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792637616446,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "ee6e54adb9ed416ebeb32bf79595b7df",
+    "mode": "active"
+  }
+}
