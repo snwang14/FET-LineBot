@@ -1,0 +1,38 @@
+{
+  "EventId": "01M5HKWAEQYXQTXJY0Y1WXCKP2",
+  "MessageId": "637257511812727143",
+  "Timestamp": "2026-10-22T10:53:00.255Z",
+  "ReceivedTime": "2026-10-22T10:53:02.288Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U21620661d4adb885147ac04fa12857dd",
+  "DisplayName": "Jason廖賢文",
+  "MessageType": "text",
+  "MessageText": "光林只有這份mail。\n這部分今天有跟禹任討論此需求，你可以跟他同步開發的需求",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637257511812727143",
+      "quotedMessageId": "637253285648793873",
+      "quoteToken": "wI_bEE3Gar1aj_mi4y90uwhL9fPEFQlTeVBC7XCArutHmrx5smK02PAnkz6RyOZ1903lEVvbxv9xFtVDBeVsdQzIWyqavf9UeYw9BV3MMDRMS3EFO03KZVRWXi6MM0lSCJzJdGse4cRsTYQYCyr2cg",
+      "markAsReadToken": "CRg3L_vt2m9H5BJRa6WpUvbK-Q6Zml26dPpP-IZrLjd01FFIraSYjQxO4ty8iKXbxkSkzbvGfhBXCyuBqaN0aOnYDedG4rWSTgrLiP-sstX-HnlhZSRTsi7_1KaHTqymvz6WKQ-oONMePMXUQ8zerLDdbmI2satJ5ZDLAJhjUDSANr0d7HwVS5rqPKE_HVmI-u2sPg5-cskFEF0AWl185w",
+      "text": "光林只有這份mail。\n這部分今天有跟禹任討論此需求，你可以跟他同步開發的需求"
+    },
+    "webhookEventId": "01M5HKWAEQYXQTXJY0Y1WXCKP2",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792666380255,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U21620661d4adb885147ac04fa12857dd"
+    },
+    "replyToken": "a52af51105e14c3293820aa5f85c995d",
+    "mode": "active"
+  }
+}
