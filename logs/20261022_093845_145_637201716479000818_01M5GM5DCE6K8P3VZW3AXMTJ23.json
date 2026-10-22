@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5GM5DCE6K8P3VZW3AXMTJ23",
+  "MessageId": "637201716479000818",
+  "Timestamp": "2026-10-22T01:38:43.734Z",
+  "ReceivedTime": "2026-10-22T01:38:45.145Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "如果已經進入要換裝點位的子單的話可以用 App 拍攝，\n如果沒網路進不去，就只能請工班師傅使用自己手機的時間相機拍攝了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637201716479000818",
+      "quoteToken": "fbdapuuuNSxQaEnl12DUmzU5RJetoY5W_uQTgiWFrZeTa1wVJzHdGbHEjTjqvdBw9Ztt-JnDTv0mAKRF-v537DiZaehH1RwIKNq6ypv_ZmL8DwAeOfdQZveypbMPXoUgk5S2UVxBJJ5TGnPHOBt8dA",
+      "markAsReadToken": "GqTNyvC1cNtyvRq8iVBnEzx30cQmniTkPoxBbb5QefYMTTpJLrXd4HNulmOu3P6qyBDGnKR7Yx4WDFOSxJQmPimDAtQ9Dy22EJXrsyg1ivczjuFyTZBUUmWTsNjNyw_9MfVp2i6GfmZ_oH5ctA9jdT82Z3Gt1YqaddNHu5eWg9nzs7NCXzcf2_0KbF10sWXP6MNZCOVPCK_0H1XRgp1Qgw",
+      "text": "如果已經進入要換裝點位的子單的話可以用 App 拍攝，\n如果沒網路進不去，就只能請工班師傅使用自己手機的時間相機拍攝了"
+    },
+    "webhookEventId": "01M5GM5DCE6K8P3VZW3AXMTJ23",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792633123734,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "44fe3b883b434885b6ea1969542d0fd3",
+    "mode": "active"
+  }
+}
