@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5GM2B0R3TJ9RT79NQAG1D5K",
+  "MessageId": "637201548354519746",
+  "Timestamp": "2026-10-22T01:37:03.415Z",
+  "ReceivedTime": "2026-10-22T01:37:04.973Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U855d8d78740604c641a0d90c1313bc2d",
+  "DisplayName": "廖小喵",
+  "MessageType": "text",
+  "MessageText": "請問如遇到沒網路的區域是否可以一樣拍攝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637201548354519746",
+      "quoteToken": "hnUl5E8SZQsQNKAvplHgk3x_9LroF17mcJ22wuAmR71Xqb7xnYpb1Y-5zpOMI1vXqmYiBNZOEgOefJAqctPy-eKDq1DgNL3KP0DcOLKt9odfFs6zzD2YbDO8QiKm5NoxpsbPOVfvPsP0c2FCPMd0FA",
+      "markAsReadToken": "yzL-Xs-S08TIV7QIOqcKERf6CpOiYVBKKnJPforkomJuZrdNThXsslEb1BdiM8WLkxnZMMqz8QT1IhmCL-E86mM0ibc5y9lhtD65QgZKdM9uaDcn1VBt8Bm-iks3e0YD9c98twMVbAtfoSkt0DSQJ7Y6wq_BzUfC-9G8D1ov-Bh7rECC4fXhkqcY1RIERG7io7khuYr_qpX7xt8sQ4fN3w",
+      "text": "請問如遇到沒網路的區域是否可以一樣拍攝"
+    },
+    "webhookEventId": "01M5GM2B0R3TJ9RT79NQAG1D5K",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792633023415,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U855d8d78740604c641a0d90c1313bc2d"
+    },
+    "replyToken": "0f5cb48196934204898f4ea0d718c163",
+    "mode": "active"
+  }
+}
