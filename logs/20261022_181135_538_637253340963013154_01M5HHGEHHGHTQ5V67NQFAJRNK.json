@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5HHGEHHGHTQ5V67NQFAJRNK",
+  "MessageId": "637253340963013154",
+  "Timestamp": "2026-10-22T10:11:34.361Z",
+  "ReceivedTime": "2026-10-22T10:11:35.538Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "目前第一個不確定廠商要怎麼掃，不過第二第三原本 Inpark 功能有",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637253340963013154",
+      "quoteToken": "B_UmBw_wveo9251no3kGcCGHIJYpoEyinB7B8ylvkDxAhCKg3ygy-Y5T-uvx2lcp1IZ1qvqsEyqCuT5GrHJZfe7enFu4JAmZpoqavOl8MqeIKybnQZkGv9s3jPxP6F9OjwUnAuJpDg_nEPaAEMa_kg",
+      "markAsReadToken": "lULNOV2ejuiNYjHgpJDXsfhJdpArH7LXdSWjG50gce4ukDhsh0jFFAOWkZaemrmh-72YNz5GOS9TpopzrZ0VT7SgPkpn-DpN2Sbv_lWAb8Syet-ysi18qvhxJC-lqLSNEb5E4qZ4UhvEruIdOyZJ-etA8Nifc3FKy5xJeZiSVSPNdu13ZQO2uHv7bt_Z5WYpqGxO_vbRhQ16BvxMnat26w",
+      "text": "目前第一個不確定廠商要怎麼掃，不過第二第三原本 Inpark 功能有"
+    },
+    "webhookEventId": "01M5HHGEHHGHTQ5V67NQFAJRNK",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792663894361,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "1b66b35e571046e288d415bf6128e616",
+    "mode": "active"
+  }
+}
