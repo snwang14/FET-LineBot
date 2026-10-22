@@ -1,0 +1,48 @@
+{
+  "EventId": "01M5HHFEFF4CBS4JT8KCDC0YSG",
+  "MessageId": "637253285648793873",
+  "Timestamp": "2026-10-22T10:11:01.241Z",
+  "ReceivedTime": "2026-10-22T10:11:02.714Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@Jason廖賢文 確認一下，剛才和遠傳會議，他們提到 11/15 前需要有廠驗的測試平台，請問需求是只有這封信件嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637253285648793873",
+      "quoteToken": "x1dJCm5KzjePVdydOJcGURDOmpWWQPK00jr8Qz01bgzIAGPtTeIrbWlkKOe9FS7-phG6QBP6BqJT3uh-Pf0zXbZ47YFbg6a-j8ymSLx9xZtpsVY8H9sAhIQxmqZI3N7IfSxxFubQMsNtr1FQTRPCfg",
+      "markAsReadToken": "zsg7txTHsFgMtqkNq3z_Ajs0cxM9epH3gbAYGQT7d_GL4zHJ14YPgGsID66Yo1afTNwHzPKNx3rjPCseMBZDxg3uidKXsdv8hbWbFtyjnxWZ-PBGmYWo0E8GQukkTg3yMbLaC8-yqjUxkehPbbwl-_TM0Bt8QFI1sA_0nXLidM3UPdJRl8WghjSrzkW3SRAGbbCpTlBSw4hBIqDUu9kDPw",
+      "text": "@Jason廖賢文 確認一下，剛才和遠傳會議，他們提到 11/15 前需要有廠驗的測試平台，請問需求是只有這封信件嗎？",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U21620661d4adb885147ac04fa12857dd",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5HHFEFF4CBS4JT8KCDC0YSG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792663861241,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "acb1356bd1444d479280ea1d23591309",
+    "mode": "active"
+  }
+}
