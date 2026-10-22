@@ -1,0 +1,46 @@
+{
+  "EventId": "01M5GM163A26P2Y2EZJ2H5NPG9",
+  "MessageId": "637201484533989989",
+  "Timestamp": "2026-10-22T01:36:25.377Z",
+  "ReceivedTime": "2026-10-22T01:36:32.016Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@All 近期工班回報問題較多，通報流程再麻煩各位內業同仁和工班師傅參考，\n請最少最少一定要附上登入頁的截圖，以便我們即時釐清現場作業狀況，感謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637201484533989989",
+      "quoteToken": "9zw5a4N-oUw4_dYN3SNIZn7Z9lOzhFXR2fsfof8zQj84n3ifvPimE7fesH7lMSfvCNiw3rdJ0qrKu9Q3vCTaWz_x_UZqUibxzL6-vZCScfhgXdfgCaweEWmZznago5GbbCtIMZQNA0-Dra6qOu12vw",
+      "markAsReadToken": "hBYxp0kz_PJHiMwCO82zTScEItXdAP8xs0qLH2dPR5M8pF7g1bVG0IqDTpVHOlbKIgW4bqqEHwYlwI_d21vj55K-CbrgT6_yvis06wKXSI-to99pcvK2XbE5TorZPneEq1fcs7DN4p-d4mYUyeusJiot4nwjEtxD5rVZYTvtM2zNOJUafO9AGZ05ys_qLI0NjkbRzUVsZVOnQUTTrrIFAw",
+      "text": "@All 近期工班回報問題較多，通報流程再麻煩各位內業同仁和工班師傅參考，\n請最少最少一定要附上登入頁的截圖，以便我們即時釐清現場作業狀況，感謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5GM163A26P2Y2EZJ2H5NPG9",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792632985377,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "e3f78ecdd4df42789155ac05a1490091",
+    "mode": "active"
+  }
+}
