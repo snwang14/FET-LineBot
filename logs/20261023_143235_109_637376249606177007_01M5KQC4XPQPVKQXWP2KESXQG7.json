@@ -1,0 +1,38 @@
+{
+  "EventId": "01M5KQC4XPQPVKQXWP2KESXQG7",
+  "MessageId": "637376249606177007",
+  "Timestamp": "2026-10-23T06:32:33.472Z",
+  "ReceivedTime": "2026-10-23T06:32:35.109Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "我先給連結，確認大家時間後　直接上這個連結就可以　　先敲時間　",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637376249606177007",
+      "quotedMessageId": "637376175785640545",
+      "quoteToken": "h6tWXkfz-9vSI3ud9ofoaVESXjNtLWjBRSTQE5jPXLuzdtoY6lUlRY9vdXIsonLmRJmNVpKgqRxvtN-Zjr4fEIkG9fTTpDCM7vW5xA0lzIfXqBWSp8TWT_q7mcxu2pLsO_oNjglLcPnoS1-FdDeY-w",
+      "markAsReadToken": "JiAAoDBgTmqucdXUGcTQv7ffLpfctPYNqaR4p7UE6RZ0xo7NTRfJ5vDmvWrRf2N51LFiz_tV93GFqzBxMv44r5-y1PrV-sAFDvl4emdFpHCeSNPR1LaoeuFJ1pGEfwwiWdxegm0bhDJD2OHWk6YYErmUHS_jGpfkhrOPEvrb0TnRLnJSvX2zu2iPm_KJgAaLhjSrEyRBZDPrZXdB2yoOYg",
+      "text": "我先給連結，確認大家時間後　直接上這個連結就可以　　先敲時間　"
+    },
+    "webhookEventId": "01M5KQC4XPQPVKQXWP2KESXQG7",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792737153472,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "46f2465203844371a74f77558dbdacc1",
+    "mode": "active"
+  }
+}
