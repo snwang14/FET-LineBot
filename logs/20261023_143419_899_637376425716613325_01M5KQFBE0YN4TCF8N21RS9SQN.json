@@ -1,0 +1,62 @@
+{
+  "EventId": "01M5KQFBE0YN4TCF8N21RS9SQN",
+  "MessageId": "637376425716613325",
+  "Timestamp": "2026-10-23T06:34:18.442Z",
+  "ReceivedTime": "2026-10-23T06:34:19.899Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@sanjinchen @林郁翔 Alan @Andy 再確認一下大家可以的時間~",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637376425716613325",
+      "quoteToken": "ytvioskRVmJXPtjIuRm_mwMV1tSRu3QD0j6SU7_lHk6XdMhQxui7Ti8COcbY3mStRVB2-pIjz4kauDRf9pWoRTgvb6Tl7YkHT7kgZRa3PtdWDwS_-yT6TccjHwY6WKTnHnHU2ffJMhiLFII5XosGPg",
+      "markAsReadToken": "fPNj4dtYtrjk7gAHieeJgjvM6qaRmxQztMboxRjUNK9tEXWM_7XdBqKxVdg8P8EcAsxIYcCFaTbpr8jx-xq8Nf8rhPGQ6DLOLOMfMPl0WIfxPeXuV6iGkSdoCp1w7nISIyCAqLYH0JI8pC-Zj9CCIRbn2-nwxK7VgK4_w75pZbReNBpWWEXqlqIClljE-0NI-RCRMjXC_FsZkfZrWfse7g",
+      "text": "@sanjinchen @林郁翔 Alan @Andy 再確認一下大家可以的時間~",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 11,
+            "userId": "U375f2b0f385cb715667fe836bb7a29ad",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 12,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 22,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5KQFBE0YN4TCF8N21RS9SQN",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792737258442,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "68b8dccfbadc4bb0b4e843562c5b1884",
+    "mode": "active"
+  }
+}
