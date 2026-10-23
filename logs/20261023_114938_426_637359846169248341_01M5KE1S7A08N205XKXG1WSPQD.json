@@ -1,0 +1,39 @@
+{
+  "EventId": "01M5KE1S7A08N205XKXG1WSPQD",
+  "MessageId": "637359846169248341",
+  "Timestamp": "2026-10-23T03:49:36.869Z",
+  "ReceivedTime": "2026-10-23T03:49:38.426Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "image",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "image",
+      "id": "637359846169248341",
+      "quoteToken": "WeekfKZtoBq_8GclhNW34OXZurO3QVzeCnegTJcl3CuiT_ND7ZuvscZgsF-RWeJ3LniMcGr0wLCPAxdEtcjtWSphYSdOgN2l_jd7AXao2htC31FhnP-M87J3QCXkRgGgY7kNBSLl_nyeB6hYlANZ7g",
+      "markAsReadToken": "549KQgCW3i8h_0j-6vPJas8M76TIsewsoh3rlBTFXgJk3qZn-Bw2nYygwjsHvDTKc7y-hW4m9PxqgVd4iqHUv7QTz_cI3X-q79e6YUAa9rwufJg6Toaquvfi7uNrY0M2Uwl4q4dVnPmfVykpREfLKCLDaCcKATr9DN_Bu_9qmMCfTLCx6dZPG1iPrdO9WPrUI7UQ4nFsWNakIOduR2zPlA",
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M5KE1S7A08N205XKXG1WSPQD",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792727376869,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "cb4a173094c14e1993c9ea1bae103744",
+    "mode": "active"
+  }
+}
