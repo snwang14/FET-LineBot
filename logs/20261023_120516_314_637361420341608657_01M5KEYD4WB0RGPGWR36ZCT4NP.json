@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5KEYD4WB0RGPGWR36ZCT4NP",
+  "MessageId": "637361420341608657",
+  "Timestamp": "2026-10-23T04:05:14.540Z",
+  "ReceivedTime": "2026-10-23T04:05:16.314Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "請私訊我帳號密碼",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637361420341608657",
+      "quoteToken": "727t4Sz35tcyNBsNJa-tUEatEnZVCxRdvgke6uX_SAl_o1ThmMAUN79wORE--Ced_Q2M1SdPdEK_DSflzA-8eQeY79asLgpDf676lmc0_a9O5TjQ8pwefNE5h0EN-4AUNeJXu_KLKDrdAguKg3ZUoQ",
+      "markAsReadToken": "OpywXcIq6L4sF4Hkp1LDM1VUPi4U0TWaTV-uWlnHoT9c-NkGw-bQGFste4rd3H21GTlKkQ6TtFzxqy4jhXYA9yU1bpmHgIUG8crUVA0mTTzNGuR6dcjo_qg0iiXo1R28wCtfF9qcJC0kFciqnf35kztMw9ymYdYocIwL8xIhZIF5il1KXfKZPGd113RdOTa6DVMyjFtPFzgpi2e2QpObsw",
+      "text": "請私訊我帳號密碼"
+    },
+    "webhookEventId": "01M5KEYD4WB0RGPGWR36ZCT4NP",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792728314540,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "5a7f337c98284d649c587f16f8d9870a",
+    "mode": "active"
+  }
+}
