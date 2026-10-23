@@ -1,0 +1,49 @@
+{
+  "EventId": "01M5KV23ER9GQR3EX8CP1Z2T75",
+  "MessageId": "637382734201487565",
+  "Timestamp": "2026-10-23T07:36:58.591Z",
+  "ReceivedTime": "2026-10-23T07:37:00.244Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U375f2b0f385cb715667fe836bb7a29ad",
+  "DisplayName": "sanjinchen",
+  "MessageType": "text",
+  "MessageText": "@Mick  也請您參與這場會議,我需要您的建議",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637382734201487565",
+      "quotedMessageId": "637382688097697895",
+      "quoteToken": "6lGJP3yoxbBOQCvbAupClzJD8PoYhqQDkjGjqU_2Dcm3CDplLKcHZifHHy2qpiWjaer9TLrrIdF7k0MqG9Onwzu-FsR7p7HZl8O9V-w5lEX3NwwIK9MJYzpO4T6mJcr23Wovifg-s8FCwKF17GsxIA",
+      "markAsReadToken": "kQMImcJV2ZBYgUyI5qgOmFGyWlxfZbgvvyk2p3isypUbhE7VARpHAb5D21O0YbysCFcVf31IZ0xst_zctkeg0k1hxoyoYMjBfjvtipBuaYYmr4HFukOKf10WmCY6aQk--c5NOX7zSMa8odW2amPlTerFsy-_BkBsuyA9J6vBg0-K6RkvZi3sbBLrhYOL15eEKnuQcUsZ0NJrIOoEVQMwPw",
+      "text": "@Mick  也請您參與這場會議,我需要您的建議",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 5,
+            "userId": "U9ef3cc4deff6de91ecd66ed5bbfaea6b",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5KV23ER9GQR3EX8CP1Z2T75",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792741018591,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U375f2b0f385cb715667fe836bb7a29ad"
+    },
+    "replyToken": "132ad17d47394b69819c9b4cc29474bb",
+    "mode": "active"
+  }
+}
