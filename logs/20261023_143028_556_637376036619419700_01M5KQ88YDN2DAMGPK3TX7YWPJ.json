@@ -1,0 +1,55 @@
+{
+  "EventId": "01M5KQ88YDN2DAMGPK3TX7YWPJ",
+  "MessageId": "637376036619419700",
+  "Timestamp": "2026-10-23T06:30:26.519Z",
+  "ReceivedTime": "2026-10-23T06:30:28.556Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan @sanjinchen  現在有空嗎?ｔｅａｍｓ會議討論一下　路燈架構跟廠驗相關事情",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637376036619419700",
+      "quoteToken": "amzW_Bb8q_2a56WvHlunzVldYB6mdQ5Ia5_i2VwudBFJ1D34iylRABcgXeuNPF2rMFApm8PHZh8HR5k6mQqRYWbYpCEtz1oVx-pt8B_Z1rXkGtSk5ObQNhy0Mkj2ZI2PwB5gryoKxgQgk9_P1mnMIg",
+      "markAsReadToken": "S4RtYYSI996UeYH5gs380Xlz1ThHO44QEbXNDZPlIWy_iZTA1jSz8Ryv0BlxMsBOBSiY557MaNvuY42NY0yYLe5KyH07rM2ZBstESnp0w_x1X-Sv6dJ1ASbBseaUBJxIBOC1v44OeNotK-K76uvL2VyMB88ADcbxC4DZg-CTgsh7985BKDiorJPp3rcdhAgDbWq6pADNlGIfRxwRrc8QDQ",
+      "text": "@林郁翔 Alan @sanjinchen  現在有空嗎?ｔｅａｍｓ會議討論一下　路燈架構跟廠驗相關事情",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 10,
+            "length": 11,
+            "userId": "U375f2b0f385cb715667fe836bb7a29ad",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5KQ88YDN2DAMGPK3TX7YWPJ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792737026519,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "a4d99a7fb7af40e0bb39005a7dc62f65",
+    "mode": "active"
+  }
+}
