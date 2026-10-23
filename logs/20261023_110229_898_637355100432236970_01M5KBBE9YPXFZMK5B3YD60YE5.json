@@ -1,0 +1,56 @@
+{
+  "EventId": "01M5KBBE9YPXFZMK5B3YD60YE5",
+  "MessageId": "637355100432236970",
+  "Timestamp": "2026-10-23T03:02:27.584Z",
+  "ReceivedTime": "2026-10-23T03:02:29.898Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ueb641723e67562103c0ef055e5237fc4",
+  "DisplayName": "Andy",
+  "MessageType": "text",
+  "MessageText": "剛有回信, 協請 @Jason廖賢文 @林郁翔 Alan 確認智能控廠驗之條件",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637355100432236970",
+      "quotedMessageId": "637257511812727143",
+      "quoteToken": "ENubgCh9cdra2xhkYF0VevKlLC10_ndpzRWmX_bDRy7vqR8j7KBKD_E4kOo7ckH1TmKDdBLvPIuQ8j_YcU237xUY8fOSNCXJab78e3wpsI6Ol21MZH8JDij1zaXggbI3eS-rzIUnNVKap-O43qF8hQ",
+      "markAsReadToken": "RBEMe3udse5SBT07pl-UaoOYdhK-1c6sbHAfmTtRaAVr_znFrbLcAbMUDE5MZKF3yuesWK_O-ISr7HDxAKy9C_kXAl3qMKyumildtJJ0tmOdyBj_oblEbmxnfpb9a1QKgUZN2rvJeE2htbcFk8kNI2tyzOFOnf5gnxtat7g6M-U9-MJEk_6L-YPN196Qvn3D-L8fFzm5_uCQKCtltka9Tg",
+      "text": "剛有回信, 協請 @Jason廖賢文 @林郁翔 Alan 確認智能控廠驗之條件",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 9,
+            "length": 9,
+            "userId": "U21620661d4adb885147ac04fa12857dd",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 19,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5KBBE9YPXFZMK5B3YD60YE5",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792724547584,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ueb641723e67562103c0ef055e5237fc4"
+    },
+    "replyToken": "97cff600b0d245d0845519a4238d3ee2",
+    "mode": "active"
+  }
+}
