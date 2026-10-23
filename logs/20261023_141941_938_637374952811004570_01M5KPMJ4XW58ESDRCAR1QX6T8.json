@@ -1,0 +1,55 @@
+{
+  "EventId": "01M5KPMJ4XW58ESDRCAR1QX6T8",
+  "MessageId": "637374952811004570",
+  "Timestamp": "2026-10-23T06:19:40.578Z",
+  "ReceivedTime": "2026-10-23T06:19:41.938Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ueb641723e67562103c0ef055e5237fc4",
+  "DisplayName": "Andy",
+  "MessageType": "text",
+  "MessageText": "@Jason廖賢文 @林郁翔 Alan 需要知道光林控制器連線資料打到你們broker 是否是成功的資料？內容？是符合你們現在的格式",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637374952811004570",
+      "quoteToken": "s4QjgnXdc2FjT-hxOtjmsTrwBVsnDJZPN0fK_ghrw3aVvXbJAno67aJWbI8jY520IjPo60eNHqgHC3jXbL46HcPy5rwnjAZufQ8sn8Za-NVQWWUPOeeyzVmcznU7SISNqWiILc45uW4t5nPfztRPLg",
+      "markAsReadToken": "WQkrK-CaGCV0x1YKvWhvvjTNi4g1ky8Sb18Wojn2W7pj02rRSAutgVfuABzsUHqGeLid70TX64N-vrs5DNssvnbNVB4NICAiP_H_XSn1YBv5UsQYppBPYHjp4-XPVPIugPagt-M7Cil2LYnRkAhn9MWgIPoJBgGpxvzl3pBGQaGYGXpVcN7QLOeA8RVkXYw4or4OZUh0N_yV736CIXcZkg",
+      "text": "@Jason廖賢文 @林郁翔 Alan 需要知道光林控制器連線資料打到你們broker 是否是成功的資料？內容？是符合你們現在的格式",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U21620661d4adb885147ac04fa12857dd",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 10,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5KPMJ4XW58ESDRCAR1QX6T8",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792736380578,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ueb641723e67562103c0ef055e5237fc4"
+    },
+    "replyToken": "95b1da7e96504ff19cdba11131d30eb0",
+    "mode": "active"
+  }
+}
