@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5KE5XK7KAXSYYNKDZG0TWEF",
+  "MessageId": "637360073970811262",
+  "Timestamp": "2026-10-23T03:51:52.240Z",
+  "ReceivedTime": "2026-10-23T03:51:53.913Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ucdd2da2679da53b2b6d81b223ca96119",
+  "DisplayName": "UC(Eivor)You Wish Li",
+  "MessageType": "text",
+  "MessageText": "不合法的請求發送",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637360073970811262",
+      "quoteToken": "wstFSnEcNrpjTrGVlIbvvUSO0l4QeZWu_z-Grz-905IA2AZ_C_OmHUv2556ejgyO9HX5kKysP5gCYUk8qa_oy9AvsHQkSHrJ_ocD21e5zIOpqBWua5fNDH3nKcr9Tu3VXey-cnM5YyS3w_7cn18xGg",
+      "markAsReadToken": "DTQM5koMnHOp5O90odPoosYwKyJRR_XoxkPaNBb5x2m8pkaMyf9a2Ls68gBxcFFDdhDrGkRuJGipJsn7Z3cninecrkpnAX1f8fFzolZAr-ByeeeAzPImBurHrHRbA08Iskl-moBpPtwjQl1nfVrAI59sZFNs6J3UVNDUOg6SPf0Gz874ERg6gSWQh_EHwTqwAQVSK3wksZkjlqI2ME0x4g",
+      "text": "不合法的請求發送"
+    },
+    "webhookEventId": "01M5KE5XK7KAXSYYNKDZG0TWEF",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792727512240,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ucdd2da2679da53b2b6d81b223ca96119"
+    },
+    "replyToken": "2b7dd01caca84b0ca80987b28a6d41c7",
+    "mode": "active"
+  }
+}
