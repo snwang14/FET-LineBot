@@ -1,0 +1,48 @@
+{
+  "EventId": "01M5KE6V86956BADXY5KE6KW3D",
+  "MessageId": "637360124939469300",
+  "Timestamp": "2026-10-23T03:52:22.539Z",
+  "ReceivedTime": "2026-10-23T03:52:23.646Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan 請協助處理",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637360124939469300",
+      "quoteToken": "X0FVzpQ5vmG5UlSSJRwc1zuXvkY3n29e5Lqx2euk_nOuLtoRIizFgvYvNeRakyZmejxyT7PM6oy-A8eLtMsOY7uHxAs6fXvk2k3guQUF6pIZyle4gNEPF_BkS29K2k8FqY88UUQkUNMSTVBVYYfuSQ",
+      "markAsReadToken": "1qLTnQdZ1dkJaR-3l17fht8jqhWDw8zSbf7jhsFuCjhPLgpUisgiFcI7AjIZ_7EFy6_9fypZptg1iJwKI8aR-mHM4VO5TrSHAYmBOLav0EWoUhh8QuZZ4p_qOjK1r7F30M4jEb2Ag_CKoIsS5lHigYh9IFUFnS0_RYvVo5z0gVAZ7aXugqBTPHBCDKqQ5oE5RoNVz1xtBRH1odGr4dsWIA",
+      "text": "@林郁翔 Alan 請協助處理",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5KE6V86956BADXY5KE6KW3D",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792727542539,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "dc3740c43c73459581d0b47b1f886c96",
+    "mode": "active"
+  }
+}
