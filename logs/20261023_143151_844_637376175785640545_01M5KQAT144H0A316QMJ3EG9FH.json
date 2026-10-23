@@ -1,0 +1,38 @@
+{
+  "EventId": "01M5KQAT144H0A316QMJ3EG9FH",
+  "MessageId": "637376175785640545",
+  "Timestamp": "2026-10-23T06:31:49.661Z",
+  "ReceivedTime": "2026-10-23T06:31:51.844Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U375f2b0f385cb715667fe836bb7a29ad",
+  "DisplayName": "sanjinchen",
+  "MessageType": "text",
+  "MessageText": "我還在開另一個研發處會議,還沒結束...要現在開 ?",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637376175785640545",
+      "quotedMessageId": "637376036619419700",
+      "quoteToken": "HQjnCgIMUicSQ7JegLxg5_g3aY-pKZKcOKjse1MhUDj5EaLdF7UXad3v4qIx5CJ2vnHdX_B5-VMAdd-QrbYwtqd5_wOah3dQhOQG_FQEF9w7cs9kJIJUVNtExN1vsfdnJw_kvjM5Iu0xS6AJbe-Wgw",
+      "markAsReadToken": "p7HpqQMlnUUEX5xLmtsfXaz7o140PgifqPSKniffCA23pz3W3yE4eYGkXQ1GgyuRURkJpNu0eOD_fIWlYjSEy5CrUBdBLBLmutAQfb9ZRCHT6_qTNrWnMcQQAwrFMyThcoVBK03pPh69u-wL80vx6yrcaq1NqlUcbX-V0rJxUDqbEIw24FyuiFRwGu03PgevPW0apa8KjPp8R3Szn3uk3A",
+      "text": "我還在開另一個研發處會議,還沒結束...要現在開 ?"
+    },
+    "webhookEventId": "01M5KQAT144H0A316QMJ3EG9FH",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792737109661,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U375f2b0f385cb715667fe836bb7a29ad"
+    },
+    "replyToken": "d4d0609c666246b297887e4081edc134",
+    "mode": "active"
+  }
+}
