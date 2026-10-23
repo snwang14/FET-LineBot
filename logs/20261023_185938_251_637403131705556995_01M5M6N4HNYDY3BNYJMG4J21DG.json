@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5M6N4HNYDY3BNYJMG4J21DG",
+  "MessageId": "637403131705556995",
+  "Timestamp": "2026-10-23T10:59:36.637Z",
+  "ReceivedTime": "2026-10-23T10:59:38.251Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "廠驗平台：\n1. 連線率測試（20 分鐘，100%）\n2. 調光操作\n\n11/13 進行廠驗\n下週二三完成燈控器遠端調光測試\nJason 準備 Macaddress 說明",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637403131705556995",
+      "quoteToken": "8D7_PyanTycvn7-F4dSzAbtqcvLKlYUi_1E6ssxr9U_l5p5Otap6cZBXtS9sYTzwBW_kbY8SdzGxzkuc_662Nq3pSsbBMdDD9RduvizyZLznWAqFr5hLrKa8cpiRZjqcnIA7yqe4gLeBhA_wcqCmwg",
+      "markAsReadToken": "VKagWE7AnL0H3rsfRiUgUTc_fBGJX5X916BdWz6T_w__bvGknSiY7ai6yjpVyzwreBIR-CDOr81x8W8xiRYg-xem5nsQqzV4ANPUz3edkwlMRxpY5OYw-J0cM0fRssPADEYw2gM1acDoeVTToPDRCmOycfousPp9OSttJXD7qUI5dhBDQ4qN9TGtskBAzH6iQTAW6frXfBUyk1KIO26p2g",
+      "text": "廠驗平台：\n1. 連線率測試（20 分鐘，100%）\n2. 調光操作\n\n11/13 進行廠驗\n下週二三完成燈控器遠端調光測試\nJason 準備 Macaddress 說明"
+    },
+    "webhookEventId": "01M5M6N4HNYDY3BNYJMG4J21DG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792753176637,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "24139f4706314fc49078666c260e50fe",
+    "mode": "active"
+  }
+}
