@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5KE0WEF4GQQSSCW8KPG0YQW",
+  "MessageId": "637359797314257155",
+  "Timestamp": "2026-10-23T03:49:07.216Z",
+  "ReceivedTime": "2026-10-23T03:49:09.146Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ucdd2da2679da53b2b6d81b223ca96119",
+  "DisplayName": "UC(Eivor)You Wish Li",
+  "MessageType": "text",
+  "MessageText": "不好意思方便詢問一下\n\n換裝網頁版\n我跟我同事都登不進去\n能方便幫我們看一下嗎？\n感恩☺️",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637359797314257155",
+      "quoteToken": "EvI-FcqWCvz2wl5U2IZ4TFc97iAZFY6mlS_dj1kj2SnT4P_xYj7HMd1S_Ql3vtxepw4NZNvduoE9k-oJT-Rycq18Hosl8uKmCpq09OSViSoTrYhD-3Jwq0CaQNzBqat8NvcGHVLjoXAf8CPhdl2fgg",
+      "markAsReadToken": "-U96A85849nsH-AnNYt-_6-ko75HN2mz3QDVk14ZSgEmndgcQrHhSSM6lbogyTOfndTh38cbpRZSWHqy5-MaEpUAU6lzBnDEjoSS852bHEIDAAdausu1qJteOVz4siCMmdvjQeXFN_bboTUUzPdQkqVt3Nu76T-h296HAzxccBL8p18UvczhD3xoMCfIBOeaRTQQkDEE1_4aZ12ev6Xz4Q",
+      "text": "不好意思方便詢問一下\n\n換裝網頁版\n我跟我同事都登不進去\n能方便幫我們看一下嗎？\n感恩☺️"
+    },
+    "webhookEventId": "01M5KE0WEF4GQQSSCW8KPG0YQW",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792727347216,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ucdd2da2679da53b2b6d81b223ca96119"
+    },
+    "replyToken": "f707bd0cb7bc41cabea1aac2f45adf9b",
+    "mode": "active"
+  }
+}
