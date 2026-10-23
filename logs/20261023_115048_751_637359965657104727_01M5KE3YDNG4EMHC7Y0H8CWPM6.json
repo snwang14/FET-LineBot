@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5KE3YDNG4EMHC7Y0H8CWPM6",
+  "MessageId": "637359965657104727",
+  "Timestamp": "2026-10-23T03:50:47.539Z",
+  "ReceivedTime": "2026-10-23T03:50:48.751Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ucdd2da2679da53b2b6d81b223ca96119",
+  "DisplayName": "UC(Eivor)You Wish Li",
+  "MessageType": "text",
+  "MessageText": "登入後畫面會產生這樣",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637359965657104727",
+      "quoteToken": "Sigyj0JJCOtETGhzJTn2GsRvezfuEx-4wM67TMl-fPjuAnuOwaF1Mx3iTIMKmAOHzwHsgKCoZtvkd3k6F7YK_YsZvm3cSY1Wic_mEdkJ_rBxg0LhC6GSi80vYVJRm_OOT8IF3Fpn2A2JXkWDrBM-GQ",
+      "markAsReadToken": "XQKK0ndy6UxhydyfZV3U6e51d_EKNd47lwMN8r0Ut0bfaAt9-uOA4dCo848jCmD2p4FdHaGUFBPO6etoPYR7RLjKK7l7a93p_0S5j5iNplLSiSlYYK0f0M_YWi44Xx26oQ48eUSonC2LhpHISRJGztLoXgtR31ahL7NQUabW0gi8ZiAfd1ExlL-bMLwL4WHh9XgK-Mauojq_m6DSgDQGRQ",
+      "text": "登入後畫面會產生這樣"
+    },
+    "webhookEventId": "01M5KE3YDNG4EMHC7Y0H8CWPM6",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792727447539,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ucdd2da2679da53b2b6d81b223ca96119"
+    },
+    "replyToken": "9af68fe242d346a4928dacbd4bcd75e6",
+    "mode": "active"
+  }
+}
