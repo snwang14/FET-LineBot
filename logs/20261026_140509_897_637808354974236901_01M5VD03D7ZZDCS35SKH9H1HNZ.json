@@ -1,0 +1,49 @@
+{
+  "EventId": "01M5VD03D7ZZDCS35SKH9H1HNZ",
+  "MessageId": "637808354974236901",
+  "Timestamp": "2026-10-26T06:05:08.405Z",
+  "ReceivedTime": "2026-10-26T06:05:09.897Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@Albert-yang楊 \n會的，後續會另開會議確認相關議題\n時間內部確認後回覆",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637808354974236901",
+      "quotedMessageId": "637802382453637360",
+      "quoteToken": "GIF1jhKuaPStb2IlEX8UuTI7R8I42zDzPy4r6oCsgbuDcPxm-ENmQFP5hcFgg7wreniCbAI-SOkWhPeMv_Xbd4tMOuNUijLMAMdYf4CsOAkZqrikEeOUrUnyoBFZ70HCN0tJmDpB4K5Smoeg0NbsmA",
+      "markAsReadToken": "6cKCZv5k2i663zvPhs1n6mDyiGRmktpupEYJmL5gUihr0ar_QMsG7dQDb5G0NZaB6uHlE8Yh76bsssNpv3ffJIBU8YycVAvWlKy14X6_7Rd6nRjazlInIxwG1B6Jepq7dpz4eGf-JCjgkCJAd7hDjNdmTEge23rhG5AmZ2GlP2wSh49F3nXgXLdePzBU5LK9BU7I3t2_ZfUDDGvBF_54Xg",
+      "text": "@Albert-yang楊 \n會的，後續會另開會議確認相關議題\n時間內部確認後回覆",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5VD03D7ZZDCS35SKH9H1HNZ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792994708405,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "ff6e92e93e6345058bdcd25e1895f236",
+    "mode": "active"
+  }
+}
