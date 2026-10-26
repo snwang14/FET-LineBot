@@ -1,0 +1,48 @@
+{
+  "EventId": "01M5VDBM4NKR06D4JBJD021949",
+  "MessageId": "637808988565799536",
+  "Timestamp": "2026-10-26T06:11:26.105Z",
+  "ReceivedTime": "2026-10-26T06:11:29.084Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan \n本週三例會請補充說明 需訪後待確認事項，再麻煩更新簡報，請更新再p31後面謝謝\n\n楊經理說明如下：\n1頁簡報放在平台最後一頁，待與機關討論事項，建議方項，，，用簡單说明！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637808988565799536",
+      "quoteToken": "HCQUZYOJWddv4EobMqZvn9B_w_yukvTtbTiAlfTZqmVI-nl7g-5dKKFDBqPqRghbjVr1UiUqIU4UeaUvqojYr4aKa5gYgJVjMNBReymxSw0mffZbCrwyGRkpE3amiaXnvG86mIRmU3j7Vf7uPrMOsA",
+      "markAsReadToken": "fbvzORfTWtOhswk3uoOHpSVFfCRYM-nsSj2n_O6mh2r286vXaoZYfQ-CpNIJgMstGYblMm7dlTauPNZo9JYeDDXsMdhrHxg9ZJ6QARiMr_vQKsUzds9tswSZ0Bd35Q1HtvpQTJDe3vRa7OavRChl3c701EdN7L-flwDgngallFTDVo7um1U_fJmBFmbECYisQu7dD2nAynfxLDLheeNsxA",
+      "text": "@林郁翔 Alan \n本週三例會請補充說明 需訪後待確認事項，再麻煩更新簡報，請更新再p31後面謝謝\n\n楊經理說明如下：\n1頁簡報放在平台最後一頁，待與機關討論事項，建議方項，，，用簡單说明！",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5VDBM4NKR06D4JBJD021949",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792995086105,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "461ca4695d1d456abe1aa3f90d6f0f59",
+    "mode": "active"
+  }
+}
