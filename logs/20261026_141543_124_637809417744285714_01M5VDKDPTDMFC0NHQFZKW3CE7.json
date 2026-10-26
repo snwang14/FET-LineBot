@@ -1,0 +1,69 @@
+{
+  "EventId": "01M5VDKDPTDMFC0NHQFZKW3CE7",
+  "MessageId": "637809417744285714",
+  "Timestamp": "2026-10-26T06:15:41.798Z",
+  "ReceivedTime": "2026-10-26T06:15:43.124Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan @Julia Lee 佩玲 \n另， 關於需訪後議題確認會議，請問預計大約多少議題？需約幾場會議？議題相關人員？ 麻煩請先評估\n\n@Andy @Julia Lee 佩玲  fyi",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637809417744285714",
+      "quoteToken": "e0b-rOSUuGlE1iQHgYYQrPl5RWZAaBrROBgZOVFLDigUZtHcwHnI6zQL1NH9-V-8iV0YdykJwuD3v9o2RvrgOm_GUz12LUXzUaEtBLeNe3lKEEBuwwSiPXRbPqTSqtA_tMOlwTPBsgBhR_oYiQAGrw",
+      "markAsReadToken": "RZIsRAh_Iu7agw4KX3534GABMEN4C7xPVzd_dYhwROGOwJe6ouB9xopmrC7PPU3JdyLTvKzCwRRUFlCTxed23hNYTWh8Wrqn99JJx0p_aDxYUOomKE-7rmEh-ZvR0QLgIJj2rrdqqZixZVf6cVgDYGD9-mSjXcLf6WNcpoHJxTtj1LJsqJbIOqEeAoVVsd3tV6XNaymetrgocqIBO14xeQ",
+      "text": "@林郁翔 Alan @Julia Lee 佩玲 \n另， 關於需訪後議題確認會議，請問預計大約多少議題？需約幾場會議？議題相關人員？ 麻煩請先評估\n\n@Andy @Julia Lee 佩玲  fyi",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 10,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 74,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 80,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5VDKDPTDMFC0NHQFZKW3CE7",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792995341798,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "09d1601d13444602be79704c9502b373",
+    "mode": "active"
+  }
+}
