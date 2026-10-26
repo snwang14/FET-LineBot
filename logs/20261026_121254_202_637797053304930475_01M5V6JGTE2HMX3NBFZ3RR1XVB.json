@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5V6JGTE2HMX3NBFZ3RR1XVB",
+  "MessageId": "637797053304930475",
+  "Timestamp": "2026-10-26T04:12:52.017Z",
+  "ReceivedTime": "2026-10-26T04:12:54.202Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "週三下午例會簡報修改有先提供給小nick了,系統平台部分要提議確認會召開方式",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637797053304930475",
+      "quoteToken": "HYLcilrdB6WtIM6adyu-pqoQcFCX7t5Y_YY9PfgaTS88FZkEkwd45K41sI-dnldopZcUjutrB3w7-2cP9vG8Pync2IRgJqupNS2QG_zBRln7-GH0DX5yaLmPM5ZODPD7fcageg7Ckz26Ohy3s62WQA",
+      "markAsReadToken": "QTXUVxN2x35Cyu92KBGI0_uX77miz4TAYzbdTl0HqRbpMW5ckgaEDIfRvFR1tgBD3K9RJZkea6DbsC87hQ3UgpgcZNL2yYisCwr-UaDdFThwPiFbEO7r9vy2u-lzqlI79Rv9YoYmSUgWDcWs8BCuaIGbZhmOE_GCB_fCDVEsth1n0otj9rLkHzaZw0cKSzzMdiu9dxuNrLPJbartKHq9Uw",
+      "text": "週三下午例會簡報修改有先提供給小nick了,系統平台部分要提議確認會召開方式"
+    },
+    "webhookEventId": "01M5V6JGTE2HMX3NBFZ3RR1XVB",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792987972017,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "e1b657d8bff447399af88dfab00e56a3",
+    "mode": "active"
+  }
+}
