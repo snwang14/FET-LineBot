@@ -1,0 +1,38 @@
+{
+  "EventId": "01M5V9WA83K828WYJ0D11SNET5",
+  "MessageId": "637802869042709169",
+  "Timestamp": "2026-10-26T05:10:38.642Z",
+  "ReceivedTime": "2026-10-26T05:10:40.132Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+  "DisplayName": "Michelle Pan",
+  "MessageType": "text",
+  "MessageText": "收到",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637802869042709169",
+      "quotedMessageId": "637802063099068655",
+      "quoteToken": "BdzFbZ2XWxxFEuLyZeBzb-ZXacR2s2Q5mdb9Z22r9UBph5_glM5cezqhHZgyAA7nwqDRc3zYRaia2t0aGcynF9OH5o2NuSYi-KWU-ce7Fw6xvm-nmxO6lIupwq9P9nQvHFVwjpWQbhcayGpdrGQLUg",
+      "markAsReadToken": "eeBFXawwwY3IiH8bxF15omTgSGONsI_vJ9EC5aH79e_p0o351xDxitzJFFrgVjtJF0Jrc3XTwPiwPQNdCQk6VrHMTCRrvMIqwlA6VRzZ3rTUqa4ZZ8XCQyUQrL6Y_B4xMKr4RSGNOH22eNxxOrLtunC3ibFlPfbeVeK3qWfl0E-xzu0wQOBdVRIkJP-6SLMK_P5RNztn7jJv7D_QJ_AO3w",
+      "text": "收到"
+    },
+    "webhookEventId": "01M5V9WA83K828WYJ0D11SNET5",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792991438642,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9"
+    },
+    "replyToken": "dc24b988a54640d9a16f03063208c90f",
+    "mode": "active"
+  }
+}
