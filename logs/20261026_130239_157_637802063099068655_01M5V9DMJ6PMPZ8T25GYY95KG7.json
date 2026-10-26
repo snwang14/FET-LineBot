@@ -1,0 +1,48 @@
+{
+  "EventId": "01M5V9DMJ6PMPZ8T25GYY95KG7",
+  "MessageId": "637802063099068655",
+  "Timestamp": "2026-10-26T05:02:38.088Z",
+  "ReceivedTime": "2026-10-26T05:02:39.157Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "@Michelle Pan 如果沒有，也要於群组回後新系统未使用！才不會讓資訊室認我們沒回應！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637802063099068655",
+      "quoteToken": "XWEvAQCBq6nfUyxvkbbI5LLokHTZ1O5fN7xiHRmEqRVwXJYXbWCSpKGdZ8t6poT8-4vgeXHv-3bJw8Q9b1cIR8w6rDuxCRnODPRwGYCujp9mJUSMkocnzSj0X7H5DsRQwzlsH90BfGaoALbIe8xleQ",
+      "markAsReadToken": "cUk4XcDmamzaQD2CKj_VRfiwW9gRmyhzsPACjLpVLMzxDk-sJgU0xYC3ZhzG0L1qdJH9TjWrPipE2UBj6dSVjoSdvDJemHeG4zvA90kev7vr2BFSuEK3iA_9_-gS7t_gTUz1e3pMcCi57tZlRssq4hu_n44bQ1z8INNOD3wA2xYQGWNPvGXEMSCn7_dklqSe7_6tzXks5_c1plXc7bteYQ",
+      "text": "@Michelle Pan 如果沒有，也要於群组回後新系统未使用！才不會讓資訊室認我們沒回應！",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5V9DMJ6PMPZ8T25GYY95KG7",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792990958088,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "db6141bfb0f1405491342401537a799e",
+    "mode": "active"
+  }
+}
