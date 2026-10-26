@@ -1,0 +1,55 @@
+{
+  "EventId": "01M5V8ZNPFMT2774JZJ0VH7J2C",
+  "MessageId": "637801295323332866",
+  "Timestamp": "2026-10-26T04:55:00.531Z",
+  "ReceivedTime": "2026-10-26T04:55:02.051Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+  "DisplayName": "Michelle Pan",
+  "MessageType": "text",
+  "MessageText": "@胖仙女 @Albert-yang楊 這邊回覆，本案系統沒有用php開發",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637801295323332866",
+      "quoteToken": "s0pcSGYaKFr10-E2aukoQK2htS3X7Yvd2BB3-dg9alNRWUko9crVZDqoLi1rbnRByugoRA7b4IUs-BQUUnqN2I8_3gA3czzBv1fXcSve0S56s0DNFBODWFbKS7XqEIshelrrny5oa0NSs-QzpTuozg",
+      "markAsReadToken": "-bnp81nybMd_TB9u2yEX7ss1ChLIrdtEDCmwEY0cglIcL5Vn9CLtmFyVYVXXNzq9U-tGc4fr1vLnl8WaeEHcqjk-kAK1LD-EDfTcT5lgE5BuQtGZN2Vg2mQwQ2uNWxkg0nglY71RDizhhg2-zn3QVuaZ__og0fd5DUMHr8HlpxaHkhDHZ-jyk01wJHiIeTEw31G-uQzuPguOW9Kbdvc17g",
+      "text": "@胖仙女 @Albert-yang楊 這邊回覆，本案系統沒有用php開發",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 5,
+            "length": 13,
+            "userId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5V8ZNPFMT2774JZJ0VH7J2C",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792990500531,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9"
+    },
+    "replyToken": "183c6280885442e191163e67c969dc76",
+    "mode": "active"
+  }
+}
