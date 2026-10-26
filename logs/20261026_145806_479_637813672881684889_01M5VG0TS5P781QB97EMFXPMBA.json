@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5VG0TS5P781QB97EMFXPMBA",
+  "MessageId": "637813672881684889",
+  "Timestamp": "2026-10-26T06:57:58.063Z",
+  "ReceivedTime": "2026-10-26T06:58:06.479Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "回到有網路的地方再發送即可",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637813672881684889",
+      "quoteToken": "ZYlREcU1sL-Y5XTAErjjcJICwjymuw_ba1q7013ko1ferVTG4f2vXXmUK_DmWuMZ5ML_wh2KSdtFX1-BAGNUAFUR0Q8EHb3fp66llMj_-3gwAx0nrduJpG3-fxuaRlfleI6sjloe_xg-cSiaOslpDQ",
+      "markAsReadToken": "XFEcIpj4H0HVenqV_qjIzYZ4Fy6RSLQn4hyU7bnBi3fthl__k-ufTwLlQdV3if6K0OKsdt3c_Lgpfu5sgP0vhtuZHYqgzSAK0J0w7IBW5F9Vxoks4Ob3m6F-wXCl9ShcBcL6RgXEjpesYzhpKJcaW4pzkOd2mbkNXH0vucJXGfU-KRiUANmPzDGuxJiUVIopb46YFhNsWNVCZnjwMOAH3Q",
+      "text": "回到有網路的地方再發送即可"
+    },
+    "webhookEventId": "01M5VG0TS5P781QB97EMFXPMBA",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792997878063,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "6f5628474a3a4cf78dae5ebd045ae3c6",
+    "mode": "active"
+  }
+}
