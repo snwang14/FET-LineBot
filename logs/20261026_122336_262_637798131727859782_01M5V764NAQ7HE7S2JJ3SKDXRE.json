@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5V764NAQ7HE7S2JJ3SKDXRE",
+  "MessageId": "637798131727859782",
+  "Timestamp": "2026-10-26T04:23:34.893Z",
+  "ReceivedTime": "2026-10-26T04:23:36.262Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "另上週四資訊室有PO一些資安提醒事宜及需檢核，都沒人回應？這部份是誰要處理的，还是不去管呢？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637798131727859782",
+      "quoteToken": "4jUDbvhBCG-VRFia-5RQrQwP4i1ADuL8m3mgt7nqFev0y0bIMf8RBPiiPZxAA2zOnfy8CYTAYQ87k2ByVgPt3jZpGJnPVzXMCvnJFoVueL6yEldFDJPLYqpLQYzw5bpz0SaYcIkV7tzoywKxJQqtMA",
+      "markAsReadToken": "aK_FR7iAhkr6QpPkKu7YIRuAJ1ooz4-4CoihuIsFQP-7CWa5CDLMxUfbfLSbWtAPpxJz9N5XC5IARaNLzvFG0f1AG2U2CC7cPxABgC2Iu9di82jQTia4K_exObQ38H-mK50U-zIMcOLdmAasJgMhAAci3AN5SXhMmEFd_gkRtgvE-NkURXdbiX467iUaecQADtR4ApmV_in8y5dZVxjBOA",
+      "text": "另上週四資訊室有PO一些資安提醒事宜及需檢核，都沒人回應？這部份是誰要處理的，还是不去管呢？"
+    },
+    "webhookEventId": "01M5V764NAQ7HE7S2JJ3SKDXRE",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792988614893,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "34b8a7c64c6b4bef9af55780cffcf804",
+    "mode": "active"
+  }
+}
