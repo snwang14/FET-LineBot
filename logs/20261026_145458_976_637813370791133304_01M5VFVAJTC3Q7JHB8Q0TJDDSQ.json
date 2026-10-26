@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5VFVAJTC3Q7JHB8Q0TJDDSQ",
+  "MessageId": "637813370791133304",
+  "Timestamp": "2026-10-26T06:54:57.999Z",
+  "ReceivedTime": "2026-10-26T06:54:58.976Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U855d8d78740604c641a0d90c1313bc2d",
+  "DisplayName": "廖小喵",
+  "MessageType": "text",
+  "MessageText": "山區網路不穩飄4g就送不上去",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637813370791133304",
+      "quoteToken": "4zf95tcXka83iYbNzd-ixCCoSd-6wB_ANpMzFulFiWOzoYDbMaFcXprC0mL1nPNcejV86ceqCAUTCbkr9W4XIuMdJEHJNhWPzOIczQWc9xroQQZwNCFOaEKXLbIW0qQBMQcRI79WUEaCE9dyyD9Xjg",
+      "markAsReadToken": "GZL_6gN34b49fXFZHRgTqrzg-5K9_SViweNaHG759XQFgLQtKkS--VCXwUDxrBCTOrRd-ddST509eJWKlxLhdH4imhO8YsZwnCV3O-gM5JDs_FLuEQik0Fj6H2_b8jNJwuAHFrb_fm1MdYuDprbceOfoN6kdTr34b-PRKsopNA-vCVxlQiftvgzX9wc2K5MinCA_q-600t2GiL_sYT07jw",
+      "text": "山區網路不穩飄4g就送不上去"
+    },
+    "webhookEventId": "01M5VFVAJTC3Q7JHB8Q0TJDDSQ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792997697999,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U855d8d78740604c641a0d90c1313bc2d"
+    },
+    "replyToken": "eb43062367c24f76856766cc72f15a21",
+    "mode": "active"
+  }
+}
