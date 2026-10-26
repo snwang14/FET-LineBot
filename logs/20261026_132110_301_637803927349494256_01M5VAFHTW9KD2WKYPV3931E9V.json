@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5VAFHTW9KD2WKYPV3931E9V",
+  "MessageId": "637803927349494256",
+  "Timestamp": "2026-10-26T05:21:09.395Z",
+  "ReceivedTime": "2026-10-26T05:21:10.301Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "1頁簡報放在平台最後一頁，待與機關討論事項，建議方項，，，用簡單说明！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637803927349494256",
+      "quoteToken": "3R0_NHLd89xgf3uJADKKXUDvTossaXozMdPNJxSgLYk5fXEb_NwNHFrR9nNLftXE6PF-jQ6_wq4jkfwcOol8xxXhr9ISsZJ4ralqwtAtyjcW1pnAk-cLoXPyP6O1aD8pWqskmg4tidVse33aLudMQQ",
+      "markAsReadToken": "B_SJFz-scApliXFakXeXkVZ3G8ZFgy3zbAsj67uaQ1UJwo3MCXLX7JuhU7ik_oIGNwFRllQ0ndfoRjuO_uLSCviR1WibjfYpRVYHHTUdDKgz3bYfDgb7GoLoRQFb6ub2UB5s8XFHqeq1AxFwZwFQDBpn2pT5E1lcdlrUjUbZRT1SPx7drAumyyho7S_lQahnLE7MHqRWJinVxH2uRxpCug",
+      "text": "1頁簡報放在平台最後一頁，待與機關討論事項，建議方項，，，用簡單说明！"
+    },
+    "webhookEventId": "01M5VAFHTW9KD2WKYPV3931E9V",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792992069395,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "e3401c217cef466c9e5a23d1307d0225",
+    "mode": "active"
+  }
+}
