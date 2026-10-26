@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5V9NBT2ZAYFKSS0SR46QG8S",
+  "MessageId": "637802487394861193",
+  "Timestamp": "2026-10-26T05:06:50.987Z",
+  "ReceivedTime": "2026-10-26T05:06:52.293Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "你們都忘了這事嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637802487394861193",
+      "quoteToken": "lE5GGRmS8Rz_mOHqQmlW2BEydIY5DA6G6OIOiM9MCKRTQtJLjFtusk6crAJf1Wr1KJle9RYwfJKA0AkvQFVcuwkd7CxDcMoVtfKH6wtkDPT3FEjIJ9ISOxu3va6IwozbC5VQSmN5Qj_y5LPBAXyRYA",
+      "markAsReadToken": "pKvZmZ-MZJhlc0kjdWd9vavdGnQJY3iqo2IuYcAg7kWD_xfMyFcx5hr6CATEAFTkbYqU2QDFIX6Ht8e8vvyXGsBa1P2NH8xh5tYWxKNVsN8Fa-WkujEYTXI8dI9b_23Ohc6pOtdou656osYvALRBJvWxnA4QNtc2SzrqM64EzUufEeSpmXf83N4h8FKosCVpAahYADyKZqNYW7n2Kp9koA",
+      "text": "你們都忘了這事嗎？"
+    },
+    "webhookEventId": "01M5V9NBT2ZAYFKSS0SR46QG8S",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792991210987,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "03cf501801c94eeea6341403eca771e4",
+    "mode": "active"
+  }
+}
