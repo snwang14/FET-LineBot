@@ -1,0 +1,49 @@
+{
+  "EventId": "01M5V8PRKGB05QZ85HHD5F6BCT",
+  "MessageId": "637800804522656004",
+  "Timestamp": "2026-10-26T04:50:08.119Z",
+  "ReceivedTime": "2026-10-26T04:50:09.864Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@Albert-yang楊 \n楊經理\n請問是指哪個部分呢",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637800804522656004",
+      "quotedMessageId": "637797053304930475",
+      "quoteToken": "00-Pm9JQxM8Ku5Lb9DXvOiHeu-7LBsEx2XBdHKZAgahzXJzU4XOM91TligPmrq9lyyemv4WMhYZKKYD6A4UzP1hEkY_LusBNa7vKYBEfYbYx0FJxatpAQsPGtkX3YEim4nNs1VfLAuqUnoe74F1T0A",
+      "markAsReadToken": "OBn35sU-AdANkc89_noS5bakqZDXNqLxSswt90FdOcCe7eoRzXb8fZ6kZHoxovGKhPogHDNicv-duXvHKOrIqj_L7AtvS0sKcAmrWaksCnTpMUPAHXIlZGe4urRhbknrJeyZ64vOuichaffNfG5ptEiEI_bpCdhBXay7xZ8dY7bQ8zChoioq43TZeHtC3pd_faVPZaXfMecaJqDgQ4Mo8g",
+      "text": "@Albert-yang楊 \n楊經理\n請問是指哪個部分呢",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5V8PRKGB05QZ85HHD5F6BCT",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792990208119,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "e4d438c35981443ebd689ab8f32b7ce2",
+    "mode": "active"
+  }
+}
