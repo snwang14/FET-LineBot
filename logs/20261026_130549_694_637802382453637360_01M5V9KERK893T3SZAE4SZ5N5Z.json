@@ -1,0 +1,48 @@
+{
+  "EventId": "01M5V9KERK893T3SZAE4SZ5N5Z",
+  "MessageId": "637802382453637360",
+  "Timestamp": "2026-10-26T05:05:48.481Z",
+  "ReceivedTime": "2026-10-26T05:05:49.694Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "@胖仙女 系统平台訪談後不是要作流程確認，在例會中讨論確認方式或另開會議，所以耍在例會提待確認問題讨論？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637802382453637360",
+      "quoteToken": "b4YA7ITiouQXp5LU2wh9QZG4Uf5OGimo5EL1RvUmO-9suzOTkxfhTVIOgPb8MRErlc28WdnjBM0y8IJ8kTknbRmc_pqRbQxXzlpJdowW5A4jzNa7JdXtPKIPVN4eN-sX5CIQ7DETwW7pqnD1SgCdBA",
+      "markAsReadToken": "MvWq9MUm5WhnMItuc3V_12_pzSUW_HWHBszHp0zy1-0rnGPvCl0pCcS0j2y5YNZ6k3IEHHpBXKycGiFO476LKL-5sWal-RMn-Z5kBeEZxIn6tydeuJa3XaXHk808SnilBvyrArrIw9jt_jZvIZFC2wBZgEFJy32FlT2YpFb2T5m8XboSRdqQsIsqRQMgAPOUw0UbV8UEdFqAlAHLgpFCXQ",
+      "text": "@胖仙女 系统平台訪談後不是要作流程確認，在例會中讨論確認方式或另開會議，所以耍在例會提待確認問題讨論？",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5V9KERK893T3SZAE4SZ5N5Z",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1792991148481,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "c1d8918e170a44258fa7af8c55664bc4",
+    "mode": "active"
+  }
+}
