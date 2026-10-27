@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5XT2K8F02VAKAGVQ3THJ2AS",
+  "MessageId": "637943951856763173",
+  "Timestamp": "2026-10-27T04:32:10.518Z",
+  "ReceivedTime": "2026-10-27T04:32:12.640Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "這週例會是明天下午3點半",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637943951856763173",
+      "quoteToken": "7YDOShNp4Xali4bcxXfwjYNLWoMUTgkc4Bjo-Jeblamxl3a7xU1SmaYVpgSEB3vd52ZTxPAjQdD5tmcMj6VzeC61OUvHKlr6FzOQ18qcjOjzdKYvKSXw_6H0aWoVsHJCUWNPRwLZ4O-tQHH_lCxlgA",
+      "markAsReadToken": "giM9aQ62urh_KWtt4UwbNi6U8GAisx_i315ZpuI-AVuuxKElZs9AUnvFYj9JkTW2QO8sFrH5dztw-6jx5xfTurupI_M3OO1WO6oMpikik48kfOom5ADwlEdpXzGoGCGXtMei4NqL9P6BPG7OP1XLYZY-av8HjROwJGRBRDkPpIuuQCujcUy5yzTszqTTddLAhCpuPuy5fDhlTKFnmWhSnA",
+      "text": "這週例會是明天下午3點半"
+    },
+    "webhookEventId": "01M5XT2K8F02VAKAGVQ3THJ2AS",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793075530518,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "50363cb0bf1b430db84cbf433e0835aa",
+    "mode": "active"
+  }
+}
