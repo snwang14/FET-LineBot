@@ -1,0 +1,49 @@
+{
+  "EventId": "01M5YAPMM75EV6XVY9QKWEPKRR",
+  "MessageId": "637973201254613547",
+  "Timestamp": "2026-10-27T09:22:44.562Z",
+  "ReceivedTime": "2026-10-27T09:22:46.176Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+  "DisplayName": "Michelle Pan",
+  "MessageType": "text",
+  "MessageText": "我下午有其他驗收會議， @林郁翔 Alan 再麻煩出席",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637973201254613547",
+      "quotedMessageId": "637973090827763985",
+      "quoteToken": "hbE58AjeEDJH9cvBMfKUlNRw6ojylNtp9bIi7DNtAOl3iomrdpEn1AS_5KrwbQlD-FgXqYUpovJFzLfpbKPWRDcxTX-zLLBUVEAJWIH3OyNZEuSFZRsrVDFCfX54HwNGYOPujZuRJfsUbY2THD9XVA",
+      "markAsReadToken": "jHPj3_AippH4iMvok66H8VBQdVmhAiGs0i2DVh8eespnv-kyRRNknXEmDUTtIzBN_6OiLLSzMGpHzlvwXJmZKCwrpNUD1936MyNnQ1cSPL_8dxT7GZaMbAQCbDW33skJwrd-Rqd35-VUFFdebaEunrrV9nBnTWaohTFRZvnIVK3XqevEPmOJ2wGBK4rNKodWcJzKr7WVyksCpWT2foirXQ",
+      "text": "我下午有其他驗收會議， @林郁翔 Alan 再麻煩出席",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 12,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5YAPMM75EV6XVY9QKWEPKRR",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793092964562,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9"
+    },
+    "replyToken": "1cb64b969e0e49b28be98c78432def0b",
+    "mode": "active"
+  }
+}
