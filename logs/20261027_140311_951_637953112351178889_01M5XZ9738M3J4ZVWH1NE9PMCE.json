@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5XZ9738M3J4ZVWH1NE9PMCE",
+  "MessageId": "637953112351178889",
+  "Timestamp": "2026-10-27T06:03:10.460Z",
+  "ReceivedTime": "2026-10-27T06:03:11.951Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "目前大致盤點尚需確認的問題內容如附檔",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637953112351178889",
+      "quoteToken": "RO07eoEdXzM6J5brry58kVsCB5YRLtowHBJvhQXSBY_9viqY21aEVtCTTZJl44GBXBPdqTLyIdhOdyO732u8BCU64AKSkQKQYP7t9C1LL6rJl3ayKRBInBuXV7idnjLFPok-AVZYxCq5eNyeJyaYBA",
+      "markAsReadToken": "1MjLn0lLEDHlnOyr8YsE5bluTRvj6DOmjaRMnMYZ3kXs7i3wtW4_mApcihYqFxNPksD-7dxhe6wDhlFyCWkWrgJDG7fz7sncw3NE_2QUM5OSm-U8d9rW7icbmrmlTP1PszZuXGAjDHKNtZ-v4KWAkq1Z7X4ptCGTMX-TRYU5Nolztefkzvj3ROKK8dEoLSKqvVbHucNgz0BOwfqeFuqcLg",
+      "text": "目前大致盤點尚需確認的問題內容如附檔"
+    },
+    "webhookEventId": "01M5XZ9738M3J4ZVWH1NE9PMCE",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793080990460,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "4d18c652e98542df8eae9ca81563735c",
+    "mode": "active"
+  }
+}
