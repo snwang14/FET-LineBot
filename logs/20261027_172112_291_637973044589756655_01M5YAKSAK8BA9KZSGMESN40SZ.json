@@ -1,0 +1,69 @@
+{
+  "EventId": "01M5YAKSAK8BA9KZSGMESN40SZ",
+  "MessageId": "637973044589756655",
+  "Timestamp": "2026-10-27T09:21:11.001Z",
+  "ReceivedTime": "2026-10-27T09:21:12.291Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@Andy @Julia Lee 佩玲 @Michelle Pan @林郁翔 Alan \n本週五 10/30 召開專案管理與承攬廠商月會",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637973044589756655",
+      "quoteToken": "aoKlL0eUSO3SJz3DETU7ugfW9mrlMMCTuY36UMNw9gdK6qGps3i3IRJ0S0EsnkZ_AJ_FkaI7kFpneNTQazQXFugB8A-stS4fNdso1zpjJ4WjTjBFhCBggIvlqOrXabG8y8jR4qeoxpX-yliHb-hu4Q",
+      "markAsReadToken": "j0PGW6a8wyLjF-RUC0kkQDCqysXm8nveF-E0iZFuU769uoMFhFDbpuMGQzYR0gCi6OSOABp2SInApIoXSkPgyLz_IcmrS2lOZei8Kfn5FPn7PtNUDg3pimaohdBWSe91w2jhYc4fX_c45JHP3kg-2uim18HjwSA1xLxvQljvJLXyhjENhYergl_3lbTH-s718GyClMnGbH23UnSCatGBaA",
+      "text": "@Andy @Julia Lee 佩玲 @Michelle Pan @林郁翔 Alan \n本週五 10/30 召開專案管理與承攬廠商月會",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 6,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 20,
+            "length": 13,
+            "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 34,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5YAKSAK8BA9KZSGMESN40SZ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793092871001,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "00de1151c1554ccbb542252081257e90",
+    "mode": "active"
+  }
+}
