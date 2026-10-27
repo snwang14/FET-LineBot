@@ -1,0 +1,55 @@
+{
+  "EventId": "01M5XYMB8RHTB7PAGC8176C36H",
+  "MessageId": "637951964504129555",
+  "Timestamp": "2026-10-27T05:51:46.464Z",
+  "ReceivedTime": "2026-10-27T05:51:48.205Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@Jason廖賢文  @sanjinchen 有空嗎? 想問一下跟光林測試的部分  謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637951964504129555",
+      "quoteToken": "PD6eRv1rv69oqo2ZhxoQO9pWX3eGt__G6GQ9Z_Z_cw4jczG9M6Op2N5b4g6pXY8YKWjdH4AW-mBGq5y1XeSnFqfIbtu3awgkeiuBwrsFKFuFwuWiqhHifSdAIbiAYT81OX5fmKSIdP-hDqxVpZsoyw",
+      "markAsReadToken": "xSZ3bMFXftFSdPn5RWSSX0LO3lmyTWmd0t2fpZArp917d6ll91gTuF1CBAgvywgYhSZ1PqIzousmjRqggdyLduAdA6dbHj0lGptseARZR5NCPnnfcZfUNRD1AY9erDpSoP5eWpPZxxZfmn4nZrG9my6V2_BCSGDLxoo9iXVV6mK6j3ZyQJWNKpct5wU65UGNRA70vlOt21MN8jtx3BMZWA",
+      "text": "@Jason廖賢文  @sanjinchen 有空嗎? 想問一下跟光林測試的部分  謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U21620661d4adb885147ac04fa12857dd",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 11,
+            "length": 11,
+            "userId": "U375f2b0f385cb715667fe836bb7a29ad",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M5XYMB8RHTB7PAGC8176C36H",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793080306464,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "a7adac082fa943cdbde98e6981bbd099",
+    "mode": "active"
+  }
+}
