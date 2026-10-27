@@ -1,0 +1,37 @@
+{
+  "EventId": "01M5Y1A4WRZJKHPGYA995TDQ84",
+  "MessageId": "637956682089497209",
+  "Timestamp": "2026-10-27T06:38:38.372Z",
+  "ReceivedTime": "2026-10-27T06:38:39.671Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "我會議上\n晚點確認\n謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "637956682089497209",
+      "quoteToken": "IFce30er_1wVKCpVS-KwKY6dFQIWZAKaZfeFamrz6MXDFaNOq0bIENsZtrkr7gSBsd4ZpzZo-dB5bGr8PIJvrKHBPjZdk3Cg6qNRQJn12nD9DtMh9FqLNygjJQw9zWoUMFGSlkUyJhKI49F5OS8g-A",
+      "markAsReadToken": "NNtyhi1kVusnqbveYRLNXIjBmSqvvQfZwGkyXpt-nzYuD842IttiXPBJDthEt9MBUOOEhL7O6joX4TXQeBnSMdx6WbobecjKQDya4cZJnvZjKivH1B4_XcgnYEiaW_CmMTcEk5_VvfymBZPuKhEipJ3QQ5NXl8rkLaePSGDC5UtyAu-XetYd6urqTCxDFRZbmslLSn7hG9wdOHBXR27EBQ",
+      "text": "我會議上\n晚點確認\n謝謝"
+    },
+    "webhookEventId": "01M5Y1A4WRZJKHPGYA995TDQ84",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793083118372,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "70a3d34f11924583bbfa4a44155bc709",
+    "mode": "active"
+  }
+}
