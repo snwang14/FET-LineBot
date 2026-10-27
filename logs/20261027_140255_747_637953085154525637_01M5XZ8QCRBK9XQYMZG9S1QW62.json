@@ -1,0 +1,40 @@
+{
+  "EventId": "01M5XZ8QCRBK9XQYMZG9S1QW62",
+  "MessageId": "637953085154525637",
+  "Timestamp": "2026-10-27T06:02:54.401Z",
+  "ReceivedTime": "2026-10-27T06:02:55.747Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "637953085154525637",
+      "markAsReadToken": "ZXxCuy20Wif_n5FTvmr3O9TsER4ro-q2HJrPrFJQc1KQJftfIIVHf2ng9xavqtKhkKm1o9wClBaLPIYUGB72pk87mKEepY8OT4gWtM-GzWKmCInptFSDHgBWzb1G4x5hkhELVin8BJKFCHY_YnehswtPw1_URzbYMhqLIYPZqFsfTGbYlxLWZvF1vboPZK1SLDUn-xTrbLIEzWSNZm9Jmg",
+      "fileName": "20261028_需求訪談尚確認議題.pptx",
+      "fileSize": 48517,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M5XZ8QCRBK9XQYMZG9S1QW62",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793080974401,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "d228a0a1664d4e8badee053ef2046052",
+    "mode": "active"
+  }
+}
