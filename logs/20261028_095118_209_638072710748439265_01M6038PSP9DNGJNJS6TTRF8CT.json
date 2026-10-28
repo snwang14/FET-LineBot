@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6038PSP9DNGJNJS6TTRF8CT",
+  "MessageId": "638072710748439265",
+  "Timestamp": "2026-10-28T01:51:16.852Z",
+  "ReceivedTime": "2026-10-28T01:51:18.209Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "注意期限！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638072710748439265",
+      "quoteToken": "qhv2cNshLpWh-UXZ23qKxsZgVEYcFCKUX6O-rRbnyCRFpKy3OpcG1JYcQEsGWH2hTDIMTVRa9az_v0blsxMsv3VZov4TNBktsNCd5cWESiAgkx16_46s1rJ1jPEkrwz_buzsI3H3Mg0-3opwhBh-uQ",
+      "markAsReadToken": "c7igTvOW_iwg1cDON05GNu9-GBEwB73TGJr_k9z_n3BYT2UGfQ6SG7nCq5bW81G1g_M7tVT3wz2-GFV9YIS0sW8Cf6nVbiRAfwaIPjyppK7KWP70A6EsoIumZJiHhyUrr3_WB0YTf_M6azZgVGbQs1oa2BulibQFVWnubNsiG9RU2z9YDV4kWcgZCmP5muucv_BBwpPgwtRkujQTg8caHQ",
+      "text": "注意期限！"
+    },
+    "webhookEventId": "01M6038PSP9DNGJNJS6TTRF8CT",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793152276852,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "744104ac03d1441db445208219e77ab0",
+    "mode": "active"
+  }
+}
