@@ -1,0 +1,49 @@
+{
+  "EventId": "01M60G7VJBAREYH9ZFYXGJ9ZM0",
+  "MessageId": "638095533801996802",
+  "Timestamp": "2026-10-28T05:38:00.402Z",
+  "ReceivedTime": "2026-10-28T05:38:01.773Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan \n請看一下",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638095533801996802",
+      "quotedMessageId": "638095448003576336",
+      "quoteToken": "NmRnPXDNbky5W5UgPyJA7-Lt9GXxrHSgkTFCJBTjKLbEjoHfcqEMPazlyI9TVlqZDovPfGmqAJaNm-ZllYKJRO7RNi0OQgUnQvmUSWeQ3d57_4khGpxr5vlgCxRZiGEsofEqw2lmoeqcPggpZHJ33A",
+      "markAsReadToken": "kalj0JdnnyhOkkAwdtJEAUIBImz96owDWj5dW4DQIR_O87QDBQOS5lr2jtVSMC0MyttkWHMVytEOm4jX49DvCRwx_tzx_aQH3qcv21mH0m7dVeLGI6Xm0Hk0zuXG1RbI1t3kXRI6J8KSJzHndvNDleX8i0rRQAakM1lmi6FPYAKqYtgpi39UZbARCi3oGVHcqRjZWbKb76GIytezx1H3yA",
+      "text": "@林郁翔 Alan \n請看一下",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M60G7VJBAREYH9ZFYXGJ9ZM0",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793165880402,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "4de9e246d51b4cc395580e4fc83820f2",
+    "mode": "active"
+  }
+}
