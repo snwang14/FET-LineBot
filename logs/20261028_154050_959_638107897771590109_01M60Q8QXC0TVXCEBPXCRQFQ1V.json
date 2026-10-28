@@ -1,0 +1,48 @@
+{
+  "EventId": "01M60Q8QXC0TVXCEBPXCRQFQ1V",
+  "MessageId": "638107897771590109",
+  "Timestamp": "2026-10-28T07:40:49.767Z",
+  "ReceivedTime": "2026-10-28T07:40:50.959Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@陳禹任 目前廠驗平台有預計何時可以完成嗎? ",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638107897771590109",
+      "quoteToken": "hG6F2x2sLKItW0dhgI3eF0AqBvql-GhunMgh6jnYGO_W97X-sXk-NSa4w5QsQzBunNTBhNVGXpyyTRpqLeTuApQQgjVAu552DssnhLJhGoBQBD03HJuo7VYjyqtZqxS1M3Enl9rvXM6xsEivJgZn2A",
+      "markAsReadToken": "4PTXIl6RzrgwqIiygaPELljGaZQV6a1ytEjz2o6rnZPBLC3Rwn6bSsWWhjQI-9drc4VOCsNtGXSHLrbB233OF2B_y5y8KG-2pvvVoEm4JL3aqljUhUEotjwjRIwPpzFLc2YhB6dEng6frzAJ63RqavqQGnoKGT_lWL0p9aLjR-RCwnlSG-c_HSnzr1oq-2sJBXSdYNeIjvcCIj8ThhksNw",
+      "text": "@陳禹任 目前廠驗平台有預計何時可以完成嗎? ",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "Uff84e2f22ada43f8145f2fd625a33ece",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M60Q8QXC0TVXCEBPXCRQFQ1V",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793173249767,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "76c044ab17e34910be1a864ebd90024a",
+    "mode": "active"
+  }
+}
