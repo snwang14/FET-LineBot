@@ -1,0 +1,37 @@
+{
+  "EventId": "01M60BNJ4KZEXFZ3GM768FBJ67",
+  "MessageId": "638087491878387968",
+  "Timestamp": "2026-10-28T04:18:06.898Z",
+  "ReceivedTime": "2026-10-28T04:18:08.002Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "好 謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638087491878387968",
+      "quoteToken": "hfob3hFP8KotHiPzmVzin-W3EHDqLjQtXSOxsED8FSfb5D3RJOVfLnJQh0_N2ZhdTg00RfycSScGYfIOOENdTBMlPAiKnnyN0TmB_LVbJ1mZOHaHJngeaHZ-BYAnKMq-N-KNzCM_fUnlr9K0wtjZAg",
+      "markAsReadToken": "59psz9F0V044l5VoCMBx5J-uGu7d-pN4-yRESRikBtpCgIcqstVjGAhzp_qNzsgoIyUS7rvOZzp6ruif0fvIv3iMfQnIb2W8jeZCFc2tM-MT9wr_JXDPDIa1BVObwJUTt8azy8jy4RxlKOC0Blrji4jfuZYeBd0vzvzuQIVJ1Z35xkt21RJVptwqWVy7tRXFazLRnUIM9hIPO-uvzO-fSw",
+      "text": "好 謝謝"
+    },
+    "webhookEventId": "01M60BNJ4KZEXFZ3GM768FBJ67",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793161086898,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "098ec38720a547d7a2962504c6d1d19e",
+    "mode": "active"
+  }
+}
