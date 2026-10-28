@@ -1,0 +1,37 @@
+{
+  "EventId": "01M60NHGEJW04TMZNJJVN1YJ9W",
+  "MessageId": "638104860541059335",
+  "Timestamp": "2026-10-28T07:10:39.579Z",
+  "ReceivedTime": "2026-10-28T07:10:41.816Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "請問今天週會在那個會議室呢",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638104860541059335",
+      "quoteToken": "-lCf16hsGvbArBP9rz8yXSEi10Woi0W5vhCUUkgmvmmypaCQumTtYHWfMXvyj9SlKk1klKUcS4WzcatW0cBDzRbeOk-Fqi47h24RkImDJHC6mLLa3WS7R2I232Nya004xPN6u-r4-ersnWD1zCsadA",
+      "markAsReadToken": "4ENKLfG_UCOuflgKlyFxbHVjfxacOYJjYHU1t6OUAuMijKn_wFCVwWZBshuAIAhQq7a4zPaFgeSoOl1z6v7WJ1Mx8agpxa06x5I0Jm_MD-853XU1dugn9Pe-jpkswok_QmLIHRqLA2h8Xeo5ZUquX0cdcE2sdGf4qQ78uAfSnjJVtkMoCI-rSocS_-P1nKnVvR2qwkVgASwG6O6yohL7PQ",
+      "text": "請問今天週會在那個會議室呢"
+    },
+    "webhookEventId": "01M60NHGEJW04TMZNJJVN1YJ9W",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793171439579,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "8925615e61c5436a8c47280355d3f295",
+    "mode": "active"
+  }
+}
