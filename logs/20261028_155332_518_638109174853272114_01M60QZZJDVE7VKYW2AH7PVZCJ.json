@@ -1,0 +1,38 @@
+{
+  "EventId": "01M60QZZJDVE7VKYW2AH7PVZCJ",
+  "MessageId": "638109174853272114",
+  "Timestamp": "2026-10-28T07:53:30.967Z",
+  "ReceivedTime": "2026-10-28T07:53:32.518Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "好喔 我跟我們家專案經理回覆11/6喔 因為我們會先提早去測驗  謝謝禹任",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638109174853272114",
+      "quotedMessageId": "638109016358649859",
+      "quoteToken": "8uHYBYT7_6MXlznoYBSasdbH5dy1Pn97EI1QJDSUHWhE4V2wHufxWLhINyIWQPX_AFjGLkEdZSNY7odWjobPCwRD2xtSezbGZPxFi8Ji4ygtDK9LgnnuathnIuf6dhUe0eRMBmxpHpCdq5CqEpGAqw",
+      "markAsReadToken": "vMQocUK5vdAZfylP3P4K058buZ_8IWycoq0kVtEqCp6s07G4RlrHNkVvWev_HCWyn47gRyrKuqkCFyunrRFZsavAKUqKK10b2UfEvk-oEamUuf14DPu25efirAaWKpVBlHFjKC_nMh9Ac0UoWg3K3DsmqAAmXv7OKLPcGTAid_msJVQ9SmxYv-QAjukQJHsfJQE4zC8NEQHiw-HFDiIvmw",
+      "text": "好喔 我跟我們家專案經理回覆11/6喔 因為我們會先提早去測驗  謝謝禹任"
+    },
+    "webhookEventId": "01M60QZZJDVE7VKYW2AH7PVZCJ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793174010967,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "11e49ddc9ebf41c49cb17a806f6398d4",
+    "mode": "active"
+  }
+}
