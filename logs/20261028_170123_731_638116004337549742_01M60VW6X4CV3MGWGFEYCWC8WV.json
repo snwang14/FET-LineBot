@@ -1,0 +1,38 @@
+{
+  "EventId": "01M60VW6X4CV3MGWGFEYCWC8WV",
+  "MessageId": "638116004337549742",
+  "Timestamp": "2026-10-28T09:01:21.771Z",
+  "ReceivedTime": "2026-10-28T09:01:23.731Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U375f2b0f385cb715667fe836bb7a29ad",
+  "DisplayName": "sanjinchen",
+  "MessageType": "text",
+  "MessageText": "上次聽到的通知是12月中,但這個我不曉得這個是不是final 決議",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638116004337549742",
+      "quotedMessageId": "638107847171506823",
+      "quoteToken": "ahwO4azQUeT6KrY6DpdIYCR4Fy9s-YBRnKBz6eH1vb6q7HkuuwvsMH484nAUfApXLfj9ks1fGVydjcT09crC9qumFtT9b7Mm9i3vKX1nyPTeXhgThsFWWuFUkE6MndAFmaruildFqcYNuBjzF1iiVg",
+      "markAsReadToken": "wdc9Eum-C5Sq0kn_PFxSPryS17tza3-xYAzFYz_RlFksgg76gacko8jubMs4QrJzAbqZgCWBmIwXARv4TspBlENvbdyRMbkELUvqbxd98-xQwnGtF7BkDZPTnZbIFP15pWQ6j6WeWFFsvf-tORYKjASawKPHNJLmVixBvPIE5fgKme27vAgS7ktmo9RTu9CLNa6p38IXpdywUai7DiepGQ",
+      "text": "上次聽到的通知是12月中,但這個我不曉得這個是不是final 決議"
+    },
+    "webhookEventId": "01M60VW6X4CV3MGWGFEYCWC8WV",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793178081771,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U375f2b0f385cb715667fe836bb7a29ad"
+    },
+    "replyToken": "47fccf6ef6984ec4849cc03113b7a695",
+    "mode": "active"
+  }
+}
