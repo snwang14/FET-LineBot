@@ -1,0 +1,37 @@
+{
+  "EventId": "01M60BMWJBT918B39CWFA8FF4J",
+  "MessageId": "638087454565335096",
+  "Timestamp": "2026-10-28T04:17:44.735Z",
+  "ReceivedTime": "2026-10-28T04:17:45.864Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "路燈換裝第三次工作會議紀錄",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638087454565335096",
+      "quoteToken": "ZsjE4ODS6SE4zVnmiZpS_JRyOaQcTom-aGjgP9Pdv_7Tvvw9ryXgMQkQQWQ9nV0-awRMegnjC_jrEwGaoDlNUFBjXlxAkpGB3Y2LP6hndsJvLGjj-J7UTjdHcuj8qJohCInAdF-kz1VFd796h56-uA",
+      "markAsReadToken": "vARZFdwv7JJA03gX0I7sz6a0zu0SVjYu64G2d1crmGorwzEysPIVjmp4wt_57h8NVy9HZk6DXtW-NbJ27VCQS3jUC53HFxorcmVrIG4N4IEoOj0LbS-48K1aMNGR8nw3bDu4isuy2C3URVllhY7A41SF4cPfM9-o5u2j85g7PBN-hm-e9vZ51hkGfkSsfYpF1FVGXfac0S2X8h4doxuuOw",
+      "text": "路燈換裝第三次工作會議紀錄"
+    },
+    "webhookEventId": "01M60BMWJBT918B39CWFA8FF4J",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793161064735,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "b08b795caa59413aa26872187b639264",
+    "mode": "active"
+  }
+}
