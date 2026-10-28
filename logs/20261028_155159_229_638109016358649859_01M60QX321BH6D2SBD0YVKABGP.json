@@ -1,0 +1,38 @@
+{
+  "EventId": "01M60QX321BH6D2SBD0YVKABGP",
+  "MessageId": "638109016358649859",
+  "Timestamp": "2026-10-28T07:51:56.532Z",
+  "ReceivedTime": "2026-10-28T07:51:59.229Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uff84e2f22ada43f8145f2fd625a33ece",
+  "DisplayName": "陳禹任",
+  "MessageType": "text",
+  "MessageText": "因應 11/13 (五) 開始批次廠驗，我們目標是 11/6 (五) 提供可讓光林開始測試的平台",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638109016358649859",
+      "quotedMessageId": "638107897771590109",
+      "quoteToken": "QF4v1LIjPsg9mZzwItbfo0ocFc55TPieCNDg9hzzyl6KRiDj6TzbxDNdK4R0nIAP7KaFHcJ2sAY8ZUJ6gCUFGcBgV2attYwHRYanA-Axe9C7A8joRJwmRqetVe7nWof0TVv19tfAT7LyiybpyYhYDw",
+      "markAsReadToken": "x0aaTfnHwmT31LORMGAT4545D4jUxvAsTd5XH79RLdHhUGkHtTT7uZaT-J7G9QbmAitaOumnHHrAdoD5hgBpeaqKB1yB-8T4X9qACt2WPE5-VSv7dcBet6W7Qg2oNJ-CGAgzPq00CYfGiTkNgoiHVF4A5IxWxKq6OyUG2kfiERbgwS77jypuC7R6_YL4N0gOFa97xExR429-i2uqsICWRw",
+      "text": "因應 11/13 (五) 開始批次廠驗，我們目標是 11/6 (五) 提供可讓光林開始測試的平台"
+    },
+    "webhookEventId": "01M60QX321BH6D2SBD0YVKABGP",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793173916532,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uff84e2f22ada43f8145f2fd625a33ece"
+    },
+    "replyToken": "b7d327ff388b4003896d0fa8d0b43b18",
+    "mode": "active"
+  }
+}
