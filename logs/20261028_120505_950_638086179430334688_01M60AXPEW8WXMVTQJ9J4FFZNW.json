@@ -1,0 +1,49 @@
+{
+  "EventId": "01M60AXPEW8WXMVTQJ9J4FFZNW",
+  "MessageId": "638086179430334688",
+  "Timestamp": "2026-10-28T04:05:04.713Z",
+  "ReceivedTime": "2026-10-28T04:05:05.950Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@Albert-yang楊 \n楊經理\n不好意思，可以拍整份文件嗎，謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638086179430334688",
+      "quotedMessageId": "638072616795505050",
+      "quoteToken": "FOHFiVMZvNn44_LbcWWO1_pDSPTHd-SQBLRdBCuEvSnbZLSX5NYI6yEqhUUDdj-ayeprF4jv8cFzaFRT-tm7z0virkfGrQABcuiGEghXpe50_Vv2bKLCl3fElj6mYpctpo7Z8bGGDI8WD82-jxpNOg",
+      "markAsReadToken": "l_7ONu46hMCKZSuNp5ku7OvbV086tayDzLl7iZ66v8MLokeSCEi79Dv1vbSlDQGMLUkQ-jgI0K4sYE1YHkT_PgLBgIV0cTJCvpXRgcznD0LNDYLYG-doCAFVxSkQ0zdy4hG4017jt486bePRtJXsDH0nHxkP1Y1kmSeYYc8XhxfZ8zuJrlPNGcDa1exHALwnlvuLFWI7czfqdHCAgkOnTQ",
+      "text": "@Albert-yang楊 \n楊經理\n不好意思，可以拍整份文件嗎，謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M60AXPEW8WXMVTQJ9J4FFZNW",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793160304713,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "72b63ef9e6164d61891bb53d40528651",
+    "mode": "active"
+  }
+}
