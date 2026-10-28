@@ -1,0 +1,48 @@
+{
+  "EventId": "01M60Q7TRD29TH8GFTA0MEH4EE",
+  "MessageId": "638107847171506823",
+  "Timestamp": "2026-10-28T07:40:19.606Z",
+  "ReceivedTime": "2026-10-28T07:40:21.445Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@sanjinchen 請問一下 有預計搬遷至市府的時間嗎?",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638107847171506823",
+      "quoteToken": "dvg8JzFRi64ENHUCrVN5UZan_4dU_8tVhqDdmyGl_DzuMlZJSKk9O58psS2Pvc7VB-ihvZJFU53Iea3aomFmdMnYX7Q2qwawnW0iVAW9Kn-p3f88n0jCKaAbQYHsMGRAivL5x7w9btdln-W3F3TGgw",
+      "markAsReadToken": "O7tnEFK7vZBSuBbKnAz6OfBpRsLKEa8V-A3sxMfTJD4Coqw6XcqwI6O3iyyIrE8UMlzgno-jkKL79tr6aBYr-zcsjivRHpT0wSbEDA1hqtxFx-Tj5EkAMzOXubhaZJ1c2BDhMbV1Y7pUtM5Z_FGQ5ZZKBxQksr1n5aF_7pG0u1uBa5xAakmuwuX0LBlGVrd5NhWRLUyugZr1v4BtbSVbIg",
+      "text": "@sanjinchen 請問一下 有預計搬遷至市府的時間嗎?",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 11,
+            "userId": "U375f2b0f385cb715667fe836bb7a29ad",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M60Q7TRD29TH8GFTA0MEH4EE",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793173219606,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "a26db463d2bb4d65bb023dad90beaa0e",
+    "mode": "active"
+  }
+}
