@@ -1,0 +1,37 @@
+{
+  "EventId": "01M60GE84ETKS558HV4GTSPS5X",
+  "MessageId": "638095885418365356",
+  "Timestamp": "2026-10-28T05:41:29.892Z",
+  "ReceivedTime": "2026-10-28T05:41:31.212Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "下午我會再和楊經理協調這一點的功能完成時間了，有部分細節要請路燈科協助",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638095885418365356",
+      "quoteToken": "lMlmKjIv8xssrr89Vpk45p23QQ_gxd7QmA_kGECzYADLiWQh2gPuBkYpwlYi1sncVRLHnH92PNM8VinKPOUjizXC-b5YOgds_U7a32mvxNcF_LxtmSHAANeuU_re8UiZIc1aBRHso-Rx1rolSCZZ3g",
+      "markAsReadToken": "1K72Dsphuw2vrkHh3w46J8ldmtBQHvmwhufPBqDoQUnmtH-CgjVm1JErOHrxzir_H_lfqFo4Bee16ddYSNEGyjj1d_XFpBcADz_jFGxhOtj3vwigkV1hJzLDw3I47w_mDzZbV3OYgrV9vFQTQEplGrPwnqck-VX6L_qVZuO6SFO7YAZyUG_yJG8tRytqs50EpA7eeKaN2RgxiYdot7Fshw",
+      "text": "下午我會再和楊經理協調這一點的功能完成時間了，有部分細節要請路燈科協助"
+    },
+    "webhookEventId": "01M60GE84ETKS558HV4GTSPS5X",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793166089892,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "2c6f6ea5b4e14009a2b0cfdace79d2c9",
+    "mode": "active"
+  }
+}
