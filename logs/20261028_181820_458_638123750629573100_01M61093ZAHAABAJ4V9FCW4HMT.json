@@ -1,0 +1,37 @@
+{
+  "EventId": "01M61093ZAHAABAJ4V9FCW4HMT",
+  "MessageId": "638123750629573100",
+  "Timestamp": "2026-10-28T10:18:18.996Z",
+  "ReceivedTime": "2026-10-28T10:18:20.458Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "今日會議快紀：\n1. 楊經理建議，和副處長安排平台畫押會議一場，於十一月中旬。\n2. 今日早上楊經理提醒事項，預計於下周二（11/03）進行協調討論。\n3. 平台計劃書本周五前寄送 Email 給王技師，待技師回覆確認再決定是否發文。\n4. 億光智控器介接採 Web API 方式進行。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638123750629573100",
+      "quoteToken": "BDaafNdaEcvGIQb6J6WYdgow3iiOiWlRuW5B6MHPQwKcLKudNAWqra5vr7XEi0vqh0pme3VjSXmRUt2Wt6FKQSJ8NzNYACukLWsquoAE5wsb7GJ0TReHtzQkH-LKZQWDxIUhcbcuSOZ8P1mEe5SDog",
+      "markAsReadToken": "Ymkt_tXusoKj2FLHmLoY_tCeVIIgZ4ztkY1hBdOGhIa_kY_OBeumtihX6YaeuRFrXXAoxa3LyCw-DvSQiZEToXRkOZixjnMeRLTxLLLB66dsH1aUq9qVYZUNg-4mTndSNp-03WAJRj12y2zZFJSUIRaGHKe9LyZDk-yembfOsEw96hSUFbsgtzbiugeHHcH9M3Y9n1iiI5V5mH_9dhwo3w",
+      "text": "今日會議快紀：\n1. 楊經理建議，和副處長安排平台畫押會議一場，於十一月中旬。\n2. 今日早上楊經理提醒事項，預計於下周二（11/03）進行協調討論。\n3. 平台計劃書本周五前寄送 Email 給王技師，待技師回覆確認再決定是否發文。\n4. 億光智控器介接採 Web API 方式進行。"
+    },
+    "webhookEventId": "01M61093ZAHAABAJ4V9FCW4HMT",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793182698996,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "7a37c2c67f5d43e899b885ba11a61d6e",
+    "mode": "active"
+  }
+}
