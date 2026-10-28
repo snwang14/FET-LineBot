@@ -1,0 +1,38 @@
+{
+  "EventId": "01M60ZVA0KDPD4CCY93XECF9C6",
+  "MessageId": "638122991443509306",
+  "Timestamp": "2026-10-28T10:10:46.425Z",
+  "ReceivedTime": "2026-10-28T10:10:48.283Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "平台執行計畫書已與PCM楊經理確認，預計於本週五（10/30）以電子郵件方式寄送予PCM王技師",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638122991443509306",
+      "quotedMessageId": "637929536251757176",
+      "quoteToken": "t5CGL9VrfTX-6_LiE1H9phQkcSXuTIA1MoTgkg4xGSazhxf7rvDw6808eUYjiSXpLHtfpxYSRHAH769DN2EOUBMtrHzwYVMwKJt4Gaa1TZ64ua0-Bw-fpTUNZz9a9pZ1gu5Y6Dn4uiBRRKbyRwqo5Q",
+      "markAsReadToken": "u8fES2pYVvUWFH6_nMhMaJwjMo5CIWNwBkE1A-cOHTFRUp6E1cJ0hnb_5RYcCAGv4O8L1kVkafSsti0_1w3O2F5OM319keqWXuYe91n6hK3-TfW6DrfNq-1BeOC7i_20TmaTQMsdml4k75TbotXlFx0Q0qnDEWld1zyha01VPzkQMJjV4UgauAx7VzwUm28WNZI7l79PsDoc7O3YCaomFA",
+      "text": "平台執行計畫書已與PCM楊經理確認，預計於本週五（10/30）以電子郵件方式寄送予PCM王技師"
+    },
+    "webhookEventId": "01M60ZVA0KDPD4CCY93XECF9C6",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793182246425,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "2ab0bcc7ea484ae7bae9ed55218c93ec",
+    "mode": "active"
+  }
+}
