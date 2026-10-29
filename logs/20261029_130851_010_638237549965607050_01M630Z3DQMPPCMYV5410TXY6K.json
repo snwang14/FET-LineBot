@@ -1,0 +1,37 @@
+{
+  "EventId": "01M630Z3DQMPPCMYV5410TXY6K",
+  "MessageId": "638237549965607050",
+  "Timestamp": "2026-10-29T05:08:48.500Z",
+  "ReceivedTime": "2026-10-29T05:08:51.010Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U8359d86d04c7bd567653e01b89bfccbe",
+  "DisplayName": "工作機",
+  "MessageType": "text",
+  "MessageText": "好了再麻煩通知一下，謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638237549965607050",
+      "quoteToken": "ihMBwF0axIAmyrKSJ9NSijuPL_fqOeHUmX1VChAsZ9H6jiQ2jjEn9eQiXKNr8tcYo3WfR44SrACOEs5SE53K-71BX6TEDa1ijXLMA1bfKYQ1LhrfW-R9FBoSdssUR1TGzOQ0dvDXU4DxXmXBLcCIuA",
+      "markAsReadToken": "PGgdAggXxf3yD8iP-AI-99DpZt11JburcuSlE2GYgQx04zRGEJe_Rh89QwJBLZozbBmYIGMKuePc9CaBE-JCmCSmw2jYaBzWI46By2OsmjPVkkmqpZcFIleKOwomglAWq7To-wToE1SU3APrwsB_QkiLx3GZTlqtD90bjiGPsuk6PtTVpEL5nGj_KvXwerj4Ez4uoBmlLEngG53mGSPM1w",
+      "text": "好了再麻煩通知一下，謝謝"
+    },
+    "webhookEventId": "01M630Z3DQMPPCMYV5410TXY6K",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793250528500,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U8359d86d04c7bd567653e01b89bfccbe"
+    },
+    "replyToken": "4bdda0304ce54b23912195b67e4fd764",
+    "mode": "active"
+  }
+}
