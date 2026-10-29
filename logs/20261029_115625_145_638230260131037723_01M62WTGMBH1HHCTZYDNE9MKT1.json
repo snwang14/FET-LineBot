@@ -1,0 +1,37 @@
+{
+  "EventId": "01M62WTGMBH1HHCTZYDNE9MKT1",
+  "MessageId": "638230260131037723",
+  "Timestamp": "2026-10-29T03:56:23.572Z",
+  "ReceivedTime": "2026-10-29T03:56:25.145Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "大約 10-20 分鐘就好了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638230260131037723",
+      "quoteToken": "SZvRCuUF7CAgqYYLIm2-0XJYZL62fMhBfiq_MWAxoDo9c4zmn3sjzws4fsW8dKFqG6aNvZ3kFS4p2NDg9STvjDcaz2_Eq0xHeIUjPyINBSG1ojEAgYCDQDixro6CTmko3pN7aATa6G7Yz9WnJnofpw",
+      "markAsReadToken": "G0IWSXSDwnJJMbNmuFMcXYCP8URgUGJtpkd7Y1oRG4RzWAwl_fHSjTPDtZxRkQbIYTXfB12VjVJHvpVy3st87N7sRTnH1fn-6WhnbEXwfwKaHoTKKyjSK4pTsDVPwkzfYAHJR_-1zCdY3dSDmkDdr5DhHijsL5SYBXgUE3MGb1gQqPq822WCecHBFTnXSMwZq9lk-VRpWyb-UZ-Jga04Gg",
+      "text": "大約 10-20 分鐘就好了"
+    },
+    "webhookEventId": "01M62WTGMBH1HHCTZYDNE9MKT1",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793246183572,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "f99c1a0a3e634ff8996273625985bab3",
+    "mode": "active"
+  }
+}
