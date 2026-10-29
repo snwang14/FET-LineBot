@@ -1,0 +1,37 @@
+{
+  "EventId": "01M62WJY39GZKDMG8PTW685H70",
+  "MessageId": "638229844190822589",
+  "Timestamp": "2026-10-29T03:52:15.561Z",
+  "ReceivedTime": "2026-10-29T03:52:16.420Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "目前app當機都看不到燈",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638229844190822589",
+      "quoteToken": "ve__bZDC09Tot1FzYb_Y7Y16Huh__voluws-P9jb85a9p22filQ2NdyJS4HK07V9Ske7kohItvNiDtQ8__W5RJ9Ssnrk9EMhlsjWaw0xnT8gemRp1C3Rvw__vs6rjGapLSriIvpGI8NFkeNGD1560w",
+      "markAsReadToken": "w_WRMV4V68PAPdmcI9c-XG19LHnpSw2IW3MNlN6EfrGWB6ccv4YMoein5BuraldveLS5pBGLRk7l9ik-DSoUTy_n-gmWe5iH-GcFo0JDO5WLM7QIhqlHacqiW4sFlE4yv4sEOUZvHy-HkR5zJ_pzBJgcFWn24b8hXJo4NZZvLgMTxfrqrhxF6c6siWAw5MOgtDcx-oaX9pnQdOxC1EuK7Q",
+      "text": "目前app當機都看不到燈"
+    },
+    "webhookEventId": "01M62WJY39GZKDMG8PTW685H70",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793245935561,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "583bda12a9594f809bfdede89644e33a",
+    "mode": "active"
+  }
+}
