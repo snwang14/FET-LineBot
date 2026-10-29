@@ -1,0 +1,48 @@
+{
+  "EventId": "01M6343AN6ZNFQCXZ1B8AYYBMP",
+  "MessageId": "638243059754598419",
+  "Timestamp": "2026-10-29T06:03:32.677Z",
+  "ReceivedTime": "2026-10-29T06:03:33.923Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "小愷你和 @劉仁傑 小G 是同一個狀況嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638243059754598419",
+      "quoteToken": "koFg8VmOWP11tr0vNQqLpGr2WQZSSONYz1fLxtUaHaJTIr7rBI0r8t4GGEDSlybH5webFSoXwEJ1MqRX8h-8MPOmq5WCIYKi-tVBxXe18WE8kpRXMJY7d5YhqjUxoU90wF99mxNPo3Oumynn8pWKYg",
+      "markAsReadToken": "VYhUPG36QtIBNPQCkLjq5-W8TTcMV0aYqhYbkVqqJTe9fGDDJWKDRD4Jd-cKU5_LfewPex3FUx-05Ie3P5Gu14QeujKXaLR7849YZn606NDKDfonwEyF4-luhMrxjsvDnPrlJpbcoeXTcct6BI_XU1-Fp1BOdkD_YMlf7BRJEY5TH-lUpTlko-oR1sg1K145R72ygic4Z_wU7r4WPsyENw",
+      "text": "小愷你和 @劉仁傑 小G 是同一個狀況嗎？",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 5,
+            "length": 7,
+            "userId": "U495890706f56bcbf758befd5f784fd3d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M6343AN6ZNFQCXZ1B8AYYBMP",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793253812677,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "d8cb42bfaf0f428aa6d99879ad35a13f",
+    "mode": "active"
+  }
+}
