@@ -1,0 +1,37 @@
+{
+  "EventId": "01M62WJDHYBV2ZW17GES5HMZR9",
+  "MessageId": "638229816088199798",
+  "Timestamp": "2026-10-29T03:51:58.746Z",
+  "ReceivedTime": "2026-10-29T03:51:59.678Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U495890706f56bcbf758befd5f784fd3d",
+  "DisplayName": "劉仁傑 小G",
+  "MessageType": "text",
+  "MessageText": "重開變不能登入",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638229816088199798",
+      "quoteToken": "OaMpmgI88vtMxBf_5M4l8m_Pjkjd74Itx_gX-p4zIFHgv2euIiajpwA_IepFh3L7DkW73-HVZg2fAXAoMKShJdGgNQ4Sr8yYuUTazvRxCBoow-0dTKCD9IJOWPsJueDjYdm3xQ5rGwL_uYGWqRAubg",
+      "markAsReadToken": "sFr6tgDlr6r2P_nlYf7iH65ibRSWhwBehDL_Bphnpb4-bnWZWIGu8G-VRqjPC2yELr4568mWjJxXPoo3FxO5U89__2bWfvrd2-tLiJUavGOCpZYKAnB319JG7XKGeAT7e1xKG_r_DhA91dDzk24ETu6iAi_EDHCv021LtkVM6KyZJak4AT5b8p5y4iUgKJkdvzcmH7Dyebc4nSvRaduqwQ",
+      "text": "重開變不能登入"
+    },
+    "webhookEventId": "01M62WJDHYBV2ZW17GES5HMZR9",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793245918746,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U495890706f56bcbf758befd5f784fd3d"
+    },
+    "replyToken": "3c688a0eb15b4740a57193f2f4598ee7",
+    "mode": "active"
+  }
+}
