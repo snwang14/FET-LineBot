@@ -1,0 +1,37 @@
+{
+  "EventId": "01M633X763PBGB2SP0WV2FNJFY",
+  "MessageId": "638242723622551859",
+  "Timestamp": "2026-10-29T06:00:12.232Z",
+  "ReceivedTime": "2026-10-29T06:00:13.550Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": " 工班送審到自主審核的照片都不見了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638242723622551859",
+      "quoteToken": "PxmlMg_7BWaZJ9gz_-hlZ3Et7GhUnfSPasg2Sfb0Gur14gV_IBCo3VsKqPzHsGZozuTQ9JJNOnd416wzqWAYzZ3Cmx-ljhzenik9_9PqtV4_qTmYpnYKfaeVJSiR3LBDwoh3SYJXWD6-knt8SLf-Hw",
+      "markAsReadToken": "OhGykhPbA9o4zjtxFvdhlK_fSQrcjPiULKoI2h-cQQLmigwFvD07Db6ZiKlN4tiwMXXEd0Qo8X8ItfZNsSp4gbFsBUhy_39DWF4E_fcpk70_2VtJGQ4636dMWwT0QuS6PCxcOTVFqH-YuXM_n_r6iq91-9gvEPjy9QIxgoX3K9HPCyBSCcebu2WG6s2yPPMVkVbRptiLSjTuChj-wAJTxw",
+      "text": " 工班送審到自主審核的照片都不見了"
+    },
+    "webhookEventId": "01M633X763PBGB2SP0WV2FNJFY",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793253612232,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "42baf2c34c9b48afa9c4741a3f786139",
+    "mode": "active"
+  }
+}
