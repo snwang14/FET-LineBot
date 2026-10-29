@@ -1,0 +1,40 @@
+{
+  "EventId": "01M62W9M2E6H5FZ69A42GWGP6S",
+  "MessageId": "638229330505236927",
+  "Timestamp": "2026-10-29T03:47:10.169Z",
+  "ReceivedTime": "2026-10-29T03:47:12.108Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U495890706f56bcbf758befd5f784fd3d",
+  "DisplayName": "劉仁傑 小G",
+  "MessageType": "video",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "video",
+      "id": "638229330505236927",
+      "quoteToken": "-RyrjXa7uDLAZ22qgJZ5Deg0lHeXGXeSOv3298Gz_CgvVqffVzjUI42cPbWWk_9Lr-KWiy55i98O5JroOinHQpOCOcI3Ks-FbQuG75c_veWfSJJweto_-WApkeNNS4n9Bc-ZtJsAryhMEFPopX4q5g",
+      "markAsReadToken": "E0NIxPyOQk0VeZ2lROmh4DsRrDWOgbgknFHER3vH2ozoQFOxUZtKbSkmMCQHSq5VoNni5YYRJf__QLzLwzJE0GO0iq_nMxKd7e5XGX3mmWTTmgtRfRy9xJGcxN8u5xbsGCD-tCP8pSrIOWpf40VFZBSlw4_Li46GjMYdmlfZSJQPNlGJuJfGbSHWvXywHku135j2PBaPortFyk8KA540Lg",
+      "duration": 17078,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M62W9M2E6H5FZ69A42GWGP6S",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793245630169,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U495890706f56bcbf758befd5f784fd3d"
+    },
+    "replyToken": "c2d74a047d9549759c06ecf6297bfcd7",
+    "mode": "active"
+  }
+}
