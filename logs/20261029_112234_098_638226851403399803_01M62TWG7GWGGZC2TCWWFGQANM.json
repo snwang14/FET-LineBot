@@ -1,0 +1,63 @@
+{
+  "EventId": "01M62TWG7GWGGZC2TCWWFGQANM",
+  "MessageId": "638226851403399803",
+  "Timestamp": "2026-10-29T03:22:31.687Z",
+  "ReceivedTime": "2026-10-29T03:22:34.098Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Uc61db25e5b9796ca87e83a4207189f80",
+  "DisplayName": "小潔",
+  "MessageType": "text",
+  "MessageText": "(index pointing right)App 下載說明(index pointing left)\nAndroid 下載說明書：https://drive.google.com/file/d/1RrET_XHC1Y9dfdwm9Q9CFmi6dZlqsO7X/view?usp=drive_link\n\niOS 下載步驟：\n(one)安裝 「TestFight」。\n(two)於 TestFlight 內下載 「臺北路燈維運」。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638226851403399803",
+      "quoteToken": "ymdtxyMr-arkLtfsnGdXgnP93pC_dctSgANo47lNfSnRSS-SdDVpw_4rG2EP0C583RBxtQPTeXWgddhomNBzx0KITfBBuYJ4c3AEJlT8C8JOvyoN0gI-cZwcDdtH_r-cIBYnoV6d-riCscQYMa03fg",
+      "markAsReadToken": "RVMSG53x8yYNpR0pYLR0g0pu7wn6HnblQkGVbM_bsSeHPlnR26TX3yytpvW34RCiP9d-purHdzSzjFP-YK-UZ0u2NrgkTFnq8DuFqWkrqwGEky8RJc7EzseiUwQGJWSMrfcYNQc9C59qZsl_T3sNUFlLs3DbATViS-aD-fyFy1PwdWO-Xb2PWCMbbG4zihoPrQZ0J1o_jJduO9WUlfKy0w",
+      "text": "(index pointing right)App 下載說明(index pointing left)\nAndroid 下載說明書：https://drive.google.com/file/d/1RrET_XHC1Y9dfdwm9Q9CFmi6dZlqsO7X/view?usp=drive_link\n\niOS 下載步驟：\n(one)安裝 「TestFight」。\n(two)於 TestFlight 內下載 「臺北路燈維運」。",
+      "emojis": [
+        {
+          "index": 0,
+          "length": 22,
+          "productId": "670e0cce840a8236ddd4ee4c",
+          "emojiId": "152"
+        },
+        {
+          "index": 30,
+          "length": 21,
+          "productId": "670e0cce840a8236ddd4ee4c",
+          "emojiId": "151"
+        },
+        {
+          "index": 163,
+          "length": 5,
+          "productId": "670e0cce840a8236ddd4ee4c",
+          "emojiId": "203"
+        },
+        {
+          "index": 184,
+          "length": 5,
+          "productId": "670e0cce840a8236ddd4ee4c",
+          "emojiId": "204"
+        }
+      ]
+    },
+    "webhookEventId": "01M62TWG7GWGGZC2TCWWFGQANM",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793244151687,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Uc61db25e5b9796ca87e83a4207189f80"
+    },
+    "replyToken": "7d39172594a74bd899f876a6aaf8945b",
+    "mode": "active"
+  }
+}
