@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6341P6ZD8F4S8QDM2EH0B5K",
+  "MessageId": "638242969560285645",
+  "Timestamp": "2026-10-29T06:02:38.839Z",
+  "ReceivedTime": "2026-10-29T06:02:40.567Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "所以能夠送出，但沒看到照片，是這個狀況嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638242969560285645",
+      "quoteToken": "DEBTMQObcZQlxw2dXvf92toLRD4_9H9KewxyCUWgGbMei6yBrmD9MfGzK_0WfmYYWjkh87hgZuJZOuMH-ZtYKj8zMhSsK8MRyq10uSSTQncd2qfo_QmlYra6xPXLZROAMKK1U4MNRc-VK3Mzan_HOg",
+      "markAsReadToken": "PMdnpjJyayP4Ji5LJXPqznO1GaQW5C39mIz8MRg7k_sHToxPcRMKUcvsOHecjRbFFguBqhOBrYASBdXWD03L8m1FkA5xGX7tyqSLlLNX-URMfuS1LKz1BFeNKW5WHebKQ4VLdyZu7X5bbX48N0OAqxoTV9Jrzuo5qEQDH_Lx4MyHWfa7iNgJMHYFyy8P9TSfALd0ALY0uzEozZB0LRUeIg",
+      "text": "所以能夠送出，但沒看到照片，是這個狀況嗎"
+    },
+    "webhookEventId": "01M6341P6ZD8F4S8QDM2EH0B5K",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793253758839,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "47cbce177ac845d89caeb1d65232f45a",
+    "mode": "active"
+  }
+}
