@@ -1,0 +1,37 @@
+{
+  "EventId": "01M63501WY3NS5KVY1SWYAN5DF",
+  "MessageId": "638244638456545350",
+  "Timestamp": "2026-10-29T06:19:13.699Z",
+  "ReceivedTime": "2026-10-29T06:19:15.231Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "目前剩下這個問題",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638244638456545350",
+      "quoteToken": "Wii17UnNowzdQ9HUT9mfYNbeSygnnM8nV0talIkyytAnKQNB3BHTjA0Ef9aH8K9WoCzfOkCjKOUyxfl6TnnLIQ6WV3rQKuZjuPMnYTz2bW_yvoDCF0cEkSFU_wnmka9KMEYUnDNEB4qPKC0of657cA",
+      "markAsReadToken": "8C86wnlhif0ZuWbrT-eq_3nT886HDJzPddnhNVjfPK77mjY8mP-jhf859JW679RfS3he9p5grD_tbOihqZWKVvnmlUScTabyU-LRmkt2PtbsufR6pZEvk9DwiQaKk1qlhu0CfWusaYRAqNvBPf7s4nslgIW45UzHRFSOaU86rpQ5b7hblK47xy0KIkYl0WhFfIWTLwcsZ90uvfpHZBgqMQ",
+      "text": "目前剩下這個問題"
+    },
+    "webhookEventId": "01M63501WY3NS5KVY1SWYAN5DF",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793254753699,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "5694872d7791484e8a62b6db0ca97142",
+    "mode": "active"
+  }
+}
