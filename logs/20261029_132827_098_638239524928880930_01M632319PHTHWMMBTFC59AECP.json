@@ -1,0 +1,37 @@
+{
+  "EventId": "01M632319PHTHWMMBTFC59AECP",
+  "MessageId": "638239524928880930",
+  "Timestamp": "2026-10-29T05:28:25.663Z",
+  "ReceivedTime": "2026-10-29T05:28:27.098Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "請問能方便錄影嗎？\n目前我們測試是能夠上傳",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638239524928880930",
+      "quoteToken": "-ON4lECxKTUUyuFiLZjhmR1Q3Jv_fdwkNF3Q8xyH4RAb5kOFrc5GqaLjEXebR3GetUmyHUS5ZNN51peU3WEhbAWYfglkyAk1KAdfwnNnwoUcKL1VUULVuijNux6H1n59E9b-D0xJOqZ8PY13AVs1Sg",
+      "markAsReadToken": "yrQSsrfo6n3i-o_77gbNXGCiCGUHxV75DyBNoEUDOxeL_vCb28g92Eml1eD-15aXgsXksNuoheU6uJA1s5ECEVCO4tpo5yLXk96L_4pZX2x2zuBD4BEdvMmWl_2F22kzCq4-jP-4bHcQ-pVb92YYVM9laJ145dAk3v0WgFZ5-1C-xUhr_Y3IPdYA3X-Ddh2DOdWKffrkbOVbJda-2avbxg",
+      "text": "請問能方便錄影嗎？\n目前我們測試是能夠上傳"
+    },
+    "webhookEventId": "01M632319PHTHWMMBTFC59AECP",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793251705663,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "1c03e76ebf54438d9aca8d39963c5e0e",
+    "mode": "active"
+  }
+}
