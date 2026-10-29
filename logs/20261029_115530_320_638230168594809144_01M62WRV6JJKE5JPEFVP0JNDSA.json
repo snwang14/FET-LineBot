@@ -1,0 +1,37 @@
+{
+  "EventId": "01M62WRV6JJKE5JPEFVP0JNDSA",
+  "MessageId": "638230168594809144",
+  "Timestamp": "2026-10-29T03:55:28.988Z",
+  "ReceivedTime": "2026-10-29T03:55:30.320Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "大概要多久呢",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638230168594809144",
+      "quoteToken": "S_Tx9ZElHTqx2BfqfaW2biAg4zBGDNhJTgoapVBl8axsRRg10O0MkbL2aKiyBv4rYWwn5lPXcDjAH1qqjvRH4QbslxjMeehwCwrdVlstVsD6WhJ7paWstIe_LmAgNcmCWuQXMkKiVzGamKdN7BSLPA",
+      "markAsReadToken": "g9l2VpjLz_r4fla1AM6DpiUcxXm4y1sRvBuwWgaXo13WutBfn9eWG2RhCVW3VXp3cRxF3MqujRCre1845dERfSQZLwI8G0SbaIsHdHWT_FruU4qDaqa8yTB7t95UYfveRQiMV8s6BpnWAvjAe3aJNzfHF-HYcQOj0aaXLnXwjsg4MTnvV23wBK-1TV1KOX2qulx9eq_fnJfQ_OQD_QbDQg",
+      "text": "大概要多久呢"
+    },
+    "webhookEventId": "01M62WRV6JJKE5JPEFVP0JNDSA",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793246128988,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "b7da67bc117949a59d4d20487f794f41",
+    "mode": "active"
+  }
+}
