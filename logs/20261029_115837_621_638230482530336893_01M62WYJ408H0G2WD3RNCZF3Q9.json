@@ -1,0 +1,37 @@
+{
+  "EventId": "01M62WYJ408H0G2WD3RNCZF3Q9",
+  "MessageId": "638230482530336893",
+  "Timestamp": "2026-10-29T03:58:36.168Z",
+  "ReceivedTime": "2026-10-29T03:58:37.621Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "提前完成了，可以登入了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638230482530336893",
+      "quoteToken": "5Hd6HO86jscI3JM-_nspavmYOkzOL3ZW97ktumKgoH3rwgsea9b8BB8IaeGL9PGcNze2aabLgegCmnG9YFuYfdJVuI0g6ZqKQK4mlwh66LPLsspuPx6bNCkQ_owJj9Zg_kakFP7c2do3fhQo1q6lyw",
+      "markAsReadToken": "naqbGtFpMMCwcgohFTlV4-J9WIohKIdOOiidIcYLortYOQqFtXtzmcTmzVpeOnSWyS2T-fMKHx4e4BBdTOPGCIQACEw21rwIvK2ErKqaJzqR4MaXDcTmvEP89NfgyCe_Nft5fMvn944XNKw--s6EW9KMmKEWwaTDbNKhboNDshk0dgfiREq3GixWhyOWiVjx9aBQX1wRe3YUr9Mfql54Og",
+      "text": "提前完成了，可以登入了"
+    },
+    "webhookEventId": "01M62WYJ408H0G2WD3RNCZF3Q9",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793246316168,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "0f27644d11144a95a8d17e3f38fb1dbc",
+    "mode": "active"
+  }
+}
