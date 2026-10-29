@@ -1,0 +1,46 @@
+{
+  "EventId": "01M62T1CE4MSBMWBB36GE98N0Q",
+  "MessageId": "638225360529391753",
+  "Timestamp": "2026-10-29T03:07:43.020Z",
+  "ReceivedTime": "2026-10-29T03:07:45.341Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@All 今日 12:30 前會進行 Web 版本更新，如遇到網頁短暫卡住無法使用屬於正常情況，再請稍待三分鐘重新整理後即可，再請各位內業同仁留意，謝謝！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638225360529391753",
+      "quoteToken": "6yXwXkdF8J9LowFf33GzbZxZRuhv5cZAyLhu4IE1rOzLKA6LVVTBVxbAra63DCXrYJROPo8Uqf8Mad-NlvQ6qAI5ubNekRmQyePbrURBx-7BzoEw9jWAWUEGV6eK-XN5jNssXK8EJrgCdOMJ9KiFPA",
+      "markAsReadToken": "BBNb8syI3IrzSDOr7TmTvImaVL9VK-Wcb6xp_VMcgIiOLHzSfPuQlgdJKwNxlGQl7lqRkBXL2jqUZ0rt6hTRnSxabPK2FNjDkH0aUwsfBCgMHSYT17bKN5D0OCfTznlzubbvZWlZSpxbSlsu2hjZz9qw92Rc7nT2wmt_J93m4iBDNz0TOJbF777Z31ize62P_dZ4AcKk0SBxQORnXDAzKQ",
+      "text": "@All 今日 12:30 前會進行 Web 版本更新，如遇到網頁短暫卡住無法使用屬於正常情況，再請稍待三分鐘重新整理後即可，再請各位內業同仁留意，謝謝！",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M62T1CE4MSBMWBB36GE98N0Q",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793243263020,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "16f7a8075b404015a217d50e9e4e0bb2",
+    "mode": "active"
+  }
+}
