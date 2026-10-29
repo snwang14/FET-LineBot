@@ -1,0 +1,37 @@
+{
+  "EventId": "01M62WPVA1SW4849ZSQTVVT5TG",
+  "MessageId": "638230059626267475",
+  "Timestamp": "2026-10-29T03:54:23.908Z",
+  "ReceivedTime": "2026-10-29T03:54:24.734Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "正式機更版中，資料是連動的 App 也需要稍等一下",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638230059626267475",
+      "quoteToken": "-dS4LQXyGraeNH_gYmG1ZnVP9RhGxD-DNEiohLBeZDFV9cgsgcoVrnIdV0Jp7MaAsDViRHpewXzBRFnewTHxn8iFg4zUV8dOCU1CwFEvt1Oof3LAwjJal4lDIs5a6AkeruSFsoe5yFBKJ50sGX0VXw",
+      "markAsReadToken": "-HFcUCkbAp-id7jv_Tz-Ln_0fGpKE2iE23zalM2Y0ghrInrnNHeiQjzVNPkSHhWNwfHcaxw8hIV3w3463k6BbH08FwXrPXabKnTy7ZeNCzmIni4Zatw1fuSgMvoTrCmcF_g7wP8fIqcS3TOoVyyG9iioewDac7V--rrQ_ZmBJBDM5SCZgZ8Q82uJONrsZJeU-maDIfBth4RG_ut6J0rGfg",
+      "text": "正式機更版中，資料是連動的 App 也需要稍等一下"
+    },
+    "webhookEventId": "01M62WPVA1SW4849ZSQTVVT5TG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793246063908,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "7121cdd0741e4c3fb6218fce32a6c79f",
+    "mode": "active"
+  }
+}
