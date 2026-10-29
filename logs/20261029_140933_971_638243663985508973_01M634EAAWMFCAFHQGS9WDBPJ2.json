@@ -1,0 +1,37 @@
+{
+  "EventId": "01M634EAAWMFCAFHQGS9WDBPJ2",
+  "MessageId": "638243663985508973",
+  "Timestamp": "2026-10-29T06:09:32.929Z",
+  "ReceivedTime": "2026-10-29T06:09:33.971Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "好的，排修中，目前工程師看，東西是有成功上傳的，是顯示的問題",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638243663985508973",
+      "quoteToken": "5VYfObyMfBPW3hfAW099wvIQgyMvz_fxtCMxRZcL3LQPBNkEnPlOeFFpdcGHMgQO7OIUCZs7NkNbJVaQPxhMOI7f89yJHGZa9As29pAMcN7Iju4mgH_eSpsWw84tRR2NZ8lFFtJ_mnT_TUOtn0NZYQ",
+      "markAsReadToken": "9F4B771ysMYQW-MZc3xHchqUl3n7mL-gucPwB7kGG-yRAsg7nYuspzhOGWCclGZr1mlOvqGrKybPd-fqgsRwt8Abg5ZIeTCXkPIcVrYUv8GBljKzadPFMTVN8VYKB9uJWkdmeyyXQMLVr6vz0FHHEOH9nvvhfGfkifxuSW7XiKG-HdN9sdwK2azcZooOJT3OHqqDkONIsb_fweVAvoWWpg",
+      "text": "好的，排修中，目前工程師看，東西是有成功上傳的，是顯示的問題"
+    },
+    "webhookEventId": "01M634EAAWMFCAFHQGS9WDBPJ2",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793254172929,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "53e29206d5194bad91d1a0ae5577921b",
+    "mode": "active"
+  }
+}
