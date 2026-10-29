@@ -1,0 +1,37 @@
+{
+  "EventId": "01M62WAAMHRJXTRG66JG1TKACC",
+  "MessageId": "638229370804371854",
+  "Timestamp": "2026-10-29T03:47:33.362Z",
+  "ReceivedTime": "2026-10-29T03:47:34.498Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U495890706f56bcbf758befd5f784fd3d",
+  "DisplayName": "劉仁傑 小G",
+  "MessageType": "text",
+  "MessageText": "請問怎麼處理",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638229370804371854",
+      "quoteToken": "Y2JX6p_nrWZGhfGlr2j7fQ0tZWWQjvIb86dqmVdEG6MoNknxAgUYCO_wArNo4nBW6CZ5HNHrgudMhJTs5sIB4m4z0falB8_IEEp4GIHnUxoo3l8UnGS6uyGeC2_XaPmGzzE51DPoFrIzMjIwYU0qlw",
+      "markAsReadToken": "o1Ilvkvxh_aTTDujvTQu4iA8vo3EajGTYqlkn5XewGzesDGbe-WK3d3tsE-OUsvX8dhSoP6ik5Jp2GMwHzNkdHA7Y1lCSLQ92q44Vtb7-tSFJGdHgYeTQzdMfm85AdE_ggxfpz1Ufqm95blp0cRhSZbdexGjIySqFHieKogk9hnVb1_2x5QqY1YauacqWU57wHQcEk789nCZTsraq6lRCQ",
+      "text": "請問怎麼處理"
+    },
+    "webhookEventId": "01M62WAAMHRJXTRG66JG1TKACC",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793245653362,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U495890706f56bcbf758befd5f784fd3d"
+    },
+    "replyToken": "f4f3e46b78164a16b2b758d1a3e4f71d",
+    "mode": "active"
+  }
+}
