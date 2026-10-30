@@ -1,0 +1,38 @@
+{
+  "EventId": "01M657QBDSKXSCMKC15866ME8M",
+  "MessageId": "638362028402278404",
+  "Timestamp": "2026-10-30T01:45:23.572Z",
+  "ReceivedTime": "2026-10-30T01:45:24.484Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "那這邊要等我調了，這個很花時間",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638362028402278404",
+      "quotedMessageId": "638361833082454493",
+      "quoteToken": "1BnnFI2_A2RbdwSmbxYbcNsOmwYtH2dNX4ha4eOxnlezaN6qRm6sN6wzRw9eUOryMShysQXhgyYZ-EwRpW0bGokzCEXQW25a65dxAIHUeL2eXZDai9kOIgMv6tM_pL7dyjR5YGMYcU3AyBTimMtckQ",
+      "markAsReadToken": "IKNMgX4d4jka8TjZXdS98BgY5roS8mJKgz5nlojpSpSPwCR_WUyFzEynaAR_hDBYjxsSuh7YDgO09yKumAkTEUaEexZtI8hCpAkTxZ4dGGE0Ibgh67ITdS1zsa1mjeayC8np8iTWV4hpq-1EE_MXIKfcALvMfG7AWVU0yWvQW1uZ4egVmE3iuw3HdZgo04LHMFGFuAoWxK3ZwfNncmEmmA",
+      "text": "那這邊要等我調了，這個很花時間"
+    },
+    "webhookEventId": "01M657QBDSKXSCMKC15866ME8M",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793324723572,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "663353285b2847fe842528f1c4a0d224",
+    "mode": "active"
+  }
+}
