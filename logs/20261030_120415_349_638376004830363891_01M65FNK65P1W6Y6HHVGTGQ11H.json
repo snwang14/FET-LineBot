@@ -1,0 +1,48 @@
+{
+  "EventId": "01M65FNK65P1W6Y6HHVGTGQ11H",
+  "MessageId": "638376004830363891",
+  "Timestamp": "2026-10-30T04:04:14.165Z",
+  "ReceivedTime": "2026-10-30T04:04:15.349Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@胖仙女 台電網格操作說明",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638376004830363891",
+      "quoteToken": "29vrfZ9vygKQLAozZMaL9ACEWWSEjx2KZhKcvb-4DKxDMzPHFS8Z2_kNro5ekv4ZXQRofTqL9jLCMViNs1BLZjLFQgY4nyLUmpxfF8jfpqK0ah2DA_8XvBSRruTHMh9Bqfu-ztGuYIO29t32kLsvzw",
+      "markAsReadToken": "JodP9FR62NHoZIVWy5mcR4CtBin0AVXOqiFchgK0QJU3E6ZV35sT-AbjBSwwaFEJjh-iBDnryX1biaLfBYsC38u7Jsp8GXiDtfZ2YfIkI8aHeZbiwjWVLIPoFN64gp5lHbqKrxK6_qZ0EY7iDDJnKkfw_MvUUXENmok8ss5TE91bDbRoMl5u0CU3Ucyq2IiI6_BSjAImNrNT_-Hbf-wO0Q",
+      "text": "@胖仙女 台電網格操作說明",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M65FNK65P1W6Y6HHVGTGQ11H",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793333054165,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "62268cb9a225474f974f1fe6fa4f68c5",
+    "mode": "active"
+  }
+}
