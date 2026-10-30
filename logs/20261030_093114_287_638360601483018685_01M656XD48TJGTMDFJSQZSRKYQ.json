@@ -1,0 +1,38 @@
+{
+  "EventId": "01M656XD48TJGTMDFJSQZSRKYQ",
+  "MessageId": "638360601483018685",
+  "Timestamp": "2026-10-30T01:31:13.018Z",
+  "ReceivedTime": "2026-10-30T01:31:14.287Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "是送不出去嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638360601483018685",
+      "quotedMessageId": "638359877529370829",
+      "quoteToken": "e0-UlEDmwfJOp8MqKF94wGxv7S7HpDIYJrg5-q5HYChNKc0bIXuW6TflS9JjU_7qFw0_Z3hIkhZ4KYbMUg2ACnEqD0jgnTLcwpgl1OHwFaChUfJuLvqRSdqdXuOlTUSs83WWZf_mxC1qXmPfw_ujsQ",
+      "markAsReadToken": "hRiPOJV5MxOKQbO8PwYg8jv4N0lunuEkEHoj7ubcQiVMRsUNs5kUhiYWUr2Kino5wJ0YEPNyluBuO9VQT1xDbLTOH1srf4aXbKh8oSYMepmF1196gGSz-PBOSu6v1B9ed1dJkY75IqKCvYjpALRIn9t9gcRz9TaGWpGJMDkq3t3-pIi2x_qJYq_-djTJYEn8Mf61Ye6Trk8hjlQQPqjC9A",
+      "text": "是送不出去嗎？"
+    },
+    "webhookEventId": "01M656XD48TJGTMDFJSQZSRKYQ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793323873018,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "cf61d8973884498390fd82c2f9bcf650",
+    "mode": "active"
+  }
+}
