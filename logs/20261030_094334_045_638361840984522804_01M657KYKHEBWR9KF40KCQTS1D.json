@@ -1,0 +1,46 @@
+{
+  "EventId": "01M657KYKHEBWR9KF40KCQTS1D",
+  "MessageId": "638361840984522804",
+  "Timestamp": "2026-10-30T01:43:31.708Z",
+  "ReceivedTime": "2026-10-30T01:43:34.045Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "@All \nHI\n請問一下匯出功能正常了嗎?\n我測試匯出都是416= =",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638361840984522804",
+      "quoteToken": "DWiJ8PHnIR7QTtLhsGppJy3WVFdDf3AvZmwTVznJ7hrILmNFTso-2Pdyr1i_GmyvTXY_hx-DkuIw5Q4CN6tPiOQaX12bGclT5JJ1N4DDNOKF0ycUgKOxX60o3mSTSV_TfsPRQ5HSHcJuDeK7zCA_Dw",
+      "markAsReadToken": "dDpJ4OZBrfa3OMrNGRIU8MaxsM9f_R4IEOCElq4DDyHeNTlm0WYZ1znRhYLUWEhnQ99tkPQ2WKDYTj0dF9km_xRRXsWJMjMPfFtPZHq-BIpaZNLAtk6t8DCnPmCl54ULYCyLCBdVucUIjjBHFAk5XmZ7CRnYY8uGoJt3cKkpDnLsut4jkbQt8XKkW0pBXbkzb5jEoadQZDTYDR-CBLra-w",
+      "text": "@All \nHI\n請問一下匯出功能正常了嗎?\n我測試匯出都是416= =",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M657KYKHEBWR9KF40KCQTS1D",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793324611708,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "c75e73099e384118ac9bf1db563801ad",
+    "mode": "active"
+  }
+}
