@@ -1,0 +1,56 @@
+{
+  "EventId": "01M657346G8FK58BNXQ6E7P0E2",
+  "MessageId": "638360916139966503",
+  "Timestamp": "2026-10-30T01:34:20.539Z",
+  "ReceivedTime": "2026-10-30T01:34:23.235Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan \n我有調整  排版、頁首\n另，因調整排版所以 [參、功能需求對照表] 頁碼應該也會異動\n再麻煩確認\n\n如果沒問題 @Julia Lee 佩玲 就可以MAIL了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638360916139966503",
+      "quotedMessageId": "638268586926539094",
+      "quoteToken": "A1ZXW2JP3zlc8Sa4CTD3GHG6lKhl60fI7kipmidm4QnXpSBsb6tLRrEicYrWfaX4bJT-sam3RB3z7Hp-YWmDpyB6CEc_yEuPSsRNkKUknL2A713tOdYsPSVxbToxVIM1JIaqJlF26toOzqw5hclx-Q",
+      "markAsReadToken": "t7LUc6ox3pxxbCXi45BVyQLgwhS9B7uomPui1SnnBveMR-pWTrEXD9MFgxg1P6bR9CRx0Cd6RSJdxdxEgvNBJTMiTsNWjvDx92RQnfo4A0pvPZF8VKtwQ0Y-It0wKuJZuYq69QOBd4pvWxpd5HSE3lqmPmR06uTu6Pgu6TOC9Rne2AVVavLoK5gbfAGOu2CUQGr82sUTr3dK6zhW4FclOQ",
+      "text": "@林郁翔 Alan \n我有調整  排版、頁首\n另，因調整排版所以 [參、功能需求對照表] 頁碼應該也會異動\n再麻煩確認\n\n如果沒問題 @Julia Lee 佩玲 就可以MAIL了",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 67,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M657346G8FK58BNXQ6E7P0E2",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793324060539,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "c9a0a593dd7e4efc99cdd6cd065bbf51",
+    "mode": "active"
+  }
+}
