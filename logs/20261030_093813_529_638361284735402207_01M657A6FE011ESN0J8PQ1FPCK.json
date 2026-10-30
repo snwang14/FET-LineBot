@@ -1,0 +1,40 @@
+{
+  "EventId": "01M657A6FE011ESN0J8PQ1FPCK",
+  "MessageId": "638361284735402207",
+  "Timestamp": "2026-10-30T01:38:12.085Z",
+  "ReceivedTime": "2026-10-30T01:38:13.529Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "638361284735402207",
+      "markAsReadToken": "P-TG7TVx0xQw5H4QVtWWjW6jabWuRd_-nkuLq3I6ZkvPL8WETIET8fc1Dl6yn-XFbcEWJY-blb9_tO3bLYedW-uotABGeehzFxXIhVRTFpkUtP_KJiWyl21B2wC5cJvkoJI0q4zgTvXGWYoeydSGIEyiFFnyZ-Yh5wDEMGXbQzAsn3ExEJrweMiIwnijalZpsAHYmluyy-N5nqK-MVRDdg",
+      "fileName": "臺北市路燈換裝暨維護案_系統計畫書_V4 1029_ivy.docx",
+      "fileSize": 15314997,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M657A6FE011ESN0J8PQ1FPCK",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793324292085,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "b1fa115c31d34c97af9da69821af2c8a",
+    "mode": "active"
+  }
+}
