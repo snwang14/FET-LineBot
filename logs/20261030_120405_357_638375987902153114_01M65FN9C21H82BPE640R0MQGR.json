@@ -1,0 +1,40 @@
+{
+  "EventId": "01M65FN9C21H82BPE640R0MQGR",
+  "MessageId": "638375987902153114",
+  "Timestamp": "2026-10-30T04:04:04.479Z",
+  "ReceivedTime": "2026-10-30T04:04:05.357Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "638375987902153114",
+      "markAsReadToken": "R5ZaISE2FkbaRGxWDTH_RIqffKU2qpv9d6P9fiw7sFOVSdBdq5snKvCkV3Tf0-J6tZh9Vlh9olrb0JUGv8KMmxwRc7VGwPbtA8tpkoZf6rpLUNJeaWBmd3FjF7FcyZHPrRoGaNyEBxmDTUTz0vZaqEn9QiimBbsk6UlN7PfeXjJwWJ9NOfMNG9BNqNhxSqsJIhgcy6Pl06mgtZUW0Lmt4Q",
+      "fileName": "20261030_圖台台電用電網格說明書.pdf",
+      "fileSize": 819892,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M65FN9C21H82BPE640R0MQGR",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793333044479,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "6ecb7b146ef34552a548c9fb0a100b50",
+    "mode": "active"
+  }
+}
