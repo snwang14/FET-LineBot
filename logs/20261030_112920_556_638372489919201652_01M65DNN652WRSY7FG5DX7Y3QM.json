@@ -1,0 +1,38 @@
+{
+  "EventId": "01M65DNN652WRSY7FG5DX7Y3QM",
+  "MessageId": "638372489919201652",
+  "Timestamp": "2026-10-30T03:29:19.131Z",
+  "ReceivedTime": "2026-10-30T03:29:20.556Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U9d2f3d9a67c8c0769040756652f2c1e5",
+  "DisplayName": "小傑",
+  "MessageType": "text",
+  "MessageText": "以上位置及照片原始設定就是這樣設定 有重啟過 一樣無法存取照片⋯",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638372489919201652",
+      "quotedMessageId": "638370160016884402",
+      "quoteToken": "z6RSQR5Jj2T_B9aMZkcEDNxdI1njaTXUcQzO-LsR86dL0WbpOiBeuohUyFkxvzzimBhuTps2vxCKJ2n5zSy8_SHC6VH7h1xF8Gdxt9l40SK3h8WRscep-yOnXgLx5R6en11shK0EWEveyfBaTaRQow",
+      "markAsReadToken": "rm3_DpwBgslz_6-mKTpRgulfnTHCu6_z4wSSIvePNbkrH7iqKAQMAyekgDf7_gz3uArBVYEygjkHXYN7rQjxqEFnK0BD8DMCmD0Z4Nmj7V_AZc74MBe1TnzEt865fyzp36_gxDB4Nfzn-eChjwvGHGSZzpqYK942F7wE01os-6EQ2O2fW4f339kgrqHWPbsD2z8zp325pn64pV8h6hOeMQ",
+      "text": "以上位置及照片原始設定就是這樣設定 有重啟過 一樣無法存取照片⋯"
+    },
+    "webhookEventId": "01M65DNN652WRSY7FG5DX7Y3QM",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793330959131,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U9d2f3d9a67c8c0769040756652f2c1e5"
+    },
+    "replyToken": "9cbfa10ef8544d2ab6a58b7769567595",
+    "mode": "active"
+  }
+}
