@@ -1,0 +1,37 @@
+{
+  "EventId": "01M657TM5PT6M715NRQKD6A8PA",
+  "MessageId": "638362208321405458",
+  "Timestamp": "2026-10-30T01:47:10.808Z",
+  "ReceivedTime": "2026-10-30T01:47:11.837Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "我自己清查總數量\n送件數1268\n點位1261\n燈具1285",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638362208321405458",
+      "quoteToken": "fob7llXvv9ObIU7id3UIlAPHAYrgoGvZlKzMU5JSHKNDkqSy5yuNKSlgjyo3FItOy5SFhUJKoNGlxFDNDJWJphebzYw4HiXlC8Z_cDEbEqG_ZmbWZesPhzog__tQC1BinQsG79IfaQ78KeEhbuIXdQ",
+      "markAsReadToken": "xwnN-U4KWz53EojkC18G3po-wnbsXV5yvxj7t1lmYzDrVcXOLwGbYdoIOhz5mw0egNpZSus0ux3_3mU5_-em2h6GHkbz7lVkMvHt9uiQAH6occMrp1n82RfjZJmZc_3ljdkMhHpven5gxpxI4WJhOb2kEAFlQrtlk90TNiV3RakoNK0p9pz7GNrisPa5C5PHNcx5tVDhr8W3amPu9sFQyw",
+      "text": "我自己清查總數量\n送件數1268\n點位1261\n燈具1285"
+    },
+    "webhookEventId": "01M657TM5PT6M715NRQKD6A8PA",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793324830808,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "fe2671dfb51d49ba972068eb132a7735",
+    "mode": "active"
+  }
+}
