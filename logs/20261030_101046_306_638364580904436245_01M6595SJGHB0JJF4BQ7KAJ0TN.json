@@ -1,0 +1,48 @@
+{
+  "EventId": "01M6595SJGHB0JJF4BQ7KAJ0TN",
+  "MessageId": "638364580904436245",
+  "Timestamp": "2026-10-30T02:10:44.952Z",
+  "ReceivedTime": "2026-10-30T02:10:46.306Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@Pcl 能麻煩你私訊我帳號的密碼嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638364580904436245",
+      "quoteToken": "lAe8BXA7j6Qnu1OJeYfcQdXOS19xtwYGf8cRvwVvdO4AaEirnHTPpbHwsIa-7A2DqBBfdvhwx3BLHi7vlHY5MROFm1sVb9c9wMz1N_ewxfFUVXKzougIgOm-LBMh7QhqYTlE72HdEPezz_qsYhA7Gg",
+      "markAsReadToken": "RHOSzw-8E0VpzgdABAZd83-TwoucmVUTlclISHPjznYipPp6NzlTSovqkfFTRTmpBaZpwBfULV03fFqDnjYI3_iu4B7cZ7UJSpZg4gwuPiXk1mCHhguVsrbFZg1Qo_LAf1rGf4Y-v2iATbcGiBCmvdKiubBMJLjagvTcdl4qAtOlC0Zh2nNWKM2OZwm9Iv-IeKJer2NB4Uu7PM_pgJNQ6g",
+      "text": "@Pcl 能麻煩你私訊我帳號的密碼嗎",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "U5cfd4dafdd4aa67f7f226f257f38293f",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M6595SJGHB0JJF4BQ7KAJ0TN",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793326244952,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "a9283af8587048f4ba75fd7f0efd0892",
+    "mode": "active"
+  }
+}
