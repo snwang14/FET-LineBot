@@ -1,0 +1,37 @@
+{
+  "EventId": "01M657WKGKH728NQ4DWPS19GP0",
+  "MessageId": "638362317356794112",
+  "Timestamp": "2026-10-30T01:48:15.653Z",
+  "ReceivedTime": "2026-10-30T01:48:16.570Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "沒有審核 = 東西還沒掛到點位上",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638362317356794112",
+      "quoteToken": "UxcIMWc6BU9Lb81zFYerL3JS_8BIQHto2MxNJBj8ngvr86yVjsuLehFuno5JOSuJiaSSa4ujA0vRTf27SwLVZkXJI7cPFSn_An0sgkOOxpZ-AkEiVXTJ6gclZqJ96ADgMOHC_zeVX1flP7GoH4mpCQ",
+      "markAsReadToken": "EmZIcqOBCz4a9SIzGYHnfZTTk_TzGKlo-2hY6Ne57oG4CUF2JfA8cc06KLLUmoPtT_OVmunyhEKZwnV0RPz2OJePW1wOoGm2CMavSLoxyeXOEfjPDQ90bdn6AtbPhEY8Za-4N-f2c8T7J4bDcMdluauf-T0Wr5-Dddd7p1MRFo4BTWu7OF0tBG5YBT8ZPxEAzBBzkYsRf9NJlBh_zvZ_0A",
+      "text": "沒有審核 = 東西還沒掛到點位上"
+    },
+    "webhookEventId": "01M657WKGKH728NQ4DWPS19GP0",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793324895653,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "d5ef9e4438a0441ebec82dae7e8a2f7e",
+    "mode": "active"
+  }
+}
