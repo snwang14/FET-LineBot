@@ -1,0 +1,46 @@
+{
+  "EventId": "01M65HAX7HCR3FANET5JG826NY",
+  "MessageId": "638378936564187970",
+  "Timestamp": "2026-10-30T04:33:21.477Z",
+  "ReceivedTime": "2026-10-30T04:33:22.537Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@All 請工班同仁若再遇到不能送出時，\n先重新操作一次整個錄影下來，\n以便我們第一時間判斷問題盡速排除狀況，",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638378936564187970",
+      "quoteToken": "oFivcoPNV-J-Klu-qGuuugaGxowiMkUjqMGWRTVzOAg5PDf_17fngCTV9nC6hABahpTkBi-Rqw-uv3S8WStd576XJwPtVYbJrnEHXpSjRVLMsOo_58_WF8UrSvQnxByPRaK7TcmcC-Jtv4LxmBHnQA",
+      "markAsReadToken": "gpc-SVligzOg_OVhJHIZt91gntIhjSXCaR4D_biaNO-LMCDhTqO7v1BEHOPx2mvlBVvSqzhNCfmyXsyFGY0pBlHrLA5HqVRfiychgc8SMtMghGvfLGP8euouX2NVoAlAmdyBSm23Pqkk1b0BuqXHuc_VeA5Dz9qNl7utez37uW4jSD3pCrXD2FJQ6kvk4JLtwBv22I-RaLMEOIvO5JKVnQ",
+      "text": "@All 請工班同仁若再遇到不能送出時，\n先重新操作一次整個錄影下來，\n以便我們第一時間判斷問題盡速排除狀況，",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M65HAX7HCR3FANET5JG826NY",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793334801477,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "ecad3674d46c4531aa69e4c66944588e",
+    "mode": "active"
+  }
+}
