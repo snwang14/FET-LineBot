@@ -1,0 +1,55 @@
+{
+  "EventId": "01M65C3TZM2BZRKNX5AKMKKQCT",
+  "MessageId": "638369751223501400",
+  "Timestamp": "2026-10-30T03:02:06.728Z",
+  "ReceivedTime": "2026-10-30T03:02:07.955Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@Chiuan @Pcl 目前初步確認後沒有問題，可以先用手機開其他單試試看，如果還有問題再請先行使用網頁版並跟我們說",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638369751223501400",
+      "quoteToken": "eUJxoZGWnTEWjVkrCEWBSoPcNvagBOPqFGiAwjYQGRLcMSzVQ0rth_-IsW8Yweo_y_pUNxWoCDZ14vGvsiMlRp_9jdO_A06qlfqQbb-L5RnvMrwPCbw7wiTMlz5YCebvhwvVMoScH_OdQLTuaHyJow",
+      "markAsReadToken": "Wm09Qkr5XehPI0RNnIXUsBSE5por9htf2RRA63l-jEKL2a2yeQJfBk9GoLrS989tZq_p9fuUvvRCZyyMAiJv42Vansr-mFhkyss11nQmh-h-xby414mjPqoF_HWecQZpILngLv4ebOG4ONq2ysHoj4NdxClYNhsAId1sxNnhvn1V1VqCfYrzQ2C_cTQ_Y7VJyXiMXZtEZw8XAXPxssJ_TA",
+      "text": "@Chiuan @Pcl 目前初步確認後沒有問題，可以先用手機開其他單試試看，如果還有問題再請先行使用網頁版並跟我們說",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 7,
+            "userId": "U2d0c972fe80e1c475e0664d66ccea46c",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 8,
+            "length": 4,
+            "userId": "U5cfd4dafdd4aa67f7f226f257f38293f",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M65C3TZM2BZRKNX5AKMKKQCT",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793329326728,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "97b9f91beedc4042b5e9280e97533628",
+    "mode": "active"
+  }
+}
