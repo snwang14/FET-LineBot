@@ -1,0 +1,37 @@
+{
+  "EventId": "01M657QEVZ5KWJ642GX82SBRMG",
+  "MessageId": "638362033837834326",
+  "Timestamp": "2026-10-30T01:45:26.660Z",
+  "ReceivedTime": "2026-10-30T01:45:28.003Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2d0c972fe80e1c475e0664d66ccea46c",
+  "DisplayName": "Chiuan",
+  "MessageType": "text",
+  "MessageText": "網頁版的 這樣是要換瀏覽器嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638362033837834326",
+      "quoteToken": "GYXljGPcLVQhPKxLI4YwkUtejQn036ahrRsT0uqPBU6soG2V9crB0_SbC0Yla02L6IrwRrDnlgObHN0WpBwysN5tJ128XPTWs1zCOaSo0jjMvYtQJUVvhGmIsHVfJzfe4uMpj05HncVTRxdCwJlmAA",
+      "markAsReadToken": "fFVZeFelcolkgM5AFAq99JH4hoKjWtONsW7EaPRPqL_oJtDUDUtBj2GqG5xM--NpzmeS931-W-H1MHaArL-6CIngSStDQCt5dk9IfcplHGQLvCc0IT5MLyiMYU-U0eWk1_CaTd2zUwENvNJ73JIVuhFwDo-FAR-6_rUuSLNiZZ7KxBlxsZpF7Kjis_gBNADMPc43olpRxB9N3fPnrIy5pA",
+      "text": "網頁版的 這樣是要換瀏覽器嗎"
+    },
+    "webhookEventId": "01M657QEVZ5KWJ642GX82SBRMG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793324726660,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2d0c972fe80e1c475e0664d66ccea46c"
+    },
+    "replyToken": "0ee36aeef6004c8a9f86d131160acb62",
+    "mode": "active"
+  }
+}
