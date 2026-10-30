@@ -1,0 +1,37 @@
+{
+  "EventId": "01M657FK6N54KM3FTN14E7K82C",
+  "MessageId": "638361601439171090",
+  "Timestamp": "2026-10-30T01:41:08.958Z",
+  "ReceivedTime": "2026-10-30T01:41:10.389Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "能麻煩截圖登入頁給我一下嗎 我請工程師確認",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638361601439171090",
+      "quoteToken": "1LVWJBWxi9gS5z5aZTIbGSKFzRC-hTfQxrY587Da8gqoPcccBrAVUctdA42bo7TNOHu0ruimFcqk0As5JD-HAnPRCN2q8UaSCWdreLD2b8_EkD1CH_AHl_Uzzbv0NcMbJTE6-XgaifK0NSKOd9zK1g",
+      "markAsReadToken": "TLw-V70CVCkxmVr_br1Y6w3TnLJi9NMSwY8M5e3dszjGZCbQ0JE5qXoMXsNpGUdDipP0Q1zqgs8RnlQKNdVe15IShtrmfOmIoXzWa_odWXnn-ZENr4NiOHoC1_3M9B9v7dDQgbs9ePez_mf9Rf4QCvJVXNuNwW6xyD6MDOZznSBpdf-Y8BFyXTfzCSxe0BkWeKdhb5LdEeCzyDUDduyjpA",
+      "text": "能麻煩截圖登入頁給我一下嗎 我請工程師確認"
+    },
+    "webhookEventId": "01M657FK6N54KM3FTN14E7K82C",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793324468958,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "0c61f4ad33e84624bfb72456035e356d",
+    "mode": "active"
+  }
+}
