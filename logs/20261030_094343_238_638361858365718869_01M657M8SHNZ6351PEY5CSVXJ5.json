@@ -1,0 +1,40 @@
+{
+  "EventId": "01M657M8SHNZ6351PEY5CSVXJ5",
+  "MessageId": "638361858365718869",
+  "Timestamp": "2026-10-30T01:43:42.138Z",
+  "ReceivedTime": "2026-10-30T01:43:43.238Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "638361858365718869",
+      "markAsReadToken": "2pKGN9URlqs-jHs35hOBTcys8PV1FHsezdcqvTedpqgaGZOHU9BZLTnYPQ5ILHinbi2tJPPRYCioGa1RGb18erdFV2DPQptMDfLlLQ1QCC4bVDV8sM7aC8AGSeudHgsC--m4jl8GqRmsIUCfaXJ9-f38rDeMY9baUvb4iuAwTh9ZHeVn7mpuQT9qk4Jg91GZaxWW7Gj55WwuGZkU_ZauHQ",
+      "fileName": "換裝明細 (1).xlsx",
+      "fileSize": 56331,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M657M8SHNZ6351PEY5CSVXJ5",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793324622138,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "645bd5d042ea479182c64413fb6694b6",
+    "mode": "active"
+  }
+}
