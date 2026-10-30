@@ -1,0 +1,38 @@
+{
+  "EventId": "01M65AQ7MV5XFF0FHFPF0K4MKA",
+  "MessageId": "638367299014755062",
+  "Timestamp": "2026-10-30T02:37:45.060Z",
+  "ReceivedTime": "2026-10-30T02:37:46.644Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "請問這張單在填的時候有先移除燈具再新增燈具掃 QR Code 嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638367299014755062",
+      "quotedMessageId": "638360742059311278",
+      "quoteToken": "REs9L447FO295Pg_b3qDrD0rVyEtGYF9lKAlPTwWp2KET8bCj7um84o1n0i5J5TNRUwdLZsvxotc-t0UeCck7IYB3q0UfHJd02bGnAzxuGktsXhNfsnTROwt58-O_V9PYxXaeWbxbw-AZticShf5QQ",
+      "markAsReadToken": "iItWKtBWtPZJ5JgTNPyENYYlLf13lv9JGd3A0owffvYVTIdRAmggOYV2InXwiNar1pFNKbNb4DsJGFxHS3JPeL3KQ3h6noBjKaJcNjvB4mQm9_AA1Quy88mgJ82nosAHJeV-lbQ-ggnDkbUKJT_1JkomqRCdZ9-k5nfQWsRL1MyE9fS3MHhS5Co_0jSAsCfU7fQrdHrta-CzPgskIIygKQ",
+      "text": "請問這張單在填的時候有先移除燈具再新增燈具掃 QR Code 嗎"
+    },
+    "webhookEventId": "01M65AQ7MV5XFF0FHFPF0K4MKA",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793327865060,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "be01a05b171d409a86db17a7ebe78c40",
+    "mode": "active"
+  }
+}
