@@ -1,0 +1,37 @@
+{
+  "EventId": "01M657XQ12MF16SHG7M7QRQYHC",
+  "MessageId": "638362377972351151",
+  "Timestamp": "2026-10-30T01:48:51.965Z",
+  "ReceivedTime": "2026-10-30T01:48:53.079Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "了解~ 目前審核機制 還是由內頁點選",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638362377972351151",
+      "quoteToken": "rDg3REGYdWpTIUzebNqFTnL7XJDnNaCh9pMTYP5KHrJsfqAJ2PX392wWeqVcaVE0hX9Mci0-fDPVs00jEQFRAVLRoxMxRRJCQTnqwMPWZ4ArKUI3uBnNnqqUlUEaSc6RbuKD-8lWPJwXDjZz9dKEow",
+      "markAsReadToken": "fS_238MBsMt5K14VvweExNL2wVC_WtNHje4LgR8xuVHJ4gEIjRkJePZGFK127O71cwKWhVZMGxZpUqiuu7WUls-NYg__i72XNqVs61vzb5dOyd7zGeBUSnDMYGwEmWm9R0opbiquUw-zGuTvn1vQ-o6KUqkZKUsiOfeFdYPd0n_uzbdftQF5Q82WUmcamO2IlZLt6BlMQiPf4_5OfSQicQ",
+      "text": "了解~ 目前審核機制 還是由內頁點選"
+    },
+    "webhookEventId": "01M657XQ12MF16SHG7M7QRQYHC",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793324931965,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "53b2a2331229498f8094d82048c33303",
+    "mode": "active"
+  }
+}
