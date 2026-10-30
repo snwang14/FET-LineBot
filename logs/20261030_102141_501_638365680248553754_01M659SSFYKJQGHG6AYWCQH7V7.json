@@ -1,0 +1,37 @@
+{
+  "EventId": "01M659SSFYKJQGHG6AYWCQH7V7",
+  "MessageId": "638365680248553754",
+  "Timestamp": "2026-10-30T02:21:40.279Z",
+  "ReceivedTime": "2026-10-30T02:21:41.501Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U9d2f3d9a67c8c0769040756652f2c1e5",
+  "DisplayName": "小傑",
+  "MessageType": "text",
+  "MessageText": "IOS拍攝照片無法儲存讀取",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638365680248553754",
+      "quoteToken": "c-Gn1vhWBVT6P4paQ8rsrXic0YERB8kFpMgek4Q4MHK2dIv9b7KLBjgudyvb9NFTkderWnVgIr-YC5u7LBSpozWgBmfhzFbq0GTmOQfCGWij5pHwrtY0OfjteJ7E6HQ2nA9NXjonRdBH4EEO-n8rYw",
+      "markAsReadToken": "duhOk6NKFvePjMe0D7uKnU7eLBQXgBXjcKMwMe7ZnYKqTnXc6AW0DtX5HtF_T1FzMlehwgbp5ZdlaUtjyd2Efv5CZj383pUosQADCghvY9HS1VAMCFqWr-DaTCId3U-UqNLH1iVy_iNRTZuVubTJ8AlAvtdEuFCaR769MJSYmEjAERoclAvWeIpqDlYwqZVsvEdoLXA73Y034z17ZRpLXg",
+      "text": "IOS拍攝照片無法儲存讀取"
+    },
+    "webhookEventId": "01M659SSFYKJQGHG6AYWCQH7V7",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793326900279,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U9d2f3d9a67c8c0769040756652f2c1e5"
+    },
+    "replyToken": "fd4f07facc5b4d08a6d8d5293a5c8e3b",
+    "mode": "active"
+  }
+}
