@@ -1,0 +1,37 @@
+{
+  "EventId": "01M657KJP7PE06T5CDWBNZJWA4",
+  "MessageId": "638361821203923201",
+  "Timestamp": "2026-10-30T01:43:19.924Z",
+  "ReceivedTime": "2026-10-30T01:43:21.005Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "只有這張單不能送出嗎？其他個點位都沒問題嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638361821203923201",
+      "quoteToken": "q4HohP7DZB4tn2xZj5dMUagCyh8Fi4s7Re2cabvNiaf3DsOP_1mFQewbJREgMQCiKQ8NLzg7R-Q-ILwmDt_PhDLADzbzZV_VrehVcAnKpGnUXaXBwaJWWDS7qqaLqSX44bY0czKw0pl4BDVLP72NVA",
+      "markAsReadToken": "oXneMJvzYfewwznE-jcFz57XFJJew3RRl-n2R4WEa7E0_Nb4KQ1CjAPM4PqDQQjfb69SRkJVju2w-D3fxS6bmpYs3b8oQIiTJGgYbeF_EMEVG5Oa5L9CMndMgBmpgaoyJ5bncPoY66ah_nignWIuCtv9sY5d2WUIgDUIfbxJpLRUkrfaZxzv_f0C1YNtEF_Pb6RCGKUQFrfNfq2MvT8JCw",
+      "text": "只有這張單不能送出嗎？其他個點位都沒問題嗎？"
+    },
+    "webhookEventId": "01M657KJP7PE06T5CDWBNZJWA4",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793324599924,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "4c97a4c0bca4445094f6bf241298aea6",
+    "mode": "active"
+  }
+}
