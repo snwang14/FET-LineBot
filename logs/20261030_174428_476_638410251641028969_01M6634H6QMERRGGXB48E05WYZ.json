@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6634H6QMERRGGXB48E05WYZ",
+  "MessageId": "638410251641028969",
+  "Timestamp": "2026-10-30T09:44:26.763Z",
+  "ReceivedTime": "2026-10-30T09:44:28.476Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "今日承攬廠商月會快記：\n1. 電費統計儀表板 2026/11/31 完成。\n2. 換裝燈具紀錄加入燈具序號拍照欄位。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638410251641028969",
+      "quoteToken": "klykQZTUKZwpl2XbsKXZp71iGZ7DrWj7TQlXrNGsQ1fjGbZhlSsKkKr11UGzJPZ_vlNZslihMPvzpQmwqFKPMDe2NLMzmlGqiW9fLtx62pHjW3h0LK1nk1wwgU3cj-rtQ6YULGDd26Ym_I0OXJhnxw",
+      "markAsReadToken": "WQL-hXeZpUtd6QWEvzSlhW-ve6kTBhdTe2V1dfWkRbIwatch29y4aBZsKVt5MycbbYu7RRwxVINwrBxemTHjjkthYK5WRG3pNQz1EYWNzG2HDI-6KXze32KnsmB_ySjiG3KZo9UzTfNX2givSqE61l0UvNjAdy4zrS7R0jalkqaWwrcm3wnIcOKdu1VGJE6ac6i-bcJK0CKs7FND_XmsCQ",
+      "text": "今日承攬廠商月會快記：\n1. 電費統計儀表板 2026/11/31 完成。\n2. 換裝燈具紀錄加入燈具序號拍照欄位。"
+    },
+    "webhookEventId": "01M6634H6QMERRGGXB48E05WYZ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793353466763,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "e789c8bde42c409198e3f3bfaa7d658b",
+    "mode": "active"
+  }
+}
