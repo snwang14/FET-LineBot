@@ -1,0 +1,48 @@
+{
+  "EventId": "01M65CB8XYY3M3NYFDH4DW9X7P",
+  "MessageId": "638370160016884402",
+  "Timestamp": "2026-10-30T03:06:10.297Z",
+  "ReceivedTime": "2026-10-30T03:06:11.635Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@小傑 iOS 請到設定確認一下 app 的權限\n位置: 使用 app 期間、準確位置\n照片: 只加入照片\n相機: 打開\n然後重啟 app 看看",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638370160016884402",
+      "quoteToken": "OcPv5GqK8-tuVAlT8O4N07STL154U5dUDK0rdcbojmfA5P0FbK3lEFjiOzAF5EQk6KMa6smBJo6WU_GcQExt7uO4XINtJG-1S-KVK6ew0Clj9UxkKsAu074QiLBUigcUSWl76O-ZjpF7IyBrItZiUQ",
+      "markAsReadToken": "5UchKmU-H_tWQU0wWB7z62qUXAKjgs8ggJcFUVU8aVHPXPy0PniklPQTCY-ZnIWpBufvCEmLaoiIZveE0btJ5fj6Q0n0Ie2xERjjI2vArcgIc3fijdnrXvua2N1fZqH6976GfNCtvBdjDzA1iAOkP4mVJcqk_ufuHKHia8e_rHSKiJxJtmdKtntHTCcdIRmsBoBT6z1l4s63z1vvx8X8zg",
+      "text": "@小傑 iOS 請到設定確認一下 app 的權限\n位置: 使用 app 期間、準確位置\n照片: 只加入照片\n相機: 打開\n然後重啟 app 看看",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 3,
+            "userId": "U9d2f3d9a67c8c0769040756652f2c1e5",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M65CB8XYY3M3NYFDH4DW9X7P",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793329570297,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "dd87b50b0cad416f9cab8942d8742483",
+    "mode": "active"
+  }
+}
