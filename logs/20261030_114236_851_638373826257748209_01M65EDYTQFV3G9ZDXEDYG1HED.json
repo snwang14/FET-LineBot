@@ -1,0 +1,37 @@
+{
+  "EventId": "01M65EDYTQFV3G9ZDXEDYG1HED",
+  "MessageId": "638373826257748209",
+  "Timestamp": "2026-10-30T03:42:35.595Z",
+  "ReceivedTime": "2026-10-30T03:42:36.851Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "我請工程師排查，請問手機型號是甚麼呢",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638373826257748209",
+      "quoteToken": "QUjDkON_cdL5YJz3KeZ4TFwowoOhWCSJU_bB9ee3BA5dQTCxKL3zuGjfHsrbx_PJcoE9sI8dKnTyF4KWkbHigqQ4ntcf5B5m4ufDvxrN9W5z6euLQnWoUrN4jznBPpR8S25rI4-rYmSx_qs5hCqwAw",
+      "markAsReadToken": "HG9BkjMX-YN0u7npTzfh-4qvuEkCino7Lr7g2GF_F_feiSFg0cBTK66riLfUJfNiLrl9sTRGKZMKA4etGorBcaE9jk2CUPzuZCoYhbAILfLj-ViyXnVo5qzYqMsflxfeOEk2m1CiBL17zIsBuVlTmwk3ysmalt08Gf30Ms1zSiD4dk41V4-0zdJ77wDdcD2KFlMF5RayfrC7I2b-YrtXlg",
+      "text": "我請工程師排查，請問手機型號是甚麼呢"
+    },
+    "webhookEventId": "01M65EDYTQFV3G9ZDXEDYG1HED",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793331755595,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "5d55710c79be4abd9c8eb20f18ffee9d",
+    "mode": "active"
+  }
+}
