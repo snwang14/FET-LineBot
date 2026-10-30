@@ -1,0 +1,48 @@
+{
+  "EventId": "01M65M0H3JV6MJG5WY74JJR56A",
+  "MessageId": "638383643412922590",
+  "Timestamp": "2026-10-30T05:20:06.972Z",
+  "ReceivedTime": "2026-10-30T05:20:08.304Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@Julia Lee 佩玲 \n平台計劃書，我有MAIL，麻煩你miail給王技師，謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638383643412922590",
+      "quoteToken": "vhtv7E9F28DjgSG9CYCV7xpI26xqiYFKpTyRyDYeWi5FmjTlm9Tf8pwVOhlP9NsQxa4Dm2KgYrQk-LClAeh2Ikod_6shwCli5Sd7rQcc29d1Gq214yLZ_nfe2FaokgK35muQnlNOPNSDMDHTTydbSg",
+      "markAsReadToken": "9ZiDeCGgLTatetTx8_QnwNpwJEM3ytBktDSy5M_9XaUY_kddrAxPX_P6dlokP_pkety5nLNyUj43EtMdE1kvb7DLczK_1UvDO8wSAd0cD_BRb2Un7a3pB73b_tmY_L3tyC4ehSOITYn7CWWDjWturEAGg0-IDBHjTBncBzvTRwbG29Yf3XpVkFbpbu8JgjPq0oacRq-IBdyQTW6cGms_tA",
+      "text": "@Julia Lee 佩玲 \n平台計劃書，我有MAIL，麻煩你miail給王技師，謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M65M0H3JV6MJG5WY74JJR56A",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793337606972,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "493077089a3c4e989c8daaadf0a4d6de",
+    "mode": "active"
+  }
+}
