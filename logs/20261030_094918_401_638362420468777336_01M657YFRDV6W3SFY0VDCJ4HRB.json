@@ -1,0 +1,37 @@
+{
+  "EventId": "01M657YFRDV6W3SFY0VDCJ4HRB",
+  "MessageId": "638362420468777336",
+  "Timestamp": "2026-10-30T01:49:17.201Z",
+  "ReceivedTime": "2026-10-30T01:49:18.401Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "這樣審核進度會影響匯出核對",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638362420468777336",
+      "quoteToken": "g_JpMFUwLk0QnB6ybiGmergt0gchm7qb8uRwcxEo5B-wouv4cBuRO1o-IwFXeXszK7UQWUSv52mq2iIwqDQ5JkQIqvWEwyZUZqtN6SzGvImB74XYTYpGSM4NwaS-Ucj4U2I2t-kjVdm2cIJoydQexw",
+      "markAsReadToken": "53BQeub7OTw9nwVmhPQGSaOPyV4PNwzHCOTOiWmeu5OCDWtS9FLR8XwhHgxyC9rrDybvE8qFzYZQ0rQ7109PtlYEFxxa4EKNzEF6kejMpqRZVM5Jd0em9ELYvItW10fIBLKbw9MtvdgAj6Z2dh7Dacd3haF8R6B3mPiN9Q4kLCGruxQRp2DsXPIaQGXT35Ss3PYoiPtoRnjM4klCIJZREw",
+      "text": "這樣審核進度會影響匯出核對"
+    },
+    "webhookEventId": "01M657YFRDV6W3SFY0VDCJ4HRB",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793324957201,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "6e5a62aa434c48e58965b80fb748dadb",
+    "mode": "active"
+  }
+}
