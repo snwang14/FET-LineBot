@@ -1,0 +1,76 @@
+{
+  "EventId": "01M65V7NF2RWF14QY6C9BXF2D0",
+  "MessageId": "638396350090444954",
+  "Timestamp": "2026-10-30T07:26:20.740Z",
+  "ReceivedTime": "2026-10-30T07:26:21.910Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@Julia Lee 佩玲 @Andy @sanjinchen @王志文 @Mick \n今日機關承辦通知下周二傍晚可以先不用去找資訊室~",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638396350090444954",
+      "quoteToken": "6mMMSfJCJo1hHU7G07_-kVrKjc4d8WKy5ppZ0Eaj__4mVBhaca0lINKQS-O4Ba2xg1jzGfjZIKkKKGbZNXotQrSbNTuWOSrvrv-jbGV4ReESiK9LXHw4lvi8AnV6iyM91j6bM-S88UvXeJgBO9m6iA",
+      "markAsReadToken": "jU3qSZ0l4uldZ9mg-ywmvhIsO_KTAAkQIW25j76fFxinBya0NhoMmJM2z8ljCqgVwXNbtr-H0RlUwMTetiHeR7BHkRdKi1aJEJqDfyYezjdLQoM6eFoxmU5f8DOYI9m7Gqy8KVOHrRWHVEa94NlOVvUNJX_BhL48ifsNRNLctGrrj3tHoPuNmkiZV-u4cVE0Gp7mUZ92L29el0WApNR9Pg",
+      "text": "@Julia Lee 佩玲 @Andy @sanjinchen @王志文 @Mick \n今日機關承辦通知下周二傍晚可以先不用去找資訊室~",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 14,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 20,
+            "length": 11,
+            "userId": "U375f2b0f385cb715667fe836bb7a29ad",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 32,
+            "length": 4,
+            "userId": "U45bb65710085fd8da690900d4545a7f6",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 37,
+            "length": 5,
+            "userId": "U9ef3cc4deff6de91ecd66ed5bbfaea6b",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M65V7NF2RWF14QY6C9BXF2D0",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793345180740,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "79197908c9ba4d459a777bb7fff1f187",
+    "mode": "active"
+  }
+}
