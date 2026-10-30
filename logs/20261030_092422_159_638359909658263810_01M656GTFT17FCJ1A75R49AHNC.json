@@ -1,0 +1,37 @@
+{
+  "EventId": "01M656GTFT17FCJ1A75R49AHNC",
+  "MessageId": "638359909658263810",
+  "Timestamp": "2026-10-30T01:24:20.603Z",
+  "ReceivedTime": "2026-10-30T01:24:22.159Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2d0c972fe80e1c475e0664d66ccea46c",
+  "DisplayName": "Chiuan",
+  "MessageType": "text",
+  "MessageText": "請問這個 正常按完會跳出去嗎 ",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638359909658263810",
+      "quoteToken": "XJL7dCgkTml3ZnTybZEO67tBWKsboLzQLQRRVaj5LepODOJ-Lds9kbVE5X0PKEt5h_HXVGHtPAMHs0CyJ3JcPEXepYF7Ct8iRwp_ivvxvDS5n1aj9-qORWDcC2s2zNbO7HxMJsTSJVHUvhL6d-Q57Q",
+      "markAsReadToken": "MpQk4c2ZK9xVc_bR6kkfMom38HipiSixsfBQtwFzS1brvEbXTET9iPRPNTIv-nikDj8udUVi4MtQDkLXgwiI5Vjw_LjFdoO-JAiMZRPVKeDorAEqWMARol1p_7t8SpaoH_j2A1vNsqlliyeDON6FxMhJjaYYzA8oDkLJLt5Fz_WToGFiBnm1xTKRFLlydRFztRj3nhsQRdfndxzDzsW7xA",
+      "text": "請問這個 正常按完會跳出去嗎 "
+    },
+    "webhookEventId": "01M656GTFT17FCJ1A75R49AHNC",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793323460603,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2d0c972fe80e1c475e0664d66ccea46c"
+    },
+    "replyToken": "8035dfa0fc964c61a0ef8855b7cf134f",
+    "mode": "active"
+  }
+}
