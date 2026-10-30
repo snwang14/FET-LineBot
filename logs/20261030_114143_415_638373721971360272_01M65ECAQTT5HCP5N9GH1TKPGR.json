@@ -1,0 +1,40 @@
+{
+  "EventId": "01M65ECAQTT5HCP5N9GH1TKPGR",
+  "MessageId": "638373721971360272",
+  "Timestamp": "2026-10-30T03:41:42.235Z",
+  "ReceivedTime": "2026-10-30T03:41:43.415Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "638373721971360272",
+      "markAsReadToken": "ukebQ53PAGm-QPeh8v7rhkFo92_y-3N_sc_lfZk9HJtD1fdb3_InaJkX3oxDy9uNfp59IPYO8UjGyGiSvHWS-xh9LaKPB53_XCMa7dEwPWiVoSMiU9-C2jSuZEPlvKgyDCTERmt4FWgX0Bm6107EWguSrWL9RIG_FzxEbsNAvXHWhnbdwbKtC862O29_ZIwmcur2VSZH2k7C5YXCLwyt1Q",
+      "fileName": "臺北市路燈換裝暨維護案_系統計畫書_V4 1030.docx",
+      "fileSize": 15316960,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M65ECAQTT5HCP5N9GH1TKPGR",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793331702235,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "36e8629a9c634b9f97d084856fe1aae7",
+    "mode": "active"
+  }
+}
