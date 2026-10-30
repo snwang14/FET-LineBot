@@ -1,0 +1,40 @@
+{
+  "EventId": "01M656G9X2DE8NK60MY0RHC93M",
+  "MessageId": "638359877529370829",
+  "Timestamp": "2026-10-30T01:24:03.625Z",
+  "ReceivedTime": "2026-10-30T01:24:06.350Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2d0c972fe80e1c475e0664d66ccea46c",
+  "DisplayName": "Chiuan",
+  "MessageType": "video",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "video",
+      "id": "638359877529370829",
+      "quoteToken": "PnVyD5CL5qnGxHl30YfTu8oY99epPDXVt3zJFr0wHXe1bEgaxO6atssm5iUHMzlWsVh95fNqU60fJDrDwNIQGpmWAYozNv5tSpgD03_9z4xAbkgmQ3Ji1t1CTIcOiE_AK_uUrblBEbsVPMrYN2I5gQ",
+      "markAsReadToken": "JNaPk-nHULemb9Oqc0pPp_w2sqrwbsMgn4FVr0qqndT1-pxe6DroqC0xOiwIn0nUxF-XN8yysP8emCheSKyOjguBA4_paXAXWW9rqGVm2BDV43QnywgKyVKjYLhCvwI_YvazEYUcy8nuj8qfvJJbUJVYQ4ZaVaxoqsYZQ-3Dfgq6nB-1YANGzOQtN9x1jg53LMbE40QtjXnKXdDCjgWyoQ",
+      "duration": 9391,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M656G9X2DE8NK60MY0RHC93M",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793323443625,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2d0c972fe80e1c475e0664d66ccea46c"
+    },
+    "replyToken": "3925100a17954b9089020893ebf386d9",
+    "mode": "active"
+  }
+}
