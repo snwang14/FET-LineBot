@@ -1,0 +1,48 @@
+{
+  "EventId": "01M6D06DDP8CRWNSWMEJHTXD33",
+  "MessageId": "638799142608961690",
+  "Timestamp": "2026-11-02T02:07:43.786Z",
+  "ReceivedTime": "2026-11-02T02:07:45.012Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@Albert-yang楊 \n楊經理~\n請問本週三(11/4)有平台的議題嗎\n\n因為本週二、四已有平台的議題\n11/3\n討論議題：\n1.歷次會議結論辦理情形追蹤。\n2.路燈APP產出資料檢核。\n3.台電用電申請進度。\n\n11/5\n平台開發進度及期程管控、資安相關、需訪後續確認19項",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638799142608961690",
+      "quoteToken": "4pDRPN7CyOhGiMy-3YH1PjsxstbIRhXR5J0IymXFyFrn833bqF2YUr7ND6kiXoRYQf_Jip4M2KDn-i7BoiBeantrvHkkAAYj3mz5TMmS2FtGEbYh-Qd0LUk28flZlirTrWI8l2OUo-8qgvJOny0uFA",
+      "markAsReadToken": "ND93xDeftaccfaV3xZbS__4EKsM4YfpO2RW2NuR0f_WlUynZlRmeU2vyOUVALiGNTz4d5Znkt1VMSuUJi41sK79hfouVs9IYM-tLpn4OvPD-trvqIwEMnfZTkO2Zm3qU-yOoN0qK9ohIEpm2MhuzH--LuwwrHLV8B43F9K0s4VAgDMA-pgqO7jF8PntQBie1Ot5S8CHDlzy0hV4dGvuixw",
+      "text": "@Albert-yang楊 \n楊經理~\n請問本週三(11/4)有平台的議題嗎\n\n因為本週二、四已有平台的議題\n11/3\n討論議題：\n1.歷次會議結論辦理情形追蹤。\n2.路燈APP產出資料檢核。\n3.台電用電申請進度。\n\n11/5\n平台開發進度及期程管控、資安相關、需訪後續確認19項",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M6D06DDP8CRWNSWMEJHTXD33",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793585263786,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "6aa007b9adbc472cb73c9c3f756a87be",
+    "mode": "active"
+  }
+}
