@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6D93Z84R9J3ZKVS3ZY0D20N",
+  "MessageId": "638814840831869611",
+  "Timestamp": "2026-11-02T04:43:40.683Z",
+  "ReceivedTime": "2026-11-02T04:43:42.217Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "我沒有在群組裡\n後續再麻煩妳們留意喔",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638814840831869611",
+      "quoteToken": "GlgyNsQl6njVtlTHPKTf-6ithR-mquEgMrAFOMN7PxtRHU_UqKOIu94fjre9gpfr_pvWe-bwavwUlfVAJMBq5BH7TstYjFljg7CkrUG639vwThjMXda1ju0bZ0FHZ3yAUj5GG0fvTpcwfrZXfO0V1A",
+      "markAsReadToken": "HAHuR53tb1HvSo1rrYdebLZWqW6n6368Fg5FyiRk2I8yQY-HJ0qbc_EEKKEYlFnTzJRrRG_sfsWof6_Tb0KCjdjkbEwnZlWtoyMJUNsibIBuAHQresuEry9-p5VdWaen_1zvpEvZZalK1DcKPbQrYmR1k1OiyWbCpTalK4fROF_qoKW9AOO60istZB44J9H4JdZn4zZ1MFbG3ju7GFSxuw",
+      "text": "我沒有在群組裡\n後續再麻煩妳們留意喔"
+    },
+    "webhookEventId": "01M6D93Z84R9J3ZKVS3ZY0D20N",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793594620683,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "4b48c1f614b54753b977483c8544bf22",
+    "mode": "active"
+  }
+}
