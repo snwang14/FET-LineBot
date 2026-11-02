@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6D5EE0PHPZ4SXQ0P5VGXRC7",
+  "MessageId": "638808379792032374",
+  "Timestamp": "2026-11-02T03:39:29.586Z",
+  "ReceivedTime": "2026-11-02T03:39:30.620Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "我要的日期是可落實執行的時間，不是要請一堆人過去看光林工廠長怎樣，請再給我一個日期，謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638808379792032374",
+      "quoteToken": "e2kHZ62XacoovUkZKaZvna6n650lvOcq0yo7EWzx5gyRTKCJ3g-8ESYMqq9mYJoQc8JllkwekggeTI6AdddLrLA2qcebLVJRrcFdGGapkwcI-Qbh0Hdw7jrt-A3lXB17V7U5yvbUMmXWrSG5p6mf_w",
+      "markAsReadToken": "qWz1QD9ezcbzLYCq2aqd-cHp2zuxNvfr5wEGuykkmPAdjhEblFEGnMs5Hzn-C7NaOQu6HfxzYydfVXkQSetnGRIX7z_1Se7VGMwqQDFkP_doqX1eOcr1bckpuycYxenXYB9OknfNuTB0SEQkCbWo_23-ngeooDxBDlcuOd8LvbZi7_-FlEbPJf-BLLCHb0AlJr8BsBckp0SVJtUJIEyAjQ",
+      "text": "我要的日期是可落實執行的時間，不是要請一堆人過去看光林工廠長怎樣，請再給我一個日期，謝謝"
+    },
+    "webhookEventId": "01M6D5EE0PHPZ4SXQ0P5VGXRC7",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793590769586,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "d437cc9a3b7d4745ac8db357a787f982",
+    "mode": "active"
+  }
+}
