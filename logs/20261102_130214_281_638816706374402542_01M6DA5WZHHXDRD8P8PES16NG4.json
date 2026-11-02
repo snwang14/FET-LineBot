@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6DA5WZHHXDRD8P8PES16NG4",
+  "MessageId": "638816706374402542",
+  "Timestamp": "2026-11-02T05:02:12.612Z",
+  "ReceivedTime": "2026-11-02T05:02:14.281Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "我剛看確實那個公燈平台群組沒有PJM在 我在來你們進來ㄟ",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638816706374402542",
+      "quotedMessageId": "638814840831869611",
+      "quoteToken": "hI0t1bG_228gP5pFk-S-mYVgq5R6pS4-cB0F7tjBcCtDwnpZ-AYPCiFVbdxHXaryIzffiejKV0MVq3ROjdvtfkF5WmvAj7w8nYFhaY46SjnEeRUe5C6YgRFe9dAZ93P4NLjt8uiXUNKDGuEYuXVDog",
+      "markAsReadToken": "QNHm943ZVAnnvmo2dWFr94QYXVzcfJMWAKGC_ovCkG-vf6GSeE357EV0LFyLqVBQJn4KZtnsanwASh7v9EULGXsdW5NHQ1TpaPGWXEHp-vBvwDAjvj0YlYGITvWrJNI4l-O-vkkAAGOl8o9nTHm3fJvj-a7Oo-Q43LVNrK-McuaNuVLMxqGaZS_h9jPcQEy-Y53fYR7lkVqSSrjmic8pmw",
+      "text": "我剛看確實那個公燈平台群組沒有PJM在 我在來你們進來ㄟ"
+    },
+    "webhookEventId": "01M6DA5WZHHXDRD8P8PES16NG4",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793595732612,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "d63c7728619c45b789a1db2dab2a00bb",
+    "mode": "active"
+  }
+}
