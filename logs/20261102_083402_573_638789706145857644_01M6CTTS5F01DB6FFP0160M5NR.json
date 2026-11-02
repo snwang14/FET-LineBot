@@ -1,0 +1,48 @@
+{
+  "EventId": "01M6CTTS5F01DB6FFP0160M5NR",
+  "MessageId": "638789706145857644",
+  "Timestamp": "2026-11-02T00:33:59.408Z",
+  "ReceivedTime": "2026-11-02T00:34:02.573Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@Albert-yang楊 \n楊經理早~\n有關平台月報被退件部份",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638789706145857644",
+      "quoteToken": "o5U56BjDsyfWCKxU8c4CKqV0PKHVjCAg9CRdf-pkN4QB6yCcgwLIGIlFEQ757EOgZgOBdjYsTOW1NE_iPBr8torOvuewgg7i9UrcisKn1oAhteBKv_ySJjhTG94SnRfFYFSdD_0gUqdiICtTCpAM3Q",
+      "markAsReadToken": "YcF9uUP1zwW_eWUk84-hMykxRs49sm_plok5jwHihHDo_JcLGKjBn0RUl46djHOU46a1YW4EsqXvudLJUy2q6HSKqwtLq3ebMDlJ-7o09ywLl05FOFLGij-4MYZNHUd0H8WMmU0-KChJ4mREEq_YOctf6XqSuGdnAeS2gQ8_uWzbkm94JzGJ-ubc1vJwEeCAF8J1jnHgD85XzkONBZSOAw",
+      "text": "@Albert-yang楊 \n楊經理早~\n有關平台月報被退件部份",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M6CTTS5F01DB6FFP0160M5NR",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793579639408,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "8a31ff2d8f634c57a2b8fcf3e148d454",
+    "mode": "active"
+  }
+}
