@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6D0H3RW2Q5G8ARSY33VSYVR",
+  "MessageId": "638799730298323374",
+  "Timestamp": "2026-11-02T02:13:34.196Z",
+  "ReceivedTime": "2026-11-02T02:13:36.226Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U3f74dc8aeb3a341ac3dc888addad9bef",
+  "DisplayName": "Albert-yang楊",
+  "MessageType": "text",
+  "MessageText": "週三没例會喔！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638799730298323374",
+      "quoteToken": "TsZ9CuF8R6A1lYMTJcN9XonDaHUf14OyBF5jCQkr0DAc-u0huGDwGzV4DYKwwROy2InRBxFOv74a-OUHHebmOllNZNogq3OPHzJr0GRWTyu-ZPwvOiPh5tD83Zrz8NLhv_e1qHw0LA9vqxKmEEdiIQ",
+      "markAsReadToken": "RSjDL90yMdpKOtqSYAUHLGlPFz38MdeRocy7TkQNqik4OSheqSZOxu5rrS0W9SsJQwE1Ca-0y3Sh2JYzcy4vGms4baZm9LSFgBu_8sj4zVhKpx7fpPGepD0hyV8GRjlbx-egxZUl_-B0u__OC4VSGEs6URWPb0TnSAGO184vv3y66xVqh2-POUgqF1ozhBBGX1WOAokxZA1PmYLYWoPFIA",
+      "text": "週三没例會喔！"
+    },
+    "webhookEventId": "01M6D0H3RW2Q5G8ARSY33VSYVR",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793585614196,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U3f74dc8aeb3a341ac3dc888addad9bef"
+    },
+    "replyToken": "2a30ef69a1894a569286594324786a7d",
+    "mode": "active"
+  }
+}
