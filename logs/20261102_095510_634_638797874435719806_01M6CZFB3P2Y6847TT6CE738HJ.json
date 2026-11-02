@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6CZFB3P2Y6847TT6CE738HJ",
+  "MessageId": "638797874435719806",
+  "Timestamp": "2026-11-02T01:55:08.000Z",
+  "ReceivedTime": "2026-11-02T01:55:10.634Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "本周4下午2點在第三會議室舉行平台會議，由副處長主持!!",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638797874435719806",
+      "quoteToken": "mQn96QgNmNPbwpMef8C9sKPKQCNe7DKfRpJzVUUC3qByi6PNoAyrcWY-fKAdrgy2JkIwl19-jOzajns2aXMD9FdyDH7fPzdj3h3jrmOP9oJ5ypfeToOg0XMvBlpq4e2GVv__stT1Lqy-OKETF-B2cA",
+      "markAsReadToken": "UOlgMr02Fyn3qu1IUH5q_clNsDSxyISinaZmHs9ysEWoSjA-U1OjloiqypXy7rFObD8HOs-vhPgajYT9WKnMCYekjSisykUzsZP37FiUzs9xs6w4KP_fGOYjopygHbney15EMg48bFcWEnI11paPFKbK6l-w5KkxJjsgf69RNvKZKoFKe1P-crb1iMr4a9s9jqw8QKJi3_ZQ-VHorGsaXg",
+      "text": "本周4下午2點在第三會議室舉行平台會議，由副處長主持!!"
+    },
+    "webhookEventId": "01M6CZFB3P2Y6847TT6CE738HJ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793584508000,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "851c69adc3034851b0516fdb64dad15a",
+    "mode": "active"
+  }
+}
