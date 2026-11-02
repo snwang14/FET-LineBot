@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6E62WBNE2BDF2443RJZ7BDS",
+  "MessageId": "638865798219694187",
+  "Timestamp": "2026-11-02T13:09:53.692Z",
+  "ReceivedTime": "2026-11-02T13:09:55.328Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ubbaa1336273d3a58e330e446818dad40",
+  "DisplayName": "黃遵哲(小璋)",
+  "MessageType": "text",
+  "MessageText": "我請內頁人員快上傳資料",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638865798219694187",
+      "quoteToken": "P6g81NjQhG1zoEecsIomaTOHIdJUVTl8SSCLXspyXeu8xnuuzbgx8eh7kXQ6snz0Yq0mW4ZfBIzMKAQ1ZIu_dPq0Jg-0Wrc7qy378ZmjXNWQbRW_wdXEfHVj3Br4Z4Up8VjVIq_cJjbV8GxiS_6FOA",
+      "markAsReadToken": "ttkuGdFfHCAh3MeRTdfxK8eRSYUpPxtUYtGg1nmkWbvjuR5QKHSsJql4RO2gsjH9k-QuVmaxNe2Sv2GRYq2lFh8aNvDGvTSUNWsfb0wEDI8BAncelhKS7ynw6kWjd8SpR15EJ9GaKA-UHFTt_uu50fdNOY3KspmoeqiFXUiGCCbk4x-lqUaw5r8yvGOdWhXhuWmLB13EMp93o0Y8qDIXdQ",
+      "text": "我請內頁人員快上傳資料"
+    },
+    "webhookEventId": "01M6E62WBNE2BDF2443RJZ7BDS",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793624993692,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ubbaa1336273d3a58e330e446818dad40"
+    },
+    "replyToken": "2b3741d9b2bd477781b7d6cbdbf09282",
+    "mode": "active"
+  }
+}
