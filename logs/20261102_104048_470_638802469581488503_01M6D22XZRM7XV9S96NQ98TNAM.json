@@ -1,0 +1,48 @@
+{
+  "EventId": "01M6D22XZRM7XV9S96NQ98TNAM",
+  "MessageId": "638802469581488503",
+  "Timestamp": "2026-11-02T02:40:46.823Z",
+  "ReceivedTime": "2026-11-02T02:40:48.470Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "@Julia Lee 佩玲 請問智控器模擬廠驗預計可安排的時間是？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638802469581488503",
+      "quoteToken": "TrbXYI3-wsPEVDaYoSPc1dG-NJ7Q8shG_n6Qv_3QupCDgp8Yiuzq8uzZBcuU5bMumYvOPpkF1x6DKxKdfOhhnCuBQ8nJRokO1v3yDKBOUwEIiZpiTKiV1xj1FKDjgwlonSFKq3j4jyl2LO_oC4EvgQ",
+      "markAsReadToken": "lYxZ5Cesjc9_E-iL_VKZEHd6hBeCugrr5Hl8F_cWYC0kSW2II3TPPHnIL6ifkMbViwybf8j1Jwy-zAslHzSxVRAHig1keew6U2AH7xpRmP-Eadb03k0kUMoyDP4O_swnJNrCD0Ig96HpP-Hq72A1dEgb1aEd3CWVuGBkxprY9gNALzl2C7uPzYWxrUStGxoUYWibG_mnUsUm-vM3ePC8KQ",
+      "text": "@Julia Lee 佩玲 請問智控器模擬廠驗預計可安排的時間是？",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M6D22XZRM7XV9S96NQ98TNAM",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793587246823,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "0f8958ed5a35404b904a32643ab5c142",
+    "mode": "active"
+  }
+}
