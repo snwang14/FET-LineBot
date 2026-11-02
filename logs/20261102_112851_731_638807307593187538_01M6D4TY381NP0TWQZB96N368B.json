@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6D4TY381NP0TWQZB96N368B",
+  "MessageId": "638807307593187538",
+  "Timestamp": "2026-11-02T03:28:50.686Z",
+  "ReceivedTime": "2026-11-02T03:28:51.731Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "這我知道，但我們什麼時候可以先模擬廠驗？不會是12月底吧？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638807307593187538",
+      "quotedMessageId": "638806356778025192",
+      "quoteToken": "2V-FkZ_lBk5hMKQEMpmgu_kjE_eI3zrTzqBGpgS0tyN_FJ4mVTNZMeFTvYjcvgfYSAia8AWDDN6qSnV2JUfxvqSEibJx3WJbVrWJenS32VmNGxmqUAgGVzCJA6crNTbApLm6RZZb3S2YZF7hfJZxlg",
+      "markAsReadToken": "CoB-72kamWFhmmYGs_20-omFRqm5ddXFzPum3z8wTwUKUxR_F4jj_o2oBv3oexcXY7O2BZYoB270VCZVwGCbmANiRls_CpdgBkOXmetQxEywdwOhSLO9a5_sHn5kqyXoNbGXygdCOpcHqOXVaFxwoBSHuJShh8c6B7ddWTYzq0_JjyU_3slxe4Hcx6pFOCqfQapsHor9cK3JW0wJMyHfPw",
+      "text": "這我知道，但我們什麼時候可以先模擬廠驗？不會是12月底吧？"
+    },
+    "webhookEventId": "01M6D4TY381NP0TWQZB96N368B",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793590130686,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "e4dbf5411f0e4168b84e4fcc5a14fecb",
+    "mode": "active"
+  }
+}
