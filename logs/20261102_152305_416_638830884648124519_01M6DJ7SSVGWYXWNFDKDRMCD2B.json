@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6DJ7SSVGWYXWNFDKDRMCD2B",
+  "MessageId": "638830884648124519",
+  "Timestamp": "2026-11-02T07:23:03.520Z",
+  "ReceivedTime": "2026-11-02T07:23:05.416Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U00b6be8474a61ab8ee0d622b0fdc751c",
+  "DisplayName": "Ruth",
+  "MessageType": "text",
+  "MessageText": "網頁還是一直無法登入",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638830884648124519",
+      "quoteToken": "qNqQTPo9BVcRiJN8u43s514wkLmfj92iizQQi-iPiQKPwGXVhM6V00Zy7J0R8a40Mfzxn3dmJUQgeJjGR5BCOjSRVtvGMSofgvW_dtXxaR-5fVYoYIIR1s5kCQWkgrKWN2cHT8mDx9O7EYljNqxQyg",
+      "markAsReadToken": "LjNCQbF1kUvRPRuRTJHch64pu6TcatiM74GyjCn5ZszrgR6ghYOoWMGPgvmNO_EsBxUQ_e_pcPFG0cXV-pIWKawgNE7a1C2PIU1ibUy1-hKQp34TivVVxUcGLeCpCe8wchdxg9toU7VqgA92j7UwXspAcZ7yajvEKkbudl0jiSHZOV1m2kRpGXLFIXSiVoZrm8oC743-qCag2UXkfvwneQ",
+      "text": "網頁還是一直無法登入"
+    },
+    "webhookEventId": "01M6DJ7SSVGWYXWNFDKDRMCD2B",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793604183520,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U00b6be8474a61ab8ee0d622b0fdc751c"
+    },
+    "replyToken": "ffc91eef9f98474ebac32ed11fe1b33c",
+    "mode": "active"
+  }
+}
