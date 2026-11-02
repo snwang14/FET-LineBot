@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6CV0255R0F3ZCJ3BP2WF16K",
+  "MessageId": "638789997717619012",
+  "Timestamp": "2026-11-02T00:36:53.009Z",
+  "ReceivedTime": "2026-11-02T00:36:53.809Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "請問第4頁指的是這裡嗎\n本頁是 [台北通] 簽到\n明峰所提供的檔案哦",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638789997717619012",
+      "quotedMessageId": "638789821640737381",
+      "quoteToken": "Fnro4scCeDH6-5JUGapiUPIV0b5sUo6QiJHTJK1XgP1rB9Bb0eexH0Iy0huGArYuSl14Lgty9e-F4bn0rhYkJ8avIYYAnuyvUYJDmXo94GuywWyQ3aABgmpNVFoupGyRZxJpfbdKYMsfq6ikDF4Quw",
+      "markAsReadToken": "mpgEUi94mrLBCIK4a1HAQXesJ0mcanVjrz9h0yoTppWn-buIMVHJ_Ic5wkL380yYtafr1_oEcvjPaZgRQ3UiuylPp6mQHoYiSup_FHcyI00-orzyUk0pAX2sq0Hqu66NX699KQqLaijdeP9LRSO4XNZ5xhOl9oedYyQvrhLwyuVfZVeCRImN0wFtqclUdogQqIp9z16KJisAa9Z-ee-pgw",
+      "text": "請問第4頁指的是這裡嗎\n本頁是 [台北通] 簽到\n明峰所提供的檔案哦"
+    },
+    "webhookEventId": "01M6CV0255R0F3ZCJ3BP2WF16K",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793579813009,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "ffcabd237f7f4ee99705f9d28f3260d5",
+    "mode": "active"
+  }
+}
