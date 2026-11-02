@@ -1,0 +1,70 @@
+{
+  "EventId": "01M6D3N6N37M47HS9PA0WBRGT0",
+  "MessageId": "638805233007067412",
+  "Timestamp": "2026-11-02T03:08:14.042Z",
+  "ReceivedTime": "2026-11-02T03:08:15.261Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@Andy @Julia Lee 佩玲 @林郁翔 Alan @Michelle Pan \n楊經理說\n此群組問題，要記得回覆喔\n若資安議題與本系統無關或未使用，也需回覆說明",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638805233007067412",
+      "quotedMessageId": "637797748351434755",
+      "quoteToken": "oo9_2P1co9SJQWoNfYrRdNYLYe8HBf7OSIVjGxvZtBeB-plwqXqRNuLka4049krVLNdkWKu-NUxFIaNJFESPfg4lG1wLgykMCEnUi5lhZRbZ31-BgLOU20QR4nXWRaYQDEdxjUDG13yWwJgC0IHgNw",
+      "markAsReadToken": "2ddOSlqKrb7FXjUokFwamP7__DX0zCNh3NDPqaddqIQnw-P-MmkVWAYwcxv49b2pfI4UVpbgZAJhm6--h1-U6ejzU4ULG_7Ohk2WhYVdMdpwrMVyQ5pXXIYQdct4oojKmM4-q3vrWnwXoPD1hdN5j-scVK6HB-oNywI2ZqEgsbM6J4UZgo3-uQ-CIF5A6j2IZ7sBVAZDmJssvOhYT-AIKw",
+      "text": "@Andy @Julia Lee 佩玲 @林郁翔 Alan @Michelle Pan \n楊經理說\n此群組問題，要記得回覆喔\n若資安議題與本系統無關或未使用，也需回覆說明",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 6,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 20,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 30,
+            "length": 13,
+            "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M6D3N6N37M47HS9PA0WBRGT0",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793588894042,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "8fb995e72c8a44b69836ba0cc6d5b7bd",
+    "mode": "active"
+  }
+}
