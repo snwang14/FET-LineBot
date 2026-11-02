@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6E639QHPEWWC57KKCYBD1TE",
+  "MessageId": "638865821204480343",
+  "Timestamp": "2026-11-02T13:10:07.411Z",
+  "ReceivedTime": "2026-11-02T13:10:09.030Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ubbaa1336273d3a58e330e446818dad40",
+  "DisplayName": "黃遵哲(小璋)",
+  "MessageType": "text",
+  "MessageText": "不然明天數字不好看",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638865821204480343",
+      "quoteToken": "tyRS8-mlYzkyb3A1_xCyEu6NWF17UGtFlxFihCNBvXaSWooIJauSW7B6zK6TbQPZF4UfEsnlPp5ncb4B2ixOZ4hdErx6Mylyh2lc5lDBxICJe_TbCtdIzPEOxwLuXys8NLFfVE_xAWV-zjsyPHLlLw",
+      "markAsReadToken": "Vwi2PpK9EUWbVY-p43sLob95N7kC2lKhMI-17agKVmBY-ohOC9GCDcUo8bf77gR7NayMgM5narGep_FNYAoBmHWDMJ1ijwKE67tIObwiEK3BSTuldC_eb3DR_MOE-VuReewDtBxIjGh3WWMIU4hl6UXg_quXx1M1C3rEuyjaxhxF2yi40ysGUPIjt9D_Kg5Ley3VkavcL2v8GGrgGClPIQ",
+      "text": "不然明天數字不好看"
+    },
+    "webhookEventId": "01M6E639QHPEWWC57KKCYBD1TE",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793625007411,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ubbaa1336273d3a58e330e446818dad40"
+    },
+    "replyToken": "a3854369b7a74dbbad4001f7b7525d4d",
+    "mode": "active"
+  }
+}
