@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6D8WJ0TGMCWRFS0FBB7SX8C",
+  "MessageId": "638814433212105118",
+  "Timestamp": "2026-11-02T04:39:37.812Z",
+  "ReceivedTime": "2026-11-02T04:39:39.567Z",
+  "SourceType": "group",
+  "GroupId": "Cea8cb45c6363653e649feeb7314a3726",
+  "GroupName": "遠傳PCM",
+  "RoomId": "",
+  "UserId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+  "DisplayName": "Michelle Pan",
+  "MessageType": "text",
+  "MessageText": "這個資訊我10/26就回復了，你們有看到訊息嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638814433212105118",
+      "quotedMessageId": "638805233007067412",
+      "quoteToken": "Nl3qNei-Q6JQRSAoBmW_iXQrtR-6ynsd-h6S7FzzwAfjhomJ_rDS8bbqS2STj3IHGfMC-yRzM4vh4r2LcGjkMAJjq8WGEqZOv9SEgXfRmklfGUPygz9cT7wnf_z0VuRErm52U83pWspceCpCX9iUEg",
+      "markAsReadToken": "QpldakYQAC3rXWSLPbGWbrvj_aueaiL_JFnOCir-n046wEFPkZwWM6xgyvC2cDncqsOxL_AzdxfO0nnnTDbYwQ_bqTVKmhul25G2vH-8zVtkMC2BQxCJn-zQHgv2DyRv3u8D6b_fkz9XUVDOrhyyhg3rEnJiKLs8xVfUFlpaurX0Y-AS3P8qEfV_YPaIL635fYAx5Yl96fqzdNNAbq33PQ",
+      "text": "這個資訊我10/26就回復了，你們有看到訊息嗎？"
+    },
+    "webhookEventId": "01M6D8WJ0TGMCWRFS0FBB7SX8C",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793594377812,
+    "source": {
+      "type": "group",
+      "groupId": "Cea8cb45c6363653e649feeb7314a3726",
+      "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9"
+    },
+    "replyToken": "f2bd50c32bca482d9def3accabd2d22a",
+    "mode": "active"
+  }
+}
