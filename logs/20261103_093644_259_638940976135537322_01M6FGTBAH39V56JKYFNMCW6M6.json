@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6FGTBAH39V56JKYFNMCW6M6",
+  "MessageId": "638940976135537322",
+  "Timestamp": "2026-11-03T01:36:43.228Z",
+  "ReceivedTime": "2026-11-03T01:36:44.259Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "我只有11/12可以，看一下其他要參與的人員時間是否可以",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638940976135537322",
+      "quoteToken": "ZbpgacXsNWYswdNg2laX28iYeXXQ1IeH3vy9DjrYGHSqyARYmvpajldSEWNLUZQ6atgxy0HVFQUP42OUIDxZQ6uPoxcX5XAm8kkSgx4f3Bt5WvxcFApyywVWbn9JUMZIeL4UYJBN_mCJQqWqJY_AYw",
+      "markAsReadToken": "ywUPnw6jfq-NAu88xeGJV0hG3omMUO-SgbsBe17AdJgpvzM9VeyfkvKaWy1_REvjsf2wbt_zQAaAsQ4jJjlOsigS99LdFo-ofB4LGCJJaappnul4RGClezpEBzszyJbJuUTTzYc4GVCV-k3X1f2E2kKgV1BEHZW3_OmcXLiIpZ9c5ORWRa7o-2Tx4raW8D-6PqYAutoL4TTQdbdNKWI6mA",
+      "text": "我只有11/12可以，看一下其他要參與的人員時間是否可以"
+    },
+    "webhookEventId": "01M6FGTBAH39V56JKYFNMCW6M6",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793669803228,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "71983d035c544210993a89c2730b96bb",
+    "mode": "active"
+  }
+}
