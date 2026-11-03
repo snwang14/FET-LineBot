@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6FGQ7JH8VKM0JBMK0AFWY1W",
+  "MessageId": "638940804991156735",
+  "Timestamp": "2026-11-03T01:35:01.187Z",
+  "ReceivedTime": "2026-11-03T01:35:02.432Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "記得這週是上次sammi建議的時間，跟光林詢問，可以配合時間有11/11～12這兩天，看哪天方便？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638940804991156735",
+      "quotedMessageId": "638802469581488503",
+      "quoteToken": "QdT8LkLQu_QMOiEyex6b6AJkeLB4MR26Nh2li_SSvpJDEHtuW6HFIpaN6Ojc0_7j4BwCPqkGouYaceOXg5PyNSGwAVQGEZMvjkARFmwQaMkaneJwRJtXaESLUXSb7v_e5X6CticM7bbNS0uwaIHP7w",
+      "markAsReadToken": "3bB3Mj1n_6Dmn4aWf5PFtgXXnG3ahJ1--DIJwTukjuQ17gcZsYJu6FcF-523rxwc71sOPG6UHDOjAvN7DLlBDDqZtYLH43tDvO7XLP5njhlvLvLbXZHtb2fCz138jIH79IfnWosG411ucgnAcZEx-Rz6Ps8ePcIH3Qy190LH5MkyEZjRIhvMhqiJYb5U2ZNkxF1KSO5mucBIa8s7C-SyZQ",
+      "text": "記得這週是上次sammi建議的時間，跟光林詢問，可以配合時間有11/11～12這兩天，看哪天方便？"
+    },
+    "webhookEventId": "01M6FGQ7JH8VKM0JBMK0AFWY1W",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793669701187,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "5766a4b0968b4961aa703f8b743be9d4",
+    "mode": "active"
+  }
+}
