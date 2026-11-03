@@ -1,0 +1,46 @@
+{
+  "EventId": "01M6FNN2BPTMERD1TF34GW3XD8",
+  "MessageId": "638949481412296995",
+  "Timestamp": "2026-11-03T03:01:12.703Z",
+  "ReceivedTime": "2026-11-03T03:01:15.116Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@All 20261019190056\n點位 84307 這張單請先不要審核，工程師測試中",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638949481412296995",
+      "quoteToken": "QXF8oWxTNmvKRAN6xuK967xyk0ix3O5TRxV6O8bXZRpXc9n6MloyyvQY8UD733uqTwNlJJH-Kv4BczhyLkUCtm4jAc9cGmeean5V1hn9l4WHWta9s-uSZOC8YMURhsIfdB4leF5a7EcjTJk1wErEhA",
+      "markAsReadToken": "ovjbSpl98tatqrUM8s17gsaV9iKyWd9i12g_uAjLI2LeViufeUTMhDLZSDGo-E1m0OFjrafz0ZjBPIkTbaGktBJScYas_H5O9TaYaCu-nSQ8feROHCK9vF3Lb1TBcqw6_4SbKLS4kybVd-jAfz2q2viKD_GdLEHgAr-rd9453BVMTT2JjgtoRTwwI6IOe5u7j-TSM8_p8S5vJeJ1jEKShQ",
+      "text": "@All 20261019190056\n點位 84307 這張單請先不要審核，工程師測試中",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M6FNN2BPTMERD1TF34GW3XD8",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793674872703,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "162d487e36294bc5966fcbab99129e13",
+    "mode": "active"
+  }
+}
