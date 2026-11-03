@@ -1,0 +1,49 @@
+{
+  "EventId": "01M6FPHSEPW2ASA512YN2XV0S7",
+  "MessageId": "638951060550975561",
+  "Timestamp": "2026-11-03T03:16:54.046Z",
+  "ReceivedTime": "2026-11-03T03:16:55.095Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "@Julia Lee 佩玲 \nHi\n麻煩請彙整確認日期&人員名單提供辦理模擬廠驗資料\n公司 車號  姓名 \n謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638951060550975561",
+      "quotedMessageId": "638941489199841333",
+      "quoteToken": "RBBpp9_Ls-lI5ag8ehTB0o99Mavbi5ZKVWB9m6SDMVe8CyAuqDtXHOiTTtTSl_v8M3yAZ8Hdr6EcGAb7MEPcfkzlva7hWSeWhCgSVeCr7iDeQriMIu0uG8ulODXmAXpFHR9NTfakPWPBjjLedtxR0A",
+      "markAsReadToken": "0AKk755VLO3gpe89JJF8flFpu5cZN8iH9FYEeE-Xx5ApOQzVPTEt6Sfv2cSAuSCHadCNtZzwzypbfOvvuzbbaFnUhur0Eeum1uJfDkKZ0rCoRHzqlGaO8P3klnHS8-MFbI-lNzeQiAt6EATM5X29eAn2Zz8AKqRyq263bUGV91Qnv8gkNEgWLbDnjOOH9nXAp356ON1MPFsZunhhSkBeCg",
+      "text": "@Julia Lee 佩玲 \nHi\n麻煩請彙整確認日期&人員名單提供辦理模擬廠驗資料\n公司 車號  姓名 \n謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M6FPHSEPW2ASA512YN2XV0S7",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793675814046,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "46321f14757b4c1e91e7de1eabef20a5",
+    "mode": "active"
+  }
+}
