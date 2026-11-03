@@ -1,0 +1,49 @@
+{
+  "EventId": "01M6FKV5JTRZZ3KV9S3CS0XGZA",
+  "MessageId": "638946298355777996",
+  "Timestamp": "2026-11-03T02:29:35.454Z",
+  "ReceivedTime": "2026-11-03T02:29:37.488Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+  "DisplayName": "Michelle Pan",
+  "MessageType": "text",
+  "MessageText": "目前確認 @陳禹任 到場，Jason那邊要在確認",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638946298355777996",
+      "quotedMessageId": "638941489199841333",
+      "quoteToken": "A8n_lzoTL0gmRijowsMV9bYKv-LPUyDjVEUQqz8vrPBLoBS28hR-BfnWMgXQAIH2WOeXYNTE_xO7bjkgd2s-M4cwEKOM1nY-hMvhpfqSXZ6v3EAwbyFw2cJN22mnPivEe5H_tpOLPSxPLB7cqYHmwQ",
+      "markAsReadToken": "wazOW9755oXaHwQJAL-AncBi8UgggAQxsryHz2fEYy2dX2uiiglD5FerQyHRI6PZE5IZOQjtryUndyT8xIkr1re9OQwuuNabYXLLy0PqiVCgxX2KNiNb09sP90mRDqXyP4ikeuKC-MWHm2AVXM4TfZfO_qGNysh5pl3MjmsvxNWzXNjUO6A7qgr3jB2bOcaPEJ_amXvtkjjTH8oQ6SzH8Q",
+      "text": "目前確認 @陳禹任 到場，Jason那邊要在確認",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 5,
+            "length": 4,
+            "userId": "Uff84e2f22ada43f8145f2fd625a33ece",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M6FKV5JTRZZ3KV9S3CS0XGZA",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793672975454,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9"
+    },
+    "replyToken": "9346aff4e145430ea33079150a29250b",
+    "mode": "active"
+  }
+}
