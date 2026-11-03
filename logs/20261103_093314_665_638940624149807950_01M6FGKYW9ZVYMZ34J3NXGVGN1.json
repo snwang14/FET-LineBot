@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6FGKYW9ZVYMZ34J3NXGVGN1",
+  "MessageId": "638940624149807950",
+  "Timestamp": "2026-11-03T01:33:13.485Z",
+  "ReceivedTime": "2026-11-03T01:33:14.665Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "機關提醒，請問這部分有列入簡報嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638940624149807950",
+      "quotedMessageId": "638940524426559523",
+      "quoteToken": "eMM0lZacXsT3iA6wYoICJAGmVZuXBZ9hj7iZ8KeXKAXf-Fa60Oh-kkaKnx0zoh7TAJ4ZKvLLRHHIxkSJGz-YYsN9z-zkYC0tE0lf8mvGZQIG1cC9yu9R8axba2GyO9a9rtvdZm1JANNMjohF5FL49A",
+      "markAsReadToken": "HZ3FuqYIEJoIjByyQ3C1incENRRKY575E6JbbuC53L3BaEy-17HV5OkbiC1uW6gFarM2xhNkyieA7oQ3gyrGMIKqA0ya_TvitrrZZnK4BcVFS4P7K34xNYhXbNRj7xVJKYUQgqJPh9sjdw653DkuCPKf9SsEQ8m1J61Sx3jA75AEBJbtKZJk_zPMmdgp6FAhS07KDAS8ov_j0QI5KElHfQ",
+      "text": "機關提醒，請問這部分有列入簡報嗎"
+    },
+    "webhookEventId": "01M6FGKYW9ZVYMZ34J3NXGVGN1",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793669593485,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "26e665d6ab814ccf9b733bddade4a5a8",
+    "mode": "active"
+  }
+}
