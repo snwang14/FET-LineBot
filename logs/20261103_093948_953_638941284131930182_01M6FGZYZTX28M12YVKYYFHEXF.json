@@ -1,0 +1,55 @@
+{
+  "EventId": "01M6FGZYZTX28M12YVKYYFHEXF",
+  "MessageId": "638941284131930182",
+  "Timestamp": "2026-11-03T01:39:46.815Z",
+  "ReceivedTime": "2026-11-03T01:39:48.953Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "@胖仙女 @林郁翔 Alan \n請將本日平台彙整完畢提供\n機關長官要先看\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638941284131930182",
+      "quoteToken": "FknQq0xvjHKal8iB5QtKePlPDq-5nz815KbipdZ_vsYTBn9lzji7xRq14F3Bue9fJdBuHUaAALxv0y8-gEzYatX-nrbogq8CChu0BsoWPYaU6RqzIUt-FkIW-BYIOtYbSnAvyMxOm21FWBy31AdeVw",
+      "markAsReadToken": "1Kt8P-t7Jo2ftkoB6EFYRAE2oTrFXtPU-c9OH99kLz5sxP59TNz2fARbaU70J2BkuWkUwBCZBTgFfflhZ1vTs34q19Fuk4iabW1476JM77umcLoBShz5BWwZHgzvBPmZGQEg5QZEb_pKZ45eMN22fNIgWPCsspqxaanyIe6cC8lrLrdGgM6b4ACNP7In9qUavvzVn7VCfZbv29pKBANHHw",
+      "text": "@胖仙女 @林郁翔 Alan \n請將本日平台彙整完畢提供\n機關長官要先看\n",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 5,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M6FGZYZTX28M12YVKYYFHEXF",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793669986815,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "538b287e5448494cb6db97f3bbe92d62",
+    "mode": "active"
+  }
+}
