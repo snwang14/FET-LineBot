@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6FTWJMBK7NMNJGW1QK9PA63",
+  "MessageId": "638958690275951103",
+  "Timestamp": "2026-11-03T04:32:41.617Z",
+  "ReceivedTime": "2026-11-03T04:32:43.040Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "廠驗 基本上維運都會配合到場\n據我了解台中廠驗也是麻煩Jacky",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638958690275951103",
+      "quoteToken": "XULGR9rger9Z2ut24Zzrac3VOP9Xff6lojW6zir3EmeVE1gz8CFl4fO8UY7uQwH07VdmDifEQzTHaF39P1p5UdH7P5fOmV-I-msoYELvjgBwlgiNlgkbvX825OdyM7bS0mYVu9uLDRzel3YbHHMxUA",
+      "markAsReadToken": "hu-FuEQFMoSx0QWJIieW3wRNakoEwTxUarYqlN_p4uLNKKUXk9Bn2ONuXLnH7Pj3FFEm7ld5FTn-dS3Tcf0kcJe8fs2bZ6gHCCxCUIFjHz0YIpk7uxuN_cqHM6LWeKOo6hJaRdTjFiLASWQdwKp-2NsiHiXw6x3CDL8QPB8vq1jZQc5Sk3fMUonLApgtgzuSLwrOf9t9bSFLhlBJTuiTEg",
+      "text": "廠驗 基本上維運都會配合到場\n據我了解台中廠驗也是麻煩Jacky"
+    },
+    "webhookEventId": "01M6FTWJMBK7NMNJGW1QK9PA63",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793680361617,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "0e60acbe383446fd96fbb63154081715",
+    "mode": "active"
+  }
+}
