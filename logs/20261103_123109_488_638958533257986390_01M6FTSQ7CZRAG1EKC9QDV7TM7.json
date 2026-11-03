@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6FTSQ7CZRAG1EKC9QDV7TM7",
+  "MessageId": "638958533257986390",
+  "Timestamp": "2026-11-03T04:31:08.020Z",
+  "ReceivedTime": "2026-11-03T04:31:09.488Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "For廠驗時候的需求嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638958533257986390",
+      "quotedMessageId": "638955306814800561",
+      "quoteToken": "1SwHrr4SNR3OFbuh6fNlYia73O_OGKeqDkdT-US5DHVQweDK4w71oWHCOX_G0G4lMFk0VQcIbtpQa9C3w23LTPkiB0o7gTnghnSADPkdKQqK1zWaLEiI2_5veAcUCMsHY7YMV5xG4OaF3BX4KTSJeg",
+      "markAsReadToken": "N0VmF8Swu5O661QKGWhyN4vCEaBt3GH_r-qUHurRB6ALIKJSFBdgXsxdZ6pFWF1H39OUV9hFuzGt8Fq3HaNrH3Bkvj2-d0drEYnfotVdSoEa_Dp83CRMrO82WT4pcVkRzlvq2ULFwB4X3YtNlWsgzuYSz4APA7i3LmR0mpYZ0E5xMAUdnWONWiJOGuKlfQNgty9rdGrWIyIvGyW9JrMZbA",
+      "text": "For廠驗時候的需求嗎"
+    },
+    "webhookEventId": "01M6FTSQ7CZRAG1EKC9QDV7TM7",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793680268020,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "6e08fc39b7f54d6e9b5cde57f5d23f70",
+    "mode": "active"
+  }
+}
