@@ -1,0 +1,70 @@
+{
+  "EventId": "01M6FH3PB97XCN5VS7VXEWRSJX",
+  "MessageId": "638941489199841333",
+  "Timestamp": "2026-11-03T01:41:49.040Z",
+  "ReceivedTime": "2026-11-03T01:41:50.532Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@Jason廖賢文 @陳禹任 @Michelle Pan @林郁翔 Alan  模擬場驗你們需要有誰到場? 11/12這天上午ok嗎? 地址：地址 : 338桃園市蘆竹區錦中里南崁路一段277號",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638941489199841333",
+      "quotedMessageId": "638940976135537322",
+      "quoteToken": "oKGFjMFiMPcxlDeRA7ZNNEnc5u2CI-JerfWWL90VfOUwTXy3Qs8KmEqb84WFltbh6ulcroYuTN-YYudMW_cUP_XIQs7jjaWO88rcrIcJWaQCN7_qkBxMl9cUlzMGFjmUCf6BUG2LBdYA4rZ_cv2wQg",
+      "markAsReadToken": "dcNE8y0jozeMj2F4MsN6CrvY9Aid5dFfXHW5w-2YS9rWm9__JrTaPOVJ-4E4I0Wt498NTpvBGMc6fZu3kD8x35yoYJmhrp9v7SxiZXGbX-_hcmlpJAvX9Z81MUAuuRk0TEURjDV0lZ2qn3v3lq3Mq4Q9iJ7kay_vStWAxvpRGHMYStd8w1v3A7UmIgLQqio3xKKZcmB5iZrEwc1RkMWP7A",
+      "text": "@Jason廖賢文 @陳禹任 @Michelle Pan @林郁翔 Alan  模擬場驗你們需要有誰到場? 11/12這天上午ok嗎? 地址：地址 : 338桃園市蘆竹區錦中里南崁路一段277號",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U21620661d4adb885147ac04fa12857dd",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 10,
+            "length": 4,
+            "userId": "Uff84e2f22ada43f8145f2fd625a33ece",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 15,
+            "length": 13,
+            "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 29,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M6FH3PB97XCN5VS7VXEWRSJX",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793670109040,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "0019d1b6423c47bfa1af0cb846843b6e",
+    "mode": "active"
+  }
+}
