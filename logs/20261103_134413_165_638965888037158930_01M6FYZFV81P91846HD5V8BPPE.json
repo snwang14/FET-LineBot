@@ -1,0 +1,48 @@
+{
+  "EventId": "01M6FYZFV81P91846HD5V8BPPE",
+  "MessageId": "638965888037158930",
+  "Timestamp": "2026-11-03T05:44:11.808Z",
+  "ReceivedTime": "2026-11-03T05:44:13.165Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U45bb65710085fd8da690900d4545a7f6",
+  "DisplayName": "王志文",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan 預計11/6廠驗功能開發完成，截至今日的進展如何？因為很關鍵，所以不厭其煩關心。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638965888037158930",
+      "quoteToken": "18_TxnlF1V-bfMgVdf5fN_FZ9J8yFMS0DbJRLc9yCEaDqs56TSoOzzMt6Ypw6qJx70HrRnHJZGBJKjPDDXVk5UExRQ9rqb588ZLXkipKRAid37fAyGgKPym6RRbNw-9WMJ36OKWcEwZxJa0xZxq9HA",
+      "markAsReadToken": "a6OpqTjIoEt8-jtsz8zRcT2kgtP-ygoqFxv6CE64vfR4BFR8g0l51MtBhDJmO6ywzqNRa8CFQwTH8wqZnprncIBwLdXFuK4-PW4xYIRa9LlZDBvvXZfCvPDhLm0kaISgqOmuGyeGMyj-s13B_F9O6x--dWkAGi1kgOb_jCwbYODlyCu8HYupw4Q0fIFXxoZnWTnb7_ahaDZxF3kL5pktvA",
+      "text": "@林郁翔 Alan 預計11/6廠驗功能開發完成，截至今日的進展如何？因為很關鍵，所以不厭其煩關心。",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M6FYZFV81P91846HD5V8BPPE",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793684651808,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U45bb65710085fd8da690900d4545a7f6"
+    },
+    "replyToken": "16897052e89849fd9aa3bdb0d34b3076",
+    "mode": "active"
+  }
+}
