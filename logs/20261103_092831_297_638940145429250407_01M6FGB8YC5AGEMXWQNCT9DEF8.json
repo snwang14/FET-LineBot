@@ -1,0 +1,40 @@
+{
+  "EventId": "01M6FGB8YC5AGEMXWQNCT9DEF8",
+  "MessageId": "638940145429250407",
+  "Timestamp": "2026-11-03T01:28:28.885Z",
+  "ReceivedTime": "2026-11-03T01:28:31.297Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "638940145429250407",
+      "markAsReadToken": "zto9T2rAsQv5IYrDXeOXwqnn1ipbubASaqT8EDLU-ZeVQOQiKtyNtVS1_YvO1zqR7Nb506PW6zTLpi7cHQP4YhuLl5CEFkjSCH_eXUmG60ANFNx2n8_I5eN9N5LKdswBV64fDFDLbqoAmsBlnTEovuTXVs3vs0fEropXMJx1ccCt0K_BJnegsUjlLfqZXiT3SPlf7Hup58CuU07oE9xflw",
+      "fileName": "20261103_路燈科需求確認.pdf",
+      "fileSize": 1063726,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M6FGB8YC5AGEMXWQNCT9DEF8",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793669308885,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "230ca61d93da43de821600b0b7b3c611",
+    "mode": "active"
+  }
+}
