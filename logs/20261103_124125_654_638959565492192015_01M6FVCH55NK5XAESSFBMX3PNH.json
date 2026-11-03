@@ -1,0 +1,40 @@
+{
+  "EventId": "01M6FVCH55NK5XAESSFBMX3PNH",
+  "MessageId": "638959565492192015",
+  "Timestamp": "2026-11-03T04:41:24.395Z",
+  "ReceivedTime": "2026-11-03T04:41:25.654Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "638959565492192015",
+      "markAsReadToken": "ZeDV_Tz4LFUa_nipSwnYx9NLbhXeTJTbgiYGL3XoII1_zpN7sbj9392Q-PBNfU9EeytsR_2FYMQ_zwgSEAP4VLL3qlVubpxr6vq_4lI3j-ppTlmM5biKNduuvm1MfIJrtKc80k7FiU9M0I9c_Ie9CnR1q2lBMiFBrErzbE01Be8MdR3mmXvsybkmaiZANLP-SJjJSqg-yUXyBXHcZAJSQw",
+      "fileName": "臺北市路燈換裝暨維護案(A項)_115年9月平台月工作報告_第三版.docx",
+      "fileSize": 7753569,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M6FVCH55NK5XAESSFBMX3PNH",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793680884395,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "6cdcc824fa5e417f8dc0ef20d1ca350d",
+    "mode": "active"
+  }
+}
