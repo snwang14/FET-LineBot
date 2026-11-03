@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6FTZDTG6K3TENMP7SV1VJC3",
+  "MessageId": "638958846941594179",
+  "Timestamp": "2026-11-03T04:34:14.997Z",
+  "ReceivedTime": "2026-11-03T04:34:16.416Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "風險管理\n再請idtt 團隊幫忙確認一下\n避免廠驗因訊號問題影響\n謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "638958846941594179",
+      "quotedMessageId": "638958533257986390",
+      "quoteToken": "NUG0_hV0AaQ_PG_XMSG4p-f0P6smB7xFOHrVIvLRBknyJii30ggQnYj4J-N-mlL7NNOF7ibf44rSJ9UVKC9578AljC3hVtqXri6HOjRBrv5gMNneWGtxcFiicASt9gFzkCsRqam3jvIij7wYsZsbjQ",
+      "markAsReadToken": "jaJyyUtUFvLWA79e_vQqmtneZ0HiKx6mHZ3cCsNGLihxXStKUzj45ClFs4DpN9dd4qlpvGIqyC5Oa2RjBqBtNYGN83K38IgcDMRcgHiw1XR4xCf-JOzRnBDViYisC8ZgxKb0uiGycnuy4oasQr5cvkpXef5vKTd2XmZI0_QHgaawS1lMCT3otWlkOH-m6Xq0k9GCrB5b7tUUJpwgu_R5hw",
+      "text": "風險管理\n再請idtt 團隊幫忙確認一下\n避免廠驗因訊號問題影響\n謝謝"
+    },
+    "webhookEventId": "01M6FTZDTG6K3TENMP7SV1VJC3",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793680454997,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "faf3f576bede40998b90e66b2350b99c",
+    "mode": "active"
+  }
+}
