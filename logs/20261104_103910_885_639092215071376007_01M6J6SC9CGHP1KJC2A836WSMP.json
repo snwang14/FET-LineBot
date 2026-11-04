@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6J6SC9CGHP1KJC2A836WSMP",
+  "MessageId": "639092215071376007",
+  "Timestamp": "2026-11-04T02:39:08.595Z",
+  "ReceivedTime": "2026-11-04T02:39:10.885Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "⁠思納捷跟IDTT模擬廠驗會出席人員資訊如下，再麻煩了。\n\n⁠思納捷/廖賢文 2069-QA\n思納捷/陳禹任 BQW2816\n遠傳/李佩玲",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639092215071376007",
+      "quotedMessageId": "638951060550975561",
+      "quoteToken": "ODq_pM8-E0DdlXIcHZJ8kZJwci9KW-B-qqq_-6CZoe3jUYf4mM8vcO4AjA6QecFWa7swhazaK5DIbWx_UjrFBeI_pi-8CthVaWcBrEKfZnXkCfMIMQBK7dm17wnos6CwJl7tlwgICexROAEJ33mGUw",
+      "markAsReadToken": "398Rp7BLwmghzwIjtzHlk0EqRm-Ja7DOPbiYRbaGGcuXtmrOPxTVxLJ8HNM3mglimKBWc22t4sJ3p0UI71NNDg5kKIVppGUX70tANKcgErERIG8VboQXv8jUIeg2yZQ6SIyIOewxQ0BnVH2gcaHgRp5AI23rvMDQNDPareSOLafuO_E9wrsGfBvIB9Ov5QnGHK6XFAf6FiLa9uhL1TAwzQ",
+      "text": "⁠思納捷跟IDTT模擬廠驗會出席人員資訊如下，再麻煩了。\n\n⁠思納捷/廖賢文 2069-QA\n思納捷/陳禹任 BQW2816\n遠傳/李佩玲"
+    },
+    "webhookEventId": "01M6J6SC9CGHP1KJC2A836WSMP",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793759948595,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "f61d7f5de02d4461a11950271f48e661",
+    "mode": "active"
+  }
+}
