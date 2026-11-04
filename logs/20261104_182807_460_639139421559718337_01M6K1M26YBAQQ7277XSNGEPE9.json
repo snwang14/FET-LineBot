@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6K1M26YBAQQ7277XSNGEPE9",
+  "MessageId": "639139421559718337",
+  "Timestamp": "2026-11-04T10:28:05.988Z",
+  "ReceivedTime": "2026-11-04T10:28:07.460Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "那以你的時間為主\n你先提供2個時間\n我們配合",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639139421559718337",
+      "quoteToken": "FFP_jnbXGueIEiTHPmhQ82Bnpw1rwo7JWgUAoJOfWUESDKuXkDvkZMQwbCeGp4AfNbkD4IG2Avb01qfSiN-3H4sX45bsMTSEyadoGcEsX-3Zwswd3behPwMXAeMym34ZOn73qoJYzDmSWq64Mxbc9Q",
+      "markAsReadToken": "5GyayB40ZARic1a55YY5nQNBklufRmMgtPWqk1aIUZeeVBbWridp9Fzv8PBbW8IbMlRf7m9Bqdok3kexxK6A-keyyxo29EmVE7Bv5xqMk2PWwZ_SsHLq0Qt872G0lrr8i4l0ON4ub7V7rN7p9rMjYTwg1SRB7C8Shpt6gj8qkzE6gzHSOzKwCXGIPFU4IFxPh8bRPSrxHwwe9bbaxzux1w",
+      "text": "那以你的時間為主\n你先提供2個時間\n我們配合"
+    },
+    "webhookEventId": "01M6K1M26YBAQQ7277XSNGEPE9",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793788085988,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "782b56fbd5c34ebca220e8512c5146b5",
+    "mode": "active"
+  }
+}
