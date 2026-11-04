@@ -1,0 +1,48 @@
+{
+  "EventId": "01M6K0VCF4SGBJHV420NNCA2AM",
+  "MessageId": "639138065273324307",
+  "Timestamp": "2026-11-04T10:14:37.615Z",
+  "ReceivedTime": "2026-11-04T10:14:38.807Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "如果確定了\n可否請 @Julia Lee 佩玲 聯繫明峰 借會議室呢",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639138065273324307",
+      "quoteToken": "VKu7PX4c2Je1JsSyPp9eGhPnLdQtb8XD2kF7OmmiU_WylBMMyojF3W-tsiBkyOtTlclxu5DfEAnXDBv0xlf4X981XW04Xa1Cy58jzfc_eXicx2PAF9f9NwvFG_6qzibFeINeWjo4E5kt5ixZJuOjnQ",
+      "markAsReadToken": "K_BYwIBiho_z0XPFBcUqzIZazVskv7nQPDidNV_hexb2DfBYo1Z94T3iRL2fxT1VwG5otSNtjJeNH6Jx580BbdjPGJQKIMKZIPJ8ix1IKTcG-dTyfjFKNCvuROTjGhybifx_LlgpP7FnkOMZ-68C6-V-LYXcKnRpDTbcFSVJN3thrRrR792HOXJ9C570qxAj2Qo8T_VFGGg1CBtq7iTrsQ",
+      "text": "如果確定了\n可否請 @Julia Lee 佩玲 聯繫明峰 借會議室呢",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 10,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M6K0VCF4SGBJHV420NNCA2AM",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793787277615,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "f6781f2137634aeea5926fcd034fdb7a",
+    "mode": "active"
+  }
+}
