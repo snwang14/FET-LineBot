@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6JS8NADR9J0BW4YVVQKFEVM",
+  "MessageId": "639124721531355568",
+  "Timestamp": "2026-11-04T08:02:04.064Z",
+  "ReceivedTime": "2026-11-04T08:02:05.204Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U91dd2d31029b2ca3f65722584702c5be",
+  "DisplayName": "玄",
+  "MessageType": "text",
+  "MessageText": "燈具資訊會帶入第一盞",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639124721531355568",
+      "quoteToken": "cFH3C2UFojOlHRleSFJKmFD1b4m8hN0GoG5p0eMbXNvwPM_rYQCH0p8ZQlTO8awWcIOg7gAnsO1Jue88iDNPkNOXHHNR0e6-cksDNmLpnt0hSBZLbTAGp8EL01tFfQAqPceQec83BhjqQxeq1PAHbQ",
+      "markAsReadToken": "8HLgMyvwCwULvF5ZB5Uv1ae93rCqOjsDGLnkRR8j_y58UXGO7JRYeKMqw8_Oa3MsUZBHn-vEr8mYGJ_v9otVx4rmSSv7jMSK_hUBT-ldx4uhHXcAMfTC5VQc-uySurXfxOE0wlwXkCxUJ4hfO6T7ERgLo-WQcl-wfP-uDvUj_k06VEsgRB4W5ieLoYBzO2aqwHqEanVmCUpH1skpuoZzgg",
+      "text": "燈具資訊會帶入第一盞"
+    },
+    "webhookEventId": "01M6JS8NADR9J0BW4YVVQKFEVM",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793779324064,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U91dd2d31029b2ca3f65722584702c5be"
+    },
+    "replyToken": "48437231656644449b388def34c190a4",
+    "mode": "active"
+  }
+}
