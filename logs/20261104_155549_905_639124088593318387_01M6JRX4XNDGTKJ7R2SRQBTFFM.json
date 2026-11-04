@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6JRX4XNDGTKJ7R2SRQBTFFM",
+  "MessageId": "639124088593318387",
+  "Timestamp": "2026-11-04T07:55:46.695Z",
+  "ReceivedTime": "2026-11-04T07:55:49.905Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U91dd2d31029b2ca3f65722584702c5be",
+  "DisplayName": "玄",
+  "MessageType": "text",
+  "MessageText": "請問雙燈要上傳第二盞都會失敗，是有什麼步驟錯了嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639124088593318387",
+      "quoteToken": "B9t9gNF6GD50VecJ7nlQfE0RG4Ebyk_lypZ_OFRTcc6f5Iy7mOCVOA6kO5BQpEojqThazK9QnGgVNAI6fA1jPtwhvFStc30TxLj4kEAr3QAFiNpg-U2mOb7O2VIzxoBlyw7xtVHNNd_yEi0PDstoHQ",
+      "markAsReadToken": "OGRsm6H4_J3y-besN9QBMu3JsIUvKLZhENSWa3swSifdEgUYMxTuF5U2i6DZb_hWE98xJPq9VYsZ5cg3P5Gdg5RVAnxa53CfgiEw_64dTLHYz1euYYN_o3ZQffcJcTMytFE1OOgcjwtYtddIbSnFyz4IOcL1S6r8fBRop8kOkfyHegh5H8y1cl1Ubp5jEgTogRMKa36nfoN28aW96EzLcQ",
+      "text": "請問雙燈要上傳第二盞都會失敗，是有什麼步驟錯了嗎"
+    },
+    "webhookEventId": "01M6JRX4XNDGTKJ7R2SRQBTFFM",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793778946695,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U91dd2d31029b2ca3f65722584702c5be"
+    },
+    "replyToken": "5ef978d5a5dd488b92b746f5e182fcd5",
+    "mode": "active"
+  }
+}
