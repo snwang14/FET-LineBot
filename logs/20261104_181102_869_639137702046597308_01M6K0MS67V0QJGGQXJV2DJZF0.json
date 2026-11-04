@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6K0MS67V0QJGGQXJV2DJZF0",
+  "MessageId": "639137702046597308",
+  "Timestamp": "2026-11-04T10:11:00.941Z",
+  "ReceivedTime": "2026-11-04T10:11:02.869Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "可以的，地點在公燈處嗎\n會需要長官裁示嗎\n請明峰、楊經理、隊長與會？\n\n請問有大項議題嗎\n我可以先提供給大家",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639137702046597308",
+      "quotedMessageId": "639132927083151924",
+      "quoteToken": "_UXtXPy7S8HE7-omDByBr6X8j83g2kNqYlZ02cRm5WSKz-Dib2_kovREaYdMmkG2s96hTZnK-76B3jqiXtO-hSWJmiNGNwpLx6njxkPBgODcXTR7RRWE23rEbWy89BhTtrZpUzCJggk5mMJEHCbIHQ",
+      "markAsReadToken": "wQM43jqZ5b0SFS7rSFe-XYP0UhQ1oZiP49lxRR5j13LnSoc0aETaGTOqbOwjhm3WvPd-h-fWdkPa6nb0JGWV0kL0AR4Pa9pMDvAeGxk8UuOCurOXaLn8f-Tcq0aONOHAf8JDax0GYoAqLEPQ5Crpl1u5O88scntfi4HzNnOZraDnKiVj3aq2E7FhSYLllS5bAdKv9cd3tI3qUAbX8FUyNA",
+      "text": "可以的，地點在公燈處嗎\n會需要長官裁示嗎\n請明峰、楊經理、隊長與會？\n\n請問有大項議題嗎\n我可以先提供給大家"
+    },
+    "webhookEventId": "01M6K0MS67V0QJGGQXJV2DJZF0",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793787060941,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "160e40ac808e4b80bde375c031e3f504",
+    "mode": "active"
+  }
+}
