@@ -1,0 +1,40 @@
+{
+  "EventId": "01M6JWQ8BGZE6NJW4Y2CEAV2TM",
+  "MessageId": "639130795672076665",
+  "Timestamp": "2026-11-04T09:02:28.040Z",
+  "ReceivedTime": "2026-11-04T09:02:29.784Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "639130795672076665",
+      "markAsReadToken": "CclCI1czLoja9D63_IZYYb1ZIe8m6bD2mauc9ThbgwH2N0R2Q7mRHIanhkN4wRTAuhp4jrMk4gBTw3azrq8JcHv3aIs7j1fica8Z_sxNpGfuUKut5YxkngmUg8fu-rZgwLtSNe0fF6fL_k3neNGXSFSWR1BwWVran0GxVSnS657sMti3N2puVI-ANAHdFhNnCe8K29tap-LMJyIpOYvMEQ",
+      "fileName": "20261105_平台會議.pptx",
+      "fileSize": 5492364,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M6JWQ8BGZE6NJW4Y2CEAV2TM",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793782948040,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "2faa3be898ee433382f6c4df08ab53aa",
+    "mode": "active"
+  }
+}
