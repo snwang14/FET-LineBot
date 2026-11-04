@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6K0X0HDDM2APCBW1SQ5KH55",
+  "MessageId": "639138154493771940",
+  "Timestamp": "2026-11-04T10:15:30.728Z",
+  "ReceivedTime": "2026-11-04T10:15:32.213Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "能先以我們和遠傳億光線上會議進行，主要討論之前討論過的維修流程圖，圖片我明天提供",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639138154493771940",
+      "quoteToken": "g6CzP5hz-qZOOef8Mh2SgIwrB4PPdgUynKB0jHql2HD8kPeWv350jGvFoYI72D4Yl-820N0q6bm0Ab0JFxwpOZLQnTf-Kz5KwKQJBsn8fXDTJymGJOX4hOP9_XuBO9ShOZjpWvBavNLf7WZwrSNOsg",
+      "markAsReadToken": "CTBIUobo4_g9fhlmtAcXcR-XmxBCrA2x7iCdQjn10_s7B24iKl1FAiqLLRq1s-ECw2lymcF0SrwWyKbqNyMGYkzt-cj21a65o2kjtFfN1LW3ijTw-Fr1OsNRqBrox8rMYR4Afxx55Sg8cXb7f6jPU-mcL7aPf4ZsohpdG-rqvrzkwo1dy7xVswBcPF7AQf9h80BiWGz9vvLf7dHACaELEg",
+      "text": "能先以我們和遠傳億光線上會議進行，主要討論之前討論過的維修流程圖，圖片我明天提供"
+    },
+    "webhookEventId": "01M6K0X0HDDM2APCBW1SQ5KH55",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793787330728,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "f2171dba0d504cefab1a4f29d2a457ae",
+    "mode": "active"
+  }
+}
