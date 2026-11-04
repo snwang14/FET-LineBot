@@ -1,0 +1,48 @@
+{
+  "EventId": "01M6JXXXDWN1S4J28EYGCFS3WR",
+  "MessageId": "639132927083151924",
+  "Timestamp": "2026-11-04T09:23:34.844Z",
+  "ReceivedTime": "2026-11-04T09:23:36.162Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@胖仙女 另外想問，會方便安排內業同仁進行報修維護的訪談會議嗎？有些流程想要再跟現在的 user 了解",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639132927083151924",
+      "quoteToken": "s2Gh_ZKuwe5PWj0X7uCaMdXlJ8QcppvRvuuy1v7fFWhhb--wYTKwAUaAnIhfwSqNJx3j6gqXc4rTO6JDmDe4EaJgj8GFYxoAhHStRfe2aAB67yICt7GPdXGPi7QmwBN2nf22H9j5xQxByPSZCEXbXQ",
+      "markAsReadToken": "Nm-xvOSXoq8h1cRevwHVxqKGvagmF46dGZGpuy9NRsDZzydL0EhXF_9JvbgzKeGjLZ2g3S9dWFDV6N8kmLk2d1uJf_FnO4wDXG1BwLyMWA3YMrn0gexUw01X8N_VEwi1l9J7oHp0YNTjyzQYj347BIrtgePoNAjlxkkf4W7w2mQu3AbGEBStDgO7zVsz2tTgrOCtRQqcxeQuZeK8qRaSKg",
+      "text": "@胖仙女 另外想問，會方便安排內業同仁進行報修維護的訪談會議嗎？有些流程想要再跟現在的 user 了解",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M6JXXXDWN1S4J28EYGCFS3WR",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793784214844,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "723c3e80cd7341d6a5225c2a78bdcd99",
+    "mode": "active"
+  }
+}
