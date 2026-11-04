@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6K0348G373G5Y15MJGY5P25",
+  "MessageId": "639136731182662111",
+  "Timestamp": "2026-11-04T10:01:22.457Z",
+  "ReceivedTime": "2026-11-04T10:01:23.950Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "昨天 2026/11/03 換裝第四次工作會議快記：\n1. 報竣審核及結案審核經科長定義，為一次績效評核進行一次，報竣以當期換裝完成竣工公文紀錄；捷案以當期績效評核公文進行記錄。\n2. 電費支出包燈及表燈電費計算方式，及資訊如何進入系統，科長表示先行詢問路燈隊。\n3. 用電申請欄位含受理號碼、執行進度、附件上傳欄位，經科長決議定案。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639136731182662111",
+      "quoteToken": "g4ZKOYgY7mjRCqFj4lbun0cJkbHrcuH47WTaoZSu39xtv-n6Ev3wn6hGgzZR0di3AQGpXyix21m1wCS7p5KwM6J1F4qOMDTkBY5VP__UvLqsiNcBPjURt5AZHgbLNZROIisEFdCSFS7Tr-RywtKsxw",
+      "markAsReadToken": "PGBhIclilsxT5ulhgfjy8htW3rvwPGgfDuuZ2u-To509rLdZqlDv9nEuayA8KQcKDPXitafZrvtR77IY5FyaDnHqrU8p84O97OlYE-nvELN3dyPMneJouovPNRlw1k7roCHxEdc7HmiHECqRgN61UUCeeF7pogG2zl558Ier6VPfs3GFDYPNOyB6LJt03114QqqDipbS4wjcU5XubUAldw",
+      "text": "昨天 2026/11/03 換裝第四次工作會議快記：\n1. 報竣審核及結案審核經科長定義，為一次績效評核進行一次，報竣以當期換裝完成竣工公文紀錄；捷案以當期績效評核公文進行記錄。\n2. 電費支出包燈及表燈電費計算方式，及資訊如何進入系統，科長表示先行詢問路燈隊。\n3. 用電申請欄位含受理號碼、執行進度、附件上傳欄位，經科長決議定案。"
+    },
+    "webhookEventId": "01M6K0348G373G5Y15MJGY5P25",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793786482457,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "835cfc6b910b4487b7e26d5fe55a0bbb",
+    "mode": "active"
+  }
+}
