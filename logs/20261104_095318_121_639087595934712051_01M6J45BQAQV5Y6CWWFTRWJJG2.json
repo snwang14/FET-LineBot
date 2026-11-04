@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6J45BQAQV5Y6CWWFTRWJJG2",
+  "MessageId": "639087595934712051",
+  "Timestamp": "2026-11-04T01:53:15.504Z",
+  "ReceivedTime": "2026-11-04T01:53:18.121Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+  "DisplayName": "Michelle Pan",
+  "MessageType": "text",
+  "MessageText": "這邊已經在進行開發，開發進度禹任會幫忙追",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639087595934712051",
+      "quoteToken": "zn7Cckj336Jkx5FhAxF1F4OcyV-7s4g5VFfmW8YQd2luWIVBjdxGO2ClVg4OQw1883F9MKVTdiWdUpDhTUGthFM_yHOikuTqzx0Hdx30dbQLJ1Pftu41plJpRl11uZP8d9zuihZ-xRoDnbvhlt7ggQ",
+      "markAsReadToken": "UyoSF6j9rcA8ygVQO_5qj9x0YYHNxPmlMN3AfJZUIuraW7g-OrzSKBoU4EoHirwpWQw9Eyr-sJdi43O_AJu1uui41IoJ6-Ocyrw0lecpuCOlNsRheAImASJkqVs-15YeNuwH4K2Xnt_sLtE5aVN2EBfN04d3qC_vSEX0ks2IQotdbCkf3LaSIyvUvNVy07G0r0LiNkqe-0yKVkk1b3SUPg",
+      "text": "這邊已經在進行開發，開發進度禹任會幫忙追"
+    },
+    "webhookEventId": "01M6J45BQAQV5Y6CWWFTRWJJG2",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793757195504,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9"
+    },
+    "replyToken": "654e3e7cd9474b97a3c527f91df9d54b",
+    "mode": "active"
+  }
+}
