@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6J3HZCHHHNP4B95C13EKFYD",
+  "MessageId": "639086530362606199",
+  "Timestamp": "2026-11-04T01:42:40.278Z",
+  "ReceivedTime": "2026-11-04T01:42:42.689Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ueb641723e67562103c0ef055e5237fc4",
+  "DisplayName": "Andy",
+  "MessageType": "text",
+  "MessageText": "這題有消息嗎?",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639086530362606199",
+      "quotedMessageId": "638965888037158930",
+      "quoteToken": "OXi8GzSdMNDWxwGVmcl9-hjnPam6FdiA21BQ7AuzqLP7cfHErVfTNni1Ff-flBEWTqQ1mlTkSdDEG040pZzCpfn7h4epO0PtkgNhV3_UHBcsXUEeDkqNlkKCluVcUHLIDQAhSvmrAaQEej-iOzzg8Q",
+      "markAsReadToken": "dH7TWL62Qku-jMqZghh-ltnDonoFsh6PKPjKGGdqKevTKEl3fpukflz8fHvunOrJi6CJeeu1EMjP40mYKSJMuNIaL5MibbXCaTsPYeNdJ7FOlykke_PKaRr45zKJZhNlLNYY01G3RWp1QJMUcB5BYfUkpioal2Qvj5orY9UH-O-O5EoZOCv2Lgh7JNFpsWJMvmpWOa-L1U6cvC0mSoDK1Q",
+      "text": "這題有消息嗎?"
+    },
+    "webhookEventId": "01M6J3HZCHHHNP4B95C13EKFYD",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793756560278,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ueb641723e67562103c0ef055e5237fc4"
+    },
+    "replyToken": "fc301e582f2f4c10a3d087f53f62846f",
+    "mode": "active"
+  }
+}
