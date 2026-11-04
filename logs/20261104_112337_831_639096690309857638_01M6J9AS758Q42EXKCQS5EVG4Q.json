@@ -1,0 +1,48 @@
+{
+  "EventId": "01M6J9AS758Q42EXKCQS5EVG4Q",
+  "MessageId": "639096690309857638",
+  "Timestamp": "2026-11-04T03:23:36.041Z",
+  "ReceivedTime": "2026-11-04T03:23:37.831Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "@Julia Lee 佩玲 \nHI 請配合下列相關時程安排\n光林廠驗時程&交貨安排進度:\n第一批次廠驗規劃\n1. 1500PCS序號清冊可提供11/6(五)\n2. 預定計劃書提送11/9~11/11(PCM審核電子檔中)\n3. 安排模擬廠驗11/12 10:00 (FET&FDS&光林&思納捷)\n4. 正式智控器廠驗(第一批次)11/19&11/20(FET&FDS&光林&思納捷PCM&機關)(暫定)（尚待機關確認）\n\n第二批次廠驗規劃（暫定）\n1.3000PCS序號清冊可提供11/25前\n2.預定計劃書提送11/30~12/4\n3. 安排模擬廠驗12/7~12/9 (FET&FDS&光林&思納捷)(暫定)\n4. 預定智控器廠驗(第2批次)12/10&12/11(FET&FDS&光林&思納捷PCM&機關)(暫定)\n\n相關時程已確認光林PM TONY　（稍後發信同步）\n懇請配合\n謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639096690309857638",
+      "quoteToken": "mM63KYrdaQ6DUpR998YH3CcJ9BheUat6Y5IjQ8yPsJh5_FPDoRHEYbp8MObSxnfjvxTFy8YElNHJQ2w4xFjTIk_v4ekO8xwQwK_4GUpi-2rJ1Rm4JIeIrr0kbcU-x4pPZIGK1fESRd5hUBEDK-trTg",
+      "markAsReadToken": "3Wvh4Qsw1DtqTffQADyCQo9HN8k8aMi8kcwtpAfuFq0oeRvYe3LaT2QDZVpTJ5Da1BxdznTJnOBSIVvlpkriJwK0G15cLMrtJ77pchylCmx4-_jeOWi6Ah8bkSgJShSnWgMr8RYHWKzHI0RrlSWYeWiemEIsU0TqG_1H7X2uj81lTIVrJPKZreQNIM-hIGu6SBm8l_tg9VueHp0AJyTMjA",
+      "text": "@Julia Lee 佩玲 \nHI 請配合下列相關時程安排\n光林廠驗時程&交貨安排進度:\n第一批次廠驗規劃\n1. 1500PCS序號清冊可提供11/6(五)\n2. 預定計劃書提送11/9~11/11(PCM審核電子檔中)\n3. 安排模擬廠驗11/12 10:00 (FET&FDS&光林&思納捷)\n4. 正式智控器廠驗(第一批次)11/19&11/20(FET&FDS&光林&思納捷PCM&機關)(暫定)（尚待機關確認）\n\n第二批次廠驗規劃（暫定）\n1.3000PCS序號清冊可提供11/25前\n2.預定計劃書提送11/30~12/4\n3. 安排模擬廠驗12/7~12/9 (FET&FDS&光林&思納捷)(暫定)\n4. 預定智控器廠驗(第2批次)12/10&12/11(FET&FDS&光林&思納捷PCM&機關)(暫定)\n\n相關時程已確認光林PM TONY　（稍後發信同步）\n懇請配合\n謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M6J9AS758Q42EXKCQS5EVG4Q",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793762616041,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "65d9d7ce2187491a9f683bfaad8960cf",
+    "mode": "active"
+  }
+}
