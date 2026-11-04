@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6K0Z5T31VDE3CVW6M3QMZ6V",
+  "MessageId": "639138273494565448",
+  "Timestamp": "2026-11-04T10:16:41.563Z",
+  "ReceivedTime": "2026-11-04T10:16:42.900Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "因為這個流程上次需訪討論過了，隊長認為廠商工班這一段仍有不完整的地方，我想要先完善廠商工班這段，再由機關定案。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639138273494565448",
+      "quoteToken": "jX2R9Sqid5nmL87HcAcfDcL-NvuyD9Y8EmFDjtxBOzb_tVzvLL86VZUwSESH8wCjI0mzINEIpYacvLP8XyuCINJZkQpJLhgMvcEnZXgtbZItaWhtBttidMJqJhfzFzX9YgHm9SmNDXNLDBQUEft8Ow",
+      "markAsReadToken": "Ja-ONudGi8jukAv3X6ebPfdtJCp-RUwqe_G4O2k7jiOEFNoEWYm9dQwgXEXQMS6IKtxwP-HNc96bnE3iWFXwycxr4VVxPQZrkMHc6_EglCkjA6KVy3y7CUrbQVZEghjzm9HDfZm7C15cyqXTH4F9gH6TxCqmE0Q_IpoeUc_0yxxJThwHvKdCSV9FaEFKYkIHT9Y5kVev1xZCQNGsqJSUDQ",
+      "text": "因為這個流程上次需訪討論過了，隊長認為廠商工班這一段仍有不完整的地方，我想要先完善廠商工班這段，再由機關定案。"
+    },
+    "webhookEventId": "01M6K0Z5T31VDE3CVW6M3QMZ6V",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793787401563,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "8067bed2b5c04f3eb1f2d9421b22eef9",
+    "mode": "active"
+  }
+}
