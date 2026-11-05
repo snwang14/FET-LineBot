@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6MV8F03MV4NMPY1W0MRY3KA",
+  "MessageId": "639240818725224993",
+  "Timestamp": "2026-11-05T03:15:23.274Z",
+  "ReceivedTime": "2026-11-05T03:15:24.580Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": " 這一題： 平台系統進入資訊局規模及進度",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639240818725224993",
+      "quoteToken": "fVraZUFqscZWTDsUuV2ph12-5Pi08hsSLQjj_MfZDlZO01_yckE_EtB2cKQlS6WSkNVeceBHsm628DSCzBjGeR3v2I3WJ8-9ZDTJrK1RApwEjCWrztKqEVhZ6VBCN-w1JMZoMnWMXHq4mCgVLptnKw",
+      "markAsReadToken": "xZzLs2CY81HxFBqzsWfELg85PWSDEtY4wbA60cXF7SQV1kRj6xlhKP2Pn-xWwuuWOZLeNl7ghXyiODMK-uZqE57qqs-zBJ62KL931eTgGLAxr1mRxpuhwb1sptDa1W-QolFBlZ6cwXiOAzuGqIkA9mi2qJPuXbIxv0VyJhEEiLD1IwDDfATPav9RQZtkgOCGgQaMaPu9_GkZV4NG6EKucQ",
+      "text": " 這一題： 平台系統進入資訊局規模及進度"
+    },
+    "webhookEventId": "01M6MV8F03MV4NMPY1W0MRY3KA",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793848523274,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "a605a1d37ef8499587ff15beffb33d8d",
+    "mode": "active"
+  }
+}
