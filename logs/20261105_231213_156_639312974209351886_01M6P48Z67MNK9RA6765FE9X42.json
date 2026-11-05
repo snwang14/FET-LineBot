@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6P48Z67MNK9RA6765FE9X42",
+  "MessageId": "639312974209351886",
+  "Timestamp": "2026-11-05T15:12:11.468Z",
+  "ReceivedTime": "2026-11-05T15:12:13.156Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U45bb65710085fd8da690900d4545a7f6",
+  "DisplayName": "王志文",
+  "MessageType": "text",
+  "MessageText": "沒問題，必要時拿小畫家來羞辱它",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639312974209351886",
+      "quotedMessageId": "639311574653468742",
+      "quoteToken": "_zw0c4kAI2i3bAf6YtrxdtaeBij9H4c4M4W0k_QbI0h01L20JPKQwvQML2hinQa7x_3droB4WBm_WnzWdyOWIyKYTbGN3qehFD74FfoPfZtU7uz7UY8MVoB3Fo0GvYbhLcqKRyrtrk1uphPqE7l6sw",
+      "markAsReadToken": "3S2jUI6IUziezgpfsbyUX47MSUtiVweGQ5zv7ZiGKl9TCJFuyIPTLhNkUcqgAh76IbpaaYO85SKwlLSuAH_b1E2hrBC3UMbV7XGX1ISY04oG0inI5fdzlZjL2kR_UE-NQlekY0lH4Ub2Mwnz6CsZ60M0HrH__wKdmP87bkl_0lqnqtf_F712JUqS4fFdnJ96Ii7qIz9HUCoxo9iV0_ParQ",
+      "text": "沒問題，必要時拿小畫家來羞辱它"
+    },
+    "webhookEventId": "01M6P48Z67MNK9RA6765FE9X42",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793891531468,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U45bb65710085fd8da690900d4545a7f6"
+    },
+    "replyToken": "609278608d164e22b4f3df32370d80c7",
+    "mode": "active"
+  }
+}
