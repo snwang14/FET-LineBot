@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6PA68Q8WM66XC0G6F3DSE5B",
+  "MessageId": "639323382072738235",
+  "Timestamp": "2026-11-05T16:55:34.867Z",
+  "ReceivedTime": "2026-11-05T16:55:36.800Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U375f2b0f385cb715667fe836bb7a29ad",
+  "DisplayName": "sanjinchen",
+  "MessageType": "text",
+  "MessageText": "\n請以此版最為最後送出的圖\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639323382072738235",
+      "quoteToken": "4quZoFqrjWUpCWcwfamADDvjmvxYZUolV_j7D2L2MuZ2SwsTZsMl01kQgIv8ucI-2nazHtaW-mevsso_pdI2jwKqKJEYxRNtMfVqlIIdMUoGiwg81ZixIh7lvPfeOMiJ1L5WEIpP7dwq5rUiSLpFMw",
+      "markAsReadToken": "wLfZ6PrU-CdKlDw9LyNtXqFU6YlqPFLg5P2rdyrJWiuC4Wb8Dua2iFTc1iA9em-G4dFB7ib_s4YLGj0-1Mhkf6UWh9p8g2dps7ebz_3WbqvV5NJBOioE8AqEgMnVmDXSqOMgi8Efqkxb547Gf7SGRUL2Ob7lXByRMcXFd6nJsVd3GjzW7ka8wAYrxhyYLkG4wSoXYW0n5F9mBQ55XhpgyA",
+      "text": "\n請以此版最為最後送出的圖\n"
+    },
+    "webhookEventId": "01M6PA68Q8WM66XC0G6F3DSE5B",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793897734867,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U375f2b0f385cb715667fe836bb7a29ad"
+    },
+    "replyToken": "a2eb4cc5e72c4311bd3ea448efd3e0f2",
+    "mode": "active"
+  }
+}
