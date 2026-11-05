@@ -1,0 +1,48 @@
+{
+  "EventId": "01M6MV82J9ZTD85BZ50J2TNRFH",
+  "MessageId": "639240797686595738",
+  "Timestamp": "2026-11-05T03:15:10.730Z",
+  "ReceivedTime": "2026-11-05T03:15:12.021Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@sanjinchen 東堅  今天下午平台會議會出席嗎?  有一題會需要協助說明，針對昨天我們跟資訊局討論的內容。  ",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639240797686595738",
+      "quoteToken": "GytjZAmXtCGVV1-aW7dOHsmRx7lqg3_uxdbyLfcC4TfP1lHHzQ6o95iyrA6jIPk94WeLJ83oa6bVVRN4e8OpEz74s_8W_FbugeR7T2cjEhw3xbmHcj69geuSxXcraTQmFC4UBonNAU5jhDhgmpJnJw",
+      "markAsReadToken": "Oo1lGeUtbqTesUyF96aNjQPCCbJwT5cZSZTrokAA7Sa4e5GtCtpkUxErqqF8I0Gv1vYjYj0EqEfcbukzeS7FAA07Huhy-BJhzWByTC6EMb1QZ8UggmtHSWREAaKneKebun1Nrdoa8EY2mkbi0AaLqVa_vDUPejMvgrvGt-xs0q9HvspH6_tu8URg-yK3ud8Y0SaOlOuGfQcqj3AtdtyQUA",
+      "text": "@sanjinchen 東堅  今天下午平台會議會出席嗎?  有一題會需要協助說明，針對昨天我們跟資訊局討論的內容。  ",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 11,
+            "userId": "U375f2b0f385cb715667fe836bb7a29ad",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M6MV82J9ZTD85BZ50J2TNRFH",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793848510730,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "29d68135910f42c9b62ab4ab81f75e16",
+    "mode": "active"
+  }
+}
