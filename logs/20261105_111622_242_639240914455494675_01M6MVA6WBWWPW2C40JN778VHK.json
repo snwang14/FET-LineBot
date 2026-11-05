@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6MVA6WBWWPW2C40JN778VHK",
+  "MessageId": "639240914455494675",
+  "Timestamp": "2026-11-05T03:16:20.426Z",
+  "ReceivedTime": "2026-11-05T03:16:22.242Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "今天東堅不會",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639240914455494675",
+      "quoteToken": "TZMV68eNuB7m9b27zsXHi78DDhyUklsI36eVV7pfJDxB_sCLA_pWvPEQMZLWgzwgmscUxDr01GfbNiRx_xnuKlUTX32blBoIJDIbl42Yjr4R3o2BqTdw3W4YfCZ5NjlKEmWRNU-fbeB0TcNTolFRLw",
+      "markAsReadToken": "Pbfi4b3ZTkUU9INdqKsiOiDu6wDnF5vSW_Un6yaqGvimme_na2sykMyXEAObJQtwUF6z4FNqwtDh5miFAUXnrGNxFhNrBFH7wUoV2xyW0iKp8QYEYATgFIh925B-NdNyZ0NjY3sFk48PukgEbRO8BIcDCj461bEhnzLFIJA0iG7IQ0abVewOAgxhHnjtoWzbLQmYV3a9MbYoINvt5l4IlA",
+      "text": "今天東堅不會"
+    },
+    "webhookEventId": "01M6MVA6WBWWPW2C40JN778VHK",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793848580426,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "ee4a3e3356b64c28b55dcb088cc91293",
+    "mode": "active"
+  }
+}
