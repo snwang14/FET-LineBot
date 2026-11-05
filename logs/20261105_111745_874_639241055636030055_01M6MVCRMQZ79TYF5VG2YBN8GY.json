@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6MVCRMQZ79TYF5VG2YBN8GY",
+  "MessageId": "639241055636030055",
+  "Timestamp": "2026-11-05T03:17:44.554Z",
+  "ReceivedTime": "2026-11-05T03:17:45.874Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "目前不是還在討論架設的時間嗎？\n我們收到的消息是十二月架設，但架好後，新的系統什麼時候要進去是另一個議題",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639241055636030055",
+      "quoteToken": "7py12BCkfx_sWQDcg-ODS-LvwUaXJ15JA2EAwZFgcRKYYk0p8u-xxVFm9LTTfFdwGHVNUralep1OadWYm5SGGJSN0jqdgABpUdin3maOHuU5RLhhPeoYlYT332hOVsdWV7v_DL8ubXmlrZ5bsJjM-g",
+      "markAsReadToken": "gOTPkACohdkXllc-03XIjhtFWcpqyGo0_TGnwlHaG24kchtcNQmcpABYetRtEdlkDdGsQV1iEd3jy056dEBy2McuYe6I9ZrsYNaRMqg-8-abo_HgKYrI5zPgTQCl2XHIfAlgbwZp5E2r_gfKDl1jgRVdkLvkXo7THnpa7hDrNr3HFyDHJkBen1dEawSck7shI6dbZApeB0HJ2Dj90-o8bA",
+      "text": "目前不是還在討論架設的時間嗎？\n我們收到的消息是十二月架設，但架好後，新的系統什麼時候要進去是另一個議題"
+    },
+    "webhookEventId": "01M6MVCRMQZ79TYF5VG2YBN8GY",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793848664554,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "18a0ab196f914f67a1900187dae4812f",
+    "mode": "active"
+  }
+}
