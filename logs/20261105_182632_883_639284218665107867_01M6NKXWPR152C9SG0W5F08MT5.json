@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6NKXWPR152C9SG0W5F08MT5",
+  "MessageId": "639284218665107867",
+  "Timestamp": "2026-11-05T10:26:31.654Z",
+  "ReceivedTime": "2026-11-05T10:26:32.883Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U375f2b0f385cb715667fe836bb7a29ad",
+  "DisplayName": "sanjinchen",
+  "MessageType": "text",
+  "MessageText": "重劃完我發覺少算一個VIRTUAL IP ,我晚點再把圖貼出來",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639284218665107867",
+      "quotedMessageId": "639283083988173161",
+      "quoteToken": "-U-8Sy2vPL_b8kXD67B5QH-act-OPMbURpghOURmDeesnn__ME7K11DooGjx8iSrSYkrdPSqHXOPQQ3PHYO7h2whv3suFjFAoGzGGDUCGXt_1rRRjcNBT2-WxYUw7nKlj3utfU8ogNFB7IPRqWz4Jg",
+      "markAsReadToken": "MFFHaNSFrua26eDj9WZBIrLmIgVAXesB7aT3MnjfkcDO898Q4RNyXF6KYO6_PtAdcLlT2QsxUys0a01Nes79nhyk8gQndJ6qXnYjKCkSwfdGS_wJYsDS8oFL22LNin0ZQ3Q5E0zxloP65Ia-xozg4xlerRwsU_9dzKyjdQoJxaP-PXTfzshJHf5MUDOjpOh3KEAT1FEYyvxEBKZUURQwsA",
+      "text": "重劃完我發覺少算一個VIRTUAL IP ,我晚點再把圖貼出來"
+    },
+    "webhookEventId": "01M6NKXWPR152C9SG0W5F08MT5",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793874391654,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U375f2b0f385cb715667fe836bb7a29ad"
+    },
+    "replyToken": "31bffc3983f84227a94f26acef999fc6",
+    "mode": "active"
+  }
+}
