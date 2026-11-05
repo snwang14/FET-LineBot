@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6NGN35C2P8M5QX2CEC83CG7",
+  "MessageId": "639278456983257140",
+  "Timestamp": "2026-11-05T09:29:17.418Z",
+  "ReceivedTime": "2026-11-05T09:29:19.305Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "這題要討論一下，因為控制器出場後 就會開始換裝  目前預計11/20~12/1  換裝就會需要有一個現地實測的需求，看起來會要用到平台",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639278456983257140",
+      "quoteToken": "4BRyBLXSvacSkW6uCqMJ65-J1No2BZL6zJOx2fc2aG1ErQ-PhWL6D5oI3UJBxn664OlSYq04VM3Qbp4G6NGcmbtggGjjp5opwV8vG7FzcrqYqU7qc_QgGYCNfo1OnXWJgpcrtdQsylHoBAv6dq1amg",
+      "markAsReadToken": "dnPYemGDlH2BlX7w-cBsMGtdfhWjyBHe_5EelZnkyRKZPUbK-Ttzby2eT3taLrh6wOyWUFXyQ69Nr8mGFMjIeA280_xakeYVL_L_xRzOeUEl2AATUT4YZfEPNkrSp-s_BTezpHvPCwSxQevCb5a9B5LU7dj0_BM76k27KEB9Kc0XjHD_mY0Y81Q_H8W8vxHlgsJ-TcKLhMYNASVxsUBGgg",
+      "text": "這題要討論一下，因為控制器出場後 就會開始換裝  目前預計11/20~12/1  換裝就會需要有一個現地實測的需求，看起來會要用到平台"
+    },
+    "webhookEventId": "01M6NGN35C2P8M5QX2CEC83CG7",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793870957418,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "cd6a02d9d5eb47e38d427b5f87f7bb7d",
+    "mode": "active"
+  }
+}
