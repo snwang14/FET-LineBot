@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6N4075H5XRV18HF3JW6WR4D",
+  "MessageId": "639256198449463416",
+  "Timestamp": "2026-11-05T05:48:10.299Z",
+  "ReceivedTime": "2026-11-05T05:48:11.705Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "一台機關原本就有 一台要拿來當NAT用",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639256198449463416",
+      "quotedMessageId": "639243781246025782",
+      "quoteToken": "GPojE1tVdXJyqaEn3EBj7LXkkzo3XCJDpGm5glXdxNIT5i8c6okzVzliGfrrFd1_iSxmo-CEniQvsOO__FiKViyhRd86hfaLdrbEjUsN-UrV0fSyFX-6QBqbRSVpTqf3t4zhE5q9FYhJbGu5cYNtIA",
+      "markAsReadToken": "AZBtQ7RiCeFFRK1i9_ISFcm2JSOI2clJ4W-OnPHUoCKuGUUqynHVNzznQz7CfaJJmJ0zn5xFb24ZbiOpfGZ-MhLmvLwmmr15jiM3LfGEA3v6Dp--2g4J7bjg6I2RQ-xEkJ0HbLDwXWgmjotjrDuwfOq9pi4HF7wl_f6SUxO7eNFeGYR3tLdKVVrMeuLh_961dhBc-tCS0UTAbqqS2wgQ8Q",
+      "text": "一台機關原本就有 一台要拿來當NAT用"
+    },
+    "webhookEventId": "01M6N4075H5XRV18HF3JW6WR4D",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793857690299,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "8eb0b162f9b8416f9a5edc90e9d2148c",
+    "mode": "active"
+  }
+}
