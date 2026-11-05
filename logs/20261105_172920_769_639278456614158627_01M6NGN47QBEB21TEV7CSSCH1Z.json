@@ -1,0 +1,44 @@
+{
+  "EventId": "01M6NGN47QBEB21TEV7CSSCH1Z",
+  "MessageId": "639278456614158627",
+  "Timestamp": "2026-11-05T09:29:18.439Z",
+  "ReceivedTime": "2026-11-05T09:29:20.769Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "image",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "image",
+      "id": "639278456614158627",
+      "quoteToken": "qJyapXD6_7A5seVaMILF3mBcYvaE18g1VFkDTIZzQNW4Sxjv4DlEHkkukKQBX6A4utQuYdjqRrGzrMhrnLg3KZvPa_NMZGDm3bVKNbh8LWneeEdX1LGZN82Qpt1rBlA8Xo87JwqT8aRSTIIUygjgLg",
+      "markAsReadToken": "dmPzbbcPjftdDnOT48q4bLQo_jXmGid2_eIctVuNn-Gu0cRsCyv2ebzj-HRP7ZR-6xxjcIMUUdlRWySlEsY-TF5cgD7_3mWz-RMARWEanfGM-dg7TmkkotuBv5pPTcfvFjWujZ06GIRMvDpwZZ93mLpOpMzScoaCuuORdeLuv9p_sVuucxgSecudNVoJJsCc5MeV3yC64SyBLYcgdgC4OQ",
+      "contentProvider": {
+        "type": "line"
+      },
+      "imageSet": {
+        "id": "92A1C0B0D92709AB5D2FBAC85817A68C7BF201183A7C5C68D546F1CC935996D6",
+        "index": 1,
+        "total": 2
+      }
+    },
+    "webhookEventId": "01M6NGN47QBEB21TEV7CSSCH1Z",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793870958439,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "d81bdd28482943a786bf74e05ae5b5b0",
+    "mode": "active"
+  }
+}
