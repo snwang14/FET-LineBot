@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6MWYB7YZJMF98KVNTMW66XQ",
+  "MessageId": "639243781246025782",
+  "Timestamp": "2026-11-05T03:44:49.115Z",
+  "ReceivedTime": "2026-11-05T03:44:50.422Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "另外想確認，昨天會議上是不是提到有兩台防火牆？原本提只有一個，想確認兩台分別的用途是什麼",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639243781246025782",
+      "quoteToken": "DQ8IVIwAsDz8XnShfxqXc7QipwdB5ZjY02MshEnOgOHJsyTarArf52mgtMMybBraPsSU62PTwNZTD7B-qYY2CJYXwIrXuxUABSxtwegYwyR0-I-xyQe6rK3RhvGGEasgQVbckLPhK-6oZROGHF5W0w",
+      "markAsReadToken": "00mGz2ZgwatzeqS4K1F1E3O_xJg56rIanHeOAmi1pa7jTshO9tR8IIVOQiWgaEa1auj6N-uvDmvQL49wXBqK_rze6tnZ4JSs6fycRqyd9uoBPv7Po0jRxrJbZFGj88bY2R5XqOB36XvIZy6dQiL1JHmWqb1DDp-WXEgSMPJsc5ATnSEDc-OeFa67W5pDLi6Y-UizxqcHtzBpZwOxIS-wgw",
+      "text": "另外想確認，昨天會議上是不是提到有兩台防火牆？原本提只有一個，想確認兩台分別的用途是什麼"
+    },
+    "webhookEventId": "01M6MWYB7YZJMF98KVNTMW66XQ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793850289115,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "63a01da4e94f425f8f69fcb3f8825235",
+    "mode": "active"
+  }
+}
