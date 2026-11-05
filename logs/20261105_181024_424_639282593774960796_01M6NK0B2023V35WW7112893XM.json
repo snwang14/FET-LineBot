@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6NK0B2023V35WW7112893XM",
+  "MessageId": "639282593774960796",
+  "Timestamp": "2026-11-05T10:10:23.202Z",
+  "ReceivedTime": "2026-11-05T10:10:24.424Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "好 再麻煩了 謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639282593774960796",
+      "quotedMessageId": "639282152416477561",
+      "quoteToken": "icWS1WbIv1eJlnSSEQbRujn356_3Uy4VL6050Ir1tuK7r2GQ_E8ZXoVkQJ747T-lL7GVnYqWBO-sBMGyVviXUcuMZ7GlzXBDIielaB4ENsKZdmRcWQPm1XajoJXj9zgJxLF-nFFsar6Xb33thLx18w",
+      "markAsReadToken": "QJmCvaypB3oipn0yUQ8l6nh99FE-l8VEvDo5GI0WmepBXR0-B1ZO447uH9SvkfSCdZoZS5to4F_M5RT_6DSICI5p97_hSf1wNIJ_xTSjnLXwHlg9I0estA9dnIzKJsKwyqo8mHoYGrAFl6QZby8hMh__c_JEKQ5WcNXHCqpcd-t1r53fFAsFM-wlOfUj0fGbIVfXmDz8NqwHKcMAGuQ0_g",
+      "text": "好 再麻煩了 謝謝"
+    },
+    "webhookEventId": "01M6NK0B2023V35WW7112893XM",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793873423202,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "a44c39a41597498a98fd2fe91667e2fc",
+    "mode": "active"
+  }
+}
