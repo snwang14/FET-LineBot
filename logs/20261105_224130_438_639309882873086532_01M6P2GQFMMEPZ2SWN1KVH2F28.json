@@ -1,0 +1,48 @@
+{
+  "EventId": "01M6P2GQFMMEPZ2SWN1KVH2F28",
+  "MessageId": "639309882873086532",
+  "Timestamp": "2026-11-05T14:41:28.798Z",
+  "ReceivedTime": "2026-11-05T14:41:30.438Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U45bb65710085fd8da690900d4545a7f6",
+  "DisplayName": "王志文",
+  "MessageType": "text",
+  "MessageText": "@sanjinchen 還有建議在適當地方把WEB Server及億光API的Domain需求也加註上去，如此，除了看架構圖，也可一目了然總共的 IP 跟 Domain 需求數。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639309882873086532",
+      "quoteToken": "eG1L2ChWibN6vmtpc-Vr8KKbhG7azJAPoCC-CE39W6KgXJNKVZPOGspPPoJT5CIfj_JY9J3zrFXePmff2z6EalwXt0bPedMmFmm8lJtwclCMWlwMJ8ozTaWZnq9w5zZCShS7f_X7Qe8iyRogRI3iVw",
+      "markAsReadToken": "_258tMti8QOJP2avBKOE0447KaZ63svoXTwFq3unMIlGht9wxVsCsL34Vazdi1sDKNljTqn7z1dwGrqz8YpMEO7futSN1GWe5SG8jbQ8dcHYt9FTvB6jAJ_vDuDBFH_TI3pa36S6i2p8iBfYkW9qBwH5tqAhUEGlrvfoA4A22NheCU3jGrqm40K-sQu-QaiiJzerwSFHeW_PBjZDcorycw",
+      "text": "@sanjinchen 還有建議在適當地方把WEB Server及億光API的Domain需求也加註上去，如此，除了看架構圖，也可一目了然總共的 IP 跟 Domain 需求數。",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 11,
+            "userId": "U375f2b0f385cb715667fe836bb7a29ad",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M6P2GQFMMEPZ2SWN1KVH2F28",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793889688798,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U45bb65710085fd8da690900d4545a7f6"
+    },
+    "replyToken": "117ee5d07b9646b59d6e8c75ecd44f16",
+    "mode": "active"
+  }
+}
