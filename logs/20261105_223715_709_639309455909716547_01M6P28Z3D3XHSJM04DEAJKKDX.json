@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6P28Z3D3XHSJM04DEAJKKDX",
+  "MessageId": "639309455909716547",
+  "Timestamp": "2026-11-05T14:37:14.227Z",
+  "ReceivedTime": "2026-11-05T14:37:15.709Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U45bb65710085fd8da690900d4545a7f6",
+  "DisplayName": "王志文",
+  "MessageType": "text",
+  "MessageText": "東堅辛苦了，我加工了一張圖，建議把 Public IP 1,2 跟 Private IP 1~16 都標上，另外紅字部分是我的提問，跟建議標上的 wording",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639309455909716547",
+      "quotedMessageId": "639299610921927184",
+      "quoteToken": "tjBeJ5S_pFjvLwnwzyVZAMRK4PHo4a8-vpO3MKxy9MWhR-EeXbCDnEvLcAa5Yu8TPxm9tOkITe1br1W96SbGfSsmOyDJMKoBEZgt-9pq8-K-KM0SOCl8ZP639IslUmGMw2wKqZtUKoqRu-l3azEqdQ",
+      "markAsReadToken": "fSYVtTdrgHWwTPJV3eTqkBZdb5KHBHmhWUVvIUcz-qQhAfJ0r-T_oyjNSEEUMwYbo5KI_h2n1dywTk2luqMG9qF8wEzZRQVEbWemt_rqNrePb3Bnf-8QXZecKo3mP00wg4N4PP_dmszSJUgHSkXr1vyM4nPfejmQOSmN0Dam4LqiQQTG-7P07tqEpvwBneKBl5DbVkHsCjPvEPtM2iQpmw",
+      "text": "東堅辛苦了，我加工了一張圖，建議把 Public IP 1,2 跟 Private IP 1~16 都標上，另外紅字部分是我的提問，跟建議標上的 wording"
+    },
+    "webhookEventId": "01M6P28Z3D3XHSJM04DEAJKKDX",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793889434227,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U45bb65710085fd8da690900d4545a7f6"
+    },
+    "replyToken": "648c4ba9fd4543baada0b2d27de41c7c",
+    "mode": "active"
+  }
+}
