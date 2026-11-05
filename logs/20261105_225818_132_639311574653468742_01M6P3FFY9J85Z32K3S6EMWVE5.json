@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6P3FFY9J85Z32K3S6EMWVE5",
+  "MessageId": "639311574653468742",
+  "Timestamp": "2026-11-05T14:58:17.151Z",
+  "ReceivedTime": "2026-11-05T14:58:18.132Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U375f2b0f385cb715667fe836bb7a29ad",
+  "DisplayName": "sanjinchen",
+  "MessageType": "text",
+  "MessageText": "是 ,那個 ai 莫名都會幫我加些料",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639311574653468742",
+      "quotedMessageId": "639309455909716547",
+      "quoteToken": "oG1IQ8yT3_yQH4KFXk-OY342nbsT0RgDneo5nUEpiVOMc9IHI-VA8Sq51aAC0jr6J2bal6OfuGk019mDGDhFeXl-1GR_P-DO3LxIiJb37NlSgzFrqWB8UiBYWDcgvo3eEgNbiRs-EcWutA4kuNpmUA",
+      "markAsReadToken": "P2EuIeu9S2gfL2ThymilReEIKa9n-3zjsTNPz9KGIxRM8WnGTCwCHOyivkQS_dtvrylt_sDK-aqj1itZYRsfBdxvdCK4150Nk6R_9ZgxBfjNKJm6tQMc1movJJsnQp00FrnX0pjqHAF9pAhqsgXav4UEYcehuY3i-5lt0HXULFtSj0BRx9dVNyyJXEGyF0pCIW066ggsqFLvwk097L46aQ",
+      "text": "是 ,那個 ai 莫名都會幫我加些料"
+    },
+    "webhookEventId": "01M6P3FFY9J85Z32K3S6EMWVE5",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793890697151,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U375f2b0f385cb715667fe836bb7a29ad"
+    },
+    "replyToken": "71a918e96d624473b756f0c4fe125f1e",
+    "mode": "active"
+  }
+}
