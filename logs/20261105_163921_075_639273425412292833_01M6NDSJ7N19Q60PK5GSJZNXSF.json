@@ -1,0 +1,48 @@
+{
+  "EventId": "01M6NDSJ7N19Q60PK5GSJZNXSF",
+  "MessageId": "639273425412292833",
+  "Timestamp": "2026-11-05T08:39:18.409Z",
+  "ReceivedTime": "2026-11-05T08:39:21.075Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+  "DisplayName": "Michelle Pan",
+  "MessageType": "text",
+  "MessageText": "@Julia Lee 佩玲 問一下  台中路燈用啥圖資系統？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639273425412292833",
+      "quoteToken": "PkfVmL0e-zLbJyhI4u5iv2y4spdXVZC_VUt8Vot_0Al7f-fZy6En-8M1mklc0pfpvIFADHWlD2TW6sCYQsbudA-SmJpWN6867IlPk0kuUy2Pi9FbFn2Xg9rtT158CC-rL9gUZnaPaP1Uq2kMFG_WvA",
+      "markAsReadToken": "CG9g0pE9s_TjN7zUcbqXwp3uCiJ9mIG9yu3HmKBXF3OpnnLMiFTpv4bq5iWXsKNtOxhAormfv7u_K-mxkC0BwgQc_R7N0h9DCMGaboTd33Is9nFoWiiNZGrX27SpZVtjn-OVCpPjABKqmqMR6PjB63W9i1sNwhkVe9jXEqqnJdNQPZAFAzTbbHWMpBJ3kRtgfqhwpmKHBtZM1_gXh98vXw",
+      "text": "@Julia Lee 佩玲 問一下  台中路燈用啥圖資系統？",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M6NDSJ7N19Q60PK5GSJZNXSF",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793867958409,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9"
+    },
+    "replyToken": "848c0557aa2c44ceb10637ab3b9418a4",
+    "mode": "active"
+  }
+}
