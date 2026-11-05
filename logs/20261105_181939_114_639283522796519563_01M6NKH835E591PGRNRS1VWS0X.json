@@ -1,0 +1,49 @@
+{
+  "EventId": "01M6NKH835E591PGRNRS1VWS0X",
+  "MessageId": "639283522796519563",
+  "Timestamp": "2026-11-05T10:19:36.897Z",
+  "ReceivedTime": "2026-11-05T10:19:39.114Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan \n不好意思\n明天遠傳抽查，先和你暫定 下週一下午 \n（另，新時間已和 億光小凱 同步）",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639283522796519563",
+      "quotedMessageId": "639230135749050933",
+      "quoteToken": "ee9sEEFO5T-JOvm4YQUqLiVd8ZESLkexH1VK_QJiQa3zhYKThN5OnsXPJLJqwi0H_nQcoyAbJ_A5R7PcVpwr8btfCBMG_5KDdTCYa_eqocpKCmHWC2Cmp7e3HRWMp6yEyt_aR5Sa_6_lZ52RSXUO4w",
+      "markAsReadToken": "VvLYdwbvDqwWMGcqz1YrhsbKX3nBYJKDlc1NWl6jE2C9zLGW645oOzZfvgCDRRoQpzOtEZ1TgKigZCzeTzO5FP4PpR_pZjIeWBBQoMxgOpdW0unIH9Q7vX6pOqP1Gy4PAH0WkiGBvTqL8O6fR1Ax__3fqJ4ZSXr3vxkxfemTvHXXFkqQI4gz8JY-Jpas6xUneJTCTh10ymHOvLG9Lhqobg",
+      "text": "@林郁翔 Alan \n不好意思\n明天遠傳抽查，先和你暫定 下週一下午 \n（另，新時間已和 億光小凱 同步）",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M6NKH835E591PGRNRS1VWS0X",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793873976897,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "2bcf6833ffbf4494838c2c183d9b273e",
+    "mode": "active"
+  }
+}
