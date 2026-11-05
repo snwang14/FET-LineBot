@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6NJRA604ZYVWBAARSKZNE1S",
+  "MessageId": "639282152416477561",
+  "Timestamp": "2026-11-05T10:06:00.235Z",
+  "ReceivedTime": "2026-11-05T10:06:01.696Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U375f2b0f385cb715667fe836bb7a29ad",
+  "DisplayName": "sanjinchen",
+  "MessageType": "text",
+  "MessageText": "NAT 用的防火牆,應該要申請一個PRIVATE IP,我要畫嗎 ",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639282152416477561",
+      "quotedMessageId": "639256198449463416",
+      "quoteToken": "J8pxUPw9EChg0h-_0G2KwTrfQwmqogsKpNruFaBKzlpqHiEhfP_160PT3QVzbwbDtNNHbIig6WhBTw8RcksCO-mNisBqtRXAvwXuh6rOy043_WGCCakOmf3QV6dwvkB3orL_WoiY_j0-QKySZciejA",
+      "markAsReadToken": "mESX02wHnOqS0Oi8wVEhRsNf2Vynrud92F5V5jJlLUGmISIBCJQyTjk87AGMcZvgHAEpwK_Ryt44s86tRK9slANRwQVHFkaP8wggbHyMOjz-zQNyPCe4V6zMN8GkvIu1YnDauiA_YQCb0fYCIMitFuuGMOXV0Rw1ixYkk9dPTT7CVikg8GIQmf8sdG4Px34YttjQoDQ3-gFSu2BFCRwOjQ",
+      "text": "NAT 用的防火牆,應該要申請一個PRIVATE IP,我要畫嗎 "
+    },
+    "webhookEventId": "01M6NJRA604ZYVWBAARSKZNE1S",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793873160235,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U375f2b0f385cb715667fe836bb7a29ad"
+    },
+    "replyToken": "ed24df059e934bea861e831d45bf31a0",
+    "mode": "active"
+  }
+}
