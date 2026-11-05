@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6MWV8JSJXH09X1ZV4NE3X76",
+  "MessageId": "639243611695480918",
+  "Timestamp": "2026-11-05T03:43:08.008Z",
+  "ReceivedTime": "2026-11-05T03:43:09.174Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "了解，那我大概報一下目前申請進行的進度跟十二月預計的進度",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639243611695480918",
+      "quoteToken": "Q4sNgueEbKhBqJU9AFZzPP0n_SA3kE_ToGMjIdp29y8lmh124yf2XMPhTcasxm0Nbfo9-ptKO8GQDBtL79weRaWI-zrSGBBAJTB_O42KEcY-VNLq52mxTb3nTzmuOWEk1RdD7U32rzF0KdNZu-TKOQ",
+      "markAsReadToken": "hVaSdlf1HKjXS88RA1U8qJNJxOeie5LU1Lem975705nPPTEtxbrdzpeWPHy0Kqo2-2CuMI6BTEpE_ce4SnDHRXqaQwFEMse9u62XM3Bwv4MSg92n3aeoFqdVuiglfiey1Z4Goy1eZriohTUuJSXY37YuGUd4Ds8JGlwSg8IBs46POEioAzqrCg_9wcflkL_QbCf80MVwl7-TA9xjQMGDaA",
+      "text": "了解，那我大概報一下目前申請進行的進度跟十二月預計的進度"
+    },
+    "webhookEventId": "01M6MWV8JSJXH09X1ZV4NE3X76",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793850188008,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "a689fbc084914f22bee10d0f08c774c1",
+    "mode": "active"
+  }
+}
