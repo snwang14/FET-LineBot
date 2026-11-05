@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6NE6WVGHD86PAYVEZZBN3V8",
+  "MessageId": "639274157637108002",
+  "Timestamp": "2026-11-05T08:46:34.811Z",
+  "ReceivedTime": "2026-11-05T08:46:36.648Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ueb641723e67562103c0ef055e5237fc4",
+  "DisplayName": "Andy",
+  "MessageType": "text",
+  "MessageText": "看起來左下角是 google map",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639274157637108002",
+      "quotedMessageId": "639273425412292833",
+      "quoteToken": "wU77nnRncYoc3w963nwDEGsncGuwTq6wTptXh8vQYpsq1sMdDquotwXx1UpUzQvyxGRWfGDsqcCYMLWwlP-XdoJQFfWkQht8kf8w2V-zFBGJC6Apz8A_Qv-aFoHzu33vROWZ1iHECXvIWzRfSbkjAw",
+      "markAsReadToken": "2KXnmt5Wn1k5KG32OE9dZjQIIdk7eCcrhDBzuAYFKqvIfhcISKqDcGINZ7Q-4sQGkdbYmnYBCV9F1KCo82_b08SHGPkGQDKTFsRZj8QAZk1xo6pnq5ucklrXUnsoAt0V2DOWqHkLQL8mlvh8h4voBmF91Grq37X6XG6TDoem7Hk3hgxWiAYiyanGMpcXYMSfts1mwC5SlAe74jp3xA2sdw",
+      "text": "看起來左下角是 google map"
+    },
+    "webhookEventId": "01M6NE6WVGHD86PAYVEZZBN3V8",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793868394811,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ueb641723e67562103c0ef055e5237fc4"
+    },
+    "replyToken": "4dd81f520eab4cdb922d27230e114cee",
+    "mode": "active"
+  }
+}
