@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6MVBEKHE9AQFCWRZATE6QSZ",
+  "MessageId": "639240982990946322",
+  "Timestamp": "2026-11-05T03:17:01.178Z",
+  "ReceivedTime": "2026-11-05T03:17:05.585Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "那這題有人會幫忙回答嗎?",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639240982990946322",
+      "quotedMessageId": "639240914455494675",
+      "quoteToken": "Q0wHtmusuqRo53Gwibl6z5t9S9MyFlDMBDi0PTSJDat3Wtv5byUNQz5HTRR0dKoYNVPHP6AcXf-xU0NSBX-rKmdV_q18Jfg41Htc9vtNPoxti1VFZo-TbIjPHQk0A1ZvhFP5iqg7QnTM59JqF2wtow",
+      "markAsReadToken": "-xa9j0DtFfZZ2X9jXC09vlY-DlOhUVpwR63vI9Z8s1y9EvkVBu3l-ryps23GwmzRt2_cEAHVtQzA3Mmb99mpX3YUJo6GYWMTQeUOKjzP2W9u_KKKwcu5iTjVzHqoSr_V0_vYrULaGzVZzwP7QtNhHpP3SEwSYV3eyz4af9KjrSDz14zTEbqjteHDDLUN4az8zeboXW3FdNqVycIkvcax5g",
+      "text": "那這題有人會幫忙回答嗎?"
+    },
+    "webhookEventId": "01M6MVBEKHE9AQFCWRZATE6QSZ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793848621178,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "abb9f10f52f5419d849ee357b9623634",
+    "mode": "active"
+  }
+}
