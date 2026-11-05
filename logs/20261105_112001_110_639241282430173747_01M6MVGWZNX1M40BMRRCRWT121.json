@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6MVGWZNX1M40BMRRCRWT121",
+  "MessageId": "639241282430173747",
+  "Timestamp": "2026-11-05T03:19:59.743Z",
+  "ReceivedTime": "2026-11-05T03:20:01.110Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "這題有被列在下午討論的議題中，可以先大概說明一下，目前13台vm+防火牆架構跟IP相關，  讓機關放心我們都有持續進行 ，當然因為mail也都有資訊室的人，如果他們沒有想要討論，就沒問題~",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639241282430173747",
+      "quotedMessageId": "639241055636030055",
+      "quoteToken": "sG_oeUlw_8EvCuU0ft01-HiTCwxecZTf0VSOqoCJdoO_U6gVNISVsgqfrPB8Nu2OYvovBehCCBim9X5mx-cCWlycz2YcFK6l99Rh0GRkdaymTI-cBBh8iOnDxwKcDNBRuoR6OhwNPtdqaMTIXZb9sg",
+      "markAsReadToken": "vxvy1JisJ6T7bpMxNCKBwwRRt9acyCPQ3JKy6bFAiDjyh5sdE6iJ1wcna_UePpgemp5kNaCyY9pLkZ8hXLc2X-YPj-xJ0zT7Rl_wsL74FjOlMEmqBwDfwbKoPIX2WjUf0iyFcJeS570U8Z3w6a7dT8Y-SukhOKvKA66WIblGRzWD0RpzOAbdpDICrgAkq49ZirkaKfhyfo1Yk1ZBVTWZ-Q",
+      "text": "這題有被列在下午討論的議題中，可以先大概說明一下，目前13台vm+防火牆架構跟IP相關，  讓機關放心我們都有持續進行 ，當然因為mail也都有資訊室的人，如果他們沒有想要討論，就沒問題~"
+    },
+    "webhookEventId": "01M6MVGWZNX1M40BMRRCRWT121",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793848799743,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "febaa63c0dd047899267a1dff65220cd",
+    "mode": "active"
+  }
+}
