@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6QX1R3ZAZWBSHPD5ZEVSVPZ",
+  "MessageId": "639412852834435809",
+  "Timestamp": "2026-11-06T07:44:23.688Z",
+  "ReceivedTime": "2026-11-06T07:44:26.039Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "https://www.figma.com/design/3pB5NLv2ASAZMInBiAYdWr/%E5%8F%B0%E5%8C%97%E8%B7%AF%E7%87%88-for-%E9%81%A0%E5%82%B3?node-id=0-1&p=f&t=3YV0ThWAFsJJDeHF-0",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639412852834435809",
+      "quoteToken": "iO1kvb3eLRCmQ1NIC8AjCvdDhuDA085Rop1FtshhfjGkgYX_c65XSRAstigGGSwKcPSwp1j0DmMYI540dfwMuk8QqGLomM8InPepNBaV0DLG3faEzx2LiJLHP_GMn2zaax6H2qOzH2TJOxj5onsPtQ",
+      "markAsReadToken": "p6SErPO3QOef-mbpgR8vyOwpsXmCgPWbjjblyn_0Sg87hoBB8B2KDFZOXwkLUExuubTNjJJzeenU_e8STRvX7qceeSdBYDDGwgxlij10z9inrY9Qc5AGXa0wL8CJoWxw81Y9UV7AGKTWR3yf6reiTYRuuQRBfvyIXrrzEO8oELPpsE2phLTF9nODBWcfPSA-ATI95RAXOJR-64_013fAsQ",
+      "text": "https://www.figma.com/design/3pB5NLv2ASAZMInBiAYdWr/%E5%8F%B0%E5%8C%97%E8%B7%AF%E7%87%88-for-%E9%81%A0%E5%82%B3?node-id=0-1&p=f&t=3YV0ThWAFsJJDeHF-0"
+    },
+    "webhookEventId": "01M6QX1R3ZAZWBSHPD5ZEVSVPZ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793951063688,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "9ca3439d67804552854b5d7f66175f9d",
+    "mode": "active"
+  }
+}
