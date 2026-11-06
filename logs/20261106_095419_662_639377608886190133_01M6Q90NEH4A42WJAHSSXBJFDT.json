@@ -1,0 +1,48 @@
+{
+  "EventId": "01M6Q90NEH4A42WJAHSSXBJFDT",
+  "MessageId": "639377608886190133",
+  "Timestamp": "2026-11-06T01:54:16.662Z",
+  "ReceivedTime": "2026-11-06T01:54:19.662Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ueb641723e67562103c0ef055e5237fc4",
+  "DisplayName": "Andy",
+  "MessageType": "text",
+  "MessageText": "@陳禹任 今日預期要作光林及測試燈控機制程式,再和我們說何時完成",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639377608886190133",
+      "quoteToken": "j134pOAUYRqa32laYfMoG-p1Vp2Fmf_EKt4PCR71GanlX7qgW0BmS6skw-AWlWvdUVuPRCjltYVi2wU9Q829ip7-f7mvyLn5UPD-9gAWVMeKXcJSuS2Kej19Qf6K1_n8hPUsBKy_JFAMeciv91j04Q",
+      "markAsReadToken": "WFBJ_WMh4nEuKwiMb7wzALLOfsmfrwUVtoPLSTdXEfRE4-LID6F_qsxF7extiw5j0_KkWEA4MTWjdTpL4HP9hWm_KGLfj4xF9fTl23HyVW2Qc4KcoPY76iPWYGLl5o22uAKR4FyaxS_MotcCYPbqtCVWiVAXI90MiOdUZp3Kf6SUlOe24mVLQoOXhBrmQcv3VLg4rn-0vi0-dXzs3C206Q",
+      "text": "@陳禹任 今日預期要作光林及測試燈控機制程式,再和我們說何時完成",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "Uff84e2f22ada43f8145f2fd625a33ece",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M6Q90NEH4A42WJAHSSXBJFDT",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793930056662,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ueb641723e67562103c0ef055e5237fc4"
+    },
+    "replyToken": "5befe6a76eed4f0ca61fb692c0952860",
+    "mode": "active"
+  }
+}
