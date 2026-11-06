@@ -1,0 +1,46 @@
+{
+  "EventId": "01M6QPA97R30DX4GYT1NB2DHB8",
+  "MessageId": "639401008253895167",
+  "Timestamp": "2026-11-06T05:46:43.675Z",
+  "ReceivedTime": "2026-11-06T05:46:45.687Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@All App 進行更版，修正內容如下：\n-修正因刪除&重新加入燈具導致資料無法更新\n-修正後拍攝燈具照會導致燈具編號未被更新",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639401008253895167",
+      "quoteToken": "-CEMmiIrYL2QR_ZSdYZ5mhC_WHCliWCQ0vZFAQOxoIo4gh1vV2TX-VQJrxiNnkG_TQdNcRYeyHnWIfgFttS9rtQa8TgzteBewsHU7tfC06K2QEWplWlJZncJxTHYg0VDPVsGHxi-RePFyh_7ufp_Mg",
+      "markAsReadToken": "guv0vJjdmT3WBhcCsgkBg8lCUGAkYLhjvAJWlBnwVeCApg8BGAZxcgeGLCy6BsHoLm95esoXRr8H9Bq0siz1iXd2uG2NaCgiSHVSaIGFotVoios3LTwkrN3A75UKXncLAa8XLZXZi8PYthac_QzqNs7epypOkEpdQ9YL_tzfvO4IukNzuGndEFiQUsVcfRgkODHPCw1e9d2hByImnptFRg",
+      "text": "@All App 進行更版，修正內容如下：\n-修正因刪除&重新加入燈具導致資料無法更新\n-修正後拍攝燈具照會導致燈具編號未被更新",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M6QPA97R30DX4GYT1NB2DHB8",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793944003675,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "5de7180231bd45538f55b20130c1acc4",
+    "mode": "active"
+  }
+}
