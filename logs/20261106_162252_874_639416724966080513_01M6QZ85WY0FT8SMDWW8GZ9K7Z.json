@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6QZ85WY0FT8SMDWW8GZ9K7Z",
+  "MessageId": "639416724966080513",
+  "Timestamp": "2026-11-06T08:22:51.559Z",
+  "ReceivedTime": "2026-11-06T08:22:52.874Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "2026/11/05 副處長召開平台會議快記：\n1. RC1 績效指標是否需每個月進行換裝進度提報，副處長提出需另外安排會議進行討論方能決議。\n2. 副處長決議維修完成並且結案後以 Email 方式進行回報推播給各里里長。\n3. 副處長建議，儀表板以更視覺化風格進行呈現。\n4. 現圖台載入速度過慢，需另行安排技術評估。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639416724966080513",
+      "quoteToken": "1NyV3gDvhN7KfkJXo2bwG_R0b3ZXyGpjLIk9uta6K19BUygFJ92ny-W-Zibia9upgvAI7tPipTg4s8mXpqeMEpyr98t5EwLd7ajoO5aQXhI0gYt3ecT5tZQOrXp7s5aoWcF_e0I2tu2pzL8Eia-ADw",
+      "markAsReadToken": "vTc9CaJ7vsd1x5niFtSIlIYVtNsgOS4bptylPvwoL2x1cQpUDaHMVeo202wSuOe_HeT_lAbSM9a7o3Grc4C8eY48424N61w9TrN6gjt_EgkGa2QuNi8D9Ar6ZqqHtC90XNUmldIMklKmMpZFPax2RGlcsGZmukx6b32INrribE7db6haMphD-aqMiWFNPXgFhP6TLAWchavR0M3Sln17MQ",
+      "text": "2026/11/05 副處長召開平台會議快記：\n1. RC1 績效指標是否需每個月進行換裝進度提報，副處長提出需另外安排會議進行討論方能決議。\n2. 副處長決議維修完成並且結案後以 Email 方式進行回報推播給各里里長。\n3. 副處長建議，儀表板以更視覺化風格進行呈現。\n4. 現圖台載入速度過慢，需另行安排技術評估。"
+    },
+    "webhookEventId": "01M6QZ85WY0FT8SMDWW8GZ9K7Z",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793953371559,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "1a86dab4f3ad47639ba0fc57a5d5aa8f",
+    "mode": "active"
+  }
+}
