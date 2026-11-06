@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6QS7K8HHX1BAMMEQ49KB94X",
+  "MessageId": "639406137619251532",
+  "Timestamp": "2026-11-06T06:37:41.013Z",
+  "ReceivedTime": "2026-11-06T06:37:43.372Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "想問一下我們手機上傳到app但我們用後台看都沒有燈桿跟燈具資訊是遇到什麼問題 目前只有萬華區有這個問題",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639406137619251532",
+      "quoteToken": "k2VgmCJ-aJs0XOj_zLZhqAe1QqaRL9Bpm_ZhcieQyjEgaAf_SlpEj8K-0TVfK8_oYl0QotBU5sIlqr_1vwCAp-2KuTeHkJVkkpIoJShsqadc5Z29UY0VG3oJ4MkQIdR0dpikb6f_ruHzfodw0Xsa5A",
+      "markAsReadToken": "W-OsRaIZIpQlNp6TPPOd3cEcZuKYCYMVu4tLgg84ujFyFNtN1kRcogBkr7mMVKtdgbUmsj3Q4qGu_buG7Ub9xCaUrN1lXu96XhgoQcCG3mqx4I8UAV-X7Tr11RQgj3HwxCLMsDJaLFwq1-1v7qDl965BBtZxyZ_gnJaDvfi8P1iUIUSo1dZlD6qikMQ6cMJAHDQfvRvPyACOOtsQlA5ieg",
+      "text": "想問一下我們手機上傳到app但我們用後台看都沒有燈桿跟燈具資訊是遇到什麼問題 目前只有萬華區有這個問題"
+    },
+    "webhookEventId": "01M6QS7K8HHX1BAMMEQ49KB94X",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793947061013,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "6326ccd46f21408da3b830df2984b1ea",
+    "mode": "active"
+  }
+}
