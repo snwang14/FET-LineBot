@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6QZ53QVY5860374CX05ZSY2",
+  "MessageId": "639416556270911749",
+  "Timestamp": "2026-11-06T08:21:11.146Z",
+  "ReceivedTime": "2026-11-06T08:21:13.804Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uff84e2f22ada43f8145f2fd625a33ece",
+  "DisplayName": "陳禹任",
+  "MessageType": "text",
+  "MessageText": "同步一下，我們這邊程式已經開發完了，用燈控器模擬程式跑也能跑完驗證流程 (先測連線率再測調光)，廠驗工具已經可以使用。\n\n我正請光林那邊協助把燈控器最新版的韌體給我讓我燒錄到燈控器上實測，或是把要交付的燈控器抽一些出來送電連線上來，但是需要他們先給我們燈控器的清單讓我們先匯入。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639416556270911749",
+      "quotedMessageId": "639377608886190133",
+      "quoteToken": "cTezF3E5kS0pZnuB4iUJrSRi-WuGxaev7ozBi3FQuqqQuV8Wm4DcQ1LuakYd5E-deNQC_IcRdcSJgZjMWMs7V5WH43ztWiTfOUATaJiOjgMUspwq0vC4PKSh4omVnx3LreDyTPT38uucHMFNPA9pUw",
+      "markAsReadToken": "Bavm1h7D9Qiw8Wwa-crCuXGguy4C9YVqRc5J6z5pMmEP8InvgiMDSX_MrhW_H7_J-zjoeAImV0l7IWAXg2NhXOBI7Ga38KGfVnVLDQglCRV_TdPZjTDAObwR9nkighVxKn-suZ8uW159raNa8AEE9mkdJhWKcE9DIBgFYRWBgKtCP1qIFlp8yJJVrRvjdoeKr8ez_dvmyKW9W3f3GwXfzg",
+      "text": "同步一下，我們這邊程式已經開發完了，用燈控器模擬程式跑也能跑完驗證流程 (先測連線率再測調光)，廠驗工具已經可以使用。\n\n我正請光林那邊協助把燈控器最新版的韌體給我讓我燒錄到燈控器上實測，或是把要交付的燈控器抽一些出來送電連線上來，但是需要他們先給我們燈控器的清單讓我們先匯入。"
+    },
+    "webhookEventId": "01M6QZ53QVY5860374CX05ZSY2",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793953271146,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uff84e2f22ada43f8145f2fd625a33ece"
+    },
+    "replyToken": "ce617a508c9447e8a50b4320df949edd",
+    "mode": "active"
+  }
+}
