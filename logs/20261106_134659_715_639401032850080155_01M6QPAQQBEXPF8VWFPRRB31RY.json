@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6QPAQQBEXPF8VWFPRRB31RY",
+  "MessageId": "639401032850080155",
+  "Timestamp": "2026-11-06T05:46:58.490Z",
+  "ReceivedTime": "2026-11-06T05:46:59.715Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "再麻煩工班級內業同仁們更新",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639401032850080155",
+      "quoteToken": "gyqloYwticsMQMiMzHTxwVp7Y8YV_aUHdbkUCLUWkO1BuMQM1-oJcDCY134F_tpwLlv6MxalTc7X9VMc0MbKu2SY0V8mXGRhs_Bfv2hogrneWR-GbytT1251g1LnZTnCc5l1dTHlbLFo6AmfOfs_HQ",
+      "markAsReadToken": "fikC18UFRWuSNBAWx3bi7Up7JXQyHjaEJvWha55MK1AzPOstOlxgcNps4am_Bjzx5i9yTXXerChrOp4bAg72hKoKCHbIvwqpD-4xeFwZTAoceXswsCKuZD6qIW0Q1cniqGlnwBh1tEp6l3TSa7xteMezjCy__td35_mGP7-Mt8xk4yPJ8dzmfognF2H4hFVIsdW519ORA0lUPOJ_L6iLsg",
+      "text": "再麻煩工班級內業同仁們更新"
+    },
+    "webhookEventId": "01M6QPAQQBEXPF8VWFPRRB31RY",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793944018490,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "4296404cc7894a7988ea6d6f95381deb",
+    "mode": "active"
+  }
+}
