@@ -1,0 +1,48 @@
+{
+  "EventId": "01M6QX2A41C6H3GEKFVQ80JDTP",
+  "MessageId": "639412883855245978",
+  "Timestamp": "2026-11-06T07:44:42.122Z",
+  "ReceivedTime": "2026-11-06T07:44:43.461Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@王志文 Figma 畫面再參考這個連結",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639412883855245978",
+      "quoteToken": "EqNhk-x6vExtxPUHcOgmYMabcITbEqjcdPhuZHHi7UVW-zxWd3cXmnBJlJI8Pt-hBb0aSysfIOpUV_zzKiQabXIk4r4EJee8LIUIHoH6w8xY4V4c2yMKItnVWUWasvLcy_j5okw9dJGTHmRmYxL9vg",
+      "markAsReadToken": "rUG9HleoZMwa56_-my707Acj_7bPjGz0Ruu0F6zuvKxZTM3LZh_niwmLXMuubPJrV4rJBnaSNKpcg6lj9sU7WUOexayMj5mCuOJ3T6AB2tBQf3GDfKYyQzNeUP2CgFgQA106_PRrbK-78mBtJgwxV-ohFQiF6QOkiZmZ6U6LJaNoHYFgl_-txr23TUg-VOn_Sy3-FKBI3LiHIaIuMeKSXw",
+      "text": "@王志文 Figma 畫面再參考這個連結",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "U45bb65710085fd8da690900d4545a7f6",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M6QX2A41C6H3GEKFVQ80JDTP",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1793951082122,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "e09f051e86264dff81eb485966cd847c",
+    "mode": "active"
+  }
+}
