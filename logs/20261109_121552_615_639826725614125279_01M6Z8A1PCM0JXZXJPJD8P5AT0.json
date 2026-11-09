@@ -1,0 +1,38 @@
+{
+  "EventId": "01M6Z8A1PCM0JXZXJPJD8P5AT0",
+  "MessageId": "639826725614125279",
+  "Timestamp": "2026-11-09T04:15:50.994Z",
+  "ReceivedTime": "2026-11-09T04:15:52.615Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "楊經理說\n目前沒有平台議題\n但我建議要有人現場代表與會",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639826725614125279",
+      "quotedMessageId": "639818700165742612",
+      "quoteToken": "Gnm9OndFgDn0w2VDRSI8PShhxMltEZVoK0CZYaWiZSBl8Z-wKxhtBI-1AFQfWM9DKZ0XCMsmg127BdLAInRB0gcEDYrT85KaqiPtqSVIMvne7MLWve4m0ZZFj3kDiK2fgt6GqFlKgMEiPol7VWduSQ",
+      "markAsReadToken": "wSKwrK4-an1zjUXgp8WDuJs9gwKzfyYKfbKCHy15tTYFIHyrWSWa71jwMo_Csg0yqB8JzEL2SbqNvPg9Z2Nzn0fRo8y-1DDaYRLDDmRtooo8yg9YS63sG4Uw_91JDxuA0bNlp5dwkJEICXOzSVxP49K2IPvVTJ6GE2V8THIS_xWrNwRsvAwpOlvW9o-J8tfS7UnV2L8EnQjIdT1YQJ1n_A",
+      "text": "楊經理說\n目前沒有平台議題\n但我建議要有人現場代表與會"
+    },
+    "webhookEventId": "01M6Z8A1PCM0JXZXJPJD8P5AT0",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794197750994,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "b6ba514adf7949ac9ee94020b1ce32fd",
+    "mode": "active"
+  }
+}
