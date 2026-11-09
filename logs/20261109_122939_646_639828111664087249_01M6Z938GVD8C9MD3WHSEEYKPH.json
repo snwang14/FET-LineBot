@@ -1,0 +1,37 @@
+{
+  "EventId": "01M6Z938GVD8C9MD3WHSEEYKPH",
+  "MessageId": "639828111664087249",
+  "Timestamp": "2026-11-09T04:29:37.314Z",
+  "ReceivedTime": "2026-11-09T04:29:39.646Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+  "DisplayName": "Michelle Pan",
+  "MessageType": "text",
+  "MessageText": "如果沒有平台議題我們能不能線上",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639828111664087249",
+      "quoteToken": "VqYYZIEQgh21HBPAd8j5Rhi76LFGD1yb6JQPlYdT2gojWjoTwj_B7gLO7cv6hQ9z-3ST_l2lelFzQuf1hgx9Zuf-ldYq2rPu9xED5Enzad4inkqUOuRpUbFAML48d2Jp-VMsgDWRigSlCyOt5E1hrw",
+      "markAsReadToken": "k5oKv2lym1XZYhP-aA2rlT9y3n9VghNe2zrtSMe8QcKVhqMq3U6KJSr0LXmKikrsZZEDOyRKGJnaenGDKGlo8r-3GlyrrNg8H_Zr4dCq7o2hbW_HP6Gx6Bz37boBfpeWHof1eQH52qQdDclNYywPZnm-n5dMr0JE5a70uEvyuCaoSWKfAdbwU_qcTT82zhl7o3O9Ka6CCXIMFweHVNaDJg",
+      "text": "如果沒有平台議題我們能不能線上"
+    },
+    "webhookEventId": "01M6Z938GVD8C9MD3WHSEEYKPH",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794198577314,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9"
+    },
+    "replyToken": "98822b6058f0429f881fd7c6a5cac239",
+    "mode": "active"
+  }
+}
