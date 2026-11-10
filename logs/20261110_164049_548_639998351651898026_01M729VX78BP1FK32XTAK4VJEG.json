@@ -1,0 +1,37 @@
+{
+  "EventId": "01M729VX78BP1FK32XTAK4VJEG",
+  "MessageId": "639998351651898026",
+  "Timestamp": "2026-11-10T08:40:48.110Z",
+  "ReceivedTime": "2026-11-10T08:40:49.548Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "目前會以系統上匯出每月換裝且經自主檢核清單提送，在系統初步還沒有上傳功能前，會先以提送紙本為主，謝謝!!",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639998351651898026",
+      "quoteToken": "39BxWSNd2KAVsSTyDV4ySVtRiBxkVg0Au1yq4VDSSIp_kommSI_C52L6NgQvD_Y2F7UHjMgJuocQ6XcKiOO2I_aXEdydH9PJlI8nq7-PzLnx6wwIjP3WlU-0b9gGzeK-TN1y6gYTAEwfifmySjRrcA",
+      "markAsReadToken": "_ocNW_G7FXrCznmmhmV3u-PeWABYoWiynhn2E4bEqyArSz1P8QC06_iBvV_2tYBKxA19WYKrkf3BGOlneAUt2EBEm1qv_NANdNSib38JCzzS2WMB3CJD456nFfm76TJ1POGy_ftcL2IeJhmMu8YOYaiWlSOJK2qWpisgWdcEuI9cTJ9EDhHMvvWC4prCZ-YVkAdXBz7ZCyiCrkknjeqdpA",
+      "text": "目前會以系統上匯出每月換裝且經自主檢核清單提送，在系統初步還沒有上傳功能前，會先以提送紙本為主，謝謝!!"
+    },
+    "webhookEventId": "01M729VX78BP1FK32XTAK4VJEG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794300048110,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "0f63c17e32a54af9bf078a6d56dcadd2",
+    "mode": "active"
+  }
+}
