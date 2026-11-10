@@ -1,0 +1,37 @@
+{
+  "EventId": "01M72D189ZPTF39QCHW3KX5CDJ",
+  "MessageId": "640003923113411381",
+  "Timestamp": "2026-11-10T09:36:09.033Z",
+  "ReceivedTime": "2026-11-10T09:36:10.616Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "所以每月提送仍然保留對嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640003923113411381",
+      "quoteToken": "uXj0Tuj6h1UTx-hjTKWFedRm_uflI4OFMzgPZOvG66m2IlxAA8-Y1OL35CcYYTmX3IbIRJXxoR2O4BD-6UBY9HbG4rQ-PCuN81s0n5EwH_hdSIrGsUOdK261wShmZeHf3_ChLOHWXhh3rlq9LtVbeA",
+      "markAsReadToken": "fCAYL0IZddwHEgveJJGzwz4bNB6kzJih9y--t-23dysoIlh_cVMcpGDtMZn5FkGkyGOYsRrbu_pzDVHrK2RD43HQiLIfUrPGItOjKeTFJLVpcngj1y_eafRIFpPj_n-PCa00D-dIz-qXs8n1mHS4z56efl_jL1Oo0HNIG_Es1T1YXvtlaF_Qf2rdRr_o5o1uf7LG5WTp9KUt8ckHW0Ekng",
+      "text": "所以每月提送仍然保留對嗎"
+    },
+    "webhookEventId": "01M72D189ZPTF39QCHW3KX5CDJ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794303369033,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "dd156ab479c14535bfb2b12207558add",
+    "mode": "active"
+  }
+}
