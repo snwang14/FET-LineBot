@@ -1,0 +1,55 @@
+{
+  "EventId": "01M72M12ZJT9AP7HNDB21BMBTA",
+  "MessageId": "640016228949950726",
+  "Timestamp": "2026-11-10T11:38:23.921Z",
+  "ReceivedTime": "2026-11-10T11:38:25.000Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@陳禹任 @Jason廖賢文 再麻煩囉",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640016228949950726",
+      "quoteToken": "biquB-cjAecgJ2L_bEvfNdX4DCR9Hn94o_-Omw0eV7eCGz4YsGcTnBscpEW5JxTjq1Nt9wbg_BcuME5-5KQ6xdkFSYyFm2gf1FuXr_fPi58nSRYrLUMXXQTQCE9fOuGaXeZEuIIppTJNHF6BS41ong",
+      "markAsReadToken": "AmTqb8dQjdFPvrq7sAA0DW2aJNTKbdYgytTu9Mywppof4yuvopYunwcW9-bipSKhBM3WNFNFk6sMcntjfXNU0e69twaR62FtgNIuVMSarWf-umuHEjtBNI205EwZqRckPzdqjQ5tgMWWTCsP8bY7VtilOsLQz7IUoKYGEkDGF1UbRc7XH6zx4c3rnPzmMrbjPG02doKqqFzIIStUrbDH7w",
+      "text": "@陳禹任 @Jason廖賢文 再麻煩囉",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "Uff84e2f22ada43f8145f2fd625a33ece",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 5,
+            "length": 9,
+            "userId": "U21620661d4adb885147ac04fa12857dd",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M72M12ZJT9AP7HNDB21BMBTA",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794310703921,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "162a18741ff44e3ebea5f19b4f8c1156",
+    "mode": "active"
+  }
+}
