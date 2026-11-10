@@ -1,0 +1,38 @@
+{
+  "EventId": "01M721DADP1EVQAJ2919M9G0AS",
+  "MessageId": "639983475999113557",
+  "Timestamp": "2026-11-10T06:13:01.504Z",
+  "ReceivedTime": "2026-11-10T06:13:03.365Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "那我們先請它們申請1TB (NAS)喔~",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639983475999113557",
+      "quotedMessageId": "639967771366522935",
+      "quoteToken": "fOGbD11gJI5J6BCBiBeRtCdW2YH0tbLMkf1VnADA5XqjlXMyp6Qkej5v_xk3Tsxyuzz6DInNlf9pLQdTfyDFilijxx9shWYOcHUWchw72piCAhpJZ3VzLSTy_gEo_CKuBnx3VZBW0f_S8tZatpZGEA",
+      "markAsReadToken": "mFeiIgBzTYow7O-cyV8bGhO2MFRPeI8iLrr_dnyTb5oAvdjHN-xxwU0Sjno729APIz9KmE7zxkQeZxGNMnq8rxtSCr7yaW0DebIf3OAZYLXRFlKpHN-cDbP7uBUU6kZJcMG-xznVYgZX609OzrsQfUJhPtnJqO-bBYYfoeWR71JqNDBIw1_cVRIMF2gWCFRIUDzcgPr8aSGh05QJJ59NlA",
+      "text": "那我們先請它們申請1TB (NAS)喔~"
+    },
+    "webhookEventId": "01M721DADP1EVQAJ2919M9G0AS",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794291181504,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "4c6541175f3243408999bc2e94bb10c3",
+    "mode": "active"
+  }
+}
