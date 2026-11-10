@@ -1,0 +1,37 @@
+{
+  "EventId": "01M71N8FFRZGGMYXG329P2E57E",
+  "MessageId": "639962099191906900",
+  "Timestamp": "2026-11-10T02:40:39.937Z",
+  "ReceivedTime": "2026-11-10T02:40:41.443Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "還有這2題 : 1.之後的public IP要綁在哪個內部IP?  2.public IP 1 是指定到VIP嗎？還是直接指server的其中一台?   ",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639962099191906900",
+      "quoteToken": "L1pfmkSUnQJLGt8Tn39kuxS62hXswFt0HW-MM7alAp05n3-Nas5blR-vLiWaUiCEkIt5eTyOtvTLlIKxmHDTfw-7FRLnbU3AqY2smfM0LQ_WvrPtZdThalXAwmLoA7zYGspdwxwq6jkwhUkktavMSQ",
+      "markAsReadToken": "jUv6UcuYvIpB5-oUn30hvvjkqrbvFjArU7Kj2e1o4Vb5rGriAgWshaUAQum0A9ayz2sxTapdEogTjbzeCZxUmt6ut1wVpp9i7huM-jN3l8kM6YW8ChG18KWcmhqsHl1yNdz3icA76-edNyEA6QAg0H6A2yXbqR5P8rYwOs_jPNxZCg9kJbhZ9ws6TED-zylBHLCaDzvmiA9TpEG7UkaLRg",
+      "text": "還有這2題 : 1.之後的public IP要綁在哪個內部IP?  2.public IP 1 是指定到VIP嗎？還是直接指server的其中一台?   "
+    },
+    "webhookEventId": "01M71N8FFRZGGMYXG329P2E57E",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794278439937,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "fb4b5b185a9b4dbc8083db6c5a98b9bf",
+    "mode": "active"
+  }
+}
