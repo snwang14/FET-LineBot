@@ -1,0 +1,48 @@
+{
+  "EventId": "01M721EGDSTSH46C8HG129JHP2",
+  "MessageId": "639983541245182285",
+  "Timestamp": "2026-11-10T06:13:40.419Z",
+  "ReceivedTime": "2026-11-10T06:13:41.990Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@sanjinchen 下面這份表單也幫忙勾選一 下，只要填寫用途這欄位就好，選項只有JUMP、AP、DB、FILE，其它之後再填就好",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639983541245182285",
+      "quoteToken": "T4FyOCFOpetuoTcRQtIrhjnV106D0_4Cwg0SMdl3xegK_yojmohegxD4HqIjtmZznlpD_nUxmT7WCEiva4k2dTmEYAk-bstyPYu8ndWXpfGdAimuCvQyv6KLS1Hpa-OU_6v8osnItiQ-W4Wlv9sVkQ",
+      "markAsReadToken": "Ry1B42Gd4gNiI6kpDwjTYqjMhTzq1Jkqih1DPI_hOUQAU9u7vyl-TRTd4EblvlbbM4wJVzS-WawDNqdjCAIAnqDw-kLg7m23g3PksxAE_emq94c27R6N2-CGgGVEjhkOet8yiCLpTphAkPRcLeBb-0_NMnKh9rgougaM_Hq-EZa9H5cII_Wg5mwNUV3AfgnoQm2vrVEHbHlux8Cg_xr1iQ",
+      "text": "@sanjinchen 下面這份表單也幫忙勾選一 下，只要填寫用途這欄位就好，選項只有JUMP、AP、DB、FILE，其它之後再填就好",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 11,
+            "userId": "U375f2b0f385cb715667fe836bb7a29ad",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M721EGDSTSH46C8HG129JHP2",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794291220419,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "e6ccf77343df40d684273ac224d174be",
+    "mode": "active"
+  }
+}
