@@ -1,0 +1,48 @@
+{
+  "EventId": "01M71MP23QD0Y5REZNW73W54SA",
+  "MessageId": "639961086653366868",
+  "Timestamp": "2026-11-10T02:30:36.416Z",
+  "ReceivedTime": "2026-11-10T02:30:39.161Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@sanjinchen 東堅目前剩下這一題，在幫我們依照跟資訊室討論後的限制，再評估一下，謝謝。8. 第一階段 Storage 容量重新評估\n•\t依現階段實際資料量、照片數量及後續成長情形重新估算初期容量。\n•\t長期 20 萬盞路燈及 5 年資料保存需求另於文件中說明，後續再依實際使用量進行擴充。\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639961086653366868",
+      "quoteToken": "KAZ6mLECs7AInHiAKDYFPtdfTeenx4Dzynipfsx6IUYRsg7QA7JWmxKS1t9eas0Sz1oamF4BwpvqeSrADMHgmGRcuzRZrJaj43YekrZ8T5XlTc5zmpv0FhF2UnWgJjp8ob3rM_kkiri1bBEQPOQcIg",
+      "markAsReadToken": "KH1o_yDZ9BSF84wJ-UXHrRxsMAGvLbZAa4H85y4X4rlzGm5PnSvkp9TJmThJF5T90ytXSBuKX3GQ7cld6aLWPfSV9r_b0-fIZXgBOToeoijZyO7GxveONOOqqKC2V2QrQeTlJPrIAliBSoQySqb67BrkXw_IerPCWwJQ0DSUdizg-aOtd8z8VYZ-DQfD1bcrYsUNzIoMhCOfKfgJwDvqNg",
+      "text": "@sanjinchen 東堅目前剩下這一題，在幫我們依照跟資訊室討論後的限制，再評估一下，謝謝。8. 第一階段 Storage 容量重新評估\n•\t依現階段實際資料量、照片數量及後續成長情形重新估算初期容量。\n•\t長期 20 萬盞路燈及 5 年資料保存需求另於文件中說明，後續再依實際使用量進行擴充。\n",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 11,
+            "userId": "U375f2b0f385cb715667fe836bb7a29ad",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M71MP23QD0Y5REZNW73W54SA",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794277836416,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "bfcf3e8277454145a877c848a1fe5b4b",
+    "mode": "active"
+  }
+}
