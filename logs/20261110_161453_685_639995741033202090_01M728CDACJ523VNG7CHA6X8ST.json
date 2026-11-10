@@ -1,0 +1,48 @@
+{
+  "EventId": "01M728CDACJ523VNG7CHA6X8ST",
+  "MessageId": "639995741033202090",
+  "Timestamp": "2026-11-10T08:14:52.035Z",
+  "ReceivedTime": "2026-11-10T08:14:53.685Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@胖仙女 Ivy 我突然想到，請問明天妳們週會會針對是否要每月提送換裝明細這件事情進行討論嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639995741033202090",
+      "quoteToken": "2sjWx1N4sG0gm1UWpAXytA5zvuUn_FHnsXxE9y4FKYtITMJHaWmRSppdGM1fkdbbLmNXncrxFfu09eSa6tNmV7r98dntX8ez-PwSR2nDWpTmsYtfrWftmmaUB55MiRVW-1f6tvpSUSocK0s3JP5acg",
+      "markAsReadToken": "6DwBRerCGCMrncTwwvU7Jo3YzcMBjVqFcGCFProichECkxNS1eHosDc_lgkQ0kpW6uC9equJyfy21yFCEopbwDFCAD9TqonP2BXtnXvF5LyWm3r5bsEqg4hmqngCAahehGGR1xXlVpHdfJ9D0vsXuHczJmYM6KBp8b3FdC38si6Uxe_uoPpZsCw5JmMnDsDOjAPQCbt25PbBftibz7GE9w",
+      "text": "@胖仙女 Ivy 我突然想到，請問明天妳們週會會針對是否要每月提送換裝明細這件事情進行討論嗎？",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M728CDACJ523VNG7CHA6X8ST",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794298492035,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "2f27274d4139414aba5262a5abd3ad98",
+    "mode": "active"
+  }
+}
