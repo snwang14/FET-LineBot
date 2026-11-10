@@ -1,0 +1,38 @@
+{
+  "EventId": "01M72CF9JCCSDKP4PNVA0VP5YM",
+  "MessageId": "640002936361714227",
+  "Timestamp": "2026-11-10T09:26:20.786Z",
+  "ReceivedTime": "2026-11-10T09:26:22.179Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "明天機關專案週會時間異動\n出席人員請留意時間\n\n明峰轉知 : \n副總通知，明日(11/11) PFI例行會議時間調整為16:00召開!!",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640002936361714227",
+      "quotedMessageId": "639818700165742612",
+      "quoteToken": "Fjcdjc-xKiX2y4qoS9Xb9GsBzBiJzgb1U-Tpkd4FgcjaF8IiF_wE0pPZwqTc2aN650cFRcrqaHOyMTD5Otfj4vwsCs6QF8bUDS8sAODTNZAVaINX-pOSGICPmIl8V5-mow8f3o-HqjGTbv4dHuBreA",
+      "markAsReadToken": "NPuMCEbDYphIyClNc0XzUhPSxnF1BYaWOTDDJuA3iFRM4Y6IBf4zHvVqQGfEG6jraHvC8m9DCoBwHdHRVRMKlD9_jFJri26WTh5lewuAyjKuzBbNY38ox-vHJ69fepO7ad7SnO1VB5hbqnLGRauWHu_7xp4xDDR0ZQegvIORNnmU5ZMuI14tSh-L9zorJZ589DVJmB11jB0HsIl-HQ7ETQ",
+      "text": "明天機關專案週會時間異動\n出席人員請留意時間\n\n明峰轉知 : \n副總通知，明日(11/11) PFI例行會議時間調整為16:00召開!!"
+    },
+    "webhookEventId": "01M72CF9JCCSDKP4PNVA0VP5YM",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794302780786,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "6c3540d2780146b69204f41542363896",
+    "mode": "active"
+  }
+}
