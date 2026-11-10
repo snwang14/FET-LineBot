@@ -1,0 +1,49 @@
+{
+  "EventId": "01M730SRP54NFV0RAPSS58BKSC",
+  "MessageId": "640038696745959459",
+  "Timestamp": "2026-11-10T15:21:35.629Z",
+  "ReceivedTime": "2026-11-10T15:21:36.799Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U375f2b0f385cb715667fe836bb7a29ad",
+  "DisplayName": "sanjinchen",
+  "MessageType": "text",
+  "MessageText": "@Julia Lee 佩玲 \n我填好了,就他用途提供的功能 ,我們沒有FILE,只有AP跟DB \n他選項竟然有JUMP ...我沒想到\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640038696745959459",
+      "quotedMessageId": "640038290435342949",
+      "quoteToken": "6-s4UeZNh9RaTuBlswtpahjMhXawfET3t87IgrpqIVPRsrzcAxL_NgTUwXhGtD6TAoPOUXy00GrPr1E0oM7A2ZbeGVPIVInbuPObb8P5EmdgUs2GRyskl1SpftOdRjoMB75HUJ0WT1ctZoRR1ZrVZQ",
+      "markAsReadToken": "lvn2IF37Wd75hyvwzJ-MWDs0ecJUEVoS2YnW7o0yLk2KtuBvBYAp-K1mxH35wYYtPoTy3Urk8yu-c4LJED3YwZeHVMBORWyAQZP3cbo0TXyZnUClmPpJSU1I9tqqvFItrnw8fNxEpBt-0UPaFD83MIUDprnTvx7Q1GlaYNlOtR_2hw4f3UBDOXcaDiNFga_UXjwWTiLTok8BeJy6Uv_m4g",
+      "text": "@Julia Lee 佩玲 \n我填好了,就他用途提供的功能 ,我們沒有FILE,只有AP跟DB \n他選項竟然有JUMP ...我沒想到\n",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M730SRP54NFV0RAPSS58BKSC",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794324095629,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U375f2b0f385cb715667fe836bb7a29ad"
+    },
+    "replyToken": "b9196c94976b4071b0280d92518b74ad",
+    "mode": "active"
+  }
+}
