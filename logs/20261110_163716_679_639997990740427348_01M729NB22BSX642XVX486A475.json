@@ -1,0 +1,38 @@
+{
+  "EventId": "01M729NB22BSX642XVX486A475",
+  "MessageId": "639997990740427348",
+  "Timestamp": "2026-11-10T08:37:12.967Z",
+  "ReceivedTime": "2026-11-10T08:37:16.679Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "今天早上有討論過",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639997990740427348",
+      "quotedMessageId": "639995741033202090",
+      "quoteToken": "KhSTYImH2kWL8iNB-ZlWb4zkhEvG20g5Q_l-b-h0IZHrRVf20Tb6iYtf8yrOtqdOjAPXTPzWNZ4H1FgiwI5J_-YPtDBdkOkzaCAITH3Lv3rmRlBeLBjupn6F707Jw7SpQu5rD_pJLhQ97xchwTuDGQ",
+      "markAsReadToken": "7MDHNUWkI7erH5MOQoH9IemUKSepSJy4VkL_Om65r54VStpb5ssL41yCeDlCe7fNEmHH8Iinxk33ri9burpfnWh7wBjp8npo9po7vYZrOlrK_tNPggXXXgVRKKNObVwOkeocwooEx61eiY1dECQCuE1wlAiDwVcC_xIQqjBtLPLuVeBwSKSqu_itU2MmcKDoebafd1amwZdoFNZ6V0CYyQ",
+      "text": "今天早上有討論過"
+    },
+    "webhookEventId": "01M729NB22BSX642XVX486A475",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794299832967,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "067b8d56e4c94e239b8589b2326f5121",
+    "mode": "active"
+  }
+}
