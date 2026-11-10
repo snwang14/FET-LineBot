@@ -1,0 +1,54 @@
+{
+  "EventId": "01M72MHPRRWDCHK2YAZKVYN63K",
+  "MessageId": "640017142267248882",
+  "Timestamp": "2026-11-10T11:47:28.178Z",
+  "ReceivedTime": "2026-11-10T11:47:29.715Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "sticker",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "sticker",
+      "id": "640017142267248882",
+      "quoteToken": "8h27xZODcGGHD2JXDoIOWlMPqJ998034UsUuzZ29ABciKHEnqBEK0XeZqc8xPGe-_3iOgjwSCwIfzbUQ6mELWlnGWNSGueVYzLCaii6PKUX4qdV6A4fG2BLpsTUeA-87duPFfsM-q_tn4BNbplChUg",
+      "markAsReadToken": "lk-YmJlYmHHtTrOglONd-DP9DyEHffkR6_VV8jA7R37vwUEmIbTyAccwvcfJQkTHM8CKyrfhS6XAUtuJ4YTYHvhSr0beeXr8-vKC2ohbxr3HFw-MW4hn4MEzcR84EpOiWoQbnI3TYoPnP3K5lvETSx-U6oyR8twfsWn5Ma9krI3hrZRsCK_JuGZle8Llavdp-q-_GvsTce0W5h2j17VTXA",
+      "stickerId": "15535195",
+      "packageId": "8201",
+      "stickerResourceType": "ANIMATION",
+      "keywords": [
+        "Please",
+        "forgive",
+        "Apologizing",
+        "line",
+        "Fidget",
+        "Bowing",
+        "mybad",
+        "sally",
+        "brown",
+        "Staring",
+        "Thanks",
+        "Sorry",
+        "humble"
+      ]
+    },
+    "webhookEventId": "01M72MHPRRWDCHK2YAZKVYN63K",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794311248178,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "0bdac1b5d14b4d73950aa1afd3e763d2",
+    "mode": "active"
+  }
+}
