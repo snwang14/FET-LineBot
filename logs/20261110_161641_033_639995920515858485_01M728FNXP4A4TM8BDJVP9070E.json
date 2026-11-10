@@ -1,0 +1,38 @@
+{
+  "EventId": "01M728FNXP4A4TM8BDJVP9070E",
+  "MessageId": "639995920515858485",
+  "Timestamp": "2026-11-10T08:16:39.030Z",
+  "ReceivedTime": "2026-11-10T08:16:41.033Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "我晚點會找 楊經理\n我一併確認",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639995920515858485",
+      "quotedMessageId": "639995741033202090",
+      "quoteToken": "gvJnURy_DAgkWfBnja8KnbM9G3UV6EmAr3gs3-qxB4JlDmnXaYUnUrvH-XycsV0ATDvxZTN2Axy7wcNZ2vE-n__eWw8rf8Kihj80aqkD637dXzv5LhdFT7E4FTk4QQL9NMo_oQxRisV8xJywUABtwA",
+      "markAsReadToken": "Drr26hMpeOdQrl2e31ZH1dnSw5X7dxoUYa6mUwUdNkk-uX8N5p2FP5DSalllBhGrJpByOAscnKz3H9dipD6QGppmTZCCbJVTd1IZELf-hgY9i2ZYkCnahTfsFcvADCHSt1hb1dcE6BKRrbEOAgLOTUugDtxXiGBWWDM9ltk0W6wITEc9ICQWrQ5qXNVbsmhe9TMOjCfX1zz30VBXugTcLg",
+      "text": "我晚點會找 楊經理\n我一併確認"
+    },
+    "webhookEventId": "01M728FNXP4A4TM8BDJVP9070E",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794298599030,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "deba0fb511754a0bb5f02ada4ace6b70",
+    "mode": "active"
+  }
+}
