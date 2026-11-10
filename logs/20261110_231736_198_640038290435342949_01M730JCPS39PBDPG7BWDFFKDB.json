@@ -1,0 +1,40 @@
+{
+  "EventId": "01M730JCPS39PBDPG7BWDFFKDB",
+  "MessageId": "640038290435342949",
+  "Timestamp": "2026-11-10T15:17:33.536Z",
+  "ReceivedTime": "2026-11-10T15:17:36.198Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U375f2b0f385cb715667fe836bb7a29ad",
+  "DisplayName": "sanjinchen",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "640038290435342949",
+      "markAsReadToken": "AYRNwS-h0vEsr4qNZpHTpT_ib3K_Myy8NvuYZ7_5wZ_nt8IV5RPzgol_hyY9dojLsKgAsnONkrwzNmvrbd2AosCP8_SRbFLz9LlCjBSYOzN7k_pA9hLO8laR1yNLFFpD__aQ0eYJkmxLm7NB1uOIkaQ7beHpQiRrudoUACnQOfl8BSVSRoQXFliKHrWrTBgNqKIMMLktVHeuriQt54HQVg",
+      "fileName": "虛擬機（VM）路燈＿思納捷回覆.xlsx",
+      "fileSize": 11315,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M730JCPS39PBDPG7BWDFFKDB",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794323853536,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U375f2b0f385cb715667fe836bb7a29ad"
+    },
+    "replyToken": "fd9748f62df3464288ce6f0efe523c08",
+    "mode": "active"
+  }
+}
