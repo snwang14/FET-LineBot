@@ -1,0 +1,38 @@
+{
+  "EventId": "01M71RFN1EGBCD8SM15PB85ZJ6",
+  "MessageId": "639967771366522935",
+  "Timestamp": "2026-11-10T03:37:00.911Z",
+  "ReceivedTime": "2026-11-10T03:37:02.946Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U375f2b0f385cb715667fe836bb7a29ad",
+  "DisplayName": "sanjinchen",
+  "MessageType": "text",
+  "MessageText": "照片NAS 的部分,目前我們收到六萬七千多張照片,實際佔的空間是21GB,因此估之後160萬張照片,大概是500GB 左右,因此建議我們可以申請1TB (NAS) 部分 => 這個我先回覆\n• 長期 20 萬盞路燈及 5 年資料保存需求另於文件中說明，後續再依實際使用量進行擴充。=> 我當時估的是五萬盞智慧路燈5年主資料庫7TB ,備援資料庫除了7TB DATA 外,再增加一個12TB 硬碟做備份  這個依照我別的案場經驗,應該不會差異太大\n但實際上我們剛上去的時候智慧路燈是一萬盞左右,五萬盞是之後規劃,因此我們可以依照規範每次申請500GB(針對個別硬碟空間) ,初期空間容量 70%滿了,就應該就要再申請500GB ,等到穩定後再調整成80%空間滿了再進行申請\n\n\n還有這2題 : 1.之後的public IP要綁在哪個內部IP?  2.public IP 1 是指定到VIP嗎？還是直接指server的其中一台? => PUBLIC IP 應該要NAT 對應到VIRTUAL IP 沒錯\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639967771366522935",
+      "quotedMessageId": "639961086653366868",
+      "quoteToken": "ztVbuDfNkGtKQIsiRDkF_Knu8gu0Q5_ybd4ia2TjUKB-G4zc7Z6VXHSCTdU_GtZU6_H-zNVGmf7hCHhLMYfJ3_5mOP4CaK6Zn5TYS9FYSPaTeTGR4WL_8avGfdBq7xVLt4JaQsE9NUpQ9lW2XxjT8A",
+      "markAsReadToken": "t508pfP_EkaL_0jKU1DSshnnn8d8xF8T9UIQqzLIItZvgbQqkbRNn82HahjBSiuoFCjydXTvbqKtrM8xMQbFMpkawLvHgaAtNY5SWVGORuHA4ixN9yzELEvl5gXB_pfRNo78vTMdQ-UV0VO9-5wjMAzy0v2JufQjFXHW_AOc2bSvcd2tLuWIKCKiuZoxxVbHXiHGr5stM9ZAyUVUmwPq7w",
+      "text": "照片NAS 的部分,目前我們收到六萬七千多張照片,實際佔的空間是21GB,因此估之後160萬張照片,大概是500GB 左右,因此建議我們可以申請1TB (NAS) 部分 => 這個我先回覆\n• 長期 20 萬盞路燈及 5 年資料保存需求另於文件中說明，後續再依實際使用量進行擴充。=> 我當時估的是五萬盞智慧路燈5年主資料庫7TB ,備援資料庫除了7TB DATA 外,再增加一個12TB 硬碟做備份  這個依照我別的案場經驗,應該不會差異太大\n但實際上我們剛上去的時候智慧路燈是一萬盞左右,五萬盞是之後規劃,因此我們可以依照規範每次申請500GB(針對個別硬碟空間) ,初期空間容量 70%滿了,就應該就要再申請500GB ,等到穩定後再調整成80%空間滿了再進行申請\n\n\n還有這2題 : 1.之後的public IP要綁在哪個內部IP?  2.public IP 1 是指定到VIP嗎？還是直接指server的其中一台? => PUBLIC IP 應該要NAT 對應到VIRTUAL IP 沒錯\n"
+    },
+    "webhookEventId": "01M71RFN1EGBCD8SM15PB85ZJ6",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794281820911,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U375f2b0f385cb715667fe836bb7a29ad"
+    },
+    "replyToken": "188299b6b1464499a7fdbb0e8a472e18",
+    "mode": "active"
+  }
+}
