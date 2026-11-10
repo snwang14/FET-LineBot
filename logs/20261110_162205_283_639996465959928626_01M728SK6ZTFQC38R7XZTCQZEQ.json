@@ -1,0 +1,49 @@
+{
+  "EventId": "01M728SK6ZTFQC38R7XZTCQZEQ",
+  "MessageId": "639996465959928626",
+  "Timestamp": "2026-11-10T08:22:04.127Z",
+  "ReceivedTime": "2026-11-10T08:22:05.283Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan \n楊經理回覆:\n明天不會，下次會議才會討論到",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "639996465959928626",
+      "quotedMessageId": "639995741033202090",
+      "quoteToken": "0QqBifLQ4af7K0R5U5ZKCqAC9QTxb0pm5kLSHVJA622mMufZTywZ8gKf0Q2u8EaFNCQAqdysHZVbLoTNzyZdnZbc-FIH9i6jyQWRoTx5uFZ1YtAl11erLJZiQ6Tca9xzzLXfUlqX6CW5YqishrR-CA",
+      "markAsReadToken": "TuuXEyJshgibi_BvtaoEXLaxccmOSzYys84GLhn3Sbj1S_JEe-qUA3afYsWcT7nFlVqaB0Vwo1zwRe8e6fT9s1WJorz83c1o3TtWS58Teg4tl1AEX-2dDYoKazOLI13eQCW4t6yVn_kIlKGHr9KL2rsZ_NN2gpK-2Ex0asgnAmxYxCA8mrmRpwYgoKlAieh-zk8KOMWKCuNycJchKgXkMA",
+      "text": "@林郁翔 Alan \n楊經理回覆:\n明天不會，下次會議才會討論到",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M728SK6ZTFQC38R7XZTCQZEQ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794298924127,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "5b1e11c985db47598e2e57b44d2e29d8",
+    "mode": "active"
+  }
+}
