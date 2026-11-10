@@ -1,0 +1,40 @@
+{
+  "EventId": "01M721EXACXZCNXV91T1SKXSX7",
+  "MessageId": "639983562535731407",
+  "Timestamp": "2026-11-10T06:13:53.623Z",
+  "ReceivedTime": "2026-11-10T06:13:55.403Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "639983562535731407",
+      "markAsReadToken": "y7KNYY8KVU3lZAP6_cBlxGNTvCVTm4un5QvpWSUnjeyHTqkpPz-UBKr6mPGE47GMkpziS3fbWZkZs-2Q5yURCw7rS2rZCtIyy_r2yoGF-uuhw52hHC3llrgRxUSQozCnEiDxbJn2Z4Eeb8zdiL1tJo49Vqb7u78gIIUt3kweGgBrhrKSTYuu-Bknj-wtC96xkVAfzsjM4nUIQaj_tnsSFQ",
+      "fileName": "虛擬機（VM）路燈.xlsx",
+      "fileSize": 11457,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M721EXACXZCNXV91T1SKXSX7",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794291233623,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "02e459d1e68345d69c95c5bfb6a7d006",
+    "mode": "active"
+  }
+}
