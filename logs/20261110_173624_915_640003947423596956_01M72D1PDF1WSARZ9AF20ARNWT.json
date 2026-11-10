@@ -1,0 +1,48 @@
+{
+  "EventId": "01M72D1PDF1WSARZ9AF20ARNWT",
+  "MessageId": "640003947423596956",
+  "Timestamp": "2026-11-10T09:36:23.479Z",
+  "ReceivedTime": "2026-11-10T09:36:24.915Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@Sammi 會方便通話我確認一下細節嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640003947423596956",
+      "quoteToken": "fssyOyNNJ6ZMlBJILyYK-gtkVxkqEG2ytu_J3mfUVUjt_BCWDOEbwFCaZ4G1Q1RfogAcn4Wo17FQPHj3g0nQv8-D7KzKprORv_IgM5DwwhthjPmaU6F2h1vttmU5kXFPu11h8LnmH8Yty4hNBMtWfg",
+      "markAsReadToken": "YmbHnepFiyTBp5UMBV3DgzzfCFyZihtf5_HYPzAnnIOozyjVjIO5nsYLsOgaK9zJkNfieYDSozLtSdTDTxrwGxxPojoRu8f1x2R9-oFijUg2hi03LF_Y8fI9eKB_5omg1M7yFkdrK_XTR9HeyMLcwzkrEEs1tsr05JVbip-fGIeA0xAXSlMHVbpiWKa9cP0F-OLtW5DwMWrhVNj_SOAoDw",
+      "text": "@Sammi 會方便通話我確認一下細節嗎",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 6,
+            "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M72D1PDF1WSARZ9AF20ARNWT",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794303383479,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "5314298e10ed43c69dcadd9d6bf23402",
+    "mode": "active"
+  }
+}
