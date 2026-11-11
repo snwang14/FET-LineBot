@@ -1,0 +1,37 @@
+{
+  "EventId": "01M74X5BZWVGDEZ33V0D87VE22",
+  "MessageId": "640144887009771538",
+  "Timestamp": "2026-11-11T08:56:29.958Z",
+  "ReceivedTime": "2026-11-11T08:56:31.652Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "因為目前你影片的點位都送出審核了~\n我們後端看資料跟你們的操作不太一致，但已經送審我們沒辦法測到",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640144887009771538",
+      "quoteToken": "k5wLmjnR23yRJU_xtwFUadN2V3bYuPLmccoTYm0XfI-R3JCffxDBjVZ0o2SbFdD1N-C1j2r3oyU_PMaZtBf56Ag1X7TzDztRHpV0jJx5WvF2DA_bV7dmRAlXSOm8hywV7UMoiksPxMEHOTrn3AFjvw",
+      "markAsReadToken": "MqzNQEAWNj7R2eVdxT-OgjPDj3pcsNF_hWcwOK5qj10ZJkZGdVj2TUVBlnTbJvR69WSn2TWCwjby5KuKo2--oeMIiYs9OOdRkprtfQ06j8j8HhGiiYveoAQ9erVXzj1eAjAtO1mPvrnw8GidmsxKDyOucnE8O3I6XSo2vruQ8W5koLVTmw4h3JUMa09fm7Ny4-erjI93JH6zAMFbWX4oXw",
+      "text": "因為目前你影片的點位都送出審核了~\n我們後端看資料跟你們的操作不太一致，但已經送審我們沒辦法測到"
+    },
+    "webhookEventId": "01M74X5BZWVGDEZ33V0D87VE22",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794387389958,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "40ac518832774118bc0ca79bed1fed24",
+    "mode": "active"
+  }
+}
