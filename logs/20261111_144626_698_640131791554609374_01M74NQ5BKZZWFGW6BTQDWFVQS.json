@@ -1,0 +1,38 @@
+{
+  "EventId": "01M74NQ5BKZZWFGW6BTQDWFVQS",
+  "MessageId": "640131791554609374",
+  "Timestamp": "2026-11-11T06:46:24.460Z",
+  "ReceivedTime": "2026-11-11T06:46:26.698Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U375f2b0f385cb715667fe836bb7a29ad",
+  "DisplayName": "sanjinchen",
+  "MessageType": "text",
+  "MessageText": "看到了,比較有問題的是 每台VM的空間上限就是500G，滿了不能再加。不夠的部分要自己準備儲存設備放入資訊局機房 這句話,這句話跟我的預期不同,我們要再討論看看\n\n我們另外一個放在台北市政府機房的vm 的案子,是可以一直加的,合計我都加到7TB 了,我再想想怎麼詢問比較好 \n其他的我再整理一下,像 不提供單純備援使用的虛擬機資源...這有點意思..",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640131791554609374",
+      "quotedMessageId": "640127553831174469",
+      "quoteToken": "FRjR1av3EK291BBr3ZTDQsrHYlETjRrzLfyrlMvZ6fP1feOIXs1Gd6xqnx17RaqHaonbwoXeAU4xKoa7BR_56A9-IUBC5DQoewhQNb5_5_rMNu47x2hkfHJJ3a2QenzqF7QwDvN_jtYr-3vOooIrDA",
+      "markAsReadToken": "PEZx8BiqFKxlitTN2VHMN6ng4S1biqW-txHaulGEViFqqC7P7ve2vj8Pd9JXrOn4xoO22AkPhn5JXY2oMeABRzfszZnA7dWIswk_A-qIibh4T6Q_t-pCigFtnAXb1QM_qfPRdYjRmmpHrUapvSUjzUIkl3A8F4onF26Ms5Mnsvtts5PH3UqKED0uCJ8nGkmwZWavSltehCEKVSH5G5UCHg",
+      "text": "看到了,比較有問題的是 每台VM的空間上限就是500G，滿了不能再加。不夠的部分要自己準備儲存設備放入資訊局機房 這句話,這句話跟我的預期不同,我們要再討論看看\n\n我們另外一個放在台北市政府機房的vm 的案子,是可以一直加的,合計我都加到7TB 了,我再想想怎麼詢問比較好 \n其他的我再整理一下,像 不提供單純備援使用的虛擬機資源...這有點意思.."
+    },
+    "webhookEventId": "01M74NQ5BKZZWFGW6BTQDWFVQS",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794379584460,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U375f2b0f385cb715667fe836bb7a29ad"
+    },
+    "replyToken": "8686ee9302484a4f891b94c599baafeb",
+    "mode": "active"
+  }
+}
