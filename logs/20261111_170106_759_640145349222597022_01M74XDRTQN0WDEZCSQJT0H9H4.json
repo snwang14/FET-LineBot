@@ -1,0 +1,38 @@
+{
+  "EventId": "01M74XDRTQN0WDEZCSQJT0H9H4",
+  "MessageId": "640145349222597022",
+  "Timestamp": "2026-11-11T09:01:05.559Z",
+  "ReceivedTime": "2026-11-11T09:01:06.759Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "我們派單出去沒有動任何東西ㄝ怎麼會被刪",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640145349222597022",
+      "quotedMessageId": "640145211028144847",
+      "quoteToken": "a4uXIjFrmTt3xAXIxcpFYWknFZdE7ZzOWY2a_s6bvsBgatowG6b1r2uzlVis-ibX1YcJc6Pmp1Z43ojHqJaIblrpBhBSFvrdo_jzfnQInBcLd_-x94rvXi_wB1BBj_KemyGE1m_k7p5X7iXboszMQw",
+      "markAsReadToken": "nccN8SrkWJlt6pFKtTw05l9HC4c9ruk4VOybBn5YclgnLQOF5K2yjy6QsFdi-NDOX2p0riXoT-Z0EaXUw4kUGx9CtOisMfSUB9qgsFnlN_VRwz8zU4bn1vdQZxtH8tTNShk8f8ju1npjtiZB9epIlUzE2iAoGLO65PqjLlhXBqCPDSGxDiUaGYN3eLNQp2sn731EeWy6Kdw94Dz32UYhoQ",
+      "text": "我們派單出去沒有動任何東西ㄝ怎麼會被刪"
+    },
+    "webhookEventId": "01M74XDRTQN0WDEZCSQJT0H9H4",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794387665559,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "cb1df67008254ae2a9d0534599e7bbf3",
+    "mode": "active"
+  }
+}
