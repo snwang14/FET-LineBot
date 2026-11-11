@@ -1,0 +1,37 @@
+{
+  "EventId": "01M74TTRD20MYGXNF30DJCK645",
+  "MessageId": "640140785114677600",
+  "Timestamp": "2026-11-11T08:15:45.235Z",
+  "ReceivedTime": "2026-11-11T08:15:47.371Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "工班反應掃描序號的Qr code有時有有時沒有",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640140785114677600",
+      "quoteToken": "I7FdmPjV0E4aiYbAHIFPUq9OU7Eqe1yqKSF7RpPrt-OvtMWQJ82V7VcH4tQCrE3k51Mtr-2E4AKk-sG7xLi_qCcdBoyjbsM1LSLkNnoapNXq1b2Z7enxLJ2_cCBoxGb71IElvWhsHZ57SYYoH_ryGA",
+      "markAsReadToken": "4Yi_5xoFOlXGzs9JIVedio2DbLR4tyr-oVOOF-bSWl0Sbt1jALo2gij8kh9aL6qsn6V1zrW2Lwf5wGNx0xb9pJOCC1tBdaeidTGTxV-tmRBEhauFb_XSeIH1OJdSjGSLDoIxxilgjSPRz6UZ2be1Hh2aSSFINRREvIqjk9eVP4a8QaG1rSnWI8OjBhyoZIwWesz_PVPynDXn1VBa3U24Zg",
+      "text": "工班反應掃描序號的Qr code有時有有時沒有"
+    },
+    "webhookEventId": "01M74TTRD20MYGXNF30DJCK645",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794384945235,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "58d235fdacd14ea0ac4ffdd682c621e3",
+    "mode": "active"
+  }
+}
