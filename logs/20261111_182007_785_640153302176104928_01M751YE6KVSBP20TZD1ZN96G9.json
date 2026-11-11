@@ -1,0 +1,37 @@
+{
+  "EventId": "01M751YE6KVSBP20TZD1ZN96G9",
+  "MessageId": "640153302176104928",
+  "Timestamp": "2026-11-11T10:20:05.949Z",
+  "ReceivedTime": "2026-11-11T10:20:07.785Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "這2天公燈有平台需求\n可以接續在會後確認嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640153302176104928",
+      "quoteToken": "zXtJQMmYgjgyjA52I2r_yrHQRE5rexKcCxGFMqCtRlVOdgvrMB3_besxQEUHko_nspWvCbpsFZ7b5X1dibbaZq790HdSjdMRMd1hUOICbyvhhRvxK3EcS5oL-85g97tBtOopjpPioeH14X4kfyzGgQ",
+      "markAsReadToken": "DLneAinvJz3Q9PwuqaizAQzcGw6pzgz8vTwH-z7OM7uITLlvdQJZLXLN-epizcxjp_k9prvrlGEWZfmP626uCwqKOuf4Kfzv0ojryMjN8o6F7ttytNeGpiGq9zVTlrf5fbRfXl0t1qIIczC47t7TAmzN1zLnNAcwRHbnIrREMVqvmFFTrxE9Bh8aQuW7PslvNaaF07Sd0Rzs0m8Ke5iKJA",
+      "text": "這2天公燈有平台需求\n可以接續在會後確認嗎"
+    },
+    "webhookEventId": "01M751YE6KVSBP20TZD1ZN96G9",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794392405949,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "0a1282343c0d48a8ad839779fc98ea7a",
+    "mode": "active"
+  }
+}
