@@ -1,0 +1,37 @@
+{
+  "EventId": "01M74XAESZBTS45F7HME01KKVY",
+  "MessageId": "640145166702739886",
+  "Timestamp": "2026-11-11T08:59:16.675Z",
+  "ReceivedTime": "2026-11-11T08:59:18.037Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "好",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640145166702739886",
+      "quoteToken": "5ohuQhRuojL3xAGPLW68n3wvIoPRFN_8dhSz_hpcDn9zbxjXqYyalRJz7Sf9AHtPFoxc1H4nEbYq_fiOmw4ebbiKM-pHonv3pOMjngeFrRLDY85dDBs9kbzLlnxpZ7i-YKsNvdmp65jrurz_7hYj4A",
+      "markAsReadToken": "abXRGCp4yhnZwDiPnc4N00ecRo5-YHdzFgS-QGiqj0yxmZomKArwWVzk-1AauzehcC461nMEV4i8RljKWeIU42QJzAt5MvXnrJDzFlhqC7ZhZ2xsfZwQ84JM6DaJRQI57kEnaYBUJdtctnNPF3smPtNa99EcZ4jzSGd89F5T8zooEZ2EGNoD5ia3Ryxw1w8BBofdH369VGtczfq9Q8F28w",
+      "text": "好"
+    },
+    "webhookEventId": "01M74XAESZBTS45F7HME01KKVY",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794387556675,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "ec9ddd7f0d3d4c79b3da08598462b3fc",
+    "mode": "active"
+  }
+}
