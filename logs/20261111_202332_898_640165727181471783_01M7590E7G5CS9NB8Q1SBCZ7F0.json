@@ -1,0 +1,56 @@
+{
+  "EventId": "01M7590E7G5CS9NB8Q1SBCZ7F0",
+  "MessageId": "640165727181471783",
+  "Timestamp": "2026-11-11T12:23:31.798Z",
+  "ReceivedTime": "2026-11-11T12:23:32.898Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan @王志文 明天也要討論這一題 今天機關有q到 急件",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640165727181471783",
+      "quotedMessageId": "639278456983257140",
+      "quoteToken": "IC1IyGmRiNrQLWdNOwcsY6NlAT8pz_VFIbNdehKFYuOArWQ3tYp-fjSiI5DXU0O9S59dQ2cOHUIdT60I2pQsiTqcXoxsp08Nm8OE15oaER3LCguatfl-MbZtb53OZYM5UT61WGXwN1MijO7pkz11TQ",
+      "markAsReadToken": "WxR6s0jpMTbtpR4PRY0qDiG9EUUMQ4JwEbfpWFMGazQQUehYkDEIcqg9d83_icRGm1PQfax4M6qfGyqO1gufdEnSyCqoljrFI978gEGutPlJI9smh0axR5b0tU5A6lCXPXSicOJvXiMyXeQm61ggzDCswV7g1Osh0PPuT3QsG_7bNJQ4zNJMGK1YuxxW_yZD9Ty20KA0gByGmWmuGm4aVg",
+      "text": "@林郁翔 Alan @王志文 明天也要討論這一題 今天機關有q到 急件",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 10,
+            "length": 4,
+            "userId": "U45bb65710085fd8da690900d4545a7f6",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7590E7G5CS9NB8Q1SBCZ7F0",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794399811798,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "4dfa857f1aee4b7a930df23539994b16",
+    "mode": "active"
+  }
+}
