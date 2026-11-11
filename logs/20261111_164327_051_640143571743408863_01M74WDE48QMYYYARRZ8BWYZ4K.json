@@ -1,0 +1,37 @@
+{
+  "EventId": "01M74WDE48QMYYYARRZ8BWYZ4K",
+  "MessageId": "640143571743408863",
+  "Timestamp": "2026-11-11T08:43:26.074Z",
+  "ReceivedTime": "2026-11-11T08:43:27.051Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "這盞可以 都在同一張單內",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640143571743408863",
+      "quoteToken": "vGF45V7zVMkzMaqIba8_s8i7PfbOzftj9Y06EyrwJUeHRlh4-BQq8fRC9VkV3Ct0Z0C4Mh0eWy4Tib80sKOwsVGxls2Z9Qtoj2EicHUSoZ2najbXlaFLOLUJvfL0u0wfxSuw6R4chlXFq89Tmnhrag",
+      "markAsReadToken": "MO_8ont5PWfcBKkNoCE1X8DrXLBFf66YXjC2-o5MyG9iU8s9vbr_YlfiiBH9gEejn_-eCZF5BYKuBCvy00itY4pnvT4dBKAhSXIb4p_cCwhFMh_W46sMU5G64_V6JtLVUu-CCYNqB5dqcFc6lp3VEISb0FoX87gYbqhtOSRCKxTJINjVnHBlVdS7w_Dc_kdIpdpKFyujrx-X9THkwvBcwQ",
+      "text": "這盞可以 都在同一張單內"
+    },
+    "webhookEventId": "01M74WDE48QMYYYARRZ8BWYZ4K",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794386606074,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "8f9ef94eba264f1b9a572656cf4391d3",
+    "mode": "active"
+  }
+}
