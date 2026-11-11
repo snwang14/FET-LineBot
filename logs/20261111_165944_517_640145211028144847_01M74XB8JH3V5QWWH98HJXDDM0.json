@@ -1,0 +1,37 @@
+{
+  "EventId": "01M74XB8JH3V5QWWH98HJXDDM0",
+  "MessageId": "640145211028144847",
+  "Timestamp": "2026-11-11T08:59:43.096Z",
+  "ReceivedTime": "2026-11-11T08:59:44.517Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "影片上你是點進去就沒有燈具的資訊了，不過審核那邊是顯示你們把原本的燈具刪掉新增燈具",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640145211028144847",
+      "quoteToken": "iAadA4gcKdHG7viypbuLPkZlZQWCk6Xe1tmEC6_WECVpsaV6--Bg9uSVoPI2DfMb3HOmeXu1rJuOdlf5NAU0D5xq5cMh4XWOLBgUKAZWjmFpfJ78JEYU2lJ7avSwmcn_67RTtbjF_28BBaYWCb8Klg",
+      "markAsReadToken": "YE3Y7YBkuba2pasKgVncBBTAa9XSjZ4o8uJpySZ-nADFUQmgBxdpUoE0NHzNDhFNqy2wKhF5qqcCzbbO92bvcfUo6iKfUia9rmryaDsubjLcOXnJYIh1k0zaqEqPBdhoYp9GTw7uOn-DIah-AGU4w7pt70GHurHIE9Z9DwjccIRNGTIdxzAzhi5L6ggME7n0CpYZyFnQ75MxgnaOXrGrmw",
+      "text": "影片上你是點進去就沒有燈具的資訊了，不過審核那邊是顯示你們把原本的燈具刪掉新增燈具"
+    },
+    "webhookEventId": "01M74XB8JH3V5QWWH98HJXDDM0",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794387583096,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "162d41c6dddd42b398d640005d689f6d",
+    "mode": "active"
+  }
+}
