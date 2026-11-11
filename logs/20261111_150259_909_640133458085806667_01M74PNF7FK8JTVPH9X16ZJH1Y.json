@@ -1,0 +1,48 @@
+{
+  "EventId": "01M74PNF7FK8JTVPH9X16ZJH1Y",
+  "MessageId": "640133458085806667",
+  "Timestamp": "2026-11-11T07:02:57.984Z",
+  "ReceivedTime": "2026-11-11T07:02:59.909Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Ubbaa1336273d3a58e330e446818dad40",
+  "DisplayName": "黃遵哲(小璋)",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan 同一組帳密可以同時登入嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640133458085806667",
+      "quoteToken": "LPRUM_U988QXudB3QeLs7DGMQ2fClGIbwCZXDPaK9XUkGhGC9343RuBjjebzl8hdUzrrSsoGwmGnH2ii-tUx_0XQcnl5ki019NdOsWVLm5s31rw53aUzB5a-lFpEoCe03lb44KN664X8bdbX6v_5QQ",
+      "markAsReadToken": "2926spHa3cA0EAVfKL88D--kS1T7zfSaKv1qTj6oXVPwBhQ87QP02QcPJPRISWrrUco7YYjjYEi4J9Tf3IwN9nF7mvDO-K26IHApLTgh2UpwS8ZgFrKpY-3gHADh0fV8hUZkd8CvkQfQsHsxPP5fALHvW6wJA_kbx9Tugm8UWG9RXom15guursfu12oxDOgMPoA3iwVVu7eSUT0u8bOf2w",
+      "text": "@林郁翔 Alan 同一組帳密可以同時登入嗎",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M74PNF7FK8JTVPH9X16ZJH1Y",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794380577984,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Ubbaa1336273d3a58e330e446818dad40"
+    },
+    "replyToken": "09347d7e18404171a616b3a2a88e8896",
+    "mode": "active"
+  }
+}
