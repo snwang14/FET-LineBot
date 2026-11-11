@@ -1,0 +1,37 @@
+{
+  "EventId": "01M74WSWWN4AEZHT9G0JQQJ616",
+  "MessageId": "640144256320930142",
+  "Timestamp": "2026-11-11T08:50:14.061Z",
+  "ReceivedTime": "2026-11-11T08:50:15.388Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "這是第一次遇到嗎？\n還是其他帳號或手機最近兩周也有相同的狀況發生",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640144256320930142",
+      "quoteToken": "5cBaJPNQX5-ueOo2z2t6-_2adrGGCk06t1jfWwtirkB1O-pQF7m1_SVvpcWQzCZEiDAYtpV0aJ7iSv_Fe4hYiUuP-zzGf0jCtbEzp0qDwNHQym_6ob6Vvie7z_HXb8BDG9DfIK3IXY9TkbQQH23-Vg",
+      "markAsReadToken": "5rm7-dFS2UwNDXn-g-vJch0rZRZZlDI_9eSAYGyttOZ-355xdsCVeVNWQAc-aFSrGMSv-wq8nAEp0aXidLPn6Fe58oAEmXOaYCM3qV2OVuFxnrfus-Yjw53vabKEs769ArJHmQn41qT9qnMHtPHgcxTSsMUirXUoZEUnUzGL_ZBH7mnyBO64ypconNTlOPQXasUybbj2-1MTAKqJIT6OJQ",
+      "text": "這是第一次遇到嗎？\n還是其他帳號或手機最近兩周也有相同的狀況發生"
+    },
+    "webhookEventId": "01M74WSWWN4AEZHT9G0JQQJ616",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794387014061,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "b550b3fb00f144419cf636e36f07b461",
+    "mode": "active"
+  }
+}
