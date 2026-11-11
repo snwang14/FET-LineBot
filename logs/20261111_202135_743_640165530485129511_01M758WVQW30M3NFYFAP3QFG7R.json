@@ -1,0 +1,38 @@
+{
+  "EventId": "01M758WVQW30M3NFYFAP3QFG7R",
+  "MessageId": "640165530485129511",
+  "Timestamp": "2026-11-11T12:21:34.461Z",
+  "ReceivedTime": "2026-11-11T12:21:35.743Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "明早廠驗 你們先開喔",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640165530485129511",
+      "quotedMessageId": "640151927267000339",
+      "quoteToken": "k29PTvpuojetd0Bu6Yx0t3ezTZsUof432BQfkxMse7E2NcwhnbfCem_HNTqMAy_KJmArc_7uQ5qE9_yurvrJToSXGauLOj83sA1A41kLsPyokuUCPq3F37jgvtwki-scZwjfvE0Xx4peYlFpYkJG6Q",
+      "markAsReadToken": "itL5HuLzJxYe2ZWQdiYyPz1W931vNZCIRi-UAA8dNntv0B3T_swiGtnMi_maCTX954DMUv6jc-hOJoOCq7rwg_P8RnQVfdIoqO5sqUSVBeESRxArS4zmrDjrSYp6ukA8xT0HVGcCYHPpA44hQ9wfyLeenZUIOiuPrTv_WrkkLZb9yFGyThi2fQVS4XAh139HiKemxyD_6p3PMFDYSdF4yA",
+      "text": "明早廠驗 你們先開喔"
+    },
+    "webhookEventId": "01M758WVQW30M3NFYFAP3QFG7R",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794399694461,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "4f002fa6ae74434f93355b9003975a42",
+    "mode": "active"
+  }
+}
