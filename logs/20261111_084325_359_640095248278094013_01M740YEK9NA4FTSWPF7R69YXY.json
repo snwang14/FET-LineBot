@@ -1,0 +1,48 @@
+{
+  "EventId": "01M740YEK9NA4FTSWPF7R69YXY",
+  "MessageId": "640095248278094013",
+  "Timestamp": "2026-11-11T00:43:23.123Z",
+  "ReceivedTime": "2026-11-11T00:43:25.359Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@sanjinchen 感謝感謝加班熬夜幫忙生出來。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640095248278094013",
+      "quoteToken": "m-BALoxIfO3DQRlOSFOuGROClNZOz10Br416rKvTg4VPxUOJ83972AG8UajoaQEW71Sd8K_ftwWgPtbsnx_-m76n2S7mpvoYbvZ1IWlpYj_Iupmf91m7IgCLzEGATXXakPVljprdmp7StFlNRaPl8w",
+      "markAsReadToken": "k0RahrsF8w4573PuoL4ayj3C54MggH9o1C2iEgnk0zXNK0jWjKGQw85uuFFrqSYx8UIxSKDyyndnI4J4F5xbaZ3XCbnkvelBrQ5RkGf3lLZHLqsHNYl8gI8eWOdBz2h12Pycy1KEQJdFzVwyaIBJSvHjGf0pesChpLU3M02aA37rzET0vdcy0VE6oTLGAy_wFVT0mK1QDOKU7p6w1di3eg",
+      "text": "@sanjinchen 感謝感謝加班熬夜幫忙生出來。",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 11,
+            "userId": "U375f2b0f385cb715667fe836bb7a29ad",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M740YEK9NA4FTSWPF7R69YXY",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794357803123,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "8e1398fa68f34a64a2f78faff8f261ae",
+    "mode": "active"
+  }
+}
