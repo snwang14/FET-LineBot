@@ -1,0 +1,38 @@
+{
+  "EventId": "01M74XA2DHR84SZMK8MBH13TKQ",
+  "MessageId": "640145145261457722",
+  "Timestamp": "2026-11-11T08:59:04.000Z",
+  "ReceivedTime": "2026-11-11T08:59:05.424Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "因為內勤小姐在後台馬上補進去",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640145145261457722",
+      "quotedMessageId": "640144887009771538",
+      "quoteToken": "49Wv7z66iL8falkfPZSbxJ_YUF9P8GZ5CzTNaVDhMowWl8heYHt2SffE6p5OPqaZBk3FvzSb92dDms3hevBlM6AI1rxKL5kYVOCKc4_NsnN2wLDunbVqVyWLE-lqHbV1Bp9WF2Es5x0kMtkz5CbYrw",
+      "markAsReadToken": "H1isg4dNIERFC__IPsWPCJ0Ci3FD8ZokqqZQn0CuwMNvDmDoUP2vYuYrix9RWHQAissF9ecVSGStxzEBK0tGRPXjikU_HEUQvCYLeOdCVFkBtlp9plAvUIFwsC7430gqv7-UBTBFimgcXVcbTamMx8jYG8eHV7rx7dAUZvbex4LmxwHewmzdZZXPEgonu-uo-awbQd1nGysZkaXrowKdpg",
+      "text": "因為內勤小姐在後台馬上補進去"
+    },
+    "webhookEventId": "01M74XA2DHR84SZMK8MBH13TKQ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794387544000,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "ccadd97075f4415985f6570301429b2a",
+    "mode": "active"
+  }
+}
