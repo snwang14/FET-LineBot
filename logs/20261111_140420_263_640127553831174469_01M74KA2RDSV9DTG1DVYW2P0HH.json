@@ -1,0 +1,48 @@
+{
+  "EventId": "01M74KA2RDSV9DTG1DVYW2P0HH",
+  "MessageId": "640127553831174469",
+  "Timestamp": "2026-11-11T06:04:18.582Z",
+  "ReceivedTime": "2026-11-11T06:04:20.263Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@sanjinchen 資訊局針對提供的檔案有問題，剛剛有mail出來，再麻煩抽空確認一下，謝謝。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640127553831174469",
+      "quoteToken": "ilppVNr0ndA7G3k6VKE_GMx-GvX0-aeQ-2__NwVnUgdwYGWFnYYdDUJq2PMCGDIqoOuIVNbUH_Ewv041N9cvrJR1LMH-pCPid5Q_a-9eQx_zrvSE9-jCsOtl-5N0qVNfvcAKb32UlCDwL1nxfjHkng",
+      "markAsReadToken": "tbXvqubBlaHi2a6LKRjCFoM6D_xGRHrWc7XEEzwEfdjc-qf3w2FDSkfFODCHyV-D-OsjtbSRY2AKA1HdzVKZLk3qQGTafKwvADLVi3F41Lzt3KgXf-_Xn_-4eeW_k2Ga-twYUeq5FzW2olMj6-lP029VoAoh8KyphbuESrJwn-p6FoPgieuyHoC2c_px2uoVzSqWOgiBFZ2Rbg9H7nOwMA",
+      "text": "@sanjinchen 資訊局針對提供的檔案有問題，剛剛有mail出來，再麻煩抽空確認一下，謝謝。",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 11,
+            "userId": "U375f2b0f385cb715667fe836bb7a29ad",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M74KA2RDSV9DTG1DVYW2P0HH",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794377058582,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "3eae144fa78343e585d67d9362d90ac6",
+    "mode": "active"
+  }
+}
