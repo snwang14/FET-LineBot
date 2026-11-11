@@ -1,0 +1,37 @@
+{
+  "EventId": "01M74YPHNVS7KRETQZX0M4JCF2",
+  "MessageId": "640147590809911435",
+  "Timestamp": "2026-11-11T09:23:21.609Z",
+  "ReceivedTime": "2026-11-11T09:23:23.138Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "47841 先不要做～\n我們測試一下",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640147590809911435",
+      "quoteToken": "JFucCBFdCczKjabKHtbbqd53d0_UPnoklfws7_UjJsB5tWWKBs61vvI1j1NZR5pRV_VALmdQmMtMFJttPA-4niQ9d11HObbafchBImtN0IBSFS6KHzjn6yRB7T42tZ93sYjQpnygnqn7eqK8pTzR3Q",
+      "markAsReadToken": "Dn2BOL5gBx9386O2jOsHk5cwf15OJqFQY1vDYi263tldXD8ozvmYVT_pX8LgKfil_22ZvEvNjalq7aCFUpbSs2LASVAJg9Gv_VcBOxqXrFWMlDBguPNgxZRvBx4nGA9-V4BSLhdN1sz6gvnrzqiRIcvTDqER42jT8qhiW1RTtCj2LH0vh6KpBKgwOl_1TgKgUC3DEZ_YlzXjnJcWXbS-vw",
+      "text": "47841 先不要做～\n我們測試一下"
+    },
+    "webhookEventId": "01M74YPHNVS7KRETQZX0M4JCF2",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794389001609,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "70a2b5a7e7ac4f1c9d3adc132fadb2d5",
+    "mode": "active"
+  }
+}
