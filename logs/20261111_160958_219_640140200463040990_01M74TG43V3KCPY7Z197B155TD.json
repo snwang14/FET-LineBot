@@ -1,0 +1,37 @@
+{
+  "EventId": "01M74TG43V3KCPY7Z197B155TD",
+  "MessageId": "640140200463040990",
+  "Timestamp": "2026-11-11T08:09:56.612Z",
+  "ReceivedTime": "2026-11-11T08:09:58.219Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "請問會議開始了嗎？ 沒有人接受我進入會議室",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640140200463040990",
+      "quoteToken": "og_utPNH95TkM01X4lcl_oYb53w6I_r5PBHlR9Z8FjyZe03GhxjZCaDOgmL-QFuqgfOu3bafZ9LqM6eQZMYgSTekrsCk2so3w6ZexCVZ-OQU3AZ-kLYDl6CaH1_9kvqCySVX56FmBGxKHGvW-B115w",
+      "markAsReadToken": "SH3jPdKBPqdHcE2iPitJbAiPw6jZlZKFOJOgtlbw_ITGmhsGa7pT2TiHQwNA0Fu73ihRtpZbm67gp8dxO3G1KIak7LePSAcpbCjL2u4LOgIIvszdRKNB3OVr8sCjXXxtxqsuqd9UQ0xaLiHcQr5XhmaWz7f4Hc-LLf9HBWK5Iznqr_GaGJEye8bUt_q5quOTc4rAcfOvurOX2yjqwl7TlQ",
+      "text": "請問會議開始了嗎？ 沒有人接受我進入會議室"
+    },
+    "webhookEventId": "01M74TG43V3KCPY7Z197B155TD",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794384596612,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "2256014bec9741c69e153f27b9f5ad2b",
+    "mode": "active"
+  }
+}
