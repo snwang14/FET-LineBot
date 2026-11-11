@@ -1,0 +1,37 @@
+{
+  "EventId": "01M74CY5TPEEY6Q5XQMBKHC2XP",
+  "MessageId": "640116344267997204",
+  "Timestamp": "2026-11-11T04:12:57.203Z",
+  "ReceivedTime": "2026-11-11T04:13:10.216Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "Microsoft Teams\n會議\n\n加入:\nhttps://teams.microsoft.com/meet/469521250382874?p=5x73vnFH5Ez22jwa7b\n\n會議識別碼:\n469 521 250 382 874\n\n密碼:\nWL7FC6UV",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640116344267997204",
+      "quoteToken": "n8OhaZyJBFDkB3-CGLZXmTkBzIZfE_WdGZllRVHXgDvNQi9CaheJjrkRFoH53n3tS3_No3H_e3pNI_LtbOObfZzoi5PktElsHMRBzvw9Bm1ui42lQ0sMm4s1B-f6mq91_1QodSXi9XiyxLd4P3cxkg",
+      "markAsReadToken": "maA3nNcNqsLZVcgGy-kTZEEb31Y8aoLRE5e_fBWg2hlFUG7L6sYCzwrfbXGIk4nsSUADwy1XX2f0zUd2mwTd7aUxIeRSoHlWw_bp6n_NmLR55Vutwf0SQr57_0zF-Y1ZO7LKxEZokuDyz4bEwxPwq5ZaSSjfMElWS3k0c_S6MpXyzZMK1fV2J3C2scHs76TxXVRYPa5MwrmEOdomE1NMtA",
+      "text": "Microsoft Teams\n會議\n\n加入:\nhttps://teams.microsoft.com/meet/469521250382874?p=5x73vnFH5Ez22jwa7b\n\n會議識別碼:\n469 521 250 382 874\n\n密碼:\nWL7FC6UV"
+    },
+    "webhookEventId": "01M74CY5TPEEY6Q5XQMBKHC2XP",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794370377203,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "abd2b5d242c94ed9af5c8626ac1870e4",
+    "mode": "active"
+  }
+}
