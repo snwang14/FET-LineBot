@@ -1,0 +1,37 @@
+{
+  "EventId": "01M74VA6CTBH3VH2WVZGNTAN2M",
+  "MessageId": "640141634444460759",
+  "Timestamp": "2026-11-11T08:24:11.286Z",
+  "ReceivedTime": "2026-11-11T08:24:12.096Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "我看點位資料是正常的，我得確認一下是不是舊版本的 bug",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640141634444460759",
+      "quoteToken": "Q_ypvGXWD4UQFkcixizx_755oqxaEYLHWF2bDo-Q2tsIJDgbPA6WhmPogb81xgBdqVHU5pza4jCJ6UX8VwldMaJ1JzJ6lWO6txrufzFezDw3MVhXv2IHRTk0NYmH6FsvkNwhuTDtWwfFQLgUbtHlfw",
+      "markAsReadToken": "ikkB1afXnaU6KefxABrcCid8V72vKPaQi6yMVCk8asw-YdfsO2ULflVKi8ZqdeJN8nbDaqbzgs7pzOVolcFMzaWY729gjGLnhBt5m7WEih0Dk6e5RQxlCdErV3XJZqCowZ6DMPp0Jt7L1udH_ZuGEpZJ_V7j0ObplIjkLtTyydMxOzvghPvvOy48GnI6wO5Y98QBHYDs6m5dnN-8cAPOZA",
+      "text": "我看點位資料是正常的，我得確認一下是不是舊版本的 bug"
+    },
+    "webhookEventId": "01M74VA6CTBH3VH2WVZGNTAN2M",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794385451286,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "13737fa6c85a43d1a76394eb7da64cbc",
+    "mode": "active"
+  }
+}
