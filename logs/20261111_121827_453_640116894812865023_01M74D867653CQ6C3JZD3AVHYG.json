@@ -1,0 +1,37 @@
+{
+  "EventId": "01M74D867653CQ6C3JZD3AVHYG",
+  "MessageId": "640116894812865023",
+  "Timestamp": "2026-11-11T04:18:25.316Z",
+  "ReceivedTime": "2026-11-11T04:18:27.453Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "不是 16:00 嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640116894812865023",
+      "quoteToken": "i2bMNl5WtWpXC4EF-GHIaWuJH1snOXDRKNZuX93JiAOGZFNFLPwyFvKnOfTtsUwoRfzSKoIzxCGfdJakr4UA68V5Ql4ccXlpGigSoFh4SJ6lDJQ1-SgTdOrDcB6T0NKnDrJTVnggLeVT3zFeRVr6Tg",
+      "markAsReadToken": "AEJIqnZ7E6R2fdmf0DLwlFlMmZCyL2dfJ4JjKhB-CRmQLBN15zKkqgr9kfbDFD-NZVcY_VZBadahlnYTd2p8Pvv958v5xdtoaPLNUEx6UURjToOqwtVtRJZBpI10TpL1V94opIKTMEdvr85OpYkQ8o7Wv3J1qMgaFHeaQpFRP-e123fwba9mLwtHb8ZOCj5tqSVpYr8qlopXLtoWpMR3Kg",
+      "text": "不是 16:00 嗎？"
+    },
+    "webhookEventId": "01M74D867653CQ6C3JZD3AVHYG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794370705316,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "b4eb1881c531456ab4e5be2b0f48d9d9",
+    "mode": "active"
+  }
+}
