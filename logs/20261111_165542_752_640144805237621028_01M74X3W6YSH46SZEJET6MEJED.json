@@ -1,0 +1,48 @@
+{
+  "EventId": "01M74X3W6YSH46SZEJET6MEJED",
+  "MessageId": "640144805237621028",
+  "Timestamp": "2026-11-11T08:55:41.296Z",
+  "ReceivedTime": "2026-11-11T08:55:42.752Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@Kai小愷 小愷你們還有遇到可以跟我們說一下點位，然後留給我們測測看嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640144805237621028",
+      "quoteToken": "DboiZnOSWt0iJ2JIB7ug1mSu46bg0YXDgV6cOWsMHo0NcHQs6KQjTNsjKumj8OqqxpIpR0L90CYxpihRJkLqpGOlZtEkLYoNGOgZ_3k5sbHZRmOYUOV6MxW47H5K3Dwwi5rfdBqu65r7NCG0PV8IkQ",
+      "markAsReadToken": "dWdJuGbnx5eKkyZRu9Yf-PMZ1Qf9pDOpc7_Lx_qWbvxdu2Zs7JJ_xCLyaQoYI-TFXZHFs8W6qrQZMmr7fr1K54WhGwXfsBjKl4j6CacIKfagNOykK8eNRImdZwU6Luj8QINWnVEa_iBCBlO1SPCLMaTVnMeQC8ZZRgWEMTfUlpyxTwhFySz9cIdG0m-QGAT8DDBwRqZ6LRAZdrFf62st3A",
+      "text": "@Kai小愷 小愷你們還有遇到可以跟我們說一下點位，然後留給我們測測看嗎",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 6,
+            "userId": "U2389a03efb3d070d6c24ac565496ee6d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M74X3W6YSH46SZEJET6MEJED",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794387341296,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "35587756542c43b98e231a60ee231802",
+    "mode": "active"
+  }
+}
