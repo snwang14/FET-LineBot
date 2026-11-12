@@ -1,0 +1,38 @@
+{
+  "EventId": "01M77NS83K1EFEBNAR35WDC9GR",
+  "MessageId": "640300790849732611",
+  "Timestamp": "2026-11-12T10:45:16.068Z",
+  "ReceivedTime": "2026-11-12T10:45:17.497Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "這樣換錯燈具(不符規劃期程)\n這樣就可以直接抓出來 請工班修正 ",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640300790849732611",
+      "quotedMessageId": "640300628966375495",
+      "quoteToken": "EV3sZLpOdNRHPQWwBgNESfRVRUH4UT_QZ9ikCTKTgSCXeXVeVBn1Tvo7tLht-uVceDTwsSB7We_CE2yJ63LmAGr3yxvc7PZ9uO5qyyCDaP_4VLTS9damyZtpmh6UyfV854V5mwnq5MD_Rpno5VJZkA",
+      "markAsReadToken": "iL38BNgQzbHafv4AiQjbxOsK2trhC3xPiwh5YRnHvFN92S2YH7krvP_Nfr4tSBNo_PCPKmWZLTR6DeZdLryh_a0gCJQeYwb7fi1zk0IOUEhKrLK3aUIlFDK-SNtF0iLDOl8CIpRH3CNaRKpuhuyAL_BV--L6GOxkvnfdZUbO9v7Twe4dd1NkVTQtBPFla-h2rC-Dcw4qEWZL_qQE5c6gdA",
+      "text": "這樣換錯燈具(不符規劃期程)\n這樣就可以直接抓出來 請工班修正 "
+    },
+    "webhookEventId": "01M77NS83K1EFEBNAR35WDC9GR",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794480316068,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "10433305e30a4e40a549c98879b95edd",
+    "mode": "active"
+  }
+}
