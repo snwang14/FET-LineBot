@@ -1,0 +1,37 @@
+{
+  "EventId": "01M77NNVQR4C9AJ7YNNRB74ERZ",
+  "MessageId": "640300604774154480",
+  "Timestamp": "2026-11-12T10:43:25.054Z",
+  "ReceivedTime": "2026-11-12T10:43:26.559Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "有機會加入期程嗎?",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640300604774154480",
+      "quoteToken": "xFR89JFbn0raU0y_LEBCXSkHQhNTOqTojeVr7_zCtDlqhziijQM-r0VINGzHzfB8r6MJtmPn_VwuxCEFRaANoT7ZY3ZnBL-cVlUi-lJAQbB6uA_NwAfzW-w94TkClRK_SOcpJbewmMXFLDPwCzHALQ",
+      "markAsReadToken": "38vk7tq4UMRlr01-4bmptUqkdw0UERbkaAGSi9ICIjmR4NbsjOxjDifBnm8dYi3Z-tVOxleBG4qXscIl8-tZ3EhtDhdnyr-Haf2Bq9v9Us-Sb2I_h_d4hs_l4u_-CPu_khEkxZ8SnhwibGrA0gTC1Y7a5YmWUTYS3gPJyzjKN9QqJCL-PSYZnl8Y-LAMsBrshZE9EpCUKiw3HhPftbTGbg",
+      "text": "有機會加入期程嗎?"
+    },
+    "webhookEventId": "01M77NNVQR4C9AJ7YNNRB74ERZ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794480205054,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "b8c2592ede7f440285e0ee406910c180",
+    "mode": "active"
+  }
+}
