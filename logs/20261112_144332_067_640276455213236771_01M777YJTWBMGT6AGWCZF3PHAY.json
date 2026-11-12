@@ -1,0 +1,37 @@
+{
+  "EventId": "01M777YJTWBMGT6AGWCZF3PHAY",
+  "MessageId": "640276455213236771",
+  "Timestamp": "2026-11-12T06:43:30.842Z",
+  "ReceivedTime": "2026-11-12T06:43:32.067Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "此狀況已經排入優先修復的期程，完成後會再盡速通知大家，造成不方便非常不好意思，\n也請各位工班師傅記得更新今天早上的 APP，謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640276455213236771",
+      "quoteToken": "p4mRpY7X4XjiXO508C7qiFVGj8yYdZ2QnD2BLP3174rJ4JSJIWkb4UnY7ZeMMUg7vmiVax1WthEjerE3Mi1Rb4yFF8h9BHT3LPG5w0iAf-6nLv1_KqOlubZoFsnm9Z4Cj3uy87taTJ3UkLMoqVM-6Q",
+      "markAsReadToken": "6fY23TFF_izWVsyPUMaBVr5xxha0BcahFwXLsoxNSJtJqwP7sclaBc5ZUQCQKG9yYNNpPp5drXNDhthuuPtVaz8TX35ud4XiYT40R_2zsGL9C298zufgnmRog4C7nKD7C21beZmMfX60OXqBKMPf0hApg9fdpquRRM-C7duVKUlRBn5pt5ZMAbcb7eKeNSOHR7evDYLo_ZCEyDaELT5Tew",
+      "text": "此狀況已經排入優先修復的期程，完成後會再盡速通知大家，造成不方便非常不好意思，\n也請各位工班師傅記得更新今天早上的 APP，謝謝"
+    },
+    "webhookEventId": "01M777YJTWBMGT6AGWCZF3PHAY",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794465810842,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "3ada3b9484d44f9f8fd628a1ca1adf43",
+    "mode": "active"
+  }
+}
