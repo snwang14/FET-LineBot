@@ -1,0 +1,37 @@
+{
+  "EventId": "01M77NSGCJRHKBQNBTZ21PKGM5",
+  "MessageId": "640300805479727160",
+  "Timestamp": "2026-11-12T10:45:24.656Z",
+  "ReceivedTime": "2026-11-12T10:45:25.709Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "你是指標示出這個點位是屬於哪期的燈具嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640300805479727160",
+      "quoteToken": "IZVORnGkUrxSYbmE3Gh9jlFkvTLVEi5BVFZcpRlZNZJJ5UFdOBBsvZ4s4zWrK8D9vEIC1jqcp3-Jt0DuTvjF3SUIoGziZ-9dIAbfss-SPtQC7_H8hp1xTvFzmQxJXxBrxAidOngXLYjPkJuX7lPMoQ",
+      "markAsReadToken": "ffkpJVFmqPWR_PbhNFMtCrUOsSRj7ZD-r1fPR4M8Jp2AwakbW7gIVmtI-PDRemOqI33g_C3THRruwnHlMdQD5kQ4KGImh6bw_ezBUa4Iu7_1L03ucmCC1nOr2Lc4MzweD7Er8k6XZJqBShjArYd2vWPE5wgOLOL8SUFvp9w346hFcp4Gmj1qk3rJW7EF-ea_1oSThPev-E1O2NzWzaWj2Q",
+      "text": "你是指標示出這個點位是屬於哪期的燈具嗎？"
+    },
+    "webhookEventId": "01M77NSGCJRHKBQNBTZ21PKGM5",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794480324656,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "041db60cd8774ecc8592698bbb24e670",
+    "mode": "active"
+  }
+}
