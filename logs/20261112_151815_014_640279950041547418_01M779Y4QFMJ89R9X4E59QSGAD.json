@@ -1,0 +1,55 @@
+{
+  "EventId": "01M779Y4QFMJ89R9X4E59QSGAD",
+  "MessageId": "640279950041547418",
+  "Timestamp": "2026-11-12T07:18:13.898Z",
+  "ReceivedTime": "2026-11-12T07:18:15.014Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U45bb65710085fd8da690900d4545a7f6",
+  "DisplayName": "王志文",
+  "MessageType": "text",
+  "MessageText": "@Michelle Pan @林郁翔 Alan 也同步跟你們要一下，要用 api 介接方式把 Line 上面的報修內容打進你們報修介面的話，你們的欄位有哪些？必填跟選填",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640279950041547418",
+      "quoteToken": "sHQfJX5veEjOJrQVau0bHiQ3-LcBUqtW_y_Y99tHp6v6R41B1JdgG6xrno4yJ78CZeWUx0LcrhuxU5V3DGu6_vxRPBTzyUpbDxe-zbHy48YMNEld3y33rhguowyRy56CC19O6szuycXyyTm8nNa32A",
+      "markAsReadToken": "sN56w7SbSa9dnxPuSlRVgPMjOXrV1zN6FlQ-_GDs49a-J0PE5HxaAwnW0cC1wEDXUFWu7V7ZD5mvRY1P9XnxSlEOpaVMwHFYE26YgnSLw3dn6kusz094SlLbHKKwSocjP8TVDUByfkQaTH-aBfLWjl07CuiBQUURC_odq9Ts4dgI8wJn3S_vlwZtGamSlRslq3gn02_0ZIxkwps2iY3ocg",
+      "text": "@Michelle Pan @林郁翔 Alan 也同步跟你們要一下，要用 api 介接方式把 Line 上面的報修內容打進你們報修介面的話，你們的欄位有哪些？必填跟選填",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 14,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M779Y4QFMJ89R9X4E59QSGAD",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794467893898,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U45bb65710085fd8da690900d4545a7f6"
+    },
+    "replyToken": "57a69cff7d48409995c347231a34bffb",
+    "mode": "active"
+  }
+}
