@@ -1,0 +1,37 @@
+{
+  "EventId": "01M77PFB89Z8029SAYK1ZP0Y5N",
+  "MessageId": "640302005889532097",
+  "Timestamp": "2026-11-12T10:57:20.287Z",
+  "ReceivedTime": "2026-11-12T10:57:21.753Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "這些文字內容需要呈現嗎？\n平台直接判我們失敗，本來機關跟監造可能都沒注意到，這樣寫剛好讓他們直接判定\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640302005889532097",
+      "quoteToken": "qJhM08XITa1oMpkYyuGd73sVJ5f3r0q2bVPKlo28vE3wGWsMJLAN2EcznoHUq8JaAE_qvfk0Cntv62DloWdQ2zDArLvDLEtAkVoZyYnvT6ZIiIz_iHTDOUY28dKVWJfhwjGKHoTicqeoJSYJ9kcHeA",
+      "markAsReadToken": "LHe1F7nLhi9Kd_Doiws3QyG181TA2RghqQOawggEDZgzw61dj7LnfNPvYChT-dR2xBahAUb2JB9aroa0Lg095EKwAfOpAXKSJXWZxx6KVvdxIYJPUV16D-cSBII806QUmtnCfc0KHVJl4F6Wc_4GSs5Hr-PAt76_rPf26PALa68heM7KNvOEYLBRfApIJLh3Bp-X5IW6VtwQLm_YN-RNCQ",
+      "text": "這些文字內容需要呈現嗎？\n平台直接判我們失敗，本來機關跟監造可能都沒注意到，這樣寫剛好讓他們直接判定\n"
+    },
+    "webhookEventId": "01M77PFB89Z8029SAYK1ZP0Y5N",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794481040287,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "e41415ff4d30467d85e6a120c63a86e7",
+    "mode": "active"
+  }
+}
