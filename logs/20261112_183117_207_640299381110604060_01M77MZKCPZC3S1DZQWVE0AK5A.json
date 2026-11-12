@@ -1,0 +1,37 @@
+{
+  "EventId": "01M77MZKCPZC3S1DZQWVE0AK5A",
+  "MessageId": "640299381110604060",
+  "Timestamp": "2026-11-12T10:31:15.723Z",
+  "ReceivedTime": "2026-11-12T10:31:17.207Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "審核通過代表燈具已經被使用，系統在輸入燈具的時候就會擋著，這就是提前防止的機制",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640299381110604060",
+      "quoteToken": "8uS8rvZWXpn54M60PC4a-LFzaHSIIGOEkUlFuUgDprP81kMmpOHzZ0kAX-hpS1xxFV-cD9740GxNNEDjXaDa3YbSPmvDUAyix48bLkxIAXSnAxd1C9l1BJRPFRqy3KrGfXDKnb53KG4gykaEeu_-kQ",
+      "markAsReadToken": "9M9JA7ySiSIqi4gzOX4XsMJjbFt8qhwdkuttT-SwsBL9cF3cjkZiHww-XVpm8zcIX1QvwCwxHFbfPSFXRn78K3a-IzXGJEFnTUa_QXvmjzwQhW2_rgQTTWlLb4kV8k-u-wK83_vG4vsWhtDxzF0GjvkGdWh41KPjA9AUt6BXGUhTD6MqiMdvgT1o7g9QIjmmGBS7cd6UULm6nMCyYjIiBg",
+      "text": "審核通過代表燈具已經被使用，系統在輸入燈具的時候就會擋著，這就是提前防止的機制"
+    },
+    "webhookEventId": "01M77MZKCPZC3S1DZQWVE0AK5A",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794479475723,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "55c5cb2c3b864cf7a1ab3ef95ed93444",
+    "mode": "active"
+  }
+}
