@@ -1,0 +1,37 @@
+{
+  "EventId": "01M77NW35FQB9E819XQFGR3S3V",
+  "MessageId": "640300947666894884",
+  "Timestamp": "2026-11-12T10:46:49.453Z",
+  "ReceivedTime": "2026-11-12T10:46:50.649Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "收回 這個不需要~ 太多機關優先換裝\n謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640300947666894884",
+      "quoteToken": "UHxyHNdIhThxraW_3osGHQ9e4oB35PgOGUrxvEB6a6X5tnNGtmvGrKzhEFJYr2ciHaUP9mci5SszTH96LlVxFZ7d0DR_AuEwMiW_pXNqeIMe6gvztTkl5HFjJIGrXoRlHwl-2F5BH2xlK8X-foxdlQ",
+      "markAsReadToken": "xN33CorhG2VXOE-HOF18JoodvbTLiUVtgn89UjxsV0IRHG3iECXgwpGuyPFLXOWt75ikxg0o4QsrLXnIO8Zyrq2jnuPaQMflUdipLD9ud1gvPrviHJVmBNvf-WHioahbB01dK1u4T656x0PV8ljwu-3sIbUOaoyzl9ifDq-FkL9KQvuB3Th7GiuOp40i3UFDhlK5KQQGEjCfUzwRdnLlDg",
+      "text": "收回 這個不需要~ 太多機關優先換裝\n謝謝"
+    },
+    "webhookEventId": "01M77NW35FQB9E819XQFGR3S3V",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794480409453,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "7459704207c34a32af2d7f2bb176e61b",
+    "mode": "active"
+  }
+}
