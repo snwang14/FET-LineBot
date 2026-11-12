@@ -1,0 +1,40 @@
+{
+  "EventId": "01M778XWDFV7RQQ53DHAS09P3G",
+  "MessageId": "640278175850431228",
+  "Timestamp": "2026-11-12T07:00:36.817Z",
+  "ReceivedTime": "2026-11-12T07:00:37.976Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U45bb65710085fd8da690900d4545a7f6",
+  "DisplayName": "王志文",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "640278175850431228",
+      "markAsReadToken": "Tcanh0FnbkZTBgEJsCBZiHCSITRCNTX8t3KafnK8nW2kKs0oPdnnlZt9Spflv-K5eBoBKkFJ3Jhzsnb9MpEj9LFq_o5RPM1zITWUWzpSAVY7SNq0w7-jprvA2bzE-PHhJFe3GNOrefc0imN7LunvtkXUSvBdoy4zGQYyH_4QeRDcgONaxKP7I9kLmucNnSzhJfK5Gfjgrp7XaLAj_rwIdw",
+      "fileName": "維修案件匯出.xlsx",
+      "fileSize": 1625703,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M778XWDFV7RQQ53DHAS09P3G",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794466836817,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U45bb65710085fd8da690900d4545a7f6"
+    },
+    "replyToken": "6fc16b082d614df58f3ce7c5ab19e120",
+    "mode": "active"
+  }
+}
