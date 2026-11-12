@@ -1,0 +1,40 @@
+{
+  "EventId": "01M7793SXDE5RGQJ4SYB6154J0",
+  "MessageId": "640278501765415134",
+  "Timestamp": "2026-11-12T07:03:50.719Z",
+  "ReceivedTime": "2026-11-12T07:03:52.029Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U45bb65710085fd8da690900d4545a7f6",
+  "DisplayName": "王志文",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "640278501765415134",
+      "markAsReadToken": "6uYarEJYzdMEN_KTeA5Txl1wN1z-xcOsmnU16LbxfaYuUzUkFjh-YArthZKlFAn7g_RhsX2ePADcCQv5VUTjSMBeQ0NHLUs6VRIMsG-_p3UL23WxMiUTwM2dItJdBzkEvc3V30IfEzed_hzj4518MdROhKWz_PYa_bpyf2UFbheXqbL8j_aVfnvGaeJFaV9oVZeq1JxpQQWn_OX6rpJyoQ",
+      "fileName": "預警維護儀表板_互動原型_20261103.h",
+      "fileSize": 122320,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M7793SXDE5RGQJ4SYB6154J0",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794467030719,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U45bb65710085fd8da690900d4545a7f6"
+    },
+    "replyToken": "e58d1700424242d6a504bcfee8958cd3",
+    "mode": "active"
+  }
+}
