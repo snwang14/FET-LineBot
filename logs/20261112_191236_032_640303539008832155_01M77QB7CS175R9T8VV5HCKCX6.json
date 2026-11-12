@@ -1,0 +1,38 @@
+{
+  "EventId": "01M77QB7CS175R9T8VV5HCKCX6",
+  "MessageId": "640303539008832155",
+  "Timestamp": "2026-11-12T11:12:34.047Z",
+  "ReceivedTime": "2026-11-12T11:12:36.032Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "後來調整網路跟重啟broker之後有順利完成150連線 \n但之後都差個一兩顆沒上線\n不過整個速度連線狀態比早上好很多 20盞調燈的部分都順利沒問題\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640303539008832155",
+      "quotedMessageId": "640301301616083717",
+      "quoteToken": "S2UVR4o62DxCtIK9nkfhuIamDxybkBXL-WDE-p-WED5txEeLOuSqjB-pogwC5cedTw8F7EgOyck8Ju3EpNucF896NlFVCXoJ9yHTCHZcMd7wtrPTEIZkbIeKrOAwHXS8l9IdkDdg6pSsXKJBzS-iNA",
+      "markAsReadToken": "viwWQqWUxuk2XA_qVWQ3grUV8ceNDU-ESbTN-go3mmBFh6dGn8y2zo-4LoLXjNLZIdf-iwvpkaXZuXe8b3aI_bmJzV6gBWx468o1kQs3j15ytJS-LaJ4LK-O95xxBc7fjZYda-PfZgEjpBwrjnHODMXFMY58K9BYzTjkbD4UaGEXlASyGNqCEZoi5YJZoNqcH2McDaYCJ2zM2CmXk_TkcA",
+      "text": "後來調整網路跟重啟broker之後有順利完成150連線 \n但之後都差個一兩顆沒上線\n不過整個速度連線狀態比早上好很多 20盞調燈的部分都順利沒問題\n"
+    },
+    "webhookEventId": "01M77QB7CS175R9T8VV5HCKCX6",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794481954047,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "7448de4fb9e84030a7c9cd20b6c5f361",
+    "mode": "active"
+  }
+}
