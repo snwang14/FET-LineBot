@@ -1,0 +1,46 @@
+{
+  "EventId": "01M777WT7N6MWFTVQ3H8SC89X5",
+  "MessageId": "640276357871829218",
+  "Timestamp": "2026-11-12T06:42:32.884Z",
+  "ReceivedTime": "2026-11-12T06:42:34.162Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@All 另外，現在換裝會偶發遇到點位內沒有顯示燈具資訊的狀況，先請億光的內業同仁如果同一張換裝單遇到要追加點位的狀況，先開另一張單，不要加在同一張換裝單內。\n如果南北區工班仍有遇到進入點位看不到燈具資訊卡的情況，請先按下「儲存」，再重新進入點位內即會顯示正常。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640276357871829218",
+      "quoteToken": "gsO9vNEW2zISbJnJ2f3Rz4CMq1KojC2Wj6EvNKYevohi3GBWYCOuSBoLmduTxX2AE3pCAOx7mRvmYX3YTx5QDF0qYWsmuaUS30Um2McfnHcavg1gJGIHIzFIVzdHaII5K2tNv_Lrfmkphw3isZDINQ",
+      "markAsReadToken": "7Lqof4xLenQAGWk1etmcdYFhYtKgw0vT9gum_Dbd_saj-R31K44HOvqok8WP36RFxjZzkNvH139JuIoaeTr9Ap556hRqt_i5Z9lYP9_mKymKlAGNN4E6S2jGF3j8qCaVCZygDWNpQJPULj8fT1uZZtaXp1NJiiP_rdPZfbGG0LHONSaozOtQrHwayGc0lWWHvKuoS99rIpL_0AdgpSz5ig",
+      "text": "@All 另外，現在換裝會偶發遇到點位內沒有顯示燈具資訊的狀況，先請億光的內業同仁如果同一張換裝單遇到要追加點位的狀況，先開另一張單，不要加在同一張換裝單內。\n如果南北區工班仍有遇到進入點位看不到燈具資訊卡的情況，請先按下「儲存」，再重新進入點位內即會顯示正常。",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M777WT7N6MWFTVQ3H8SC89X5",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794465752884,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "eee52d9c92064940b88a7d04ad64d3e6",
+    "mode": "active"
+  }
+}
