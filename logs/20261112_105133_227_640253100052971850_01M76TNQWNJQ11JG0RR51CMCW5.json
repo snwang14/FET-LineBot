@@ -1,0 +1,37 @@
+{
+  "EventId": "01M76TNQWNJQ11JG0RR51CMCW5",
+  "MessageId": "640253100052971850",
+  "Timestamp": "2026-11-12T02:51:29.998Z",
+  "ReceivedTime": "2026-11-12T02:51:33.227Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "這邊是稍後的會議連結，不過我們會議還在進行，可能要稍等我們一下子\nmeet.google.com/fta-aegd-bsz",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640253100052971850",
+      "quoteToken": "pyijz385cORGBCixoyjnZ-uxFDX1xL7VotgUftJaIEZoDr0QhvrgPsuI8p7mCXOcKRaqptHCqg5LZdNIb0e-ucDz2beStWsB4yKmd6qy9Cq5ZZ-fCUc74GuwUZ6SM9BLLOYtSTT6apPzG3MxC44AXg",
+      "markAsReadToken": "eHCRu8BVtnLpg3RINjgz-31oOwKv_qm-eBxZvsEB1nvRYpRwYYUshNhmIm_5yF5nd-_MIIH61lfhbh4ys7zwR_MCOvcu1NqLCF103BqqUH-p-fEjN2_4gU1Kq0-FOrMf_M0zhNu815X9WiEar48W_ghatn9C45s877N1aKMtXAPs7-hgv03cth9ZvFGihZ3DBcnPHSjX7teql_est2B4oQ",
+      "text": "這邊是稍後的會議連結，不過我們會議還在進行，可能要稍等我們一下子\nmeet.google.com/fta-aegd-bsz"
+    },
+    "webhookEventId": "01M76TNQWNJQ11JG0RR51CMCW5",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794451889998,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "4f05a05dfeaf432cafa64501ddd16f3e",
+    "mode": "active"
+  }
+}
