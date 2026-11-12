@@ -1,0 +1,37 @@
+{
+  "EventId": "01M77MQ605PX7YYAE1QHNR2PMH",
+  "MessageId": "640298918680199567",
+  "Timestamp": "2026-11-12T10:26:40.055Z",
+  "ReceivedTime": "2026-11-12T10:26:41.792Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "這幾張審核都通過了嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640298918680199567",
+      "quoteToken": "ZipI5ofN49fd4njE_afYEtq4MzrrLHcYp0nCd_HsCF0e9oh2GX22zAKsBrKwrG7lZHftzsDi9QCehnxVND3dJP-QnLZQEQR-LyE4hNr5HOTzYajQYTaZJepd1mVv2WziESAw61OnxvFiYnA3stuSbQ",
+      "markAsReadToken": "oFuyGx6Sm-JhDV79oD2A4SYo2pNPzpQvQiGAUbOX9WSPGzLI28dVTNaaCWjXZuSrm303_aVuExF-L_1FCyeX3wiZflDmzzdvdv239ops5JvPY7iOsQGAKXc-r4IuKJPOh1hqKXs1ebEHd8IFJq466bDewTs6vhYvVYj7Z6x_v6kyOen3vv2mjr-xU5ENoyVqlw5N3OjRYCLVUVZe3_TTLA",
+      "text": "這幾張審核都通過了嗎"
+    },
+    "webhookEventId": "01M77MQ605PX7YYAE1QHNR2PMH",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794479200055,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "8ba9faecca8443489d8a32439ca9158b",
+    "mode": "active"
+  }
+}
