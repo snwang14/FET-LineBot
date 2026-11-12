@@ -1,0 +1,46 @@
+{
+  "EventId": "01M76XSJJVMAHHXSP38B8QN86W",
+  "MessageId": "640258587980988502",
+  "Timestamp": "2026-11-12T03:46:01.020Z",
+  "ReceivedTime": "2026-11-12T03:46:03.557Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@All APP 緊急修復更版，修正上傳後燈具序號遺失問題",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640258587980988502",
+      "quoteToken": "nsv5QdIURhORrjWQOQPz8XUq0vPhAWPQ1tFYcfqJeEyPCo7_m9Xdn8bdolXglv49WDrLDv67P011aqKc96WLdzCkmYVJ7t2OA9YM8y4MAmkkV6ged71YQDyDA3w2ZZYET4pAFwsMqOUrGrzGL68B0w",
+      "markAsReadToken": "HEFJcqqj2Y3x42DDtNUMhkPUk6xfJn76tOLFx8Jru9YdOANecxO9Aivat-ysRof2Rhbpn-5NfQNwiX5YJU_mnsuWOTbxxFdAW_LZbS8R9OWuMu2yUv0buCZJm8rK_VEnVKZLRPJRULmpgYhFaUMZ7mzhv3Ja6G7Ax8TEJnhVi29jSBcWtd73cmI6_v5pO7JFtHn7jhr9AtjsotlP7hL1uA",
+      "text": "@All APP 緊急修復更版，修正上傳後燈具序號遺失問題",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M76XSJJVMAHHXSP38B8QN86W",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794455161020,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "61fd0b409d5d4e9088bc687a79ce53d0",
+    "mode": "active"
+  }
+}
