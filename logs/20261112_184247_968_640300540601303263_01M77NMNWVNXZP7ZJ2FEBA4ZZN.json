@@ -1,0 +1,37 @@
+{
+  "EventId": "01M77NMNWVNXZP7ZJ2FEBA4ZZN",
+  "MessageId": "640300540601303263",
+  "Timestamp": "2026-11-12T10:42:46.770Z",
+  "ReceivedTime": "2026-11-12T10:42:47.968Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "目前調整方向會先從加強審核當下的正確性跟便利性為主",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640300540601303263",
+      "quoteToken": "opFRAfsgCSR_JubnIazYe0ffAAWEmMS3GwwpX-XlFfL44yFYM1R87uGdJrYPqtMVq5Pa0CNb86G3310f13-810n4ZMuMgNzzidmefLj-4QVpab0l-x0WfKHwcI1PS1WclNt3Ne55qg_8cNPFaksAaQ",
+      "markAsReadToken": "LIcFyfve_NZ2rJdO13rTXr1P4e9Ma5aZ7rrwbOYvXshRwMkqNl0wpKmH_wVKetdZrmYw55tbp6z-Y5VdUOJKQfuY2QdF9gej3lol5ylean30sIuBdODXtp6LMSGbPDJIaSjlYNJEdscqSYOzL6akCq7GXQj-FMdKp87lxg-Zce6LI0z3odnafTes58Rppuc4VNrKjGEMSLNb4vFrQiDDfg",
+      "text": "目前調整方向會先從加強審核當下的正確性跟便利性為主"
+    },
+    "webhookEventId": "01M77NMNWVNXZP7ZJ2FEBA4ZZN",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794480166770,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "aca22f58a7944df494b2f06f52097040",
+    "mode": "active"
+  }
+}
