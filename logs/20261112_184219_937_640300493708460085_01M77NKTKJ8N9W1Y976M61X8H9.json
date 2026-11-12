@@ -1,0 +1,37 @@
+{
+  "EventId": "01M77NKTKJ8N9W1Y976M61X8H9",
+  "MessageId": "640300493708460085",
+  "Timestamp": "2026-11-12T10:42:18.846Z",
+  "ReceivedTime": "2026-11-12T10:42:19.937Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "工班作業疏失貼同一張",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640300493708460085",
+      "quoteToken": "M6RxKFVwvobzrU1R9bkBhuXQAIvpwlSEtfDdZ4XDuvMtjkrGBUKVw1CLcyXSTJT-w-Gd1HymehEzbFOXI5HTexBJxjstRIUnPx-C_-tfDJvY11tUuo2CfoFCmyS1etRZ19YhIfpAx5lNzSlyHbaPuw",
+      "markAsReadToken": "vehCeenFO0rm7276MH-MX5wr9FOWRMDWXT0O4mGeWV8yPNrMTPm-JwO0nIKQchgEgoKVXPHj7KEd2tBmEUhyHy8Q90UEh8hqEEWkUBJ6_h91JdtXYv_IJEo1f10IPxF97q5t4CPF51c5OafufkCVCW79gKrzdLzlebAzyaX6dXGuSc1r5-2IpNHqx1cNBurp6WYQET5yFu5_3t3gtuCW4Q",
+      "text": "工班作業疏失貼同一張"
+    },
+    "webhookEventId": "01M77NKTKJ8N9W1Y976M61X8H9",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794480138846,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "e670864afddb4f1d9b5697e676f00700",
+    "mode": "active"
+  }
+}
