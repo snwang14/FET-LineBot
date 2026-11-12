@@ -1,0 +1,38 @@
+{
+  "EventId": "01M77NKANRTP2ZGXBR4N4RQDMY",
+  "MessageId": "640300465624187476",
+  "Timestamp": "2026-11-12T10:42:02.047Z",
+  "ReceivedTime": "2026-11-12T10:42:03.527Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "好喔 剛看到 已經更新燈具&智控器欄位\n謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640300465624187476",
+      "quotedMessageId": "640300179790233881",
+      "quoteToken": "H8gqpwPxRNwZmT3WL892Kp6u4VwOXSLhqympmsrbJV6dxfvBwE0y5aG-wh73W6IlakicefaajyXRsH-u_StjWOQgFFxniHaDo5fkWgvAprOTjZuQRkazq3st_SAasson1fq-OsVsmCoKnUDM_WFJeg",
+      "markAsReadToken": "sV2pY6CH3HTDn2eZQtARj7m1gYiSY6T-mVWtzK5hqbNq2WTBKdZrLTU1tDTogAereY4XukgdKJ2LH00ni3IiQY5TlcyKqUlawfZ9Cgi7R5IbNf0IFHSgvzerJu4jT-TMWJdhBcW80BUQZANdf47wQQDl0yQWPT6L6mcu6fex4BQ-uGg2SgaPtXYcrv_N0AotK3dg_t8IMFkq6DYkvwf6BQ",
+      "text": "好喔 剛看到 已經更新燈具&智控器欄位\n謝謝"
+    },
+    "webhookEventId": "01M77NKANRTP2ZGXBR4N4RQDMY",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794480122047,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "4fda9a2c09104f0f8611275e86ea1f28",
+    "mode": "active"
+  }
+}
