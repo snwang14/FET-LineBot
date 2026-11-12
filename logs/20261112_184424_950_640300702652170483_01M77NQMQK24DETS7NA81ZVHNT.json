@@ -1,0 +1,37 @@
+{
+  "EventId": "01M77NQMQK24DETS7NA81ZVHNT",
+  "MessageId": "640300702652170483",
+  "Timestamp": "2026-11-12T10:44:23.419Z",
+  "ReceivedTime": "2026-11-12T10:44:24.950Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "因為「裝置被使用，才進行防呆」，這個機制本身是沒問題的，不然會造成內業填錯影響到現場工班操作",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640300702652170483",
+      "quoteToken": "dIvkyUv2ViwF5lPvSV9WcQZ13Z5T1hpO69aocIojEcYjD8yzjQHIXm19XGvzWkE7k0prZtu6HjUqaiMfIxpExi0v3eJvsBOqUzvZc2vQCt6JiwvGCoElrcYcIqDKUPqnofliqw3BNAcpGG4ZqmlSKA",
+      "markAsReadToken": "tYnbgzORcDpYaWo2ZHyzow4s5RJk2X2pOqFM3dkNUQD-YNKjh28GqMN306PumYSX2QAW0n6pu3gDCtqTTwCE-Ssj83tWYDEh3mahFI5SOU0VMD04tHsDmE0JTQdFLC2Y67M9IJjK416Dri3kjSf5QL-hY2SJ_55AKa6ap3GAHCVXhvq8DUncmbVg7JHZNi7EwwsXWJIcdTum0jCN2frtyA",
+      "text": "因為「裝置被使用，才進行防呆」，這個機制本身是沒問題的，不然會造成內業填錯影響到現場工班操作"
+    },
+    "webhookEventId": "01M77NQMQK24DETS7NA81ZVHNT",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794480263419,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "1294f8a6f0c2408d9ca4ceecc9b7965a",
+    "mode": "active"
+  }
+}
