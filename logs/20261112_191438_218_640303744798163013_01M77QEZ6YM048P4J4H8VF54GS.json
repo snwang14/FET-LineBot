@@ -1,0 +1,37 @@
+{
+  "EventId": "01M77QEZ6YM048P4J4H8VF54GS",
+  "MessageId": "640303744798163013",
+  "Timestamp": "2026-11-12T11:14:36.578Z",
+  "ReceivedTime": "2026-11-12T11:14:38.218Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "我們有把沒連上線的那幾顆提供給NT確認 \n也有在請思納捷他們去優化平台 把沒必要的步驟直接取消\n下週一二看再約哪天再過去",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640303744798163013",
+      "quoteToken": "raGCsvFJ6BBnE9h7LaPUeTxrjbV4RhIK13d90UuYFgRPhznGof_OHzxtrn8hSfrF-ClnFbp-zrhWUzW7hCVUpBLbOo2OBZw64RjAw_fU4KOMLq17Nay1iqQtqFQEYpaO614XyVFlFfwtuIIhus9Lcw",
+      "markAsReadToken": "bb8Cd_mTt0YuCPu2qae-eB6H1nQ9j0GryIrlHUzSRpvi_FsbP8gbWMf45EuXZJyJ6fzxzKp7rWoLYoqyu0LonLvCR811eLh7h2YRIHMux1AyKEn5h5HfUlDmtHGzmKUyCWryR_Ja7TFiW3h_ekcWWmA_0IOm5BURtN9HXTG2qmGjtaeeA4Bl8yNNEGnpN5w5oZJVz_aPLehcs-11uwbjhA",
+      "text": "我們有把沒連上線的那幾顆提供給NT確認 \n也有在請思納捷他們去優化平台 把沒必要的步驟直接取消\n下週一二看再約哪天再過去"
+    },
+    "webhookEventId": "01M77QEZ6YM048P4J4H8VF54GS",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794482076578,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "9f39f8ccddd445ec8f18467a70932226",
+    "mode": "active"
+  }
+}
