@@ -1,0 +1,48 @@
+{
+  "EventId": "01M77MQ7PAYA27H1816WHSEZEF",
+  "MessageId": "640298921582920359",
+  "Timestamp": "2026-11-12T10:26:41.791Z",
+  "ReceivedTime": "2026-11-12T10:26:43.044Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan \nHi\n請問系統不是有設定防呆機制？\n序號不會有重複 ",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640298921582920359",
+      "quoteToken": "0ClGzBHtZZ__6Mlt-RxekS7anET5_6WijFIuM-ODxkbzWttRBV21flkAu5fdGpNhqAOsCcFRHBv9JvmSHsQ8iUF0GjGlMRR7WrVOYN6B0Ym_aUcHV-A5Hf9tjIIBqNGupSXXBrVdIQUKiOm0PF3D9A",
+      "markAsReadToken": "9ESgiQU3D8n-WEELj3dXeO1R0FZCZj12rceieGusqJAlUiKOA7KO6OrelTddCGq3lhMNXc7rW5_ddDr2ABH-79x49p5YU2KPHtyYG4LaqTh5IJsnHo0ofQJXP2ggfkuoFnFWhvOM4FKiWRo7asSluw90NHNHMTmVcX3rJXW9k7KRMxNhlWNWzJeLM8UgKJ2bIsBeh1943UeRg2E-T7unPw",
+      "text": "@林郁翔 Alan \nHi\n請問系統不是有設定防呆機制？\n序號不會有重複 ",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M77MQ7PAYA27H1816WHSEZEF",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794479201791,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "017f8d7bc0484aa195706fab56af267e",
+    "mode": "active"
+  }
+}
