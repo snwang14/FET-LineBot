@@ -1,0 +1,37 @@
+{
+  "EventId": "01M76V8CN74F564YTWKK4VZ884",
+  "MessageId": "640254124738740827",
+  "Timestamp": "2026-11-12T03:01:40.893Z",
+  "ReceivedTime": "2026-11-12T03:01:42.305Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "請問改至 11:30 會方便嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640254124738740827",
+      "quoteToken": "a6XuvOYDwlvO4WzWHrlNDJntVKCnzi88-aIlqowPFSvQJ-7EoxxU7bA7o838OpIGxHCK8wg_OMACDDS-LMH-WNJKySFGg7G6RsHn_AqNXEEhmY6to-C-tekSd3oDpNoOB2Z1PI_sEhWlbI57RtitdA",
+      "markAsReadToken": "-AE9UMKVS55Gr9LSoIUJWUoX6OjMEkdmggBrMEmdqZs9Sf0ZbgasfWSVSrWKGYOcfk5ejKB82xBrlnJj6ZtB2aCKXa3kdbWsN_wE5em1YSlNqMrw_Ukv0ZMNAl23EtYSFYh4rHZnLcECbR_DETwboScgTTKfPI-IPgozQ7-UQ_VEpyVzx2SKbs5KRKekzdeBoXVkOYhjnzBhlc4CpbKh4g",
+      "text": "請問改至 11:30 會方便嗎？"
+    },
+    "webhookEventId": "01M76V8CN74F564YTWKK4VZ884",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794452500893,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "45222898a64745dfb9acf5afe1a2e226",
+    "mode": "active"
+  }
+}
