@@ -1,0 +1,48 @@
+{
+  "EventId": "01M77P2H4NSZT16PCHSX0898ZZ",
+  "MessageId": "640301301616083717",
+  "Timestamp": "2026-11-12T10:50:20.525Z",
+  "ReceivedTime": "2026-11-12T10:50:22.250Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "@Julia Lee 佩玲 請問我們離開後，智控器連線有達標了嗎？\n今天早上測了4次都失敗…這真的要好好改善！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640301301616083717",
+      "quoteToken": "skmOprgfw40F9_p0ArNJOSx1c7nh8N9FrVOauBnSl9EqsAV-mZOFZWVjshVzVLn2pJ4yntpaXin1BmAVgeKz7VEpGl7ZuTHfiQ8JKI6JJi8FBu7PCy19lJjvNQ20b8jNNYAoYoz-JEIJDljea9CWeQ",
+      "markAsReadToken": "EFksfGSGklYgRO6HC1nKIE9fkSnDGSyW5CqCcTNihdiPhvpvP-57EnkanId3m7QO6q145pKfdz5MM2x7uljah5rpA2zjtnNvSyRSjegAo-PjWsEm_M4l-8nZlHtzfjRTpCFp3b4F0mZJBRgfySln_x81R8oJXuekXQgUrlhKA3VCqowJGoYof9b5SHuSVHapkRAh0qf1O8yYT53Da-1bFw",
+      "text": "@Julia Lee 佩玲 請問我們離開後，智控器連線有達標了嗎？\n今天早上測了4次都失敗…這真的要好好改善！",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M77P2H4NSZT16PCHSX0898ZZ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794480620525,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "1a22ec2ec101485488be1bf91527df55",
+    "mode": "active"
+  }
+}
