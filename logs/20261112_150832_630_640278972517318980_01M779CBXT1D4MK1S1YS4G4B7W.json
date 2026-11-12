@@ -1,0 +1,55 @@
+{
+  "EventId": "01M779CBXT1D4MK1S1YS4G4B7W",
+  "MessageId": "640278972517318980",
+  "Timestamp": "2026-11-12T07:08:31.154Z",
+  "ReceivedTime": "2026-11-12T07:08:32.630Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U45bb65710085fd8da690900d4545a7f6",
+  "DisplayName": "王志文",
+  "MessageType": "text",
+  "MessageText": "@Michelle Pan @林郁翔 Alan Hi Michelle, Alan, 上面兩個檔案是早上開會我提到，我用來設計AI創意價值的故障(工單)分析的來源(台中路燈維修案件匯出)，跟目前版本的HTML prototype\n\n因為Line無法傳html檔，所以我把副檔名改成.h，你們下載後改成 .html 就可以了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640278972517318980",
+      "quoteToken": "OlkDeVcz4wKsdzx3zKWoIdPdqgsfkj6M5junHNCZA3mzgGK4vbt8lRNMZ3_lWBt4lS6oAGS0rS8g9dZIra9jjbF4L9OO2Ait8nUvPDsK6A7T4dlNjPj2UqOHu1X7ZzXAp0GdwikjjQYoJQuDMtPljA",
+      "markAsReadToken": "dUwuaMpYloRRXwPiaEXPOeZKFYpWm7SpAwzPtopdfS0VLss8ZSwZJp5rYgtMuzV9npnhi0bm3tRZjIdtfHohw_6j-F18l2o7Ty3h9TMvctd0Z8CrACARs0u4rYnNrebAE1845pSK6tPShteuDRKk7O7RVpZQZG13dge5D7i_eVY7H47nU8wv0lXDjv5J-Ei72bJ5qKx94BVgYI9OGPkyNQ",
+      "text": "@Michelle Pan @林郁翔 Alan Hi Michelle, Alan, 上面兩個檔案是早上開會我提到，我用來設計AI創意價值的故障(工單)分析的來源(台中路燈維修案件匯出)，跟目前版本的HTML prototype\n\n因為Line無法傳html檔，所以我把副檔名改成.h，你們下載後改成 .html 就可以了",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 14,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M779CBXT1D4MK1S1YS4G4B7W",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794467311154,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U45bb65710085fd8da690900d4545a7f6"
+    },
+    "replyToken": "3ff089b214124650bf60ef61a87ca8d5",
+    "mode": "active"
+  }
+}
