@@ -1,0 +1,37 @@
+{
+  "EventId": "01M77MSSYERJVB3BENMN60ZQGS",
+  "MessageId": "640299063015112831",
+  "Timestamp": "2026-11-12T10:28:06.192Z",
+  "ReceivedTime": "2026-11-12T10:28:07.066Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "上次溝通是不是需要提前防止 \n避免工班亂Key",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640299063015112831",
+      "quoteToken": "wnzGM-QvphHCPlDT4MYwBzZ3J1uxsZUrqAy76XWtdVgpDX_QwN7tgbin-MCi_DhhjZOsUbb9UBt-LuY-URR8kOfNE3gYXWuFzsSt5g_q5nsQ0dEF4VObVDusb-51j0vs_hzgG7804YdXgOqyOk27kA",
+      "markAsReadToken": "QssdeXaJ5q4oyvc9nuwJzt5eYJjBHBjrY2g50GgqGRTp5qgtTCXOL33l-DwYahCRkp_Y_Zc-KIGklBNNfQ1TSN5vfkY1LJDzzUi8F4ugdtXWZ042DG817AK7SiD0C8m0OIz3czdzIOOxWyz8Snz4iLdhFPpAAo1Ps_rINzopP9ESlACGLbis4gXZ0q8cTj1oB78fNDuusbUvxr_ZG3Nbpg",
+      "text": "上次溝通是不是需要提前防止 \n避免工班亂Key"
+    },
+    "webhookEventId": "01M77MSSYERJVB3BENMN60ZQGS",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794479286192,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "f3c46ae1cac54b6fa69e2ac0d9128b2b",
+    "mode": "active"
+  }
+}
