@@ -1,0 +1,37 @@
+{
+  "EventId": "01M77NE496KA18HESH5M8MP401",
+  "MessageId": "640300179790233881",
+  "Timestamp": "2026-11-12T10:39:11.782Z",
+  "ReceivedTime": "2026-11-12T10:39:13.183Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "目前已經有加上燈具序號和智控器的序號照，不是應該有辦法核對嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640300179790233881",
+      "quoteToken": "gXxRYGi74tVPl65NlFsS9UStnmk5QbcrtHq6AEtA93_7mn2EMWR6ZKTJdet9dL-0_1ADL5verMzxLadFjXB-d1aQWXWZpTzNcQwjiEbZDPKQuJDlUs9caMhl_Fp4ioqf3GjzHkWYQqJnp1Z4h7Rz3Q",
+      "markAsReadToken": "qbQgI5y9AcZsIrDtyoVhT5r5XEbHDBNz5Rvi3PQ7_K9sK4gST39kkZuX50ynx0AkuiaitoDgO4wCdQLmJSOGLpUHxxVrZC-BtUc1OUX9V6tW5PuKv-Bh6U6VYjccAN_JL4dX4mp8ECfkr9Wl6Rd_DigT7crYlZyETUIolzlORkcq7V5Xo9u-TYEj2DeA7QiLYYenmUzJYHlgaeea3cjUfw",
+      "text": "目前已經有加上燈具序號和智控器的序號照，不是應該有辦法核對嗎"
+    },
+    "webhookEventId": "01M77NE496KA18HESH5M8MP401",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794479951782,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "5cc4a7a353f342c581701688bdeb2d2e",
+    "mode": "active"
+  }
+}
