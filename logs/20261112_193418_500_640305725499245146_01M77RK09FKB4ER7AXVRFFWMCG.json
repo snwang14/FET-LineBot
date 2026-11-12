@@ -1,0 +1,38 @@
+{
+  "EventId": "01M77RK09FKB4ER7AXVRFFWMCG",
+  "MessageId": "640305725499245146",
+  "Timestamp": "2026-11-12T11:34:17.343Z",
+  "ReceivedTime": "2026-11-12T11:34:18.500Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "請問150顆順利連線大概花了多少時間？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640305725499245146",
+      "quotedMessageId": "640303539008832155",
+      "quoteToken": "WQ59NiYPr-XcAK3kPbgx_GEdXw3PjXUYbmSEWRyBC0VGbCE0fqrrTmFwe0c0RbhgGqehrV3y5vqPIPaOHtH2k71AnTh9Yw1ikPK8rRy8flekvMqMOwuE4JgiB4UV3OdhIoshlwTKbbnzjUqEkEYeWA",
+      "markAsReadToken": "UyuqAl0nRbCN8LNZFjGDykrjzb_HA8ldmvAktHIEAdo0luEC2Q0VOHxcP7iHCc-yYR5Riu_bwUvGbm87plPmpuYILN2gd1_tIYXxmEhmJbll3mVOduq8Wo2INo4U5sq_4gsQcUj0QdcA7KASP9Ivv9g5_JdI2iu-eBEYWrbBhDVuiC-kRj4BwYI6NVKIcjUI89dyjW5P64wILw2IfjJFXQ",
+      "text": "請問150顆順利連線大概花了多少時間？"
+    },
+    "webhookEventId": "01M77RK09FKB4ER7AXVRFFWMCG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794483257343,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "18babe3c5d5246e6adbb221b65011c45",
+    "mode": "active"
+  }
+}
