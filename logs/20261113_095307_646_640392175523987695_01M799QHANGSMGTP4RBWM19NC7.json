@@ -1,0 +1,40 @@
+{
+  "EventId": "01M799QHANGSMGTP4RBWM19NC7",
+  "MessageId": "640392175523987695",
+  "Timestamp": "2026-11-13T01:53:05.886Z",
+  "ReceivedTime": "2026-11-13T01:53:07.646Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "640392175523987695",
+      "markAsReadToken": "XepfGat4H4Tm2VfYsFOkDz3Em2hfzDuG6QEvfMplI0UhAABaaG-BDcA1Laz6RcsiN07zJo3QY3R5V5xqL_opAU5sbXM1ejjdKRudC4Dovwl0wFJB0gRoqBKWddHZfRk0FlZTEz8nYEGIv199aYQDUihc5eYLr8YmCzubPQtdhq9EXPqrMvdfLdVlhTEFB0lJiLOvppjKPXHMaB5AQvx2wg",
+      "fileName": "73. 11-智能路燈及平台測試驗證辦法-1150408.odt",
+      "fileSize": 385872,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M799QHANGSMGTP4RBWM19NC7",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794534785886,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "6c53f1f6fcbe467ba577bc5eb370ea12",
+    "mode": "active"
+  }
+}
