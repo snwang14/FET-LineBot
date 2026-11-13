@@ -1,0 +1,48 @@
+{
+  "EventId": "01M7978HM7N2EG7G0KGFEG912V",
+  "MessageId": "640387833798590584",
+  "Timestamp": "2026-11-13T01:09:57.530Z",
+  "ReceivedTime": "2026-11-13T01:09:59.577Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "@Julia Lee 佩玲 請問下一次的模擬廠驗安排什麼時候？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640387833798590584",
+      "quoteToken": "fNg9caVtwtS59j0P04qx5P7WRVOxA65aJFI1CKYxUC8gJuCZl-rkyThVoX9z1UayMULtIfNytbVAntXvsMPQymjXTq6On1B3TYoiXgJ66iKMlJGH8fZPIRQK3fYTGfwjid-0B9LdwvVPj4ZBaxP0Wg",
+      "markAsReadToken": "oCUKEO3xlV27LkQngXvU2ivp6zZN7zkO5BrOdIRXQhZ_itcRUoszuFjDSmQfwtXBOlAoB5XiMUWRB54GPsMc0SZ0u7TmSwJ2NHk989CHowOLyjy6o9mdnSDOV-KoOTyBetlqo5qr_xH7K2gQoSs7cnzqF0KYq37ygkBi4rqcPNFnED5Lb10t8maioYkZt5zedFvDa1ZRJUQ3QgoP7Pa4eA",
+      "text": "@Julia Lee 佩玲 請問下一次的模擬廠驗安排什麼時候？",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7978HM7N2EG7G0KGFEG912V",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794532197530,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "ac1585f569744369a302f8812e056a82",
+    "mode": "active"
+  }
+}
