@@ -1,0 +1,48 @@
+{
+  "EventId": "01M798C4P15MTQ15VYG7EDZ6GE",
+  "MessageId": "640389790860837018",
+  "Timestamp": "2026-11-13T01:29:24.029Z",
+  "ReceivedTime": "2026-11-13T01:29:25.623Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "@Julia Lee 佩玲 \nHI 台達光林 廠驗儀表版設計照片請參考一下",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640389790860837018",
+      "quoteToken": "nCaDRyMaW8xUkg7dqRQLyzbumoweCyfB4hW4dxDO2XiuOa6uMYofZq34wWDGKRRFv9CmbkOkqeLm4IzudhXXT_OFwy_3W9Pgu6RubEkVFUx9DQvWTG85Ynt0GkN3z_vRlhlyQyKxjIS8MDQlNK4iZw",
+      "markAsReadToken": "VswZruJ9J19_WPHsNQWyIbZ_KVX0TnfhE0sm6WLY7zHCDQRZwKkn8jnZYO4DsgA0ntqamBSIkSagUcLTi4VxP7SysEMZrqPDOV_VjAc0dSFqbRLzcOP32b4OMWwVJ7cAZjYgo-LqF-hL7lmrCHfwrOIayoh8iDE5W49iSVZ9KFRl5hCcSmc-Y7BN8hDB7TttZj2pTpAe_-1fQedl5nlzdQ",
+      "text": "@Julia Lee 佩玲 \nHI 台達光林 廠驗儀表版設計照片請參考一下",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M798C4P15MTQ15VYG7EDZ6GE",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794533364029,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "b25bb27a9d324b718c8d1f18b1794d6a",
+    "mode": "active"
+  }
+}
