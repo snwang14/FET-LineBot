@@ -1,0 +1,49 @@
+{
+  "EventId": "01M79508GDTVW2HWZPVMS9G4F0",
+  "MessageId": "640383859728318467",
+  "Timestamp": "2026-11-13T00:30:28.883Z",
+  "ReceivedTime": "2026-11-13T00:30:31.736Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "@Julia Lee 佩玲 \nHi Julia\n如昨日信件內容闡述說明，\n煩請 請相關權責單位務必高度重視，避免衍生後續問題。\n\n另外建議平台驗測畫面調整：\n1. 判定邏輯保留彈性： \n移除系統自動判定「合格／不合格」，參數須可彈性調整，最終結果由現場機關判定。\n2. 精簡畫面文字： \n移除無關緊要的說明與冗餘字眼，避免現場驗收產生解讀爭議。\n謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640383859728318467",
+      "quotedMessageId": "640303539008832155",
+      "quoteToken": "tl_ub-dUhhBy5q0PKUPtRJi9l_aR2xfDrIqt8702lQEOL_BVJzmCpzpK4nl7n1Lb0jZ1dak9Uy1zUq44QKF4papo--NJQr-2gD8e7jIGW7v_jM27tblih_Hf_xvAUDOAnXxdfb9so8IxT8guszdVFw",
+      "markAsReadToken": "PS0pwVgk0g7FYEcsUOgsXqYkn8pgRTPOBQNJK-O45ZQj8VUdg-uCMvPJIiNjB84DE8SeMOsO-eRB0RjZOqO-7JdadyC5gQG3oAZ4pOSaOdC8BiQUfJfqvCeSanpoBaBgQz8q3NvAs_RpQqfMnnkUjSRvqfcjnR0S1tKCy-RXk5-Mqnd_fVbzxHaC_z6SVN4B0k5lkX6ofEmA7MftZvw21Q",
+      "text": "@Julia Lee 佩玲 \nHi Julia\n如昨日信件內容闡述說明，\n煩請 請相關權責單位務必高度重視，避免衍生後續問題。\n\n另外建議平台驗測畫面調整：\n1. 判定邏輯保留彈性： \n移除系統自動判定「合格／不合格」，參數須可彈性調整，最終結果由現場機關判定。\n2. 精簡畫面文字： \n移除無關緊要的說明與冗餘字眼，避免現場驗收產生解讀爭議。\n謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M79508GDTVW2HWZPVMS9G4F0",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794529828883,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "707bbd46eaf44b99a0a765a1c4ca2c86",
+    "mode": "active"
+  }
+}
