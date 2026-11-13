@@ -1,0 +1,48 @@
+{
+  "EventId": "01M799DTEGFFRACQXMZCP8TR46",
+  "MessageId": "640391642494271711",
+  "Timestamp": "2026-11-13T01:47:47.736Z",
+  "ReceivedTime": "2026-11-13T01:47:49.196Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "@Nick Chiang 也請提供本次廠驗計畫供團隊參考 ，謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640391642494271711",
+      "quoteToken": "Suwr3eOGBS0t4_JPJqqr2yDlCTjzF8RDVPyEMaQ4K9m1mTA-0I6WMobh-fT0MDJX2Rgo0GjnWU25LCAOgpbodM5Qh5osF6PwmaXJhZjrEF5Slkoig5ee7QyDfnuHTpDn-VjNaxutSPXPUdnaV_hSFw",
+      "markAsReadToken": "xSNeNFRBc30uUs9knPoCYXdf_ko_W8y0vYubUDv2H2FuvVG3LM-5oJe3stEryzMwdhwgN6A641IvLR8ILe-4_I6IJ06RmkMuXwk_wfvsJZSqx1knH2XtmElUFtrzvxWQTpso_LIpjYK1d2FaQ3LlcQQ7h87cst0OgncxMOYaCps5G8dqLAHvEV6jxVYimTs0Q4eDM8Df4H6fWEOuQPn9Cw",
+      "text": "@Nick Chiang 也請提供本次廠驗計畫供團隊參考 ，謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 12,
+            "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M799DTEGFFRACQXMZCP8TR46",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794534467736,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "631b136148ca4e2f8991965c8408c379",
+    "mode": "active"
+  }
+}
