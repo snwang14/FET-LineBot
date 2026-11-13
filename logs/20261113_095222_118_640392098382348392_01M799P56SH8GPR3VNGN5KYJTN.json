@@ -1,0 +1,40 @@
+{
+  "EventId": "01M799P56SH8GPR3VNGN5KYJTN",
+  "MessageId": "640392098382348392",
+  "Timestamp": "2026-11-13T01:52:21.167Z",
+  "ReceivedTime": "2026-11-13T01:52:22.118Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "640392098382348392",
+      "markAsReadToken": "sieRhjpD_2e3HzOG0XeFjEUXDrY3b297OuJ-Tm_6OYZ8Y4I79lWP_VkLiTclEKuDicJVN1KRlSW7LYXdl1SKRjVl-Fu-CvarWedOUukYHzO1FqPPvEIqCEx7c4R-vT5Fx5Ao9OJVmpHECVrR-7wtCiEwkNOoF_Ctey3P3e2K3D0i3aR727PJYR_ym2TS2c5JFxYR9Y6rVtITXsznyXMhkQ",
+      "fileName": "第一批次廠驗計畫書_機關電子檔.pdf",
+      "fileSize": 1364372,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M799P56SH8GPR3VNGN5KYJTN",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794534741167,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "011dd848519c4dc0acf29b951c1c71dc",
+    "mode": "active"
+  }
+}
