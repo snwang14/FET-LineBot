@@ -1,0 +1,46 @@
+{
+  "EventId": "01M79A4SJQ45BZGSGDDBQWG5MG",
+  "MessageId": "640392905315320234",
+  "Timestamp": "2026-11-13T02:00:20.395Z",
+  "ReceivedTime": "2026-11-13T02:00:21.625Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@All 提醒一下內業同仁，如果有這種結案時間已經超過的單，會導致工班師傅在手機上看不到該張工單，需要再將單子的時間往後調整，才能繼續進行，謝謝！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640392905315320234",
+      "quoteToken": "1i163oaz7Jefp1A-t6jIf8km-oLwXReT4xGMZSTACvhFaR2Qo70c7HQnbWYnLCJLWWNAMxm7hvbmjTvqXwMfyE7S6QgKDzEQNBxiKILPay7uIutONLRFqsvs2nvw9ZOWDoX3rCFR80xRzjIRpDsxyQ",
+      "markAsReadToken": "AoTGSS_Hv0qJo-gaq-TJH49Lln98GyLZiKQ9XDKxMghM4Ds3AcdAt9o88mgCd_Iw9FLkk5-glyKDfGvNh84-KUo1FgSYAKavwCtld_WT4WHJ5UEkpGDkul_9JpN-1qSDvD7-G09otTKGq7qKCk3RWG-dO74Oa1WHdh2UCUXJiRoChwTb0vhkuBRKWG1EL6tZH_WfkXamrmD2vfm_x14sBg",
+      "text": "@All 提醒一下內業同仁，如果有這種結案時間已經超過的單，會導致工班師傅在手機上看不到該張工單，需要再將單子的時間往後調整，才能繼續進行，謝謝！",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M79A4SJQ45BZGSGDDBQWG5MG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794535220395,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "15612a543b35428ca233e870c9430937",
+    "mode": "active"
+  }
+}
