@@ -1,0 +1,40 @@
+{
+  "EventId": "01M798BBD5ASQNVA5JGPN0AW3D",
+  "MessageId": "640389735160480578",
+  "Timestamp": "2026-11-13T01:28:58.088Z",
+  "ReceivedTime": "2026-11-13T01:28:59.672Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "640389735160480578",
+      "markAsReadToken": "3fZ-MV-ShqGU2a_SmXhlfU8C7L0kWF-_uybtrkK2eiJeDc7UInIoo-WSua_iQc3xaP-2nLmuMIK0wN4BYAZQ5QdRplNjvb1UWAoF2AyyCC4q_EXQLMN6dGaVTpfpW8rWR-4LnEplQvkhrFpf4u3QzqHEK_KqUAZWLyYeNyXJc1hzwSxpqjPD-FkI97i51uGWxZ3eHJDjJespSDgrAVCjww",
+      "fileName": "20240730_廠驗紀錄_(智控器2000只).廠驗照片.doc",
+      "fileSize": 4849664,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M798BBD5ASQNVA5JGPN0AW3D",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794533338088,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "9bb3e25f4c9045cbbfb20eb67a276147",
+    "mode": "active"
+  }
+}
