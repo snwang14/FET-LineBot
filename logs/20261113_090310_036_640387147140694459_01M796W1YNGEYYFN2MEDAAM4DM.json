@@ -1,0 +1,38 @@
+{
+  "EventId": "01M796W1YNGEYYFN2MEDAAM4DM",
+  "MessageId": "640387147140694459",
+  "Timestamp": "2026-11-13T01:03:08.254Z",
+  "ReceivedTime": "2026-11-13T01:03:10.036Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "有，這個昨天我們留下來也有在跟思納捷RD告知。思納捷RD跟光林RD有互相交流很多細節。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640387147140694459",
+      "quotedMessageId": "640383859728318467",
+      "quoteToken": "kGzXEU9SkN2MgR-KJ21nattC1w7x29ADMtgXlL-y3qaa3joNSsXS4q13S9vvxEiRsuvEhJFFegdddDkA2FgiDHvuBLMfhVWHpA-iYUXUnA8m9i7xUjh9xEaZVVxVst7pV_BZugs-4qnr5LF9mfIbVg",
+      "markAsReadToken": "t3GYFy8Xiu1MIsnMNDiNHQxAHoGQPvKkIwIZWowNvBVrQ_PUAaLsnxXW7JkzpGTwS9Q0UCDX9Beqx4pGkhteckZVirR-BEfBKOFQBvIWY2jygcDz_cH4VHxJCXy2tcJpiyWwxhQT7atZTsNS3ibyXXxU45DRedC9OoPcXbU__eHpBlyYaYfCHHrKgTCKXGh0pJQ64mlEnVjeOzzUJZCT8Q",
+      "text": "有，這個昨天我們留下來也有在跟思納捷RD告知。思納捷RD跟光林RD有互相交流很多細節。"
+    },
+    "webhookEventId": "01M796W1YNGEYYFN2MEDAAM4DM",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794531788254,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "762fbc8ea2894c9896b434161fef3f68",
+    "mode": "active"
+  }
+}
