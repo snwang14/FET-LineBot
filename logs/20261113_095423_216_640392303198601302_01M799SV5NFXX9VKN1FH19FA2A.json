@@ -1,0 +1,38 @@
+{
+  "EventId": "01M799SV5NFXX9VKN1FH19FA2A",
+  "MessageId": "640392303198601302",
+  "Timestamp": "2026-11-13T01:54:21.499Z",
+  "ReceivedTime": "2026-11-13T01:54:23.216Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "可以，再請安排，謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640392303198601302",
+      "quotedMessageId": "640388306513428532",
+      "quoteToken": "uvaKgEd6EWMsot8Qwh-33OQH3WKX3CI3U61Jz8KBBcRhIyHUbwfTR4jzX9FiVsvY3pJgRs3j5GIx2pwfvIrkBdPMHzycCa59v0TZKgLbgi9tGDayPYrqbMgq5Uhd47R_49etyA58cCcax10Xvl18kg",
+      "markAsReadToken": "5aC9CNRulQRcX9dByzKnWDRtL6JBujyTx_k9k5OvgkaI0yhhtYjdTDa3T1cvo1deKflaVKqAQ7L87hAtywRIrFD22xteVqE42tC1Sn3me1G2j_Bgwe-P_2RDG6oCfwxFdjzhIiHUh4PfYIPf-jp6nEyV8N_qeAeC_YD-ogZTIsqXk9c0ZkAPf04ul3Va6LAI8YbqXtqKIjOQJ1Fd_i6DDg",
+      "text": "可以，再請安排，謝謝"
+    },
+    "webhookEventId": "01M799SV5NFXX9VKN1FH19FA2A",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794534861499,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "004511f83c3349d886d1fdd9820f2580",
+    "mode": "active"
+  }
+}
