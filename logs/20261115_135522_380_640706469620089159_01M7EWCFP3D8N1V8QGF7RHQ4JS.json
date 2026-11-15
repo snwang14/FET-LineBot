@@ -1,0 +1,37 @@
+{
+  "EventId": "01M7EWCFP3D8N1V8QGF7RHQ4JS",
+  "MessageId": "640706469620089159",
+  "Timestamp": "2026-11-15T05:55:19.284Z",
+  "ReceivedTime": "2026-11-15T05:55:22.380Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "今日 13:30 接獲工班反應 59639、59643 點位換裝異常，再麻煩先略過此兩個點位，明日進行排查，會再協助資料補填。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640706469620089159",
+      "quoteToken": "nMNDaRJ7mceLzXGL_HjEWUD_nqEaHeMLikkrhWostGgCgylBcjiMSR-vVdXvxzflSIhpG-7Qmdy4Qn9KcF7Wm4dgw_tFnlH2wI3zk6-LPMzALuBOl9R3jJpl3JAi9l2l_x8STapQFXhyTyekYIeQ9Q",
+      "markAsReadToken": "g-CSI179rAbxJLWhGWYO93wnqmCIW5JBZM7VbRK5ckQOfAbXbQLDedb8u45hykqg4REnUwPigjbOHt2QtkQfUbNtxcMtFJANVDOILZOxhi-AHuYOXuisG0lM_vjRMfIgwAuwMdpydBRG3VMdWPLFce1iOpvXjjMduLY1g8ceHX4HmI33_wDX5UktEddF7ygitQemdq2KGa9ou9eUqsze5w",
+      "text": "今日 13:30 接獲工班反應 59639、59643 點位換裝異常，再麻煩先略過此兩個點位，明日進行排查，會再協助資料補填。"
+    },
+    "webhookEventId": "01M7EWCFP3D8N1V8QGF7RHQ4JS",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794722119284,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "6eb63431d45f48bb8833c49802b8aaa4",
+    "mode": "active"
+  }
+}
