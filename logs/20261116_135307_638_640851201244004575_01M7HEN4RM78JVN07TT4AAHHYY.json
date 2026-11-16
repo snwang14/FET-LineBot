@@ -1,0 +1,76 @@
+{
+  "EventId": "01M7HEN4RM78JVN07TT4AAHHYY",
+  "MessageId": "640851201244004575",
+  "Timestamp": "2026-11-16T05:53:06.122Z",
+  "ReceivedTime": "2026-11-16T05:53:07.638Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@Nick Chiang @Sammi @胖仙女 @WANG PEI CHING @瑞亭 Crystal \nweb 換裝明細匯出功能已更新，現已可匯出執行中點位，並新增工班師傅送出審核時間戳記。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640851201244004575",
+      "quoteToken": "YRreefXQs9SuJYaBqbIRH9wjy6ylPuMOnzkqZyc4WRXMIYR3hbQL77y67XjjP_Ix1Dz02mDPZ1jrr-L65prM3cTrj_zkvIw3RENkFA70zJPduTrxRAc-VRxVC_FtCETVcm5NZhKoA2vsVEYcy4MT2Q",
+      "markAsReadToken": "rmXXsfZu5JKtY0qUodlHqvC2H2HzaX4xq9tiFcVLMyfpj3dJn-V25AcB6r_0AuqkqoHQ3xW7vb7aaJG2hrE8DBwy3dCl6qdh7n_jHC2h8uu5XlZsNFBKga9pX0JJ3J-e4IHgj0xiv52eslHBmioUAHe9Cqs4v--hJwbJe40Z6EygUFXwNivhtcY5Nt6A0h4tFwHem6jkUE9WxJAA9DYrVA",
+      "text": "@Nick Chiang @Sammi @胖仙女 @WANG PEI CHING @瑞亭 Crystal \nweb 換裝明細匯出功能已更新，現已可匯出執行中點位，並新增工班師傅送出審核時間戳記。",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 12,
+            "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 13,
+            "length": 6,
+            "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 20,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 25,
+            "length": 15,
+            "userId": "U2eb01cd07205346aecd445a7bd04e7d0",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 41,
+            "length": 11,
+            "userId": "U1092a90e55276b5a44670d3901a33a92",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7HEN4RM78JVN07TT4AAHHYY",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794808386122,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "f7f895e9f6d24f84a9e017e01e1e6539",
+    "mode": "active"
+  }
+}
