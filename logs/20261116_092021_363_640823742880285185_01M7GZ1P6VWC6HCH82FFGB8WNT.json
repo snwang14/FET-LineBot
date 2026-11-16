@@ -1,0 +1,37 @@
+{
+  "EventId": "01M7GZ1P6VWC6HCH82FFGB8WNT",
+  "MessageId": "640823742880285185",
+  "Timestamp": "2026-11-16T01:20:19.681Z",
+  "ReceivedTime": "2026-11-16T01:20:21.363Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "北投七星街及內湖舊宗路口，各約5盞",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640823742880285185",
+      "quoteToken": "WxAzIhw_X7jObdNd3yplMid8vIkDQ7mKOh3vUEmW0BAKlZZsBDwxbRuEANge4Wz14K7C2noJD6pDmwJ4D9dTemZTLMFzPVsigUTCBxIa9gxXDF61NvGrf6FMusItqMSpJmC_hu6pZbkviSb-Ktfvaw",
+      "markAsReadToken": "QBGdLhSMIVlkWnfrU7h2U92IpY9uR5GkkXlqRL9MjFZjwqGt77ckNgSfl9XHF5rzecHWOAD8NzbwqhmaCqQOmRu6xQdMkdQIRN1roDEoJEYhn2bDOJuW-9F6qiTtwUOPYcW4ESh6Arr49LUKDY1SX80GLJ5iWUK3a39KauQ4RvSSfNYqwon4D6SqAAI1h3f-tDJtuYppdLdWFKSNoBRp5w",
+      "text": "北投七星街及內湖舊宗路口，各約5盞"
+    },
+    "webhookEventId": "01M7GZ1P6VWC6HCH82FFGB8WNT",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794792019681,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "70e5571ac6e94afda233edc092fb0381",
+    "mode": "active"
+  }
+}
