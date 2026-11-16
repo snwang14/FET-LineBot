@@ -1,0 +1,38 @@
+{
+  "EventId": "01M7GZWQCM69WQ7JRKNTE8K4KB",
+  "MessageId": "640825229241221787",
+  "Timestamp": "2026-11-16T01:35:05.713Z",
+  "ReceivedTime": "2026-11-16T01:35:06.939Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "明確地址何時有?我需要每盞路燈的座標，然後請ＮＴ確認",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640825229241221787",
+      "quotedMessageId": "640823742880285185",
+      "quoteToken": "6FW8FVIqIP3HKS8t0LhfM_kJf7tMKHDJMNt_IDQUJR43sMwn9Is3rT0Ov9rlMm8F8AA7IuOaM4WGP6k6ZXNjqBj_DbW64OX4WbC3VzQ92CuHcxIYlMVzWKSnlkLUcSi6-1ucsWIY42o0Yzd7TH8c6g",
+      "markAsReadToken": "SR100lfZK44bIbDWzQk0n6slaDW9PcJoXUi4oQGI0r4ji3-upmkPIgsf-qMuji_Qi0B24RV5VAmyM38B3mJscfgEPc8uImQcqa2MRPjVpqPQTd26rf0gx291PYmAPwBUlpsiuMIW1S8khTdh5TsWm8s9-lcmIKJGCG2UnNSunDsNmCNfKA8FakA5lUhoIxgt0f1d_EXQDERfr-aY_yE-og",
+      "text": "明確地址何時有?我需要每盞路燈的座標，然後請ＮＴ確認"
+    },
+    "webhookEventId": "01M7GZWQCM69WQ7JRKNTE8K4KB",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794792905713,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "12ca3cc3c3c648ca9790953e9043a28f",
+    "mode": "active"
+  }
+}
