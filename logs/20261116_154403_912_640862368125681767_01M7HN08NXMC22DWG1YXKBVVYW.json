@@ -1,0 +1,38 @@
+{
+  "EventId": "01M7HN08NXMC22DWG1YXKBVVYW",
+  "MessageId": "640862368125681767",
+  "Timestamp": "2026-11-16T07:44:02.030Z",
+  "ReceivedTime": "2026-11-16T07:44:03.912Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "OK~ 這個部分 都可以說明和微調 現場亮度差異有感比較重要\n謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640862368125681767",
+      "quotedMessageId": "640860815394340916",
+      "quoteToken": "fNNTtoRjMcyL3T4-e6UOFSTkfgnYwkGEFjgsdj8V2Ir1OxFitx20nLA4X4qLy3yX-yR_rUAEBytvtFUpV97a3Z68oGo172RKwBPqMSDu52ysqbPfJpcfkkPH3AC9-LtLVQp4G54HcRo8if9iwDpwLA",
+      "markAsReadToken": "J9MaFOiulbup2z2wslrtQMVPgMb02rGdB88f9wTScG0FRf0GjHoe2jlSoKvNXK_YNTRqLkZVHTHUnM5sInWB-kiqHp4aYZrUX1H7CpK0o_t-6nnrwpj2yk1ZpDPrWRpfV06D7uJ-GBDOC4Qz1I2E1hEUMftTA5Jpdk6u2j0s8H1wh9tPYMaE6cD6nDM2_2c5W-ML1Mg3gKgT_GeIAJrfAg",
+      "text": "OK~ 這個部分 都可以說明和微調 現場亮度差異有感比較重要\n謝謝"
+    },
+    "webhookEventId": "01M7HN08NXMC22DWG1YXKBVVYW",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794815042030,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "2d8b9ac2f0d240e69af2254a2ae2ff9b",
+    "mode": "active"
+  }
+}
