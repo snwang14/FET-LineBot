@@ -1,0 +1,37 @@
+{
+  "EventId": "01M7HN246VJR0C8F3JM6WPTZZW",
+  "MessageId": "640862469794824194",
+  "Timestamp": "2026-11-16T07:45:02.685Z",
+  "ReceivedTime": "2026-11-16T07:45:04.470Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "收到~辛苦了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640862469794824194",
+      "quoteToken": "s5ju7kLnn6IqjPFG0D_zSk-kQL9l9BtyTwqfH-2UNh2e0i8X-sVVNgW-_IgYh1Y4TI0XqDs_Avicfab3XlLoTQUPgRf3-RTL2Al6I780K5gpH94VNnGuRM3By5n8eeT1ArmJt7RESoOf7RfzYgaKgw",
+      "markAsReadToken": "VeNkqt8COrk1NybnjeMe7x6N18yn05WmBgi98w6nhtd-keiUuK22ClQPSd1JrKDu5fyeBzNqBbQfPR8TzA0W5Z7hj2mr4e-SiQtGsMk3bDXcUCYFEwtTw4d2EeM6A-lpueHCHEuMMs5ug_Qy567sZC3QPmQ7DZMMESo2OjJCjDgMmi6fs53i4AdvLBByAgf0tS_05McJ6IComBiEhceeMg",
+      "text": "收到~辛苦了"
+    },
+    "webhookEventId": "01M7HN246VJR0C8F3JM6WPTZZW",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794815102685,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "69129999eda243c69c6b7c4535efaa6a",
+    "mode": "active"
+  }
+}
