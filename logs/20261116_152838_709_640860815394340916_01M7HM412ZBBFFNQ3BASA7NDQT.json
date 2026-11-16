@@ -1,0 +1,55 @@
+{
+  "EventId": "01M7HM412ZBBFFNQ3BASA7NDQT",
+  "MessageId": "640860815394340916",
+  "Timestamp": "2026-11-16T07:28:36.528Z",
+  "ReceivedTime": "2026-11-16T07:28:38.709Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@Sammi @Nick Chiang 針對調光部分，這次有25  50 100 三種，但因為25~50不容易辨識，目前平台規劃流程為：連線後先歸零 (不計時) -> 100% (計時) -> 50% (計時) -> 歸零 (不計時) -> 25% (計時)，看看這樣流程是否符合需求?",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640860815394340916",
+      "quoteToken": "I7Tl06Ii_kbapVqxuhTobYnO_nH9eAwvSAYdn9a1VX6rSVUSO5LT__toiPDpGQwWrffAnmAY9E9ooZk3zMhz1r42oR1qmsK2ueX_D5rYGQAHktOy7UawnV8A4myYqZ82XgyfGdOH6GpiNW6934Raxg",
+      "markAsReadToken": "pa95pM7KvSo6GHhoWom-oHvGwqm1NkGGSidPP65DarY2Ynt42UDx_e6UBlkzBO4EHxh-fkV7uDQwes8qOohgYTejHMaHxUjCc1hm1r6hImEapEzbkv1sDxjt-AKHtU1wE5Q4VvlcBzxc2W_j04nBf7FIL3ck7iBevnYeIi8VxZOBOd859LbbndZW7cuPck7BKXZv55jJK2ZRpWUoQ6uq-A",
+      "text": "@Sammi @Nick Chiang 針對調光部分，這次有25  50 100 三種，但因為25~50不容易辨識，目前平台規劃流程為：連線後先歸零 (不計時) -> 100% (計時) -> 50% (計時) -> 歸零 (不計時) -> 25% (計時)，看看這樣流程是否符合需求?",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 6,
+            "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 7,
+            "length": 12,
+            "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7HM412ZBBFFNQ3BASA7NDQT",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794814116528,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "c76ccbbc8d38474ca5ae8904daaf93c1",
+    "mode": "active"
+  }
+}
