@@ -1,0 +1,38 @@
+{
+  "EventId": "01M7J71W3KTPSV0GZSTDS4G6RY",
+  "MessageId": "640894121707307155",
+  "Timestamp": "2026-11-16T12:59:28.762Z",
+  "ReceivedTime": "2026-11-16T12:59:30.590Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "請問使用此次廠驗的1500顆智控器，在現階段，也可以用 貴司的雲端平台產出開關燈時間嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640894121707307155",
+      "quotedMessageId": "640825264775627127",
+      "quoteToken": "6ifMfDvXgAFe-AzOnYsgGDC_hTG1xWa8z6mICLHrFle6RlIZXxE-ytFhiWalLWiQxtK7faN0EYdRuiAJyJinfbwyEv5t_Ghcm1MGOLVtD2rwUrX78WOWYQ7WSARsi2UFaBBcnxb4V2fXVbfi9KhuFg",
+      "markAsReadToken": "o7IYsSZ07kGsTP8mTURoWHw-i28T5Gz81TE8tuaAiIZrBB_kFljRMfih9wk2pj1goaLC9qK53-uSz0RYxPBtmBj4S_Xpy6Vy2A0cdH71LwsoafW4u3SK2Hq4yRe9wcnt9Uxm3ZUmtCqsmOCz4NrBPFaIKR6S3rmAynTtJ9UHHCAbN5_YCLWQP7MvQBKGtzoii8ayAZGnFbrELxdGUrfySA",
+      "text": "請問使用此次廠驗的1500顆智控器，在現階段，也可以用 貴司的雲端平台產出開關燈時間嗎？"
+    },
+    "webhookEventId": "01M7J71W3KTPSV0GZSTDS4G6RY",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794833968762,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "5f50f4e8416a4d3e93638811e5de482e",
+    "mode": "active"
+  }
+}
