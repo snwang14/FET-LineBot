@@ -1,0 +1,38 @@
+{
+  "EventId": "01M7GYX44KYA9VSRX8C97F9V91",
+  "MessageId": "640823491843063963",
+  "Timestamp": "2026-11-16T01:17:50.108Z",
+  "ReceivedTime": "2026-11-16T01:17:51.670Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "我們討論一下，有地點也先給我們，訊號也很重要，謝謝。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640823491843063963",
+      "quotedMessageId": "640823031241638195",
+      "quoteToken": "jFYlEWdp5nxzXij8MVDa0HSbnIGNhjEbTQaMwnXSpb6fd8re70I4SDB6WjMPb4T5R-AaO2MHxdxrNi3VraFEIAKd7LxsUtChzMVT0hHIBYi-eSQ_NO1FTu4cvlMmyoqRHKi-wVoE4vRFtLYysSv3fg",
+      "markAsReadToken": "-zZ2WS8mdJXl2UoVqdPl0EVNvePHA2KYkT0NstHjcnX-0NAUk8TJqBufsoU47sgQbAdb6dgIlMc1ffpH1sQil3qVdkK_6mWr-cHBu_cn4MO10WEJGAqfVJZQ_phw-ex5cmmrnnMyKUdp--7BXiHZotnY0owcKOxkGUDkfSFYXo8PEinjkm4Nafas2MVn7HjxqAOhCi84DrTIYGu0hsjt7Q",
+      "text": "我們討論一下，有地點也先給我們，訊號也很重要，謝謝。"
+    },
+    "webhookEventId": "01M7GYX44KYA9VSRX8C97F9V91",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794791870108,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "980fc83f997d4722b3b3b625763bdd24",
+    "mode": "active"
+  }
+}
