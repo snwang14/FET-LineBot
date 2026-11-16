@@ -1,0 +1,56 @@
+{
+  "EventId": "01M7GYG3AEDVJJSC1KBQF6TCTH",
+  "MessageId": "640822775758193207",
+  "Timestamp": "2026-11-16T01:10:43.285Z",
+  "ReceivedTime": "2026-11-16T01:10:44.639Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "@Julia Lee 佩玲 @Jason廖賢文 兩位早，如日前所提，請問目前智控器安裝後平台是否可收到路燈開關機的時間，並可以提供給公燈處參考，謝謝！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640822775758193207",
+      "quotedMessageId": "640822513026990472",
+      "quoteToken": "oJztNVAcrOeu8wRltmKoX-3BtLLlMF0OEtibVN9_PV--npJ-DyFucdTmCbBfABkfEeQNUmPon67BCr8eWD7Sw6Cp1cYotttNf9BO2vyxcDCifYHE41P5UlcLO17cLOxHWorocBLnFSKJv81tMmeHWA",
+      "markAsReadToken": "gw4KnmY73bo5a3q6M4-DUUlxqgkQ4YRWu_iCgidOyrhLGhdXss35IQJV6kLcDNBUjijDPkYTyvckKVU2fjIkPgut_UFDTj9Raf2rP9rKemge58Qrlo035gksDn617RivSCWmGMSM4gWb-Hlpqvf1vH7g5tR7mPRQA3R0lALddF0vtc566dVv1mcWu3Bnlftyft4c39AGcW_6rT2FCI6Z5g",
+      "text": "@Julia Lee 佩玲 @Jason廖賢文 兩位早，如日前所提，請問目前智控器安裝後平台是否可收到路燈開關機的時間，並可以提供給公燈處參考，謝謝！",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 14,
+            "length": 9,
+            "userId": "U21620661d4adb885147ac04fa12857dd",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7GYG3AEDVJJSC1KBQF6TCTH",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794791443285,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "29ac2b8c94534560ae43212e48f39f01",
+    "mode": "active"
+  }
+}
