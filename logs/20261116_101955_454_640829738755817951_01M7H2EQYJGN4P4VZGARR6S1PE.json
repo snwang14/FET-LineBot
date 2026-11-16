@@ -1,0 +1,48 @@
+{
+  "EventId": "01M7H2EQYJGN4P4VZGARR6S1PE",
+  "MessageId": "640829738755817951",
+  "Timestamp": "2026-11-16T02:19:53.596Z",
+  "ReceivedTime": "2026-11-16T02:19:55.454Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@Chiuan 請問目前除了昨天遇到那兩個點位有問題之外，還有遇到其他點位有相同的狀況嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640829738755817951",
+      "quoteToken": "58NqeKrd9MuFgzBY8JVai65rePKXk7dcg9FmN-_7IcYvA-5iNKzPJ5Zw1PUp1Cr_v8tDjsim_jY-gK03IWZnzql0gx1VgOVKERFAosg6AxBT4eZc-8jZ-PLSoDIovhE_bdzx0eKX0NOH3I_qwtFSrw",
+      "markAsReadToken": "lnyjI12K1z0q8BJIGNT6lR2OtKZtzPpdvJAxx9kdrP_Dna88Fm6-qOcF6QCWL1_p_wLbxHc9_bVz-qiGOfBZf7PxTEXgm-znDwg_0pnZJEATYZDcxmsO2hZKHteECljQQfp8-oHk5Gbso5VZUqG6tqVV1hb00-3MUySZtzZyzT5kCpLQ0plg63HJstkSIEGLrPttI_QwWnWPJKFFEX088g",
+      "text": "@Chiuan 請問目前除了昨天遇到那兩個點位有問題之外，還有遇到其他點位有相同的狀況嗎？",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 7,
+            "userId": "U2d0c972fe80e1c475e0664d66ccea46c",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7H2EQYJGN4P4VZGARR6S1PE",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794795593596,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "b884c3c1d8fe41e5877dbd77b3b5a4d6",
+    "mode": "active"
+  }
+}
