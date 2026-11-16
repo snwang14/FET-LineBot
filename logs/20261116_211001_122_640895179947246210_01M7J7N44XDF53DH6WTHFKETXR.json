@@ -1,0 +1,38 @@
+{
+  "EventId": "01M7J7N44XDF53DH6WTHFKETXR",
+  "MessageId": "640895179947246210",
+  "Timestamp": "2026-11-16T13:09:59.587Z",
+  "ReceivedTime": "2026-11-16T13:10:01.122Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "如果機關要在11/25前用新智控器、新平台撈到資料，以目前的架構是做不到的吧，一定要使用 貴司之前燈控器，對嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640895179947246210",
+      "quotedMessageId": "640894456732319745",
+      "quoteToken": "m_n1ijbkiC21JrlDoHH-35T6qHWEeN6ncUEb0NToaO_ssrT7FB2g3pRreca30UKRkI_gB-Tuasl_Ms3-5ns6Krb-ZCy8xZyhLOt6uZwzJQm3m43XFPtvzsI-qET9cLklQbNf86ZWk9PYEb4KAWbfeA",
+      "markAsReadToken": "jUfMP8iXJbn89CFHIh4PBkCknxb1sCWRdvMYTfOVQCkBjH0neAItN8kVboaz2cYa1JX8f8taHNVaTZ_6sV0yJJANb2ctHfNN-C__NNYuGU3kRqXLV2CuYR4t__BLlqYLBD5XOjaZpbpoJcunybKGJvN0v90Z7ESE4vQAQy40eh9-bkRBgIxKDWQtZQOufmSR2Sb97pN7SsAdPKUiiUJAXg",
+      "text": "如果機關要在11/25前用新智控器、新平台撈到資料，以目前的架構是做不到的吧，一定要使用 貴司之前燈控器，對嗎？"
+    },
+    "webhookEventId": "01M7J7N44XDF53DH6WTHFKETXR",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794834599587,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "4634bb4a690c4af09fcd7dbf964d56c6",
+    "mode": "active"
+  }
+}
