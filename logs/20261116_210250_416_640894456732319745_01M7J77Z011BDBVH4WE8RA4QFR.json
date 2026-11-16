@@ -1,0 +1,38 @@
+{
+  "EventId": "01M7J77Z011BDBVH4WE8RA4QFR",
+  "MessageId": "640894456732319745",
+  "Timestamp": "2026-11-16T13:02:48.328Z",
+  "ReceivedTime": "2026-11-16T13:02:50.416Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U21620661d4adb885147ac04fa12857dd",
+  "DisplayName": "Jason廖賢文",
+  "MessageType": "text",
+  "MessageText": "此次出貨的1500智控器使用的平台是台北市路燈的新平台，跟思納捷已經在營運的平台不一樣。\n如要直接沿用思納捷營運中的平台，需要更新智控器裡面的韌體，並指向思納捷既有平台，即可直接套用。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640894456732319745",
+      "quotedMessageId": "640894121707307155",
+      "quoteToken": "cYlshnJvySL3bRHlq95qqvHe_kHZhbdK-09q-EIMJjAPsFwwSfZynXaYxJWZkSl0GRQSIz0TxbUOCPlm1Azrr3pK5PVoOyycSB5raNoimcu2OxPxcADbgAd7eNGe_D22axH5UcU-sSH53RfgPzh0yw",
+      "markAsReadToken": "cXktkDRD7WjNJAA45JduxIHnDXZh8c61yhDGpFAWBQGQVCUDkQK26ll81XbFT-Sz3gUrKYFwlJwQX4picYrWMD5pvPVp2xKy78E0_5tzUmLlhwLcj8jgp-AT_HRK1QfLCEOGPVEKA_XsppPjUtMjXQNySbw7blZky9wgDEKJDMRQHBUaX3NbcfGxWTzLJq4fViHbMeb_kRKh-C8LalSfTQ",
+      "text": "此次出貨的1500智控器使用的平台是台北市路燈的新平台，跟思納捷已經在營運的平台不一樣。\n如要直接沿用思納捷營運中的平台，需要更新智控器裡面的韌體，並指向思納捷既有平台，即可直接套用。"
+    },
+    "webhookEventId": "01M7J77Z011BDBVH4WE8RA4QFR",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794834168328,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U21620661d4adb885147ac04fa12857dd"
+    },
+    "replyToken": "648a5016ab564afd9f57ac7957107a56",
+    "mode": "active"
+  }
+}
