@@ -1,0 +1,38 @@
+{
+  "EventId": "01M7J88X172MEXAD4M58ZMJQWG",
+  "MessageId": "640896267866341448",
+  "Timestamp": "2026-11-16T13:20:48.032Z",
+  "ReceivedTime": "2026-11-16T13:20:49.311Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U21620661d4adb885147ac04fa12857dd",
+  "DisplayName": "Jason廖賢文",
+  "MessageType": "text",
+  "MessageText": "新燈控器要搭新平台，需等新平台功能開發好。\n既有平台功能已經有了，只要搭既有燈控器即可直接上線。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640896267866341448",
+      "quotedMessageId": "640895179947246210",
+      "quoteToken": "jHun2PAOdbjArYWcMu6w5xKYGPlUAkq4ZyFbiWJQwVe4Wx7Cog8GruvgX_tE3QHLzVjqaprEW16b4gKTq2ic5i3qGtwyIZUXH55Mhk4zzSvJHmYt---IIk3hcmToE3070lAIS5g1fcZUZO1AWdLz5w",
+      "markAsReadToken": "L3WkpC08mBvjHR2NQj4GMl2JVPm1LHh7JBa4DAzZP0EA1fNfmaSktmv2DkMQaDiPpU2TnzgI8T3ogNP3AVCKT4TM233xyNCdbZaJUwzbi6ryAMiHHZyhzsSUHGxawDYcHUoq-TUcENrghf19c2TXZ2p7RGadYm9XKIY57NkSnCAu6oTBCOAsZe2kjfscP1Avfno0Qkuz3fPyArliwEzHNQ",
+      "text": "新燈控器要搭新平台，需等新平台功能開發好。\n既有平台功能已經有了，只要搭既有燈控器即可直接上線。"
+    },
+    "webhookEventId": "01M7J88X172MEXAD4M58ZMJQWG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794835248032,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U21620661d4adb885147ac04fa12857dd"
+    },
+    "replyToken": "59062b101127439a82eb830807aabb24",
+    "mode": "active"
+  }
+}
