@@ -1,0 +1,55 @@
+{
+  "EventId": "01M7GXEEY5KZRZ164FRADRC8BT",
+  "MessageId": "640820926740431122",
+  "Timestamp": "2026-11-16T00:52:21.071Z",
+  "ReceivedTime": "2026-11-16T00:52:24.062Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@sanjinchen @林郁翔 Alan 上週三mail的內容 尚未收到回覆，這攸關於進駐時間安排，時間比較緊迫，再麻煩確認，若有任何不清楚的，也請盡快回覆，謝謝。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640820926740431122",
+      "quoteToken": "FiQbRybNhx8pKcgvKgI0EtBraWSxg1heSEMLfL1c31bdnQiZ-cg7L93RHC-lamB1Nhc_nL5m6A8cYx-8P07qg3PZMhZlp9BmqZDXvzqKxwO0HtljVn2PzjQq0jV5kqA6Oq140DhiAGEBD_BaULV7fw",
+      "markAsReadToken": "n9ZovyohTH1u68Eyz-n1DCmP9sLsILZ-IJ4014YyYQtz2eC45qTop51IaSKLOyQ1ssc5rb_hIAss3x8TCjLDZYc7Vpv8BIj_H5FPAQTIJcob3qVTGyFykx2LEJNPVw11PLyOuG7pXwLK5SQEln1cvXtYQDGVQyTtMHqEx03SzWqisj34N4-PE9H1wvXklwVwxbZsWKEpbE2lD1hVlfoz7A",
+      "text": "@sanjinchen @林郁翔 Alan 上週三mail的內容 尚未收到回覆，這攸關於進駐時間安排，時間比較緊迫，再麻煩確認，若有任何不清楚的，也請盡快回覆，謝謝。",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 11,
+            "userId": "U375f2b0f385cb715667fe836bb7a29ad",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 12,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7GXEEY5KZRZ164FRADRC8BT",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794790341071,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "4232b6e39f0a484e85ce3f7f5d05b8f5",
+    "mode": "active"
+  }
+}
