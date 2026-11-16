@@ -1,0 +1,55 @@
+{
+  "EventId": "01M7HTZV0WCXXKFDA3PKNNC092",
+  "MessageId": "640872900023026075",
+  "Timestamp": "2026-11-16T09:28:39.633Z",
+  "ReceivedTime": "2026-11-16T09:28:41.510Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@Julia Lee 佩玲 @胖仙女 \n今天和明峰確認維修流程對部討論的進度，他請我們和他們約個會議進行維修流程的討論定版，這部分是請妳們哪一位協助呢~",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640872900023026075",
+      "quoteToken": "IHXBHJ0l-OBPwC_r01oma3pHCuIUXKWS2aeJXVndIberCBPwMDxzAKW63OquGWr7QK4IV0vHUTGykgTMhVVn6SV-lfvQX6dHpe3CIEiGxG589X4nyNwIYqREkbl1mXVac3hiB1Q4qQ-z5pEid2MYEA",
+      "markAsReadToken": "f7p5lW13lI71g3HUzu7a74giWE2urUhUETHAETxR0NbpcVSFt7FirR3ck6ysnMniX153VneFjztZlCbeZp6LnWdfDf3MWok9ZB2lC1ZUQyucilOrtMH1LLcGgoANi-H6sbKiW_NS19GC-rH3G3gCN0o4hUFEHKTtwJf5vKZLQz30Z6KpUn6LpozAQUhHMa5DYpHDqidsNoalcurTDajDJQ",
+      "text": "@Julia Lee 佩玲 @胖仙女 \n今天和明峰確認維修流程對部討論的進度，他請我們和他們約個會議進行維修流程的討論定版，這部分是請妳們哪一位協助呢~",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 14,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7HTZV0WCXXKFDA3PKNNC092",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794821319633,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "b136ad816728413788f0814a6a939d90",
+    "mode": "active"
+  }
+}
