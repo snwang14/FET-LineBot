@@ -1,0 +1,38 @@
+{
+  "EventId": "01M7HB41AWX99JC9WARYR7XFPF",
+  "MessageId": "640844982919627455",
+  "Timestamp": "2026-11-16T04:51:19.688Z",
+  "ReceivedTime": "2026-11-16T04:51:21.456Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U375f2b0f385cb715667fe836bb7a29ad",
+  "DisplayName": "sanjinchen",
+  "MessageType": "text",
+  "MessageText": "我先回覆信的內容 新的申請文件跟架構圖我之後再補",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640844982919627455",
+      "quotedMessageId": "640820926740431122",
+      "quoteToken": "-kgwXJFJZwupwIwso3GF_4TMYhLfAMfpO7uUWLRzHqeBIUDB43lNcoiKIbb2L6KuFPIDzspRpKeoCrC1DeVkrQv-aBLpMKgzetTjj4WmFZl0AW3dE9zEJ3xHlbHhzHVm4z7MK7c3V9lpiL_WcF6skg",
+      "markAsReadToken": "-n98LeW5q0AwAfn0t6dVJveaNZPO4xveQnH4cL2nJjNPqEntD7pzqI5OW4tpoJvM9tNn4YoFnPQ3TjS1s5GCiLaCUofrvrmI-YnCajDLBdy2U2HbXGDHtnz050gqmwuhFTK_dvxla6L6PPpJV_T3utbHXUOJer-CwDBWxDYbVE6Qg9-S4UyctyWp6OyrNGgB2GPNL9qSACzHTdG-a4yIdw",
+      "text": "我先回覆信的內容 新的申請文件跟架構圖我之後再補"
+    },
+    "webhookEventId": "01M7HB41AWX99JC9WARYR7XFPF",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794804679688,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U375f2b0f385cb715667fe836bb7a29ad"
+    },
+    "replyToken": "0e0bbef8966a42f0850d7bd319e9f5db",
+    "mode": "active"
+  }
+}
