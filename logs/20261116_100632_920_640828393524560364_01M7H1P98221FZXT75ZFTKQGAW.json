@@ -1,0 +1,38 @@
+{
+  "EventId": "01M7H1P98221FZXT75ZFTKQGAW",
+  "MessageId": "640828393524560364",
+  "Timestamp": "2026-11-16T02:06:31.688Z",
+  "ReceivedTime": "2026-11-16T02:06:32.920Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "機關目前只提供路段",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640828393524560364",
+      "quotedMessageId": "640825229241221787",
+      "quoteToken": "buB3zh-FjzHvs6FUfTDvzMbvbktoKq6v4-Sw-zh4hQbWWV4UPfykYT7MhPKpvsektjMImJSMxwLB3m4gMwD0IuVyYQHbIpuwBjaiB0INx3N2DZ75nx0XtUe3WLI2Yd_yGrGbpZbAGrNkC0r8zwVX_w",
+      "markAsReadToken": "kUxeZvx_Cpu0FS_vmMr18LjT34o1wxDe1EiRACcx9-DdNKaKCy2dI2BtSinLURijy-Fy6DwK01VD0YtcCyO0DnLB4UrgjI_V1g_2kvDlISADtjJoBwmaO_wv_ulZXwZGpw8nQOOioa32A7XZ6go8A0tfuHNft4RsWtRY6NRb5_hXvRtvTXAUyZlLYV7OvOiyAkna7NbwchpRwLpJzLgRxg",
+      "text": "機關目前只提供路段"
+    },
+    "webhookEventId": "01M7H1P98221FZXT75ZFTKQGAW",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794794791688,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "6a696d6bff6f4b12afb6172c9003f4eb",
+    "mode": "active"
+  }
+}
