@@ -1,0 +1,38 @@
+{
+  "EventId": "01M7GZXBYWPE6280PZDRA3S8D8",
+  "MessageId": "640825264775627127",
+  "Timestamp": "2026-11-16T01:35:26.713Z",
+  "ReceivedTime": "2026-11-16T01:35:29.123Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U21620661d4adb885147ac04fa12857dd",
+  "DisplayName": "Jason廖賢文",
+  "MessageType": "text",
+  "MessageText": "思納捷的雲端平台有紀錄每筆智控器的回報時間，可以產出開關燈時間",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640825264775627127",
+      "quotedMessageId": "640822775758193207",
+      "quoteToken": "yPnUPCTHPNjiGqaOe3ZaZPbOATgoKLA39W1qKaGUv5ETCQHHeJ_s05Jd6TrWwEJ7v1bOO8fjcorp_BLZrDwkLexjp7xFwoslZo4YfHlB_624Wm4M9O5Y-J8Qr0HehY91We1wf3DrdYOnMqtRQHL7Rg",
+      "markAsReadToken": "iBA9bhJaeizzq_R5gZwc1WePqbJC61xfwZIKIXgTKs5S-exWUc5xlg-C3nWrpcQ2MBQnYlx1Y4HacpPrt9vBWWYkhZgSAnJQWyoWCMTemkbN9d8bHiEfFZrN2SEn1Fqqs8AZyWhZnNTiPrYHwLx2o_Z2ZcudF9uuTm28z0EZp-oUUEPw9fhhMHI9BQJsA_7QIJfZp1_yjMj9g2YFclceyw",
+      "text": "思納捷的雲端平台有紀錄每筆智控器的回報時間，可以產出開關燈時間"
+    },
+    "webhookEventId": "01M7GZXBYWPE6280PZDRA3S8D8",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794792926713,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U21620661d4adb885147ac04fa12857dd"
+    },
+    "replyToken": "5344aa1284de4366ae94c0476807c450",
+    "mode": "active"
+  }
+}
