@@ -1,0 +1,49 @@
+{
+  "EventId": "01M7GYKQGXE2R9HYWFVMSQ9TXM",
+  "MessageId": "640822975641944099",
+  "Timestamp": "2026-11-16T01:12:42.279Z",
+  "ReceivedTime": "2026-11-16T01:12:43.633Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@Sammi 機關有預計需求時間嗎? 我們看看可以怎樣安排",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640822975641944099",
+      "quotedMessageId": "640822775758193207",
+      "quoteToken": "Z_khTf8gx4tGd0VjnKtuJjLKjzZToELdwzMy9W1Xpzvqbg4uWwy78DMtNdGK0p3t4qQQPc6Yp4c86x-4Vk4ZgP943j_Caqtj_-x158-FNAZ0RS3ANGJGwzB6i6mG4lpYGLa1d85YX4120uFDXgvyKg",
+      "markAsReadToken": "G62prMtjMMFHxQBMu5YBrM3oF0O7r1UhQ106iABbv_5oqlYCVhxFO6_TQZLWjQpSvogdDY7cCBrphGEmFuOO6Z-LKE76Aowa7iA52Yb1QHQFMBNfD34VOfJNkHwRuL7lvUy6MA9BqTQP5-4ldzMSHvUMTIziTpog25YoH-gsJhmXFQMeyUgQnFs-VpE-Pt7n_Rk6q3Rw6EUzbU7k3gbdyQ",
+      "text": "@Sammi 機關有預計需求時間嗎? 我們看看可以怎樣安排",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 6,
+            "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7GYKQGXE2R9HYWFVMSQ9TXM",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794791562279,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "a39b07fe7748438383a6d0a89efd672b",
+    "mode": "active"
+  }
+}
