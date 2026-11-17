@@ -1,0 +1,46 @@
+{
+  "EventId": "01M7MJ6GRN77W1605C3D4AKHGR",
+  "MessageId": "641026318888599911",
+  "Timestamp": "2026-11-17T10:52:44.313Z",
+  "ReceivedTime": "2026-11-17T10:52:45.756Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "@All 各位夥伴大家好，感謝遠傳、FDS、光林智能及思納捷各位夥伴今日（11/17）的全力配合，\n第 1 批次智能控制器（1,500 只）第 2 次模擬廠驗已順利完成！\n\n【今日實測數據摘要】\n連線率測試（150 只，20 分鐘內需 100%）：\n`第 1 次：19分34秒（100% 合格）`\n第 2 次：09分15秒（100% 合格）\n`第 3 次：17分41秒（100% 合格）`\n\n調光控制驗證（20 只，3 分鐘內完成）：\n100% / 50% / 25% 連續 3 次測試皆在 3 分鐘內完成 `（僅第 2 次 100% 調光失敗 1 盞` ），合格通過。\n\n【本次廠驗檢討與優化要求】\n今日數據雖勉強低標過關，但主因是平台商邏輯過多。為確保 11/20 正式廠驗萬無一失，請相關團隊針對以下四點全面優化：\n1.條碼機掃碼功能優化： 系統須增設並優化可通用 QR Code 掃碼判讀之功能。\n2.調光邏輯保留彈性： 檢測邏輯須保留調整彈性，完全去除系統自動化判定，改由現場機關判定。\n3.平台介面簡化： 平台端須改版為簡單、直覺的量化呈現，避免正式驗收產生解讀爭議。\n4.複測與規劃： 測試儀表板優化後，建議安排於 11/19（四）下午進行改版複測。\n`若相關單位經評估後非常有把握、認為不須進行第三次模擬廠驗者，請正式提出說明，後果須自行負責。`\n再請各單位全力配合\n辛苦各位夥伴了，謝謝！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641026318888599911",
+      "quoteToken": "fazcMDSER45WYRhvoUHAXdMwFGHFWxqpmGdQHgdMB5WEStZnL5Rp7suxkkjoEDXTM4YI8S3kCHwy9JNtOEoTK6UxYoR46usXivaBseoXQW22zsn5Yf1GEmL5doGWnsVQ2cuLGsLA-dwClH8OsiljWg",
+      "markAsReadToken": "40CVFMtnkYDoGKAA6HFFqVI9SlJGT5pdqLHw3EqWO2_Jit1QrpTU7N2H9UN1_K3qlQH9P2pGr5CRF8OILrOImJoIXl4dWkXoubQEW8fOOxMDtsJtrMau1_nrUjAx6gtnXMjApQ7-qamTsv_w57uFZo-qmyHrU60RAweXy_q8GeZLLFRPg6Jrh6zKwcv6BSn7X83cVPCxK_DLq9istwh5Wg",
+      "text": "@All 各位夥伴大家好，感謝遠傳、FDS、光林智能及思納捷各位夥伴今日（11/17）的全力配合，\n第 1 批次智能控制器（1,500 只）第 2 次模擬廠驗已順利完成！\n\n【今日實測數據摘要】\n連線率測試（150 只，20 分鐘內需 100%）：\n`第 1 次：19分34秒（100% 合格）`\n第 2 次：09分15秒（100% 合格）\n`第 3 次：17分41秒（100% 合格）`\n\n調光控制驗證（20 只，3 分鐘內完成）：\n100% / 50% / 25% 連續 3 次測試皆在 3 分鐘內完成 `（僅第 2 次 100% 調光失敗 1 盞` ），合格通過。\n\n【本次廠驗檢討與優化要求】\n今日數據雖勉強低標過關，但主因是平台商邏輯過多。為確保 11/20 正式廠驗萬無一失，請相關團隊針對以下四點全面優化：\n1.條碼機掃碼功能優化： 系統須增設並優化可通用 QR Code 掃碼判讀之功能。\n2.調光邏輯保留彈性： 檢測邏輯須保留調整彈性，完全去除系統自動化判定，改由現場機關判定。\n3.平台介面簡化： 平台端須改版為簡單、直覺的量化呈現，避免正式驗收產生解讀爭議。\n4.複測與規劃： 測試儀表板優化後，建議安排於 11/19（四）下午進行改版複測。\n`若相關單位經評估後非常有把握、認為不須進行第三次模擬廠驗者，請正式提出說明，後果須自行負責。`\n再請各單位全力配合\n辛苦各位夥伴了，謝謝！",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7MJ6GRN77W1605C3D4AKHGR",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794912764313,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "11aa18d9bbac435a903a058a93035bac",
+    "mode": "active"
+  }
+}
