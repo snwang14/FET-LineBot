@@ -1,0 +1,37 @@
+{
+  "EventId": "01M7KPGZ5V0WDP5NWC73RBGWYV",
+  "MessageId": "640977635081977944",
+  "Timestamp": "2026-11-17T02:49:06.499Z",
+  "ReceivedTime": "2026-11-17T02:49:08.624Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "對的 主要就是要和路燈隊確認，隊長能決策會是最好",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640977635081977944",
+      "quoteToken": "X-Qip7HlWh7SXVufL_1EXAI9RW9BL2-0VFdBp8ID64LXZQjPwnnej4GDx3KUQ_Atq9TLvX2QLQKWjqgH2wCsy5dpM8jJzs7pQkHtfkGa-79UQRNRQjDCUgrJe2t_ZbniGTU99F_5Zym-tjCIyGX5MA",
+      "markAsReadToken": "xFBRGOH2b16qwq0Tj6KYp9FkRUiEQJxdaPCphrdnK0bx2hBcuBjrWiCo5AHEsNU_k98SxexruaIxlsERCLG-KjjTjBx3FL4Smfr0JneQGf6MIWdTslyw7M2ykoXNDDDvdFjRlmrwtrUej6T-C4xuqgGiDfIUvmfuNOnzKFkJfx23TcV9pQrp5JsQeLw7S0ucrVujDILX_mVPAw4MS0SHLw",
+      "text": "對的 主要就是要和路燈隊確認，隊長能決策會是最好"
+    },
+    "webhookEventId": "01M7KPGZ5V0WDP5NWC73RBGWYV",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794883746499,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "9118de658c714feb866dc6655918b218",
+    "mode": "active"
+  }
+}
