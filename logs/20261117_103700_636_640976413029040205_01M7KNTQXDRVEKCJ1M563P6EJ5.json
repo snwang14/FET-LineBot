@@ -1,0 +1,49 @@
+{
+  "EventId": "01M7KNTQXDRVEKCJ1M563P6EJ5",
+  "MessageId": "640976413029040205",
+  "Timestamp": "2026-11-17T02:36:58.281Z",
+  "ReceivedTime": "2026-11-17T02:37:00.636Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan 有沒有路燈隊要討論待確定的?需要他們也出席嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640976413029040205",
+      "quotedMessageId": "640872900023026075",
+      "quoteToken": "JvNC7ZFgPD5pKWga7n0dQrP8Xf5g7nPGISgwdZW3T7nCOeHnUmChy08U-ZiA60GPLTS0PGVyB7bZAkj2kWBslEHlwMiayzepcOhmbQEy6H5KUf_JaJzblMh1CmuRXKJ9AKqanH1nZMh-oDCTt6e_fg",
+      "markAsReadToken": "wYcD1svNlq5K3mpBoffhqGUJjSc_lw61Egt27dV1QvmIfKPxaQTI8EJ3cbzBndb0XoEZoeq3NuawuCqkA7gRi1-NIUnZ9MCz5mD142B5gMwOQzWaemQGwa3BXbdUoRI-iKll0ds3Rk7XLgSe4k1VcgLoH5pWsBstU4r_zJhZTXQU-hG4U7z8x-ZciEG2qxXN_mhLcTiSiOHvpC_GVEaGDA",
+      "text": "@林郁翔 Alan 有沒有路燈隊要討論待確定的?需要他們也出席嗎",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7KNTQXDRVEKCJ1M563P6EJ5",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794883018281,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "dc9aa05a11ba48abbcd790b45a516450",
+    "mode": "active"
+  }
+}
