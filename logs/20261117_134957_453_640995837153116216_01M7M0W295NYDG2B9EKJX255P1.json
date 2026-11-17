@@ -1,0 +1,37 @@
+{
+  "EventId": "01M7M0W295NYDG2B9EKJX255P1",
+  "MessageId": "640995837153116216",
+  "Timestamp": "2026-11-17T05:49:55.897Z",
+  "ReceivedTime": "2026-11-17T05:49:57.453Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2d0c972fe80e1c475e0664d66ccea46c",
+  "DisplayName": "Chiuan",
+  "MessageType": "text",
+  "MessageText": "這個上傳的速度修理好了嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640995837153116216",
+      "quoteToken": "d2QCOe9hc4yF2B-u5mdkfSgoY9KJheyx8NbOIMXQHJqL2IGZt2t3qc2rd1TBCqctCmsWTSugc-3BKuEape7cq5XEEg3XSdXL4N0DQL9_SlbFSLhKgclOsNtI8ffuS7Jny66W5rrDNCIK4rIHz0nfjA",
+      "markAsReadToken": "6pRaV1bmOXGwDfHppDVG4g9xZn3Q_PDV1maCgpYrc3Clx0mU6Mm4N70BmY77XkmThkBuWAK8Zs_MRz1XIKguKllBcj-kCen7D2ZxptZSIpjo-2Pi148QfkEJQ-531Oa7yxN93J-7SYOXjR_N-ExlNmjOlOgftPbUb4H-NuCAYrq5t4xrXfcdx5cMvJ-7bO5j9ZvjbAKyHu8J6DTOnXl26g",
+      "text": "這個上傳的速度修理好了嗎"
+    },
+    "webhookEventId": "01M7M0W295NYDG2B9EKJX255P1",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794894595897,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2d0c972fe80e1c475e0664d66ccea46c"
+    },
+    "replyToken": "437d5fc4d3b34c588fcfc7dffcdd3d14",
+    "mode": "active"
+  }
+}
