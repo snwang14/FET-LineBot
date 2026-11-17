@@ -1,0 +1,55 @@
+{
+  "EventId": "01M7M70WMDJDPMZP9YBV96BSF1",
+  "MessageId": "641006658105638981",
+  "Timestamp": "2026-11-17T07:37:25.559Z",
+  "ReceivedTime": "2026-11-17T07:37:26.723Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@sanjinchen @林郁翔 Alan 有mail  資訊局相關，再麻煩囉~",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641006658105638981",
+      "quoteToken": "k9ZYcFNo8IfrioXsWd2r8UEIoS5czQriUbfgKKGlA4XNL1o_CFthliufeUjsyHMWiRz19h6wyS1CAm5ZNA4XZtXNEmcoOfvJeVCVWwHWoSN9csAx77Sdidi0HDw2iYGwQQ_7iboVqP_RdrrWSg6lxQ",
+      "markAsReadToken": "7590u773kDDsgbHXFM-KpnBJZ0r5Ey9KEEP2t_834xeNhdotl0WAVoEcIb9BTTLpNItHHkk-jy2YbU3oZqpHhLCM_xzQbNpbL0Dj10JPL5T_HfO9-J80vYgMEhvkBh8pU4os_MRdt1tmvuNh-ggpO08HTIQyIMUDBberSBhYyEDyP46mfEcDmKnJzaBnm67S4ZXWuI_N9JRCESTq89JsNA",
+      "text": "@sanjinchen @林郁翔 Alan 有mail  資訊局相關，再麻煩囉~",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 11,
+            "userId": "U375f2b0f385cb715667fe836bb7a29ad",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 12,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7M70WMDJDPMZP9YBV96BSF1",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794901045559,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "5b1c4bac83a74629a165531e8cd80d9a",
+    "mode": "active"
+  }
+}
