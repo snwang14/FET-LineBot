@@ -1,0 +1,37 @@
+{
+  "EventId": "01M7M0WT01BYYVHN1X88YZ5H9X",
+  "MessageId": "640995878140117067",
+  "Timestamp": "2026-11-17T05:50:20.383Z",
+  "ReceivedTime": "2026-11-17T05:50:21.436Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2d0c972fe80e1c475e0664d66ccea46c",
+  "DisplayName": "Chiuan",
+  "MessageType": "text",
+  "MessageText": "剛剛突然變得更久了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640995878140117067",
+      "quoteToken": "rpUyAWUIE0vxSdgUAG383s4LJaZzN8NApbLT98MmG-RvXpif4CO5MYy_ay7h-co3Iiw61chh4KQhOpnrzTzS_9KRsEAknLv_kndrR_Wx6o5vZQqTeqBDyX5okmGQWtnIPAbOCk2MTcE30NXN72wAzA",
+      "markAsReadToken": "D-t2VoCMH136XDoc-nzsYIgWvhsi_HTbp7ZME3dXcTteZBK6CHatqRfk225wmFY3BeaZvOQ9t4wSeEsenS15nqa1tJ2PGyHbjnVzSmY1imlaXkYEa7-7b_CU2FFJQYOaYLkqJnWuwO4NCBn9VFC_1Dn0EoZ5cUZ-tMirfN-Ml0DrC2t35RAQC6TwklVQ2GO98sLC5IuFXFp48s9-C-yW1Q",
+      "text": "剛剛突然變得更久了"
+    },
+    "webhookEventId": "01M7M0WT01BYYVHN1X88YZ5H9X",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794894620383,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2d0c972fe80e1c475e0664d66ccea46c"
+    },
+    "replyToken": "47cae70fbdcf4f25a9e6482abb8072ae",
+    "mode": "active"
+  }
+}
