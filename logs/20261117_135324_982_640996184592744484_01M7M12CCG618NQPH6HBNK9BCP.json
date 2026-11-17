@@ -1,0 +1,37 @@
+{
+  "EventId": "01M7M12CCG618NQPH6HBNK9BCP",
+  "MessageId": "640996184592744484",
+  "Timestamp": "2026-11-17T05:53:22.900Z",
+  "ReceivedTime": "2026-11-17T05:53:24.982Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "今天早上已有調整一版測試版，現在在等 iOS 更版審核，預計明天可以進行更版",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640996184592744484",
+      "quoteToken": "Ouy24UnyLddstrE_pJTMbDmZmu1DNHad26MuLArtfmgagbQ1YA7ydvIzFFZ3Wb1v2xNYtmS7Ki_Dn5MDvJ64XR09mHxJPHX9rTzXDC2qrdSfc-Nw4qbqx88lh-dJXWPbcLAOMxl4wsr8GZtiEp7D5g",
+      "markAsReadToken": "v4Jniypy2ndbQcDSOsAkJmaVKtO-XjDRQ_gxcVYb140gQsQU2HYQVzQe1hPULbNOPX1CUn57WiSjaiazYaKc7teBc0xxhyXSJIXuv-7sQUXzEStM5X00eKittdNO70t-Rrdaes078nWMp17MSATR_3vZLz-pwjQHLLLYSl8Q3TBDyANswy7bcbE8NAFeU6HtEMQAcxOFy2UCBbH-GUfSnA",
+      "text": "今天早上已有調整一版測試版，現在在等 iOS 更版審核，預計明天可以進行更版"
+    },
+    "webhookEventId": "01M7M12CCG618NQPH6HBNK9BCP",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794894802900,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "81bc9aa12d534389a01e2bd467c572ec",
+    "mode": "active"
+  }
+}
