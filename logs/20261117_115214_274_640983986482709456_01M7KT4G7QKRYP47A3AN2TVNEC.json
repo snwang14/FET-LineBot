@@ -1,0 +1,69 @@
+{
+  "EventId": "01M7KT4G7QKRYP47A3AN2TVNEC",
+  "MessageId": "640983986482709456",
+  "Timestamp": "2026-11-17T03:52:12.280Z",
+  "ReceivedTime": "2026-11-17T03:52:14.274Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@Andy @Julia Lee 佩玲 @Michelle Pan @Nick Chiang \n明天15:30機關Pfi 例行會議，因適逢公燈處預算檢討，因故暫停一次。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "640983986482709456",
+      "quoteToken": "mafH15ARMRzJ6y6WbO9RubNj_G3vWtj7x8eqRKJGkZYGuSzZ_yRrqZyWsb2bjjaiYjLhReQmMHEmdbzDT-Ju5YgkKno8pc_GWHlX44vQ9OEMDJZp8UXkKwAAUHI9nRvlU-VjtGvrdtnRKSjTZfCU2A",
+      "markAsReadToken": "oRmLijp61lo6ItyAde-MlxE5807bUDZT-y-3SOxgnMzbNRWBWsZMQYa9FhEzKy_-sbWI1shgYvAIQkldXHdJooS8aOkbR1UbWQe_Cn3-FU9KFe5tB6tmVeO1-ybET9GT3BSd6jYGVpNsvOyoJjJj5sCXASVf2grqgtJZU7NOK5AXqRFtSmbP8TfF-RCeUX9q4Sr_yNKz8PQlqkz2aObgYA",
+      "text": "@Andy @Julia Lee 佩玲 @Michelle Pan @Nick Chiang \n明天15:30機關Pfi 例行會議，因適逢公燈處預算檢討，因故暫停一次。",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 6,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 20,
+            "length": 13,
+            "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 34,
+            "length": 12,
+            "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7KT4G7QKRYP47A3AN2TVNEC",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794887532280,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "784cb2b37d0a4c4d92c76def91bd0555",
+    "mode": "active"
+  }
+}
