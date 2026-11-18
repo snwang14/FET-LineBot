@@ -1,0 +1,55 @@
+{
+  "EventId": "01M7PT4XAZCC3WN6PXTJ33Y9MK",
+  "MessageId": "641152894141726994",
+  "Timestamp": "2026-11-18T07:50:09.172Z",
+  "ReceivedTime": "2026-11-18T07:50:11.064Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@Sammi @Nick Chiang有兩件事情要麻煩幫忙確認，1.早上資訊室反應平台的資安問題，會牽扯到需求說明書及績效考核評分的部分，需要再例會提出來釐清，在新平台尚未完成前MS1.MS2如何計算分數?    2.之前提到智控器現地測驗給機關的計畫書，若已完成麻煩先給我們一份。若時間允許，也可以先召開一個會議，針對需求做說明，目標能先對齊，避免像出廠廠驗狀況一樣，謝謝。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641152894141726994",
+      "quoteToken": "2dn5lodSxahuWEs8AoprE89PN6oM04wFFscOVqQt9jxp_5-mBzLJ0uIeSjNUvHaBSjp5-i5ViRuYdY3GWklRTyijWcpIjri0OY26WdkBm5A-1h3rfO-8H7ilJApUtFbFX95ptUOPmsWUgOllxagLxw",
+      "markAsReadToken": "B3E6pBE1YXGi_-t8_7Inl_AGzGKlkEOk5wcMtqkRuKhNmEXdxIr4p0JSnK0MU7V--BkhM0p15Oh6sQ9tkG9s0pG165XnKZx0pRDV_E7voKTD6Q7Y4gdABGVskoqZM3Np3Ey2R86yQTQryaJF3OOdMU4A2lRGvAwfO-2-aLnI-_wAUm57tpuz2GB7yUKcuSJicH9NXMBePkIR3CrnRJVW9Q",
+      "text": "@Sammi @Nick Chiang有兩件事情要麻煩幫忙確認，1.早上資訊室反應平台的資安問題，會牽扯到需求說明書及績效考核評分的部分，需要再例會提出來釐清，在新平台尚未完成前MS1.MS2如何計算分數?    2.之前提到智控器現地測驗給機關的計畫書，若已完成麻煩先給我們一份。若時間允許，也可以先召開一個會議，針對需求做說明，目標能先對齊，避免像出廠廠驗狀況一樣，謝謝。",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 6,
+            "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 7,
+            "length": 12,
+            "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7PT4XAZCC3WN6PXTJ33Y9MK",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794988209172,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "229312e497ef49ac9c653ba339bba358",
+    "mode": "active"
+  }
+}
