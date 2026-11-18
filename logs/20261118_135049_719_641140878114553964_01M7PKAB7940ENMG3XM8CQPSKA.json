@@ -1,0 +1,46 @@
+{
+  "EventId": "01M7PKAB7940ENMG3XM8CQPSKA",
+  "MessageId": "641140878114553964",
+  "Timestamp": "2026-11-18T05:50:47.025Z",
+  "ReceivedTime": "2026-11-18T05:50:49.719Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@All iOS 1.0.5（6） 已經可以更新了，\n再麻煩使用 iOS 作業系統的工班師傅，至 TestFlight APP 進行更新。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641140878114553964",
+      "quoteToken": "TJrk1u0MkttL-n1gHsqH9_OtpgIgNjKYcq-lMeEQ4_jXfjqI0VOoYDtd7ts4a71RNiLmbYS-4Y8vtZV25ItEl0-YzRdEYbpQBIKFagNWTGZPNXJLQJpvfiJK6mWG2Fe-c5rg7Nx_UnPkBMK99Y90rQ",
+      "markAsReadToken": "ZZPFAk0mzLNuA_SxiD9BqAkeAzKHlzR3CmC6eW2uXt3U-Rs1lZrfa4Bp0JwQ0jf43rDjbysiizrekHppzfujJQrdc7hatCkRuu4qmvrPlU9A-x0rIonJQ_ic1RvIJjjszNq38CFx6asVWpw4YPeY3qQ7dozAXJ-DBygOEO5V0SV_EvYhgEDsIb4gNET2Wk4Xu1qdmUyYnxMPeOF37zE-Wg",
+      "text": "@All iOS 1.0.5（6） 已經可以更新了，\n再麻煩使用 iOS 作業系統的工班師傅，至 TestFlight APP 進行更新。",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7PKAB7940ENMG3XM8CQPSKA",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794981047025,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "7eb5d1f631b74e3c8d7a894762e55b16",
+    "mode": "active"
+  }
+}
