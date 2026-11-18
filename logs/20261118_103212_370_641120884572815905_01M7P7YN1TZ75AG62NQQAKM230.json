@@ -1,0 +1,38 @@
+{
+  "EventId": "01M7P7YN1TZ75AG62NQQAKM230",
+  "MessageId": "641120884572815905",
+  "Timestamp": "2026-11-18T02:32:09.845Z",
+  "ReceivedTime": "2026-11-18T02:32:12.370Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uff84e2f22ada43f8145f2fd625a33ece",
+  "DisplayName": "陳禹任",
+  "MessageType": "text",
+  "MessageText": "收到，昨天現場提出的優化功能今日會完成，明日可配合至現場複測，謝謝。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641120884572815905",
+      "quotedMessageId": "641111857457529191",
+      "quoteToken": "35Hs2mMvr8v3fjKUpeG62KX-faPkuDGzcXVr5DXMr3HdGmT1noIO8ZYIhY0BcMldYyj4WWadsA4PDbJdGlcbjtrNL7TBcfqtPiOX8KVVhJ7SwD4oqjjmLXU6rb4rsLSuwYN9tXGRtOyiFX1rQGcUPg",
+      "markAsReadToken": "FfjjfXvL5mU2s19srS5XVoossODItxR9-dLfWJ5lo7vA600EuXP9lmopwtKMqS76AKEekr5xntgK2MQExPP95XT_vUg5NbCqMsf-3w1egIe-gUxKSE_fv1eHkxB1usG3crYYKfC31fsKhAkJSqC0F4bfCLMiOs2k1PgQ20ASh5Tk7bG5e0cAx5Jf3bU8w9jnBIuVMJclXsWF7fdrbEbBKg",
+      "text": "收到，昨天現場提出的優化功能今日會完成，明日可配合至現場複測，謝謝。"
+    },
+    "webhookEventId": "01M7P7YN1TZ75AG62NQQAKM230",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794969129845,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uff84e2f22ada43f8145f2fd625a33ece"
+    },
+    "replyToken": "4cec3a969e36412798291642ea214937",
+    "mode": "active"
+  }
+}
