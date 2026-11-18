@@ -1,0 +1,62 @@
+{
+  "EventId": "01M7PN788EGJ9NS4WZ8X7S2CFV",
+  "MessageId": "641144227065758122",
+  "Timestamp": "2026-11-18T06:24:03.055Z",
+  "ReceivedTime": "2026-11-18T06:24:05.016Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@Jason廖賢文 @Julia Lee 佩玲 @Michelle Pan \n今早機關資訊室提出，既有聯陽平台須於 12/02 前完成資安修補，\n聯陽現回覆維運合約尚未談妥，並不確定是否在合約內，\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641144227065758122",
+      "quoteToken": "LgYCJVyZu3hEDoZ1v4DEIen-MKCKewoGmMEcZOoflMVjkzM-hyT0eYIu2PzMrg5huq933BP9Nes2zyOX8Haw9HWRrd6c0iVGbzgQpZ0qsFfZ9fvguip451OdQjDsMCoZtkdAag6pJxN1v-rnyfHrew",
+      "markAsReadToken": "TtXzX55tO64KicwdA6lbhqkt9qIkDM_weKeqgkAHkbf-LHwFOmkelZZucBwfOwghkzRLtj3aTClX1QukBoqlvGBG-eU1ihAFS9kleLA4zIx4XZjnINBFgjz5pf1_9BTo0t-tDAGlEz9MTMff6exR150NI4WYuDbInje1spLZau0J0aRUrF6Dwv0WKu_pn0ZGiXkGioCvKMh3GNV8IqR3iw",
+      "text": "@Jason廖賢文 @Julia Lee 佩玲 @Michelle Pan \n今早機關資訊室提出，既有聯陽平台須於 12/02 前完成資安修補，\n聯陽現回覆維運合約尚未談妥，並不確定是否在合約內，\n",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U21620661d4adb885147ac04fa12857dd",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 10,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 24,
+            "length": 13,
+            "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7PN788EGJ9NS4WZ8X7S2CFV",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794983043055,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "fdae025c75ef4b8eb2398d4538796288",
+    "mode": "active"
+  }
+}
