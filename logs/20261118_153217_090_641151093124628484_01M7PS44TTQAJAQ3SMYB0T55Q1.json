@@ -1,0 +1,37 @@
+{
+  "EventId": "01M7PS44TTQAJAQ3SMYB0T55Q1",
+  "MessageId": "641151093124628484",
+  "Timestamp": "2026-11-18T07:32:15.669Z",
+  "ReceivedTime": "2026-11-18T07:32:17.090Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "黃敬荃 帳號：everlight121\n已解除登入鎖定",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641151093124628484",
+      "quoteToken": "x0w3KGJWzV3t_sp-8f9a1ROgVyzC5YaeregZoQo8z2dx7_BV71vv8Cx7g5HRkXEeBJdo3pd1q47ECweUgT5IWu1WeFLJySG0k0iMLH0HnT_O7dJW-sl7_xoxO_5V6b-zuLFzltvJMPD_zf69b_H4gw",
+      "markAsReadToken": "KdGR-d8NSxuZkzFYekYy8fKD-1650Uuq7Q_W-MFy84ImhdeyVbJ_AbJ92ws3DqsrWUutz80M5soI29ffOs1PR-YU0D3cdjhbD5nWPdTe4UflKVouJxiURz8LvtwBN173RkRpS1bZHIYjG5O9ZXsr-Tn0nNGjgJ25EGB6gTHfZGk32WNQkPAMrWeOeolhxXT0xZC1iFQutmRCeoUgRQEnQw",
+      "text": "黃敬荃 帳號：everlight121\n已解除登入鎖定"
+    },
+    "webhookEventId": "01M7PS44TTQAJAQ3SMYB0T55Q1",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794987135669,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "d5cdd1ee0495400f9160fce0559bae1c",
+    "mode": "active"
+  }
+}
