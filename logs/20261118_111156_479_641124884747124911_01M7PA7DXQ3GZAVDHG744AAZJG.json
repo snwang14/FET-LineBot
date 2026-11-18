@@ -1,0 +1,38 @@
+{
+  "EventId": "01M7PA7DXQ3GZAVDHG744AAZJG",
+  "MessageId": "641124884747124911",
+  "Timestamp": "2026-11-18T03:11:54.300Z",
+  "ReceivedTime": "2026-11-18T03:11:56.479Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "請問1300 OK ?",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641124884747124911",
+      "quotedMessageId": "641121405823353216",
+      "quoteToken": "cXf8SBcBbJU01XDEkrdiSBNGjwJsh9LHmX88q04kdESRoOHrTBz0ydDZLyezwccfLiU2oxfXRjx7HCzTm3Cifj66J-E5TBhlkQUVsU1kgcrDEAlxyMH56VSJEQTw1LI6qG1T7egZdqyb-Yef6cfGiQ",
+      "markAsReadToken": "8vo_GHVUoLFzqlbbXjafvBAclWMZSDPe_MJfo5tfhKXjjvga0s9Ri-kGfrbCq5TmQUQRGPwDfhuBCwevOXCiU4az1OpotXgioz9kAU06f-rsaC1b0yzTCJbIOrv1yIc1utHwZUJbXnC8v06BVj49SQNbYtumGC7DviPY9nbZt6Whb_hak8FIVzm4Cwdzh51Z1uWi-7DAOjCA_DOvwzzPfA",
+      "text": "請問1300 OK ?"
+    },
+    "webhookEventId": "01M7PA7DXQ3GZAVDHG744AAZJG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794971514300,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "34c3de964b254da9be0a4574cdcd3730",
+    "mode": "active"
+  }
+}
