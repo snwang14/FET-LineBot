@@ -1,0 +1,48 @@
+{
+  "EventId": "01M7P884TQ7AYQ1JHKMW0MJ99M",
+  "MessageId": "641121405823353216",
+  "Timestamp": "2026-11-18T02:37:20.694Z",
+  "ReceivedTime": "2026-11-18T02:37:22.476Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@Nick Chiang \n請問明日下午複測，預計幾點到場呢",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641121405823353216",
+      "quoteToken": "ZzQZ9bRj6vcOzASOJF3HYZZmzQCTC2OSjCajs-l5KAfZvBUIMVcb-JmT6THG8hvIqz-0c-KKPxLJOptSx9LNzZ26DBWPccMTugkF15Sf_TkQmWCXGhMW1N4SI3-9JOes81I4i1II5sFwDPy6G3pjqA",
+      "markAsReadToken": "yKGTW_QjY25heLiTGEFR3djTcdtW90r4fFIxR1HBMM-KH_yvqn4jQu053c4hCS6PBm9YG8WflRlwnOBLKPAgaPlH20ZugdnZk5GotfLe_bkdUZZbppdPVC6B7LG5Y_CZXnWaFGqhweK5U4JXDQDpb__XSl5BTpEBiAbWgKjJ_6y1_XXWT83V4q4hu_rPzIOveZst4laPt9xwX3LvHjGATw",
+      "text": "@Nick Chiang \n請問明日下午複測，預計幾點到場呢",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 12,
+            "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7P884TQ7AYQ1JHKMW0MJ99M",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794969440694,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "95bf782196434baba81d15bb4dbe83c2",
+    "mode": "active"
+  }
+}
