@@ -1,0 +1,37 @@
+{
+  "EventId": "01M7PNTEX7WZ8VAM552EJDTT3E",
+  "MessageId": "641145282839183701",
+  "Timestamp": "2026-11-18T06:34:32.342Z",
+  "ReceivedTime": "2026-11-18T06:34:35.347Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "8. 路燈管理平台及智慧園燈等物聯網伺服器、虛擬主機（VM）、代理主機（Broker）及資料庫主機之維管監控：現有智能路燈使用雲端運算服務（如Azure）將智能照明控制器資料經MQTT Broker中介傳回本平台，得標廠商除須提供目前雲端運算服務（包含IoTHub、DataBase、Cache、Storage、VM等）外，並須負責維運、管理、監控運行情況及適時檢視資源，維持雲端運算服務所含應用軟體正常運作。若發生異常情況或資安事件應配合處理或修正程式，及時解決系統故障問題，避免平台運作中斷。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641145282839183701",
+      "quoteToken": "0H5HvMVRywK6ijBpc3tKsMzNoMbWe4z3l29G6hhtvJFLp7u2lJ1QpIhZdVrqOdiIcPHz4oC95-TrMbXUUEGkXVOjJ1sk9D6Hje3kAa5-KxPv48fCMLcnLXKCvLwveah7okhZ03DpiMjU3kHHgpTVlQ",
+      "markAsReadToken": "5GjVpHkGNPYJvT0csJc8hzCFgmxGeQtaQqx97igqac1EJVE9XYYYE8qUMu49o3g6UL8XFOq3AU7KK7hxh86nDrqvl1VoRvUuiCFwm3Snowa6iqCorpdxuoOM2xZ61e-mp74YOZdbXSLAbAEz8k-G9dAYYmhYfpVDN7ha4i4rfrytC34R-78RgYhxd1flTk2yR06HAF225UQ2NSKpOUPZog",
+      "text": "8. 路燈管理平台及智慧園燈等物聯網伺服器、虛擬主機（VM）、代理主機（Broker）及資料庫主機之維管監控：現有智能路燈使用雲端運算服務（如Azure）將智能照明控制器資料經MQTT Broker中介傳回本平台，得標廠商除須提供目前雲端運算服務（包含IoTHub、DataBase、Cache、Storage、VM等）外，並須負責維運、管理、監控運行情況及適時檢視資源，維持雲端運算服務所含應用軟體正常運作。若發生異常情況或資安事件應配合處理或修正程式，及時解決系統故障問題，避免平台運作中斷。"
+    },
+    "webhookEventId": "01M7PNTEX7WZ8VAM552EJDTT3E",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794983672342,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "7c1d364ee5a84a5c84bcbef1c0d9febf",
+    "mode": "active"
+  }
+}
