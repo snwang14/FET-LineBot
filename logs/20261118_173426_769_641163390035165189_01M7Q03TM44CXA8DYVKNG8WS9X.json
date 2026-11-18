@@ -1,0 +1,38 @@
+{
+  "EventId": "01M7Q03TM44CXA8DYVKNG8WS9X",
+  "MessageId": "641163390035165189",
+  "Timestamp": "2026-11-18T09:34:25.127Z",
+  "ReceivedTime": "2026-11-18T09:34:26.769Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "現地廠驗計劃 \n因為平台尚未開發完成，故提送說明 請先釐清機關需求。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641163390035165189",
+      "quotedMessageId": "641152894141726994",
+      "quoteToken": "Oj7GiuXHSc9fN1ROLYiBZnGqybblIsQWUQMLC6NLgYM9eKuO4FUHU-VojgIGdie_yUSb3FulhRUqUlnnOZFcaU7Q3ABl8KmbIFKLot7_9Il_EjufvstF3TlwdRjU05jlZhXCJlTi0uwp_t6PliKeZg",
+      "markAsReadToken": "os_X7WMgIwL1OByB3TA2_n2RsyS7f2adlzmvhaNNxv_Ihj7aetJlUjbcxRawMHxCmyIkKJ2ACL6wQ4QZVjq9mfLmWT7bCjux0IdJVfhmtqyyY7HXVwPHxE5C98jwNqFI8ez3rQxxxuxzpDlz3jebdpaokSr8zYQiN_FNVN12H21M8KgWbbtGFJpZmOSUvhMFjjugJZl1DGJpwP6pymUOcA",
+      "text": "現地廠驗計劃 \n因為平台尚未開發完成，故提送說明 請先釐清機關需求。"
+    },
+    "webhookEventId": "01M7Q03TM44CXA8DYVKNG8WS9X",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794994465127,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "95a909376efb45a9a01f3fd3275ba3e7",
+    "mode": "active"
+  }
+}
