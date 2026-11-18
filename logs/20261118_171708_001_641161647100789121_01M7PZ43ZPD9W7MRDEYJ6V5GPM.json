@@ -1,0 +1,37 @@
+{
+  "EventId": "01M7PZ43ZPD9W7MRDEYJ6V5GPM",
+  "MessageId": "641161647100789121",
+  "Timestamp": "2026-11-18T09:17:06.378Z",
+  "ReceivedTime": "2026-11-18T09:17:08.001Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "針對新系統匯出清單有以下問題想詢問\n\n地位ID : 100615\n在舊系統資料是一個點位有兩盞燈\n\n我們換裝完成後，新系統平台資訊出現的是2個燈具序號\n\n但是匯出清單的內容，卻有出現2筆空值資料\n\n需要麻煩協助確認是什麼問題造成，主要是我們現在在彙整空值清單，發現以上問題，再麻煩協助處理\n\n感謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641161647100789121",
+      "quoteToken": "vuomIVB52g4K2zZhKWLtl6D7b4WxeJbVWPiGNNAyoO8mMFR3tbcHpgPJpkWCpKRZgUJdQw4kHRBtGHkKQHJ57CJdMoc8G9TiiBGgGr0XUh0gCVt-dEbVAn-ifMdCc9idjpQFzq8ahoOdfMGKgWa_Ng",
+      "markAsReadToken": "iNSiTgbotE10mvFrSazlsH34VbxNXR0DwmlYWaNCTf3cN-dR-yWGAlEIfCGE0Ix_AcOXsJXvz0PAbNGHdYp-9G2PJZemHRIGPejVeOhjMCxTVYMmFFOKAIwjq7KbZuj2sJDwkkFRSjkhpoBcXJ8ihjVqNKoPhFmAGKZvC5Av714g2C3ww69uWJaPEG1KTDhx3IOzW0ydtX6yup_RQh8VBw",
+      "text": "針對新系統匯出清單有以下問題想詢問\n\n地位ID : 100615\n在舊系統資料是一個點位有兩盞燈\n\n我們換裝完成後，新系統平台資訊出現的是2個燈具序號\n\n但是匯出清單的內容，卻有出現2筆空值資料\n\n需要麻煩協助確認是什麼問題造成，主要是我們現在在彙整空值清單，發現以上問題，再麻煩協助處理\n\n感謝"
+    },
+    "webhookEventId": "01M7PZ43ZPD9W7MRDEYJ6V5GPM",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1794993426378,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "342a048fe7e648f48b753990b869277c",
+    "mode": "active"
+  }
+}
