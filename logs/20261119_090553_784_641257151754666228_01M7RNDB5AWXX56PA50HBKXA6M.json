@@ -1,0 +1,38 @@
+{
+  "EventId": "01M7RNDB5AWXX56PA50HBKXA6M",
+  "MessageId": "641257151754666228",
+  "Timestamp": "2026-11-19T01:05:51.585Z",
+  "ReceivedTime": "2026-11-19T01:05:53.784Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "目前現地實測在廠驗計劃書內僅有需求書內的描述，主要在敘述測驗項目和方式，請問和機關釐清流程和詳細標準後，遠傳也會再提送一版現地實測的計劃書嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641257151754666228",
+      "quotedMessageId": "641163493567627358",
+      "quoteToken": "SARVe0GSs30nNaOIR2qPOBtK3I31aKf-p9pezHooShspiSSjho8op-LHzHvdvR2iYN3gBW0YBmHg5-bA_TFfD5utfjBsdNuH8JrUX6HWEfGLTwLhHrIliGAOigVZkdJNJ7QmqJ5g-tiOCKuZG23jcg",
+      "markAsReadToken": "1JPcH8OEHneRioNEw2AlrgQfwZ4SpCNUpJUBp-Klo8C2rVHoBADrjPVepWXa7ElRRzhiK8GY0EWNVzwEO1Vmn_cLehxcCC665MlPiwIXILp6ms30PEhMa0kS6e0PbcbS7tlZV4r7cNRHiZs3IBjrD-6_vUyVIwTCWr3dBJkfNujJlB7JFZ1sHRoLAM8FqLf4H54ut8ArQjjtto4FApynoQ",
+      "text": "目前現地實測在廠驗計劃書內僅有需求書內的描述，主要在敘述測驗項目和方式，請問和機關釐清流程和詳細標準後，遠傳也會再提送一版現地實測的計劃書嗎？"
+    },
+    "webhookEventId": "01M7RNDB5AWXX56PA50HBKXA6M",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795050351585,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "7c84fb43ff18416bb7846544fc15ec72",
+    "mode": "active"
+  }
+}
