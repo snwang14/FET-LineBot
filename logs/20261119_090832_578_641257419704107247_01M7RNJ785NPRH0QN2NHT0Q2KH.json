@@ -1,0 +1,37 @@
+{
+  "EventId": "01M7RNJ785NPRH0QN2NHT0Q2KH",
+  "MessageId": "641257419704107247",
+  "Timestamp": "2026-11-19T01:08:31.122Z",
+  "ReceivedTime": "2026-11-19T01:08:32.578Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "另外也想確認，現地實測時間點應該是落在每批智控器安裝完後由廠商提報，\n那第一批次的智控器這邊有預計什麼時間段完成安裝或提報嗎～",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641257419704107247",
+      "quoteToken": "REcj2yHuNU_O62gppP2miECbwVgHBArJbow5ewM_PO07fTDP4Hr7T-gsWb9cZ_TLjxckvfOs3OdCrXXFgg0WHeBO1C3HuYj7TpzTLpjzusXDBSzyDPUsA_8bb5UJPD3ZdgK94dVv6v9KVMW0048dOg",
+      "markAsReadToken": "Dn9hwJF2D6E9FgbEQYHMIx_rLERVeOz73lsW9HYemI25QX4ZCeUyYRHa2b5aiWOjJziF_24NO9J-Iz0O40RNqkRq7KQRtxhJk5lZysYa5eTrbQ7oDgJkdoNE8J16N9_9LZoICoD4YS45VNLtu6ljARt9eFxaPmQSAUWn8kuJUiCf8vmUR7Xmvvx57If6z_OXtldDd8W0qv2mnQgxOX2fnw",
+      "text": "另外也想確認，現地實測時間點應該是落在每批智控器安裝完後由廠商提報，\n那第一批次的智控器這邊有預計什麼時間段完成安裝或提報嗎～"
+    },
+    "webhookEventId": "01M7RNJ785NPRH0QN2NHT0Q2KH",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795050511122,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "7c151b38807f441fa016aa9ae0229bfd",
+    "mode": "active"
+  }
+}
