@@ -1,0 +1,55 @@
+{
+  "EventId": "01M7SKSEV30DKSZCY2BBBJH32E",
+  "MessageId": "641310593864695847",
+  "Timestamp": "2026-11-19T09:56:45.544Z",
+  "ReceivedTime": "2026-11-19T09:56:47.128Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "@陳禹任 @Julia Lee 佩玲 \nHi \n已溝通PCM提早出門15分鐘\n08:45公燈處出發\n廠驗時間預訂可以提前0930\n謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641310593864695847",
+      "quoteToken": "4_EnrZz7arkc-WyvOG-yztcbNPxdtRRf0BGZeZlgxz7eEnflR1jsImfUOOH98PF_eN3eiWYkg2l3JRrg-ISMR69wbVOvnegh42NFbQPGAvVti09fI0ql9tFoGkoWLAt6a787T67rvKsqMj7xVK0dYQ",
+      "markAsReadToken": "6R3LWh9KLB3r_Kqml0L_MtdHYnRhGwK-KIWxnI2mDJSzNk_UyyZBnUaM7cAn1Hz_28jgy_BGim0cnzluAnhLMNrsiAaWTCcV9pTXdysEtHgBAuhQFBCCUniteKQx1Q1uTBuA9GVoSVt6L-_ck2aoSYq7laJmU3YUvsUt5y1wuyPtkec2rLOVd1o4Fz67aYoH3ng-VUsosu86dag8fTo_ow",
+      "text": "@陳禹任 @Julia Lee 佩玲 \nHi \n已溝通PCM提早出門15分鐘\n08:45公燈處出發\n廠驗時間預訂可以提前0930\n謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "Uff84e2f22ada43f8145f2fd625a33ece",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 5,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7SKSEV30DKSZCY2BBBJH32E",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795082205544,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "762627cf5c9b4fb4891500fc0e6200ff",
+    "mode": "active"
+  }
+}
