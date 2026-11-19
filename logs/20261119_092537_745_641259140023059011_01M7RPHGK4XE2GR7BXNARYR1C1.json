@@ -1,0 +1,38 @@
+{
+  "EventId": "01M7RPHGK4XE2GR7BXNARYR1C1",
+  "MessageId": "641259140023059011",
+  "Timestamp": "2026-11-19T01:25:36.514Z",
+  "ReceivedTime": "2026-11-19T01:25:37.745Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "控制器交貨安裝部分,\n前提是廠驗必須完成.\n我們先以廠驗過關為主吧\n \n\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641259140023059011",
+      "quotedMessageId": "641257419704107247",
+      "quoteToken": "Dv4qfVyitTsUesm8f7LKSXYk-xA_KhOEhByW0hJf90j2JLWEa4mvD2cPk7CSsZH4fy4mzWoZiuwvoFszLSx03GVMcQTClU7P6m31ONnA5Coxh5W3a0GA-u55lX9J2BNCivdsbF3jC15AhfjPxqUBkw",
+      "markAsReadToken": "uijLGqevhj6v8mIL8ZLYclASrdIwVRFIl4iFIM-6g5YSfv1A6Pd9yvnZLHubdbB46ccqsHN75HWKRMW8Ayw0CICildQE5Tt8Q-Ooy-n8ASUf1zSvVam-E5E_UnmNl4XP6_VSkPexHkQ3QwrH5KGNNhXI8akgaYkw-nieQwAiWUvVNlYyY-66cVCCJ3LXgxy2MH78UAWgIUYtrY34_Mb-GA",
+      "text": "控制器交貨安裝部分,\n前提是廠驗必須完成.\n我們先以廠驗過關為主吧\n \n\n"
+    },
+    "webhookEventId": "01M7RPHGK4XE2GR7BXNARYR1C1",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795051536514,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "da5100bc46994ed493e1bb9dff81cc43",
+    "mode": "active"
+  }
+}
