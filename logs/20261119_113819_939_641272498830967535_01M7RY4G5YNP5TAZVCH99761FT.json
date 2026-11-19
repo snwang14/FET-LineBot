@@ -1,0 +1,38 @@
+{
+  "EventId": "01M7RY4G5YNP5TAZVCH99761FT",
+  "MessageId": "641272498830967535",
+  "Timestamp": "2026-11-19T03:38:19.010Z",
+  "ReceivedTime": "2026-11-19T03:38:19.939Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "桃燈換裝匯出範例請平台小組參考，謝謝！",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641272498830967535",
+      "quotedMessageId": "641272411337785583",
+      "quoteToken": "TA8INrBzsDgOrqa2lc8Cs6s6VM_syDk15_AYzJ0g8uEhMwrW8njsOg_7BkpdEv1Um5BASVwC2F8pN_B_Bu7f2wlj-dw3DTBCYrD-CAnPVcc0jfc1rk4ITV2GKtK5DHGLnzzNjFsr-RtHOUCUiLrkYw",
+      "markAsReadToken": "McAKzXZNMXhuN-9qpLOsbDR_jNfB7IizCReSzXze2r692nFdVSZ-ZAUkIu-qlTEPlepu2C2kvCnnDGaSl9jwHm0mDV8oTDrswG3TMlirWxXVu9OSgMdi22K_NEXqTSSD7Eir8fIp7EqcLvKd-8kW3HfALOvXG65DcFQyjS_o_B-tSPqklTZs5KO7IMTgrDJUtTuof8-FfLo_9b2JsJmcxQ",
+      "text": "桃燈換裝匯出範例請平台小組參考，謝謝！"
+    },
+    "webhookEventId": "01M7RY4G5YNP5TAZVCH99761FT",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795059499010,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "db11b05038ee44f188ac38a6edfac0de",
+    "mode": "active"
+  }
+}
