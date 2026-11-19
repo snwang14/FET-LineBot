@@ -1,0 +1,38 @@
+{
+  "EventId": "01M7RPP02KKVE7FB98JFMSRKZW",
+  "MessageId": "641259386714718864",
+  "Timestamp": "2026-11-19T01:28:03.607Z",
+  "ReceivedTime": "2026-11-19T01:28:05.009Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "這部分屬於專業技術部分\n麻煩 貴司幫忙了~\n每個環節都很重要\n謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641259386714718864",
+      "quotedMessageId": "641259117289930924",
+      "quoteToken": "2xOqFpfBvyntqF1tj2qU59H6FjF3IhdWInuFmrpfjzKTaXRNYz0Ivd_NqBJnK2_FwMVdm3kqGDWqZR6DsElzNVXyC0PLsacYUIs9UOHvmsLnyWtdp-WThuKyJBngDngTt04zSHpWJ7-fPsJ-VvrHTg",
+      "markAsReadToken": "qXp_ydVrEFf1FkSEtEYps9DZYYAlqMz-Bc5KeBiTVihDd_ST_5j7LgGIIIn_E9bAZlEJU5hJ0yRipTtyaIeinBv2VJspmWIm5_iMxlieWVd3wjyYZoF2QqfSOdGcFPwD-F9BuAoSF8jXPZiC7IWos3ZCNQI-MmbBOs7r0qd7ZSURphXHblVa34lqW0VXQmFR1UIDaeLYfGcsHFCqASL20g",
+      "text": "這部分屬於專業技術部分\n麻煩 貴司幫忙了~\n每個環節都很重要\n謝謝"
+    },
+    "webhookEventId": "01M7RPP02KKVE7FB98JFMSRKZW",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795051683607,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "9025735260484e1782af5b7ad1c99741",
+    "mode": "active"
+  }
+}
