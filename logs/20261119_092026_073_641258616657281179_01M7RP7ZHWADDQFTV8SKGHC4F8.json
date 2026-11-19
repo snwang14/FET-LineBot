@@ -1,0 +1,38 @@
+{
+  "EventId": "01M7RP7ZHWADDQFTV8SKGHC4F8",
+  "MessageId": "641258616657281179",
+  "Timestamp": "2026-11-19T01:20:24.569Z",
+  "ReceivedTime": "2026-11-19T01:20:26.073Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "這部分細節須平台可正常控制及呈現 才能與PCM討論現地實測",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641258616657281179",
+      "quotedMessageId": "641257151754666228",
+      "quoteToken": "F9XQo7TV8NBIUbV1CZPdncFgvDad4nI_gj83t0CvSxmAKgjWhI5Y744G1nGGQvG-KkCGq5cqhjWa5mqDT4z3M_Teg1Uxo9Ur5EyBy7e4kBUfRFgpxQPeijsTh4SD6gmVLChkb_pnhSMbwIL9s22ksA",
+      "markAsReadToken": "qSKg2_JjsDcMMzV-BZA-WKBs7LfWqHUu9_oFTmYn-Ipbnfy-o92HVeDc4Tbtx0PuZQtAle3-ViZFZkNvxmLLbhiJe7puV1clS8d7PGahojoiWRjwEKaE13DMux8PbB6PB3K1_citE6685IU9yDr84m1h3jeu5mgFfAC0XQrWD360aqRm_ggV4TUGCLVs7ry1NYRn1fp3IkDifCK7c2Y6JQ",
+      "text": "這部分細節須平台可正常控制及呈現 才能與PCM討論現地實測"
+    },
+    "webhookEventId": "01M7RP7ZHWADDQFTV8SKGHC4F8",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795051224569,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "52c51c5f7d9b4d71ba33d4a6ae384437",
+    "mode": "active"
+  }
+}
