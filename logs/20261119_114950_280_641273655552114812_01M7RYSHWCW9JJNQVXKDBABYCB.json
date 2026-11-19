@@ -1,0 +1,37 @@
+{
+  "EventId": "01M7RYSHWCW9JJNQVXKDBABYCB",
+  "MessageId": "641273655552114812",
+  "Timestamp": "2026-11-19T03:49:48.636Z",
+  "ReceivedTime": "2026-11-19T03:49:50.280Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "目前匯出換裝明細部分會先以 .xlxs 檔的清單為主，\n另圖片匯出以列入開發排程，會以資料夾進行分類",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641273655552114812",
+      "quoteToken": "2at7G8HZDpQ-Q9Ge2MSw7l9eNG5h6-fOdRcpKOIejR0-uBoqfRe8KqXTqkmj1mDcF2WjKkN1UeAN9ZeIaV6YQXtc_ohheo_QcvWqshIJAjszvkQMPO2UEmYNDDB72_iq7uF5oUrnJK0_KnlDRadbLA",
+      "markAsReadToken": "43vw8Md_Aj38D5o9LK3mc3ljaDHqeWWDsKXkRoLOT9IjkRoFbKeq6td9nmNHnwkTGQdfxGPNy8m9E3BZo7JCsuAVXhBlNUgj4hJgsfCXadZ1BSpWAbjJuRncbmnu_6UheQzVKo3kPfflCjA3LJQzLWQ399KXNrCbKQAgG00IvSMBytZTH-M4ZWpsN9tZedSCAlaC-K2ZU8bkROulwJIZ6w",
+      "text": "目前匯出換裝明細部分會先以 .xlxs 檔的清單為主，\n另圖片匯出以列入開發排程，會以資料夾進行分類"
+    },
+    "webhookEventId": "01M7RYSHWCW9JJNQVXKDBABYCB",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795060188636,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "7fb11bee490a49cba9e61604fea39a9b",
+    "mode": "active"
+  }
+}
