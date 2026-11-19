@@ -1,0 +1,49 @@
+{
+  "EventId": "01M7RR2YZNP3HVHTQMV5NB1QMG",
+  "MessageId": "641261858250555549",
+  "Timestamp": "2026-11-19T01:52:36.860Z",
+  "ReceivedTime": "2026-11-19T01:52:38.711Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+  "DisplayName": "Sammi",
+  "MessageType": "text",
+  "MessageText": "@胖仙女 有關議題ㄧ請安排會議討論，謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641261858250555549",
+      "quotedMessageId": "641152894141726994",
+      "quoteToken": "BeDP7QCFByWRg1GqfS30ZJluFafB4eJ9DGfa-XTxmIkpi_blswDPNuMxF-d9EkkG87JmGqvf86IEssc6842dqMUQY2hswa3F0JQw7mNpHsbN8op-IsoQoSHbfl6pDy8WJEqPqZ1HS86R-lPrjHTGRQ",
+      "markAsReadToken": "m3nIm6nZplCN-V02mI0XyH9yM752jTee79CMu_Yd7IObtjr2FVb9LLhpcbm5c1Re21kFRWmzQCGhd2-8W1sIoFM-LEIyEgBEYuQjeXGhSKadVVlL3tlXzWDnZwqshg9Ay4IFdQrI0RuR5l1DDSOt8aCxa1YN9mRXwglcsV7bzVGY43gs7fXrOnLiQ2vx_XgOaTnG9XX04TUgLQuvcC-xYA",
+      "text": "@胖仙女 有關議題ㄧ請安排會議討論，謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7RR2YZNP3HVHTQMV5NB1QMG",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795053156860,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7"
+    },
+    "replyToken": "d2d544a1234b4d6eb467245eeebb7391",
+    "mode": "active"
+  }
+}
