@@ -1,0 +1,38 @@
+{
+  "EventId": "01M7RPE0QHE8C2W9F2YG35FJMW",
+  "MessageId": "641258947654713796",
+  "Timestamp": "2026-11-19T01:23:42.009Z",
+  "ReceivedTime": "2026-11-19T01:23:43.300Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "Hi Alan \n這部分細節須麻煩請平台可正常控制及呈現 \n才能與PCM討論現地實測方式與是否再提送計畫書\n過往經驗分享因契約條文不同 無須現地實測,頂多配合機關前往調光試驗\n請依照契約73. 11-智能路燈及平台測試驗證辦法-1150408\n設計驗證 謝謝\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641258947654713796",
+      "quotedMessageId": "641257151754666228",
+      "quoteToken": "m6h3BtX63Ip_lAAFz7T7XZskC_vsTXp1lYYJKKC3ZBHD3Zkt2Ibh1gCUp7QEj0uCtOwwWqvumSt5VqI37wRpf8FSCZgdNUGqrMKjx3TAKxayqghuryNgcdmgX5K0PM9fbdVIHZkD087EJjvpiuWLbw",
+      "markAsReadToken": "TWfPznmF9GudhRHFp6YkjHrahmdXo5YksamJouSBHeA6x_NbooGQGlkwKFdjSUMfrcRBV1_XxMnIKLzpxvlTfxYkRecoxVFYLDKwwEmDb7-h07z1Mhab8xj3Udr9O7E2fOsTqzl8ragjJzy1nY2NMVm7XW_GkS5pJe4k_FKkLpn_VZdDjAEs-Iw_5DebLvZOWCxX0OSiZnmIX_trx3M4Ag",
+      "text": "Hi Alan \n這部分細節須麻煩請平台可正常控制及呈現 \n才能與PCM討論現地實測方式與是否再提送計畫書\n過往經驗分享因契約條文不同 無須現地實測,頂多配合機關前往調光試驗\n請依照契約73. 11-智能路燈及平台測試驗證辦法-1150408\n設計驗證 謝謝\n"
+    },
+    "webhookEventId": "01M7RPE0QHE8C2W9F2YG35FJMW",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795051422009,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "623c68489cc84218b0bca2694f3472f7",
+    "mode": "active"
+  }
+}
