@@ -1,0 +1,46 @@
+{
+  "EventId": "01M7SKHMMSP5PJA2F754P0T0TK",
+  "MessageId": "641310164485406967",
+  "Timestamp": "2026-11-19T09:52:29.569Z",
+  "ReceivedTime": "2026-11-19T09:52:30.904Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "@All \nHi all,\n感謝遠傳、思納捷\n各位夥伴今日（11/19）的全力配合，\n特別感謝思納捷平台商在短時間內積極配合修改與優化系統驗證工具，\n完成更貼近現場驗測需求的人性化介面與邏輯調校，\n第1批次智能控制器_模擬廠驗(第3次)與相關流程測試皆已順利完成，\n期望明日（11/20）正式廠驗順利過關！\n謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641310164485406967",
+      "quoteToken": "9S8C4p0EYIjgghHwmdD1nFvYGISqnP8_3k0DUag2o3BTBDZRyS8icRJOADYKB0toSHKuFgPREqCYeiRHjUR6Wnfft6DHR2_3ITp6JyOi-DofOHgApQCCD15tsQ7nDQm9ypNU3Gobi5S3Lh3eoXyv6w",
+      "markAsReadToken": "SIzvgRkrFG15hhnNo9VoBnChh4uAr-fQoZvtVmpbRfvLh-4qP7tg5pK7gC009YgA5Ay_vfrATOSl4Sb2UuqTeeEkp26PVJHBMHCS2bVlD8LQtgZMBuu7w7XZLQwGe4DrpWv1M7DNBV4QlSgf6GpAVy-4q6KKtmgAkMZt6qNpYXa3AhDeum8fhyEZeqK_etfjO8oEa3vlzTzuSRfVCSeRyA",
+      "text": "@All \nHi all,\n感謝遠傳、思納捷\n各位夥伴今日（11/19）的全力配合，\n特別感謝思納捷平台商在短時間內積極配合修改與優化系統驗證工具，\n完成更貼近現場驗測需求的人性化介面與邏輯調校，\n第1批次智能控制器_模擬廠驗(第3次)與相關流程測試皆已順利完成，\n期望明日（11/20）正式廠驗順利過關！\n謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7SKHMMSP5PJA2F754P0T0TK",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795081949569,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "66c512c49d3d49759ca75a952506c7d6",
+    "mode": "active"
+  }
+}
