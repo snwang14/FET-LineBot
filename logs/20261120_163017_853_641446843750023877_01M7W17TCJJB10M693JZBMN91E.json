@@ -1,0 +1,37 @@
+{
+  "EventId": "01M7W17TCJJB10M693JZBMN91E",
+  "MessageId": "641446843750023877",
+  "Timestamp": "2026-11-20T08:30:16.705Z",
+  "ReceivedTime": "2026-11-20T08:30:17.853Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U7e90e7c8561ddf5141f4ab0d516a30a2",
+  "DisplayName": "昌彥",
+  "MessageType": "text",
+  "MessageText": "我在系統上找的到\nTL01-03-056-202608-031953\nTL01-03-056-202608-031955\n就是找不到031954",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641446843750023877",
+      "quoteToken": "Sjozh22JY5pOctcQqb7hBjPFrcxyFRV_sSpdhfDWgFSJws4otJiCKqyDIMSc2FEATlctGG2i5uMAuqZAcCcQxRLCHOeYxP_E5uQAY-YNNCZnKOCS--tnRQrBfTqfY2aBL9HPnXsa0lEb31OWfPXFWg",
+      "markAsReadToken": "lrnd8vvQpRlX8F1M0EB-C7FkCpKI1Ae5hTvzAfqWbE1moApqmNmjJ-N14rxymu2q3mP7LaAEMuSAG-RfMV5b1Au7ErL5e-DLzCp_XWqIPP-lybu7SSfpjSnJZA6Rub9pyMvcPbCTXEFkTu8SPfIskz-O9b61fje_n7gkuuLb5Qy3XtvMOXQYDlpsdny09TMVHiC_EU3TpfBvPtiZ2OgxJw",
+      "text": "我在系統上找的到\nTL01-03-056-202608-031953\nTL01-03-056-202608-031955\n就是找不到031954"
+    },
+    "webhookEventId": "01M7W17TCJJB10M693JZBMN91E",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795163416705,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U7e90e7c8561ddf5141f4ab0d516a30a2"
+    },
+    "replyToken": "321061e0bfcb430d94071a7cee1e6d96",
+    "mode": "active"
+  }
+}
