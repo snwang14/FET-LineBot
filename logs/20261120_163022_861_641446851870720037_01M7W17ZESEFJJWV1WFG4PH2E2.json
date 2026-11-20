@@ -1,0 +1,40 @@
+{
+  "EventId": "01M7W17ZESEFJJWV1WFG4PH2E2",
+  "MessageId": "641446851870720037",
+  "Timestamp": "2026-11-20T08:30:22.113Z",
+  "ReceivedTime": "2026-11-20T08:30:22.861Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U7e90e7c8561ddf5141f4ab0d516a30a2",
+  "DisplayName": "昌彥",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "641446851870720037",
+      "markAsReadToken": "4DBPWgGUxDJgM-pl2j8VcuNYURLYm-pBbxNarboiCYofnd_Lvn5ltGlC-yRYChuBvB6MldelkM2TD8LSKMuFxvS2ggqHYli_dQ0Lk4BgfWYbMIVPin-hqEhHlVsHS5zUNQiV5q7-I8XVkI1_Eb8PTbxUVneCw2kfXgVWNUNwxPFuncQJWsMU3J-ii_ye9Pa_uDZIQbWtgu7QDhmgDnn32w",
+      "fileName": "遠傳_燈具規格欄位格式_第一批次_3660盞(編碼).xlsx",
+      "fileSize": 548240,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M7W17ZESEFJJWV1WFG4PH2E2",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795163422113,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U7e90e7c8561ddf5141f4ab0d516a30a2"
+    },
+    "replyToken": "97d2d27cc74e498392851bc721c9af66",
+    "mode": "active"
+  }
+}
