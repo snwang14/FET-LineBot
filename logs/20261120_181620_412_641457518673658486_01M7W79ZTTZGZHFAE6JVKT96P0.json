@@ -1,0 +1,44 @@
+{
+  "EventId": "01M7W79ZTTZGZHFAE6JVKT96P0",
+  "MessageId": "641457518673658486",
+  "Timestamp": "2026-11-20T10:16:19.408Z",
+  "ReceivedTime": "2026-11-20T10:16:20.412Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "sticker",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "sticker",
+      "id": "641457518673658486",
+      "quotedMessageId": "641457490588336472",
+      "quoteToken": "YNs-FtxsoehnhNPm73cTtqD_vXtKbG5oL_rgm2HOVOfXzZQ0Lt2Sq2r_AnVAp_mY4eG8VTd6zYe_Zzw5O_vqdHB9ze4evr9DjXEfiNi9GnMab90UktMn47_9kTAbISKX4DQ2PgfAhBKEPowlkJ7img",
+      "markAsReadToken": "qYVdgk6WmtyN1k6E5EUac8g-x2_hE74f-LvJq2FsoNv6cL1v3kGlDkaxRcwc8hCcoAcT4_a4Jr0aGs1wF5DwMTkYE9OhUYaFnuv96M-kUNWwg_y_NeZuB9meH7YvOfKFefCCrIsTNwxHK3bfSwYpFE1yifgWnxJpoWlpTmlBTrvJUrZNLkBhuAGBmp3QBqDhW5P6SxjeGEnlaNm4-vbgqw",
+      "stickerId": "37520",
+      "packageId": "1904",
+      "stickerResourceType": "STATIC",
+      "keywords": [
+        "Bird",
+        "Thanks"
+      ]
+    },
+    "webhookEventId": "01M7W79ZTTZGZHFAE6JVKT96P0",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795169779408,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "29586706fe744e61a21970f6d5595db1",
+    "mode": "active"
+  }
+}
