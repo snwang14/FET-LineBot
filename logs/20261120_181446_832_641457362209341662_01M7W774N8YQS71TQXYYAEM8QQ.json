@@ -1,0 +1,48 @@
+{
+  "EventId": "01M7W774N8YQS71TQXYYAEM8QQ",
+  "MessageId": "641457362209341662",
+  "Timestamp": "2026-11-20T10:14:46.142Z",
+  "ReceivedTime": "2026-11-20T10:14:46.832Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "@陳禹任  \nHi \n廠驗序號&截圖\n後續再麻煩提供給我\n我需要製作廠驗報告\n謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641457362209341662",
+      "quoteToken": "UirCQTT24bzHbWTNz1DMs-Be3gcUJkWZ4JJEoDaN4u08nMKQk12gnn8v0vROmt1IR3cN5EHTMJKRl_gi6Tgg5-WmsgafAQ8Ui7pGnLljpvvnQJ-pX3kGxlE66pEx0XN1lWeIkLilYVcR4hs7T9KVwg",
+      "markAsReadToken": "fIfEEOsPk70vKE0olSChJORC2ke4438Sw5FHcWGZigV2j8JBK2X7qdQgJZ-MEsCrvXZElIiDlSL4RwSCNV4QuEcODkRpIvuZElAtdFSxX5z11khlSDonvUN7iJUSuv8n6OEN-KL61x1A4_TxX8HONKkfqEFahy8eZVljcdrBAZaEMsAar0uKBl7d815tR580oAZDy8RqnT4hL0M8ValmHw",
+      "text": "@陳禹任  \nHi \n廠驗序號&截圖\n後續再麻煩提供給我\n我需要製作廠驗報告\n謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "Uff84e2f22ada43f8145f2fd625a33ece",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7W774N8YQS71TQXYYAEM8QQ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795169686142,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "974dcf7ddc6445129dabd45c4840b160",
+    "mode": "active"
+  }
+}
