@@ -1,0 +1,38 @@
+{
+  "EventId": "01M7W92EH4FW68FYHYM06NTDEC",
+  "MessageId": "641460622055702650",
+  "Timestamp": "2026-11-20T10:47:09.346Z",
+  "ReceivedTime": "2026-11-20T10:47:10.602Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Uff84e2f22ada43f8145f2fd625a33ece",
+  "DisplayName": "陳禹任",
+  "MessageType": "text",
+  "MessageText": "麻煩加我好友一下喔，我傳資料給你，謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641460622055702650",
+      "quotedMessageId": "641457518673658486",
+      "quoteToken": "Wtf8U-nCymppoZ4w2EHP5BG-wdWPpyThapEBEUHEdbFNp55d2RH2FNnfFuMsIAv0uJzL-1DXy7dURFxoRuk4HSSQopYVwrJb2hbgQqQ5ozYaDecpvxDIo3iSA9V0LPcnVHGCGhrOOkphX_fFynV7hA",
+      "markAsReadToken": "OJQUS0w3ac0HyKN-lxVuqyM2KXVhFpGFFjQaTpNp4wJIffRWWOa_cSCzP38S_Jk8w_t0amUsBjTC388mIdGz9jv-mBgLiANlCan8hWn0UTQsnrWtMi7V64DTtdonm3tRzsly24Na1Ca6Q3r5hqHt7yZLOtSc9muvu53hPFpgsUTJQ583DHxMKmGqZ60wxj_k0iKlGWurpyPGh3ZNigulKg",
+      "text": "麻煩加我好友一下喔，我傳資料給你，謝謝"
+    },
+    "webhookEventId": "01M7W92EH4FW68FYHYM06NTDEC",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795171629346,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Uff84e2f22ada43f8145f2fd625a33ece"
+    },
+    "replyToken": "38c5029b3d9948009c0297e9c84e701d",
+    "mode": "active"
+  }
+}
