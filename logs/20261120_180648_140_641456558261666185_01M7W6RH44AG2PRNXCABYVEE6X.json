@@ -1,0 +1,46 @@
+{
+  "EventId": "01M7W6RH44AG2PRNXCABYVEE6X",
+  "MessageId": "641456558261666185",
+  "Timestamp": "2026-11-20T10:06:46.963Z",
+  "ReceivedTime": "2026-11-20T10:06:48.140Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "@All \n各位團隊夥伴辛苦了！\n今日（11/20）\n第一批次 廠驗已順利通過。\n這段期間非常感謝大家的全力投入與不懈努力，在緊湊的時程下靠著團隊緊密合作與嚴謹把關，順利拿下第一階段的重要里程碑。\n針對廠驗後的現場檢討，後續請大家配合落實以下 4 項重點與建議：\n1. 強化跨單位橫向溝通：\n技術規格調整、系統界接與現場排程，請遠傳、IDTT、光林、思納捷及富鴻網等各窗口務必保持即時溝通與資訊同步，確保各方認知與執行步調一致，避免資訊落差。\n2. Root Cause 再確認：\n後續錯峰參數將統一更新為 3 倍，請相關窗口再向光林與思納捷做最後確認，釐清先前韌體差異，確保完全符合網路協作機制。\n3. 嚴格落實變更管理與 Double Confirm：\n務必落實版本控管，未來凡涉及運作機制或參數調整，皆須事先評估並完成驗證；光林投產前與每次廠驗前，團隊也要執行 Double Confirm，確認版本與功能無誤再行推進。\n4. 11/23～11/25 現場更新與清冊把關：\n更新作業將分批進行（第一批 1,500 顆、第二批約 3,000 顆），請現場依光林「每箱 60 顆」分箱清冊逐顆更新並打勾核對，由思納捷與遠傳協調富鴻網派員把關，確保無漏更或錯出。\n再次感謝大家的辛勞與付出。\n謝謝\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641456558261666185",
+      "quoteToken": "SoSXlySm0FcW3gVjKifccDoFzaGxcVgyji1pQV_qVMwppSw_5ZvDnli4TzXhP9ewcnbptS2FkFR5XCXZqWiw-DmmLx2X05nhomvbaMypDp8QB-0kLYIe2oaaO83unCa_VKoks8Zn5NpwZ8UCFJCkEQ",
+      "markAsReadToken": "Oa7mwDKd4v4QwKQrRc8cLPS8s6Ke1X_LMNzh27BSarfH9EYtz0f-LqiimL_DKVlUojw_Cask8i9SJncDZInxp5Fu10DBvWP4h-RFG_JxM2hCPjehQb-0Pt7s5pmgsMPn4_z8KXujCKqDDHpS4QjKHLUTDJ7jjoda7BjQGjc9PeTrqzendgvg8BPJj62-ipbETfJwC3I_lWGPIDSB76DF3A",
+      "text": "@All \n各位團隊夥伴辛苦了！\n今日（11/20）\n第一批次 廠驗已順利通過。\n這段期間非常感謝大家的全力投入與不懈努力，在緊湊的時程下靠著團隊緊密合作與嚴謹把關，順利拿下第一階段的重要里程碑。\n針對廠驗後的現場檢討，後續請大家配合落實以下 4 項重點與建議：\n1. 強化跨單位橫向溝通：\n技術規格調整、系統界接與現場排程，請遠傳、IDTT、光林、思納捷及富鴻網等各窗口務必保持即時溝通與資訊同步，確保各方認知與執行步調一致，避免資訊落差。\n2. Root Cause 再確認：\n後續錯峰參數將統一更新為 3 倍，請相關窗口再向光林與思納捷做最後確認，釐清先前韌體差異，確保完全符合網路協作機制。\n3. 嚴格落實變更管理與 Double Confirm：\n務必落實版本控管，未來凡涉及運作機制或參數調整，皆須事先評估並完成驗證；光林投產前與每次廠驗前，團隊也要執行 Double Confirm，確認版本與功能無誤再行推進。\n4. 11/23～11/25 現場更新與清冊把關：\n更新作業將分批進行（第一批 1,500 顆、第二批約 3,000 顆），請現場依光林「每箱 60 顆」分箱清冊逐顆更新並打勾核對，由思納捷與遠傳協調富鴻網派員把關，確保無漏更或錯出。\n再次感謝大家的辛勞與付出。\n謝謝\n",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7W6RH44AG2PRNXCABYVEE6X",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795169206963,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "192d76922ef849faa8e06ad80c227bf6",
+    "mode": "active"
+  }
+}
