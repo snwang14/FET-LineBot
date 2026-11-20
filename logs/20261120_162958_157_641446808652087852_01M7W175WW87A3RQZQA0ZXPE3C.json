@@ -1,0 +1,48 @@
+{
+  "EventId": "01M7W175WW87A3RQZQA0ZXPE3C",
+  "MessageId": "641446808652087852",
+  "Timestamp": "2026-11-20T08:29:55.865Z",
+  "ReceivedTime": "2026-11-20T08:29:58.157Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U7e90e7c8561ddf5141f4ab0d516a30a2",
+  "DisplayName": "昌彥",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan 我們工班在反映這個序號沒有在系統上(我剛剛上系統也查不到這個序號)TL01-03-056-202608-031954",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641446808652087852",
+      "quoteToken": "0Eqp-LKN4F-8b4vi6l3He-Q3-j1pY2V32ZjZqts1qreDoZCQMzn5-LMrfYE3z87OrH9qaJdqpjdBBMcMtwjrcXRQ5WiqYLJ8bYWFia3FfkmHsIAR2W1_QqVNNeqatGzNvnvmJnt0y_rSrd1jZKZbmw",
+      "markAsReadToken": "4SVX3bx9J0JcZ-0sWarLUciqCDh6jImf2TKL_s8zD7UkDE1xN_x6wP_sTeyXAFrlrXEDjlSM1d2sh7f4-EIsWQ1NR4DUvZKWobFKqM7AgviHO01wZ-Da6nlnDuA_CcLOv8dynH_6EcZtRZz-7eijHthc8q2A0qRlHQcM8opaRpqACaU-gU4psIP3pU0_CgnPUhUGEa9m36zyiYnrpjryKA",
+      "text": "@林郁翔 Alan 我們工班在反映這個序號沒有在系統上(我剛剛上系統也查不到這個序號)TL01-03-056-202608-031954",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7W175WW87A3RQZQA0ZXPE3C",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795163395865,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U7e90e7c8561ddf5141f4ab0d516a30a2"
+    },
+    "replyToken": "6a9a29c16e3a4512954aa91d0ea5e730",
+    "mode": "active"
+  }
+}
