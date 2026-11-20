@@ -1,0 +1,46 @@
+{
+  "EventId": "01M7W6N4E5F5J1GN115VH2KH6C",
+  "MessageId": "641456371464405564",
+  "Timestamp": "2026-11-20T10:04:55.727Z",
+  "ReceivedTime": "2026-11-20T10:04:58.211Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "@All \n各位團隊夥伴辛苦了！\n今日（11/20）「臺北市路燈換裝暨維護案（北區）」第一批次 1,500 只智能控制器（光林 SN-NB01 Plus）廠驗已順利通過（抽驗 150 只連線率 100%、20 只調光控制均符合規定；另抽驗 1 只送 TAF 實驗室辦理 IP66 試驗）！\n這段期間非常感謝大家的全力投入與不懈努力，在緊湊的時程下靠著團隊緊密合作與嚴謹把關，順利拿下第一階段的重要里程碑。\n針對廠驗後的現場檢討，後續請大家配合落實以下 4 項重點與建議：\n1. 強化跨單位橫向溝通：\n技術規格調整、系統界接與現場排程，請遠傳、IDTT、光林、思納捷及富鴻網等各窗口務必保持即時溝通與資訊同步，確保各方認知與執行步調一致，避免資訊落差。\n2. Root Cause 再確認：\n後續錯峰參數將統一更新為 3 倍，請相關窗口再向光林與思納捷做最後確認，釐清先前韌體差異，確保完全符合網路協作機制。\n3. 嚴格落實變更管理與 Double Confirm：\n請 IDTT 務必落實版本控管，未來凡涉及運作機制或參數調整，皆須事先評估並完成驗證；光林投產前與每次廠驗前，團隊也要執行 Double Confirm，確認版本與功能無誤再行推進。\n4. 11/23～11/25 現場更新與清冊把關：\n更新作業將分批進行（第一批 1,500 顆、第二批約 3,000 顆），請現場依光林「每箱 60 顆」分箱清冊逐顆更新並打勾核對，由思納捷與遠傳協調富鴻網派員把關，確保無漏更或錯出。\n再次感謝大家的辛勞與付出。\n謝謝\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641456371464405564",
+      "quoteToken": "BSe6TEArstUc5Bca_zLZb0U7TNu5lSjF4OG1jG-_Fa6A5d6OdS1BpFYB9i6pwnjSO69FHo8dBSQs-EUdmgCVhtHhehojSP0yxDLY9lfnXOeV4V-m9yOS1LhIvZQTlWQdM1h_Fhus52m7Hfzv9caC9w",
+      "markAsReadToken": "2qM5HaUGdJFlPYbvDjrRHV1R5PdQAW8TVclB7bh95kaBvhz27dHb43smoxQ6frsPEogtPnD7yJhVWNRP4opRbFGKWoc_z5dpgoNNLZ3n73QjiwX0OUkxKudBoicfXdrR8AMAzVYGVkOGNNm59a8NKdfAfsmcWiPX_3k2hE-bsTL_CIDztgObNN8cj_nHRoMfRNBwClPNhh2kWQWONgErjw",
+      "text": "@All \n各位團隊夥伴辛苦了！\n今日（11/20）「臺北市路燈換裝暨維護案（北區）」第一批次 1,500 只智能控制器（光林 SN-NB01 Plus）廠驗已順利通過（抽驗 150 只連線率 100%、20 只調光控制均符合規定；另抽驗 1 只送 TAF 實驗室辦理 IP66 試驗）！\n這段期間非常感謝大家的全力投入與不懈努力，在緊湊的時程下靠著團隊緊密合作與嚴謹把關，順利拿下第一階段的重要里程碑。\n針對廠驗後的現場檢討，後續請大家配合落實以下 4 項重點與建議：\n1. 強化跨單位橫向溝通：\n技術規格調整、系統界接與現場排程，請遠傳、IDTT、光林、思納捷及富鴻網等各窗口務必保持即時溝通與資訊同步，確保各方認知與執行步調一致，避免資訊落差。\n2. Root Cause 再確認：\n後續錯峰參數將統一更新為 3 倍，請相關窗口再向光林與思納捷做最後確認，釐清先前韌體差異，確保完全符合網路協作機制。\n3. 嚴格落實變更管理與 Double Confirm：\n請 IDTT 務必落實版本控管，未來凡涉及運作機制或參數調整，皆須事先評估並完成驗證；光林投產前與每次廠驗前，團隊也要執行 Double Confirm，確認版本與功能無誤再行推進。\n4. 11/23～11/25 現場更新與清冊把關：\n更新作業將分批進行（第一批 1,500 顆、第二批約 3,000 顆），請現場依光林「每箱 60 顆」分箱清冊逐顆更新並打勾核對，由思納捷與遠傳協調富鴻網派員把關，確保無漏更或錯出。\n再次感謝大家的辛勞與付出。\n謝謝\n",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M7W6N4E5F5J1GN115VH2KH6C",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795169095727,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "f4b4bbbc944f48aba4ee9e329d4beb89",
+    "mode": "active"
+  }
+}
