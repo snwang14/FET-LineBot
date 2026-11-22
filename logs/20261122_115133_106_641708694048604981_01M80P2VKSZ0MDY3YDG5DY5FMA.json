@@ -1,0 +1,37 @@
+{
+  "EventId": "01M80P2VKSZ0MDY3YDG5DY5FMA",
+  "MessageId": "641708694048604981",
+  "Timestamp": "2026-11-22T03:51:31.716Z",
+  "ReceivedTime": "2026-11-22T03:51:33.106Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "可以給我單號嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641708694048604981",
+      "quoteToken": "GwkR3BLuDyicAZJZFX-EURmyr-fO6ijdPnWvTY2lylRyPc8nEROxfirW1r2mA2yqfy736pkBpVvNvM03MPf6MYAgileuH_Q1h5RhfleJxU6ujEi15iRE8XQlShMh3EYr2ageG8n7NZdT6Ar_Dyk6Qg",
+      "markAsReadToken": "Fn-yR15edW1jvKsRErCKcYL-1YMwoXghKfRVhCwUZ88usPtX0uzg86F5MKt7YX-jEbWGjd_0jFknEYtY6zz0TmF-Mq668TtVpmaQa_TsSxzud1Aq7TZPOqYMHsJJlCpm5_B4PPn7QQ-2ypt4WPZQhTRX7LKqSZylvU9VEEz_vNS5RQGEFgFRQMjDkqRZ8bdt5Kj4XhS44FmVF2U9cnwwLw",
+      "text": "可以給我單號嗎"
+    },
+    "webhookEventId": "01M80P2VKSZ0MDY3YDG5DY5FMA",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795319491716,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "171088b70db64c0eb75e9bc4175f6e3c",
+    "mode": "active"
+  }
+}
