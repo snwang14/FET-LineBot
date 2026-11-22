@@ -1,0 +1,37 @@
+{
+  "EventId": "01M80Q78RKM40JW1G919WSBD95",
+  "MessageId": "641710696458879437",
+  "Timestamp": "2026-11-22T04:11:25.267Z",
+  "ReceivedTime": "2026-11-22T04:11:26.267Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "後來工班說他重開之後就又可以了",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641710696458879437",
+      "quoteToken": "wj3up9_ANMohpNxpfRXASK_wGSUXqQ5gGJE-533kmmHIHuKgoCSdatvPFkupXIfnMOlgOKDuFi4fAnCEJnN8THdvPa0jUqU3mleVqU4gbgFRmJDtBXLnpmM00cTGEswjQqVm7fnoieTeNYvmkEoEdA",
+      "markAsReadToken": "ClVAOqEIInBBm9StPxp3_b05TV9PfhgLG_ZrgTmnpqvHGG3bCIwPTwTw9d-ie3ZEBsOch1JqMlOPZ8cyJbwQgfrYUEv6vJ9VH8hHacxvzJzYJfyiYCTC80SQMQlRlr6reUMrZyT5H776UtPcNtD3zYdLSwdaiAqOv9ZWQqQpi5ARp5oP_Qb9HGHZdeX1V5J88IL6-xkr18wWiiSRy1NgAQ",
+      "text": "後來工班說他重開之後就又可以了"
+    },
+    "webhookEventId": "01M80Q78RKM40JW1G919WSBD95",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795320685267,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "98116dd6147c4f2eb60f40eb0d75e6d4",
+    "mode": "active"
+  }
+}
