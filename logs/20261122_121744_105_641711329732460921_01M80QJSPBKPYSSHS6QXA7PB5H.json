@@ -1,0 +1,43 @@
+{
+  "EventId": "01M80QJSPBKPYSSHS6QXA7PB5H",
+  "MessageId": "641711329732460921",
+  "Timestamp": "2026-11-22T04:17:42.615Z",
+  "ReceivedTime": "2026-11-22T04:17:44.105Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "sticker",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "sticker",
+      "id": "641711329732460921",
+      "quoteToken": "T09CiKPLoqY_dPcjbVeaih-tXeX6T4auRuAUCQJRttGncK9Rx_pcQxuZ7LJO4Own-BRuwlkHm_26D-dI4XWJyz1pzRk0NV8e0vj2WTsNqjnTNvkkFgtifLm2cki-Xck-5itanHq6YMlQZkB5_SJ9Hg",
+      "markAsReadToken": "7LxyhrpLz4uf8yhO78aGh-M0WZr-qkOfT_beLgo3z6R6HbZhbabJygROzSvpLn8WmQOxf_SJtzY4SiTbcp-iUSxH6ZbknU6UYn7jcQWQoxjciujn8bowu6EiBCzQ2SeKxgaJIsrYXDL_JMr5a5aSBdFJmiYBP2A-uG7lLrCWvhOLVN2IWDSH5LX8ktwAgtVot-eGvIHjzY-NYNmp_9Ou2g",
+      "stickerId": "902001121",
+      "packageId": "36727322",
+      "stickerResourceType": "STATIC",
+      "keywords": [
+        "inconvenience",
+        "Bowing"
+      ]
+    },
+    "webhookEventId": "01M80QJSPBKPYSSHS6QXA7PB5H",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795321062615,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "28dd0e402dea45c5b993964887f2193e",
+    "mode": "active"
+  }
+}
