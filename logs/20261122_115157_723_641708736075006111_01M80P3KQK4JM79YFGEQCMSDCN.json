@@ -1,0 +1,37 @@
+{
+  "EventId": "01M80P3KQK4JM79YFGEQCMSDCN",
+  "MessageId": "641708736075006111",
+  "Timestamp": "2026-11-22T03:51:56.756Z",
+  "ReceivedTime": "2026-11-22T03:51:57.723Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "這個點位先幫我留著，目前只有這個點位遇到這個問題嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641708736075006111",
+      "quoteToken": "KgZOf7UVG054MHgzVaDC9JLmMlHXA2HpSDaBzK14HfzfmWh74QXKQcZyoKhHJaOVJohZLunrY0izVufuiKJo83_5Hj2qHrR3ioU4UIPN7VKJAsmFaRGE7skGp3fu4qIsDJpMXWBf8LlRfsLsHvltQQ",
+      "markAsReadToken": "uIOWLmpnn3aaTYJ_VZuR_nqffxX2m_Mz-71mQO8ZlieopdjxICl_0XSnxay-q38W4UagNFqQje5CL3s92njMqfe7pL85aS3XLRrTQuq5I55KjFAzYKegQxYdDr0ve2GoDKaG17f9Ymtdk5lHzUfrFXRKRuJBDqnZB-y7lL4zR3iA7mf7YPXe6qFDxy2g3p4mdwW-lHqoOqgh3QSj3WeD8A",
+      "text": "這個點位先幫我留著，目前只有這個點位遇到這個問題嗎？"
+    },
+    "webhookEventId": "01M80P3KQK4JM79YFGEQCMSDCN",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795319516756,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "7ffc7f27fec142a5894bfa4712e25063",
+    "mode": "active"
+  }
+}
