@@ -1,0 +1,37 @@
+{
+  "EventId": "01M80QJMC7QEXATRG02BV95W8D",
+  "MessageId": "641711320504992121",
+  "Timestamp": "2026-11-22T04:17:37.169Z",
+  "ReceivedTime": "2026-11-22T04:17:38.649Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "有遇到同樣的狀況的話再麻煩幫我把工單和點位編號記錄下來",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641711320504992121",
+      "quoteToken": "FeWVQTwAenlkbc1zF_K0CB9vD1jZUWWDRNXyI6fflvwvGbidEkdGkBsVVpfwZDvWTWy51PONFYXcfFhmzf8HKIU0K2H_k-ujK6-bz7LKL0f3nzX0hmks_9RzKhuLo-bwG2SnoLVglPaVQoVDiwqkQw",
+      "markAsReadToken": "gYaMhtoWNuC0v9cF13fxegvl78JdZbiNYSzCuC5nky1qO7RBbi-EFySvZDN7uHYD2xS1E6yuRO4E7-jCnoXgVChZb-5rM_8-o2xyal1GeJ3k7BnmiUd4pVBYq77Xuj0yNGWPYi8wFTX2uk-6W3Yn6V8TH8SSrUmY1PBBVnxf2ECRMzvqPOXies7w0KY8fFpgMEr-kGvcNtIT9zpsrj73Mw",
+      "text": "有遇到同樣的狀況的話再麻煩幫我把工單和點位編號記錄下來"
+    },
+    "webhookEventId": "01M80QJMC7QEXATRG02BV95W8D",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795321057169,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "b3755ab8fe194ea7a4995a5ff9f54903",
+    "mode": "active"
+  }
+}
