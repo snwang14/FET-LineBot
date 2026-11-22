@@ -1,0 +1,37 @@
+{
+  "EventId": "01M80PEFEXWKNWBB8CT3CBQCVF",
+  "MessageId": "641709333108752575",
+  "Timestamp": "2026-11-22T03:57:52.654Z",
+  "ReceivedTime": "2026-11-22T03:57:53.817Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "請問方便通話嗎",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641709333108752575",
+      "quoteToken": "dfzSNwvyOEXBPX1OjKqZTF8OyHNo7JLAzNr4siU1-aQVIzGWMErtbCBxMyyqcu5krQSFoNSevzDbIzxW3ZG-iajVAredk03n0Nt6IN3sRaxZpxUvJnsL3TjHVgczV8IlgguGF4JMGFpUWrPSMMu8Ew",
+      "markAsReadToken": "d0owdYWC5olRsi71Az5hWAL95wy82D77M_rXfYY4kCIyc3LuX1N7PVXy6bFEjJ48cV2-cqBEh8GmkPGibDh5WYOad9qLAHUoKSZBC9lnDQPIrtA4jPfmkDc56zy0xj_ek3bzD5IudS-LGpfAaG40qsFj2TAtqo1_qo6BvLx6tX4rUr97yeh4IoOGPDD5UamW2pLhAQrRVdMMpgjl0AHU4Q",
+      "text": "請問方便通話嗎"
+    },
+    "webhookEventId": "01M80PEFEXWKNWBB8CT3CBQCVF",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795319872654,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "fa3c06235f6f40cbb8136d0300977084",
+    "mode": "active"
+  }
+}
