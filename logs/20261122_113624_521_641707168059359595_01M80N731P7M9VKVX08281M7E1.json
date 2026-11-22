@@ -1,0 +1,37 @@
+{
+  "EventId": "01M80N731P7M9VKVX08281M7E1",
+  "MessageId": "641707168059359595",
+  "Timestamp": "2026-11-22T03:36:22.045Z",
+  "ReceivedTime": "2026-11-22T03:36:24.521Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "系統無法儲存",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641707168059359595",
+      "quoteToken": "4HRDSII4fTXbUFV--S8Qhv1JSa3PfUhHOB1DGmMFSy5cI1IkpooNMOCiQPzXnsakrZHg6R-pJ9Uj5O_MeTb0VgTRmOcxNpAOIu2MWrMN5YsQivmNd9fn4k7bXxj8c9mL9e4YZuTd-znAmmifQSwA0A",
+      "markAsReadToken": "CDIrVwFQIHWMlxrIGIxMJHM6DEvTGZbPz4oM8oAHG8NL3n8y08O6TzlEFo0eWF8pLUKVwRBTEz8G7WSYl3oKQP5zTND2929rRnPRtpyclZHU6M7QvM2vbuHrhTv-Yvsj9_StehJzavIpt0UV0xgb5xG1sfZWH_XuvXWuiBh07pRkYJ2PwgIgP4nv77Gh1JjLIFxyzVkEgEAxRJtQp__Ohw",
+      "text": "系統無法儲存"
+    },
+    "webhookEventId": "01M80N731P7M9VKVX08281M7E1",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795318582045,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "d706b330da7a429d8f1123dbe46f1b54",
+    "mode": "active"
+  }
+}
