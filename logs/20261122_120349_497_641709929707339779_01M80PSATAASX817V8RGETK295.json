@@ -1,0 +1,37 @@
+{
+  "EventId": "01M80PSATAASX817V8RGETK295",
+  "MessageId": "641709929707339779",
+  "Timestamp": "2026-11-22T04:03:48.179Z",
+  "ReceivedTime": "2026-11-22T04:03:49.497Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "我這邊系統看這個點位已經上傳了，是有用網頁版傳了嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641709929707339779",
+      "quoteToken": "qlWxhpUEXlqqG69fyODHASVPOsv2qL4dZF5uc9COcvh9zWqLCvCNaieMleptjMV5QT2jYHw7FYg4mCYZ2QDd8wBC9xo-TTTC4TRdyE_JMtaTdW2-RkEBl4bwYNJ9h6HlVH6RxUS91iAqP1KAnhwx9Q",
+      "markAsReadToken": "CHGYxdBqdLQtT8Tp57IA5G3OkTRy24g_cyuFIKiHRH_1IgcJX0I6uJ9PeL5UTvW7WZdwxr0mk1VMm67JSPRDZo_FHzO_6d8WW0a8vtFzLhGzOS5kcRrPQf75LuKcCE3Wd0CisNvMuiNRa1T-HulkkwwuQTznxYvATbFCSffIZ1cTQQM4oewHZBi9MnclqyxGmdyjgLgPn266-APpBOEsDg",
+      "text": "我這邊系統看這個點位已經上傳了，是有用網頁版傳了嗎？"
+    },
+    "webhookEventId": "01M80PSATAASX817V8RGETK295",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795320228179,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "984860b2432e47b9ab9bd1485473f108",
+    "mode": "active"
+  }
+}
