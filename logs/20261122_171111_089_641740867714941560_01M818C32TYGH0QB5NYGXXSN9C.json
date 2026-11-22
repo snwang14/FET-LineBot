@@ -1,0 +1,37 @@
+{
+  "EventId": "01M818C32TYGH0QB5NYGXXSN9C",
+  "MessageId": "641740867714941560",
+  "Timestamp": "2026-11-22T09:11:08.631Z",
+  "ReceivedTime": "2026-11-22T09:11:11.089Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "我確認一下 為什麼沒有填燈具的ID 呢",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641740867714941560",
+      "quoteToken": "fyVPW6ln8CI32YBhNjVo28QUYtYB693l4qSotyeF4LtYydfoHuI5cPAC5q0Gsd5HphWLBCOdurlzzD7KMk1FEH9T6OryDcNUvCGfEN9aiOa-kahBUBQgP5mwh1yL0kyKikwB03Lgl3N1xLk21PR8fw",
+      "markAsReadToken": "_HohQTmvMBkEmDBZ9IsBDWve72RVib1G5TckAp5GEO2yYj3GFQxyCEozWM8YlgwUuE0plXBrecGSXRsPArxxFXGdCkiY0wUgR-JwZz8TGyxVPFd66eliXjrRbkhVetTqS8f9oEzlPBidSANCBcD2fhBqwbmFVdpB1sMqc3tMi8b_zzLqjByPwebmoV7Wd1Oc5-7BFv9wa_LNJuLwAhhVsA",
+      "text": "我確認一下 為什麼沒有填燈具的ID 呢"
+    },
+    "webhookEventId": "01M818C32TYGH0QB5NYGXXSN9C",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795338668631,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "e85cdc118fd449a9a20ebbefbba83436",
+    "mode": "active"
+  }
+}
