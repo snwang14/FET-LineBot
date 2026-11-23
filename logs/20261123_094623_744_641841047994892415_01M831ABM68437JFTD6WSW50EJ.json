@@ -1,0 +1,37 @@
+{
+  "EventId": "01M831ABM68437JFTD6WSW50EJ",
+  "MessageId": "641841047994892415",
+  "Timestamp": "2026-11-23T01:46:20.853Z",
+  "ReceivedTime": "2026-11-23T01:46:23.744Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "Uf67b20a12789d20059644985db821e1e",
+  "DisplayName": "Yun",
+  "MessageType": "text",
+  "MessageText": "請大家白天換裝，臨走前務必確認一下開關是否有復歸",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641841047994892415",
+      "quoteToken": "J9Mt21wEZ8EEyinraTWyew_oupzx-BJWgD3pGdKN9cIxhC9yrRDXtLIYvgS8Q94vRTY73PVxvOqgoIQ7O6dP4J52vwxZzcqGENHCdA4iJWrmqygwmSqFJeUlh4LfDuktczYDiI5fW27eN0lo8hKNrQ",
+      "markAsReadToken": "dQcWj5T3wHKQmRMXzRPUkg4J5hOMxJ3bjyz7IfnpVf_b2BXm3bycnynwC-bRh_OZGLwFNneCiwOXbWTs3SOW-b4AAi9y8aOaYoL7lF-LJXFhsZTdEQUV0mISOGPfgJdhvR9gua8NoQpwDEe1UplXnbSKcp6y1BhSnafjKV0u_4qAYAZQ4l5nQGlMIzmMJGDKvakyYj0RwtWOv4rKtvM6lg",
+      "text": "請大家白天換裝，臨走前務必確認一下開關是否有復歸"
+    },
+    "webhookEventId": "01M831ABM68437JFTD6WSW50EJ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795398380853,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "Uf67b20a12789d20059644985db821e1e"
+    },
+    "replyToken": "17a9fd418a3546dca2a013189bac3557",
+    "mode": "active"
+  }
+}
