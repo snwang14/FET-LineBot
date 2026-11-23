@@ -1,0 +1,55 @@
+{
+  "EventId": "01M83WGMFDHF9DNYR0S7VH09VQ",
+  "MessageId": "641888891733541209",
+  "Timestamp": "2026-11-23T09:41:37.928Z",
+  "ReceivedTime": "2026-11-23T09:41:40.019Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@Sammi @Nick Chiang 之後 PDF 匯出的樣板，請幫我確認一下欄位有沒有哪些需要補充的，感謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641888891733541209",
+      "quoteToken": "cAKjfGhRYxoTMhjVshYZgr50hdHVaQtWkJyEFRRu_xIsUwkIYHPH41VqtOMwQ78GotQBS4tw3qF7Z90Es-IBu2TPPbdItnIhNxvoRtURDAHX0rRDaDIBaNU1JM7PVPCZ0m0XGxHUM-h9gl3WbXqEog",
+      "markAsReadToken": "1R_dkyKkbVXE8B6V8QLbf-61ym5jrgvjtL_YvXN11Cz07sS7fXaaQ0QWpoy9dx1anEEHZKow_bwBWELmPpZuWqslpYM7FAJ-NQ0xOuGz6O1jTRb-JUBuwzI2Z-utGNARLipdzOkwQw9VMS6qkdoSt9F0RNgzdSou-eDItgFAVyOdoiEMO1b22axkHkB5wx_P6e5F9HGSTWAMvmTwS3o4vg",
+      "text": "@Sammi @Nick Chiang 之後 PDF 匯出的樣板，請幫我確認一下欄位有沒有哪些需要補充的，感謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 6,
+            "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 7,
+            "length": 12,
+            "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M83WGMFDHF9DNYR0S7VH09VQ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795426897928,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "20cd1873fda442e6a33f8dbda5ccd7df",
+    "mode": "active"
+  }
+}
