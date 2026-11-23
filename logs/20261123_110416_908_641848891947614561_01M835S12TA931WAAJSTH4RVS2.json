@@ -1,0 +1,37 @@
+{
+  "EventId": "01M835S12TA931WAAJSTH4RVS2",
+  "MessageId": "641848891947614561",
+  "Timestamp": "2026-11-23T03:04:16.202Z",
+  "ReceivedTime": "2026-11-23T03:04:16.908Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "沒事~ 前面那個問題我再請工程師找看看原因",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641848891947614561",
+      "quoteToken": "MdCcSdmu9eSxZyDK8ImuILAFGh1KiXsFTSXMo15wl21-CU2m-jJi4hSM25YPFU-qpDvbb0VsK_yaDBZZIFviM8CPeppkxkgGD3zFne24Cq16qmsMIpfkWofZf1AoWTUzd6CEbDpzS2LoYmUDecKdqw",
+      "markAsReadToken": "Xt9fQYibabRA2FzncE96HihKXEGXLMIc-bjjvAXAXbQdNMvPGJJV9jcPd35Of_2g5Qjeu9Ws7kslndDA601kOFJE8NhfI0ra53VOCuuWEuv06OyVd4aTd1dvrF-ltfaO2rB_J0_iR4FDbd-Gq_1BqrwercjzsYtDCy9Wb1uoP_iCk-C3LuhuoaZzuTQPmwmwAOnwFnWX4TLc1ca9IUITww",
+      "text": "沒事~ 前面那個問題我再請工程師找看看原因"
+    },
+    "webhookEventId": "01M835S12TA931WAAJSTH4RVS2",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795403056202,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "cfc955630fe54850afa8989ea9860f4c",
+    "mode": "active"
+  }
+}
