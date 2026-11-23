@@ -1,0 +1,55 @@
+{
+  "EventId": "01M8379MKHE0NZ5BKRM7A4H81J",
+  "MessageId": "641851563752816642",
+  "Timestamp": "2026-11-23T03:30:48.570Z",
+  "ReceivedTime": "2026-11-23T03:30:49.995Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@Sammi @Nick Chiang 稍早接到億光有要在匯出明細增加欄位：型號、品名、色溫以上三個欄位的需求，想確認一下遠傳這邊有沒有哪些燈具的欄位資料需要在匯出明細裡也呈現出來的呢？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641851563752816642",
+      "quoteToken": "F8X0h7ziMBkeA6tFQwcaR49O1JxR-AXz9ES0IVwO71UqeZ2x0i0yW0DgNoUFV6ZWWcTFgbTBPkWjJUext57Q7XJPFhHCBM7OppHspVW_DVxFrWtg6dTG73bDjv1Z8Si1YoeGI8NhCzpNu-IxTBJs6g",
+      "markAsReadToken": "xvQrk5KYGlqHHauEob7-5em9s3poeRSTy-zIIHnoxA6oevXjkOlU2dNcvoxk7IHeAKNuYXqUHrmKUNaSJ1GLY6GGgZW6PqCuTQLnUfmJ8KwPVxCuqint9kkhZ-8HsmKvRU8NSOch5fJPJodFsXI46pB0TpmaxjJ_0uVxOzw5bMU6VQD86Ep7l42Ngn2MiMvUTZzAsbWaBxV_rrOnqz0yvQ",
+      "text": "@Sammi @Nick Chiang 稍早接到億光有要在匯出明細增加欄位：型號、品名、色溫以上三個欄位的需求，想確認一下遠傳這邊有沒有哪些燈具的欄位資料需要在匯出明細裡也呈現出來的呢？",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 6,
+            "userId": "Uc06cf9539bc5892c3ef1bd999b7373a7",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 7,
+            "length": 12,
+            "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M8379MKHE0NZ5BKRM7A4H81J",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795404648570,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "232b500615ce4612b7e23d618758cbbe",
+    "mode": "active"
+  }
+}
