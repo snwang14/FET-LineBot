@@ -1,0 +1,48 @@
+{
+  "EventId": "01M835HN1866M6ZCC30Z0033PV",
+  "MessageId": "641848486492897962",
+  "Timestamp": "2026-11-23T03:00:14.391Z",
+  "ReceivedTime": "2026-11-23T03:00:15.577Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@Kai小愷 你有問到嗎~",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641848486492897962",
+      "quoteToken": "dfHDBy_njY7Orm2KJu3yqHdxFY-rbxYFFReNsCxFvf_bPXYNeGNxh_kzRrlWTJor1Kd5DVUf9MhfC_LyjJMYUULHgUjFEoStlwy5ULt5yPPYG1EfDB4qSVxHljz2s9UxSE1qkHnNZm5t2WZr05-HPg",
+      "markAsReadToken": "HCJiZuj7u4mHWygugE2UnCiZbPbeR3vNUDxoucsbjzeBq_Sx-i2DoJCfxC6Xwy88NG6-quLSUSR3uW1d-HUIkolRAYS3Gsi-g0S7XBiZk0JmQEnZptpk6PKhApslXmGa_54wU-R0bFpS_8-E9c-s5oB346uA1xHYJRP29kVXv_YbXFtuETGmcHqjdv7HMlCHaQ2sbpbja63CRtpcy0_New",
+      "text": "@Kai小愷 你有問到嗎~",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 6,
+            "userId": "U2389a03efb3d070d6c24ac565496ee6d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M835HN1866M6ZCC30Z0033PV",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795402814391,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "9b3b9b79ec774dd58e7c631ad883f71f",
+    "mode": "active"
+  }
+}
