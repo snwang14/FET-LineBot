@@ -1,0 +1,37 @@
+{
+  "EventId": "01M835Q2BN0T0V1GGQZKMWB8ZE",
+  "MessageId": "641848783902343573",
+  "Timestamp": "2026-11-23T03:03:11.726Z",
+  "ReceivedTime": "2026-11-23T03:03:13.282Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U2389a03efb3d070d6c24ac565496ee6d",
+  "DisplayName": "Kai小愷",
+  "MessageType": "text",
+  "MessageText": "單純是工班疏失",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641848783902343573",
+      "quoteToken": "9m0jMREVDx5wpmcBrcw04UOvcZGgretA8C6zSyUdDsHrOvTOslrLXQPtde1tDinaSWD2bfES1eqnzvYD8_3XSt1t9Ls_KxS_fdK6rXQeQvhRVAX7Dz-wNYVR5wMLKCO4gDEG3SuFvVABJS3v3mksYw",
+      "markAsReadToken": "ceTT6Wq-1D1Gz0WKUoW2CFWWmAmCuYIEJRK9OXG2DQpcG65jhtNKkLThguVgBKYiAQVgEbDaGa_uatS2J5PV-qVKdPM88F1zihVsek0afqEShEE2_ODES59B1-459Jy_bIkORsPhcPq1lVedRn2_-2yU-wvXquxl-eSEIW9rq2DgZmhOv1e2Eal2W1yqXmRR6cOKojyVBa-T_M8whRrLXA",
+      "text": "單純是工班疏失"
+    },
+    "webhookEventId": "01M835Q2BN0T0V1GGQZKMWB8ZE",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795402991726,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U2389a03efb3d070d6c24ac565496ee6d"
+    },
+    "replyToken": "26ba86000f054e01a193e6227ffc94c5",
+    "mode": "active"
+  }
+}
