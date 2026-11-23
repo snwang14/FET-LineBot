@@ -1,0 +1,40 @@
+{
+  "EventId": "01M83WGT8TB2X5VBFZSHEDTR8S",
+  "MessageId": "641888893092495396",
+  "Timestamp": "2026-11-23T09:41:43.844Z",
+  "ReceivedTime": "2026-11-23T09:41:45.079Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "641888893092495396",
+      "markAsReadToken": "_isdhs4U-1Y_jkvBCgbQ8APAL5KKKDCgmFoICGpVSoZTwlLBoxeXt1RI2CketHQl2An-d1qBqO_zxAUMHFc6LCIN9od1PEQf7MD3p_HpHhR8C-FiMYjopwsWefAkg7CnpgmUA8T6_HPpUkJKx2m3J55JXJ7L7IEme3WzgCgao9EN6HFx9o5PhxCX1kcJAHMh3YqBxQtFS-PprdXskncFHw",
+      "fileName": "PDF 匯出樣板.pdf",
+      "fileSize": 712012,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M83WGT8TB2X5VBFZSHEDTR8S",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795426903844,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "1920374c7c974c69b2284ddd125fe1aa",
+    "mode": "active"
+  }
+}
