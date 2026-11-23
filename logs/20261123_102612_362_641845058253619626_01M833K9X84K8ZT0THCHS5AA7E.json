@@ -1,0 +1,55 @@
+{
+  "EventId": "01M833K9X84K8ZT0THCHS5AA7E",
+  "MessageId": "641845058253619626",
+  "Timestamp": "2026-11-23T02:26:10.994Z",
+  "ReceivedTime": "2026-11-23T02:26:12.362Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan @sanjinchen  再麻煩早上資訊室回覆的mail問題。另外多準備一台windows的部分，資訊局只提供空機，授權可能要你們那邊準備。這部分也需要一併確認，謝謝。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641845058253619626",
+      "quoteToken": "V4SXXWX8tkN4Hnffi3XpqD_8vgnELCDRFFH2PXA23BmW4OWG6OsD9de4MgvLlnOoLzPmue4rKIjq1LKT5hG8lsgoEDiPRlJ-1UippSav3zQSqW11SULcmnYum9V6tFK4x8H-5dBQQsKhQYxg5csIIA",
+      "markAsReadToken": "rXhuNaQMlxJ_ewHR7X5ZsfeA2_XvnPe7pKnaPVSD0JYxZFqQVmGns-6yG79pfOldAZ4-xGClD9_-60XArrYeSnjBgmR20DLTVuX0hdJYLH8H258sSrzlgQIDYDH8hSB1v3OhY89BOf9cp8EL2jRO6THJcrj5q0uzjKbpJ32I-8wVWaIk0kwvxesnNw4ZUNkdpy7_EuZGGTAwjOb3DaAnwg",
+      "text": "@林郁翔 Alan @sanjinchen  再麻煩早上資訊室回覆的mail問題。另外多準備一台windows的部分，資訊局只提供空機，授權可能要你們那邊準備。這部分也需要一併確認，謝謝。",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 10,
+            "length": 11,
+            "userId": "U375f2b0f385cb715667fe836bb7a29ad",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M833K9X84K8ZT0THCHS5AA7E",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795400770994,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "3aa674a1408d44ffac00ea3bbeca3b51",
+    "mode": "active"
+  }
+}
