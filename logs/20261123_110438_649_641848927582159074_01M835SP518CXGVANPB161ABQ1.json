@@ -1,0 +1,37 @@
+{
+  "EventId": "01M835SP518CXGVANPB161ABQ1",
+  "MessageId": "641848927582159074",
+  "Timestamp": "2026-11-23T03:04:37.291Z",
+  "ReceivedTime": "2026-11-23T03:04:38.649Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "目前我這邊也測不出來錯誤原因 初步判斷為偶發性的",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641848927582159074",
+      "quoteToken": "vCFBwyvw0PfVhrWmfMqjA24y_Q03TOH1D-Lc6fXiMV8oigS89mLSzQPGUmNbmobMIZKiiIIhOWhYH0YA3_f9bt75_j3p54rswYu9ZygrfzNn8yb2wKjbz9dbl3fYiv4pOk_c9ii6TJ_xCwRPl4lTZA",
+      "markAsReadToken": "IeSoAUBFGcGDv36-zpFEEiJKAkQQ1xK77Xh6anCphTfMOkoSzhH0J4V0Tbiq-6GG_ay0P2EFPWrQgJ-f9WFTjyTqqiz-BRCBHmkl_hRA-boJxVzAThYMh-n0XRVrRvKvrAOLOV05sZ6hI0AQziPLOu9bRP6_TCIzqtIWJ0rUegmbxTnFA_k444aSKQ9GI5fs209MQ6wwMWfbyX4XJ9qKMg",
+      "text": "目前我這邊也測不出來錯誤原因 初步判斷為偶發性的"
+    },
+    "webhookEventId": "01M835SP518CXGVANPB161ABQ1",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795403077291,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "dcf17f65dc9e4910834b55070bdea532",
+    "mode": "active"
+  }
+}
