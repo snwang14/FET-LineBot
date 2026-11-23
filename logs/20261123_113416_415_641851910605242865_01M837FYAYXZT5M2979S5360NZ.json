@@ -1,0 +1,70 @@
+{
+  "EventId": "01M837FYAYXZT5M2979S5360NZ",
+  "MessageId": "641851910605242865",
+  "Timestamp": "2026-11-23T03:34:15.398Z",
+  "ReceivedTime": "2026-11-23T03:34:16.415Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@Andy @Julia Lee 佩玲 @林郁翔 Alan @Michelle Pan \n1. 本周PFI例會於11/25（三）下午14:30於本處第一會議室召開，由曾總工程司主持，請相關人員準時出席與會。\n2. 關於MS1、MS2議題可於會議上確認\n謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "641851910605242865",
+      "quotedMessageId": "641152894141726994",
+      "quoteToken": "n-bhNi35TXCPIetkS-qkCKZemgpti-dopAJlFdSgl132c1UN1n1MGWxB_Is0CJ68I1ETfIqE7tt94GDkkokELDLjd4LxWJ-WUrsvwZ1AjdrDwvEKPGuVI2ubgeI1vwPtaSZNHgiGc8hCD97LeGQLNw",
+      "markAsReadToken": "K51jl-7wU5NhTZOqkwqKqNunOIPu2Nj7csrXqFfW4OArwNIU5hPP9CxDwtPnoiVoBkH1o2vFJvuKs5VFtNyGiZqf1JxydNJpQc7-oB-f9iquFK96TYI8MlnH2fl74ru9MOSy84_XZp3G1Fda6vAd6n8NCxmFaPW_Azjc_JOklWLlBRlV8d5R0UaP1R-hvWFSaH074en1hHiV6xzVmi0Jew",
+      "text": "@Andy @Julia Lee 佩玲 @林郁翔 Alan @Michelle Pan \n1. 本周PFI例會於11/25（三）下午14:30於本處第一會議室召開，由曾總工程司主持，請相關人員準時出席與會。\n2. 關於MS1、MS2議題可於會議上確認\n謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 6,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 20,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 30,
+            "length": 13,
+            "userId": "Ud91ad07f8e981417cb5a4a17c0bb79a9",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M837FYAYXZT5M2979S5360NZ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795404855398,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "c5635cf3f61f4636979150b8844c3262",
+    "mode": "active"
+  }
+}
