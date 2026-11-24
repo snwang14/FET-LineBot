@@ -1,0 +1,48 @@
+{
+  "EventId": "01M86EVB6RTBTV9E0MZ75R17YP",
+  "MessageId": "642033736368259333",
+  "Timestamp": "2026-11-24T09:40:32.093Z",
+  "ReceivedTime": "2026-11-24T09:40:33.479Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "@陳禹任 \nHI \n週三11/24 15:00\n智控器模擬廠驗（1）第二批2999Pcs\n地點：桃園市南崁路一段277號\n模擬廠驗與會名單：\nFDS:\n劉昌彥.黃詩華\n思納捷：\n陳禹任\n再請麻煩幫忙指導\n謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "642033736368259333",
+      "quoteToken": "zlMfJSWs8nslPXYiLZgtNgfVSOrSpbm6aOlRNhjt8XVw3mU7xE0n8rbKH6O5dE6MuMh_CzQ2_e8WWw3i3M6qGybTYstz--k0IOganjEii6Dm_MhimtazrWiZUwqBULRfgj1jF1hwOsaqMcWaZBJ_3g",
+      "markAsReadToken": "Xa2aicjWQDVY8Qw3Ull4ezXoYjFeG-McfBAFnTQ4H889Xo1XsGx2fa3vpzwi4lN6v6ml6ZKWmKrnLlp1T-84VrjXI1wNgQNb7wVluZnYOTZ4gsmJeVnhjxIymgP9ua9hnzc9iM-XAlNdqRboQSw520ddZv3IaFdHSr_lOFs0GhHzwGOtpcTErVF20pW55xDI4N35ungl0y3Gl2IVA4tBpQ",
+      "text": "@陳禹任 \nHI \n週三11/24 15:00\n智控器模擬廠驗（1）第二批2999Pcs\n地點：桃園市南崁路一段277號\n模擬廠驗與會名單：\nFDS:\n劉昌彥.黃詩華\n思納捷：\n陳禹任\n再請麻煩幫忙指導\n謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "Uff84e2f22ada43f8145f2fd625a33ece",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M86EVB6RTBTV9E0MZ75R17YP",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795513232093,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "22c4503aa63e483fa06e16a03df912c0",
+    "mode": "active"
+  }
+}
