@@ -1,0 +1,37 @@
+{
+  "EventId": "01M8629ED6NN3NH6R111T44PA9",
+  "MessageId": "642011642788053061",
+  "Timestamp": "2026-11-24T06:01:03.109Z",
+  "ReceivedTime": "2026-11-24T06:01:04.545Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "Hi  \n禹任建議最後一百五直接更新完做模擬廠驗\n請問禮拜三下午可以配合模擬廠驗嗎？\n謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "642011642788053061",
+      "quoteToken": "4J7qTgyTybQsrgWmeYJGDu5CmUTNOZzpxn5q0XG1puOsWrR2sWmY4Y_weTSjrwjrBwRaHCN0KmvkS7akWFS97MO08j7R0zUuL6iCDSH8lZpitkknY9h5Vp_fXXQdHj8GgJBYa63ZOG8qp6II6oYv0w",
+      "markAsReadToken": "bRpXpuSSbALFCEiM835PGWbFu3IxOWNk8RpNgyl3Vsrm3CVaWKwUBnvpBSCRLq_w6mIP1SKav_N6rlZdyLJTg8yG8OOwbhw-MO01ydDXF6Hipq-ptXuvhWYikSvvSLptgCTTs3GCCvMso-J2ltuhO0EEsf2hjftxH4nJN9yauRrfkjaGHnKUVAEQifwXDilrZElpi1MltpCyNGqCmDcIfw",
+      "text": "Hi  \n禹任建議最後一百五直接更新完做模擬廠驗\n請問禮拜三下午可以配合模擬廠驗嗎？\n謝謝"
+    },
+    "webhookEventId": "01M8629ED6NN3NH6R111T44PA9",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795500063109,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "5f640f59550d4b97a8e730bbaa562d42",
+    "mode": "active"
+  }
+}
