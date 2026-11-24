@@ -1,0 +1,48 @@
+{
+  "EventId": "01M8627SPGR3YS1N40EA6V8FPS",
+  "MessageId": "642011551502434806",
+  "Timestamp": "2026-11-24T06:00:08.826Z",
+  "ReceivedTime": "2026-11-24T06:00:11.039Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "@Julia Lee 佩玲 \n明天下午模擬廠驗第二批 1500請問可以配合嗎？",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "642011551502434806",
+      "quoteToken": "_GmNp-zVar3XwHybATcCk9ozQoQetZw1RIleqZsBppyet3_1heyQcppx19Amb7o33Bk9X0_M1gaYX6AzqDVn7heOG_3xSJ2NAwIwcMf-UiwWpnB4c5xOO6Y3IwaA5vSqqiJ5VYA0C_wdBfVURAw1dQ",
+      "markAsReadToken": "JB90fG4ZZC02Iu7f_PBSb5r2nXgL9Sh06ELxGupyYgXsemVKNLc4yESXtAW43gzhRrmNfnsE-iQzHpDVmrlO2RHsl6rJvAMpCPXU20QGHc9_hJLHEV3elbCPrpGh384tt5KMgQDSLWJehgiWd2Eb2aKYVtNh_qezPaGgEpZvnF1hKCTUcvmdJs0mygR3xNhl89q5pRrKQdw9aVAknCnPeQ",
+      "text": "@Julia Lee 佩玲 \n明天下午模擬廠驗第二批 1500請問可以配合嗎？",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 13,
+            "userId": "U50057cf4d487cf366b7c7016f04c8e4d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M8627SPGR3YS1N40EA6V8FPS",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795500008826,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "47c396d09b6749e0bd28c99f0274d274",
+    "mode": "active"
+  }
+}
