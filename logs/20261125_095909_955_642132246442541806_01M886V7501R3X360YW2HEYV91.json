@@ -1,0 +1,37 @@
+{
+  "EventId": "01M886V7501R3X360YW2HEYV91",
+  "MessageId": "642132246442541806",
+  "Timestamp": "2026-11-25T01:59:08.515Z",
+  "ReceivedTime": "2026-11-25T01:59:09.955Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "收到，這部分我大概簡單提一下，會需要另外安排和楊經理及資訊室討論",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "642132246442541806",
+      "quoteToken": "n18jqax9ZQxe-iAhlAbw4wAasRnnPpchGDnCfFFH5kEk7sYE9jZNS12x4RtdrJAxPgz-AQEHo1m4ln6M8gwNxBq9aclB4YITil048RoMAWSb8Qs5KEoAY3gwht4Jiy9MmB4mLxd-y2tgm3ZDjZGHZA",
+      "markAsReadToken": "E5yjFus1Dz8_CGLto9gpxSeU5u1tWPcF0Xh2KMxY01utE0rE-9KDQ0ce79hlw6ZexdgJR_7mBfxILUH87LVHYqBY8VRkc-lIJFPv23UzWiwyq-Ebdc8lPrPpd4dbLBFC78I1E0LJYMPdjEOas5kO437J_aregDg46MK7eOed56gAS9QDXMUG2XblGtAhTruHP-zbz8LpWNINaGL0YiS2mw",
+      "text": "收到，這部分我大概簡單提一下，會需要另外安排和楊經理及資訊室討論"
+    },
+    "webhookEventId": "01M886V7501R3X360YW2HEYV91",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795571948515,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "ba9d8f055d0140a0b36662e18417ecdf",
+    "mode": "active"
+  }
+}
