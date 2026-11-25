@@ -1,0 +1,38 @@
+{
+  "EventId": "01M888H0QVMH73FSS14KE32ZC3",
+  "MessageId": "642135203476931108",
+  "Timestamp": "2026-11-25T02:28:31.104Z",
+  "ReceivedTime": "2026-11-25T02:28:34.135Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "HI 現地實測部分 \n經釐清過往桃園初期有辦理相關作業\n這部分經驗請聯絡光林Tony & 遠傳Borwn &遠傳 Jacky\n可為系統工具開發提供寶貴經驗~\n謝謝\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "642135203476931108",
+      "quotedMessageId": "641152894141726994",
+      "quoteToken": "BHd6UJ-zqY1Lw5TVWJEBqPpPlK0l264qd1v9GCnyut84UBJjnEwbY7gDDEH3CxV4WJGeXhKVirNgXVtF057PEsnA9CNsAd4VR4VJP97CyaHo6-OGhbz5vBc8f2MJnds8CGVy1EihQtDEDcFhcDLwNA",
+      "markAsReadToken": "IrrAHfdjYA-P9mfASWldiNisz7lMVD2OwjrlnY-JWvm4SxeJrbSG2vauLph1BgrjeNDCyEQi2vgXy21oxGMTPPGiS_PebV3noV__TPU0P6DIdVzp4wbJWW_BWpEh9KxWwhC0tGtUz-bXuGhqNgG2c1TJmmOWph254zqeswL5F3PC3CLSmEr0DizIhK0K3-IEWDdZ6N8DRH6PJOL_o5c4TQ",
+      "text": "HI 現地實測部分 \n經釐清過往桃園初期有辦理相關作業\n這部分經驗請聯絡光林Tony & 遠傳Borwn &遠傳 Jacky\n可為系統工具開發提供寶貴經驗~\n謝謝\n"
+    },
+    "webhookEventId": "01M888H0QVMH73FSS14KE32ZC3",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795573711104,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "e6ca1f19b4614452b272f16f68f5b166",
+    "mode": "active"
+  }
+}
