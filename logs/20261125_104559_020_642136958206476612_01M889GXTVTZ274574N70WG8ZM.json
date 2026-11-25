@@ -1,0 +1,49 @@
+{
+  "EventId": "01M889GXTVTZ274574N70WG8ZM",
+  "MessageId": "642136958206476612",
+  "Timestamp": "2026-11-25T02:45:56.921Z",
+  "ReceivedTime": "2026-11-25T02:45:59.020Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@Nick Chiang 你們這邊也會詢問三位前輩去完成現地實測的計畫書嗎?　如果會的話，可以麻煩也讓我們加入一起會議，一起對焦。另外請問已經有安排何時做現地廠驗的時間點嗎？因為現地測驗跟目前平台開發是同一組人員，平台開發時程也很緊湊，需要再麻煩提早通知，讓他們有足夠的時間了解跟處理這題，謝謝。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "642136958206476612",
+      "quotedMessageId": "642135285886878106",
+      "quoteToken": "zF-pbNMvK-aSegOtCQa6c6XPQ8vfY3lgIucG_4ycluhwnNuLg7FhYwsic9ujEuJWD260UJySR0iSEntUMcI11hKnRFv7pGD28lFOPif4ZUss9pEdhDv965myM2BPILF5nGH5-Phy6D_rOKyT4JQmew",
+      "markAsReadToken": "SsgCmdDmCbGU42X5kQo3EBlLSGQ_LZ7R9Qex_BlDjppwFU362b6MuwLgQ-OJhaBaQtT1rMKmj_ffd58ImouSdXd7POOMuT8luJNRXJO73by0F3HQzKOv3lVgLJnCY0Qia8OV5bULeKPjzeYbcijsEEPoWIk7NzJS5iJi8LNUOGmmr7H5C8hf_eAQxLhrcvQ2SMz9fnWxNZajnuTUrwDmEQ",
+      "text": "@Nick Chiang 你們這邊也會詢問三位前輩去完成現地實測的計畫書嗎?　如果會的話，可以麻煩也讓我們加入一起會議，一起對焦。另外請問已經有安排何時做現地廠驗的時間點嗎？因為現地測驗跟目前平台開發是同一組人員，平台開發時程也很緊湊，需要再麻煩提早通知，讓他們有足夠的時間了解跟處理這題，謝謝。",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 12,
+            "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M889GXTVTZ274574N70WG8ZM",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795574756921,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "f208990c307e4263877d09bc780d5f3a",
+    "mode": "active"
+  }
+}
