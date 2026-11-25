@@ -1,0 +1,48 @@
+{
+  "EventId": "01M895E155NRGECDGX5ZB6R7KF",
+  "MessageId": "642186056979972154",
+  "Timestamp": "2026-11-25T10:53:42.185Z",
+  "ReceivedTime": "2026-11-25T10:53:45.282Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "@陳禹任 \n辛苦了！\n今日（11/25）北區路燈智控器相關進度如下：\n1.現場韌體 OTA： 共計 4,499 顆 已全數完成，感謝這三天的辛勞付出。\n2.第二批模擬廠驗（2,999 只）： 抽驗 150 只連線率（3 次皆 100%）與 20 只調光測試均全數合格。\n3.後續推進： \n正式廠驗預訂於 12/11 09:45 辦理。  \n再麻煩協助～\n感謝思納捷夥伴的配合\n謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "642186056979972154",
+      "quoteToken": "ic42ZMwlciWtLp4Pe0R4b0N4zXRx-7Y8LdIDljRdZ_JkQmUrSPKKTNHbuQQiOshxpM_wwOBklQBGKpQR-rw0G8sbIelu2K6PN74rB2IaLR8EBuSGEN5Sqv22QjVG-uuR_jNFRMZnt48dDgP4UHVBwg",
+      "markAsReadToken": "LhlD_cGaBhlFpvNlVbHmtsCI1JhMoBuPrKfbfrKVMJzo8k7TBXNr2hZOb-IcVRAlSAHBqHHWxhT9NSHY3xCbQTeQvgzFgjAnnxz7ruhcU_XJP1DD9qoFTvUnwIfeyZxNTwrtlOHcRT3AbHkmlSBa90P_do_hAhafsUv-0fQog-qrG4fnKuLR7G2wg79Y2fOZRQJqXTpBb_DoPg_k1nYneA",
+      "text": "@陳禹任 \n辛苦了！\n今日（11/25）北區路燈智控器相關進度如下：\n1.現場韌體 OTA： 共計 4,499 顆 已全數完成，感謝這三天的辛勞付出。\n2.第二批模擬廠驗（2,999 只）： 抽驗 150 只連線率（3 次皆 100%）與 20 只調光測試均全數合格。\n3.後續推進： \n正式廠驗預訂於 12/11 09:45 辦理。  \n再麻煩協助～\n感謝思納捷夥伴的配合\n謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "userId": "Uff84e2f22ada43f8145f2fd625a33ece",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M895E155NRGECDGX5ZB6R7KF",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795604022185,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "a08357f2267846acb2b9e03198ae105f",
+    "mode": "active"
+  }
+}
