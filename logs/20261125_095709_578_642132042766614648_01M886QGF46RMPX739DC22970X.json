@@ -1,0 +1,46 @@
+{
+  "EventId": "01M886QGF46RMPX739DC22970X",
+  "MessageId": "642132042766614648",
+  "Timestamp": "2026-11-25T01:57:07.090Z",
+  "ReceivedTime": "2026-11-25T01:57:09.578Z",
+  "SourceType": "group",
+  "GroupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+  "GroupName": "換裝APP報修小組",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "@All 今天中午 12:00 會進行 web 網站的更版，大約會有十分鐘左右系統無法動作，再麻煩各位工班師傅及內業同仁留意，謝謝",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "642132042766614648",
+      "quoteToken": "tlLn-qrKoN7m7_TosJoevZUM29XeQu8MZth7-Fizmjxci_ujTzFsK-3tijUqsanVBgB2KTEwJGO5vu0J74lf-k9PGXlXrPHwiL4_DIZDkCM1UCZh6_IpykOVODnUE_ZZYv28rypuf1jvcHFfQ1eTEQ",
+      "markAsReadToken": "aRLQ0O_zyUQ6ElwX88XmNSOJ4f2TAYuTMvZ7mEGs9_UHxlH9PQwh8X7hHphw7sxwdpcAkISum0t32rkmteNeN1ftrGJnZkRQwRzbHiOOPpkjidNaSPak--bvZAh2qIqXwAhFx2I0jZk5tyeA_ehjO-QKHHMNxondExzlXEdiiqld4lh-08sJD_0awVe8ha11irC5CYVpx62Y_2z1Dv7xNw",
+      "text": "@All 今天中午 12:00 會進行 web 網站的更版，大約會有十分鐘左右系統無法動作，再麻煩各位工班師傅及內業同仁留意，謝謝",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 4,
+            "type": "all"
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M886QGF46RMPX739DC22970X",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795571827090,
+    "source": {
+      "type": "group",
+      "groupId": "C2c549064704ebbb6cb2f1bdd3d393017",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "11eaad153ca04dee8501700bc803f519",
+    "mode": "active"
+  }
+}
