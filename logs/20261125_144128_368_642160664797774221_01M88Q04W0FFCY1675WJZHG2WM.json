@@ -1,0 +1,48 @@
+{
+  "EventId": "01M88Q04W0FFCY1675WJZHG2WM",
+  "MessageId": "642160664797774221",
+  "Timestamp": "2026-11-25T06:41:27.207Z",
+  "ReceivedTime": "2026-11-25T06:41:28.368Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "@Andy \n有關 MS1、MS2 的績效評核指標\n明鋒回覆 : 目前沒有相關資料供參",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "642160664797774221",
+      "quoteToken": "XLRBsScSbgkFU01lPFFY2HK35TMCbB1C-XOXacMbB0jvbuJlLFf0xa7Y41L_iL-vvZA-tJ17wJCzA07z1LuXD4nVs93CiG_sy0ATehlbiMdNsxsh2_tsx9diXhIHPVyQmkB5MU5_bQKtgl05BW0SZA",
+      "markAsReadToken": "rH3rWDSVw1Tgmxy8_vdP1klU0_oiXUSxAsSVzrSiL2WNSLOLnjwWNncKUff5wzhwe8_DtHLc7_GpN0a0JX1yhsV5sEEmZ8uHPDS9oSPOVCoLXrQReyjcWfbnPQS8I0GEcqhwJDyrw9co7fUX6_GMtyvlzbTf_465P1xaJ3TCi3NBmZR3h6ldmdh6tVF5ZQSvVuiwZcRtHfeNA3Q0gBvgTA",
+      "text": "@Andy \n有關 MS1、MS2 的績效評核指標\n明鋒回覆 : 目前沒有相關資料供參",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M88Q04W0FFCY1675WJZHG2WM",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795588887207,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "ec00a43ab98147b7967413178cfb0bb0",
+    "mode": "active"
+  }
+}
