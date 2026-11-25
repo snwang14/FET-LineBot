@@ -1,0 +1,38 @@
+{
+  "EventId": "01M889J8WA26MJY4KJD5XGE38A",
+  "MessageId": "642137031539163243",
+  "Timestamp": "2026-11-25T02:46:40.785Z",
+  "ReceivedTime": "2026-11-25T02:46:42.167Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "Ub29a1d196821aa08fd5bf7fcc90c396d",
+  "DisplayName": "Nick Chiang",
+  "MessageType": "text",
+  "MessageText": "可以喔\n安排會議一起討論\n計劃書才有方向製作\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "642137031539163243",
+      "quotedMessageId": "642136958206476612",
+      "quoteToken": "5mMzwtVjBryNxGVmwuVi5MZ72eOZfGFgOBHODZSTkBFAmpWIccz2WhPCyhEMgI6J0pC1PRQaEZUSwunG4H-myCrpEXFUI0TdE76i78E_puE576oDdoXpOnQBwGw00IBgC-j4P2do4DlK_eSLJJAG8A",
+      "markAsReadToken": "orn1PDiRksgqfHueBoi91xeQNE0WhW1fVN_ybrEe4fyLPvUrwI8pya4VaH3bvobGHssrBixtl9AVTEc-Z25_g3fkr1Ek9KgzgAoDmAT0URZKJa00GbnXgZUdM_bnQA70pp9pFjBuc437TWt0DJc15_Pzm9uI19M86PpTWR15nXBtAGM75lF8FgbMCJ2436sV8g5dHe0kYfyoYmgSDQSc0Q",
+      "text": "可以喔\n安排會議一起討論\n計劃書才有方向製作\n"
+    },
+    "webhookEventId": "01M889J8WA26MJY4KJD5XGE38A",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795574800785,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "Ub29a1d196821aa08fd5bf7fcc90c396d"
+    },
+    "replyToken": "0d443b96714d40f7b160acdd28e6c3c0",
+    "mode": "active"
+  }
+}
