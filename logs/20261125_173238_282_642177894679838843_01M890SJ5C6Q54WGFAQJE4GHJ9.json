@@ -1,0 +1,37 @@
+{
+  "EventId": "01M890SJ5C6Q54WGFAQJE4GHJ9",
+  "MessageId": "642177894679838843",
+  "Timestamp": "2026-11-25T09:32:37.053Z",
+  "ReceivedTime": "2026-11-25T09:32:38.282Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "2026/11/25 會議快記：\n1. 曾總工巡查提出希望巡查能記錄軌跡與完成進度，但可能遇到沒網路無法運行的狀況。\n2. MS1 要抽查的資料要找路燈科另外討論。\n3. MS2 故障範圍認定，找資訊室主任討論。\n4. 今日會議提出，將討論是否要把 MS2 評分從第一期及第二期拉掉。\n5. 曾總工同意，系統上線定義，以完成驗收後，才能上線。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "642177894679838843",
+      "quoteToken": "uJMsILBFnM89TBwbp9C-JQwexvGMc1ykZNrFs5u6vYO5FK-VszvAn9d2outJ8eoBh_aRn3-tNVmN0BfNpETbhjnwOFQCoy_9JJVl0KqL8LVe7DETu_h9RBxa_KZUllS-YjCzJtdqV-KJcaomoefr6A",
+      "markAsReadToken": "guMH9eXXQyXBQkWmKnE5tZpiaovIbEkS03nRBnE6LUzoHzPJQgYbomz4enRckILoZrLGKYIIj5Mo5pD-vWzagaWxGmZ3tMp9dvKPyPoLTjN1mXImmR_6Rer8u5FlF9tCnSMyo40OKhsKcJtlBllGKKQgPAEs9axxaxkodkmw95p8UO1eZKcSn4Vr4Lkx_aQYuIaUAtMvLqnACQswcpgklg",
+      "text": "2026/11/25 會議快記：\n1. 曾總工巡查提出希望巡查能記錄軌跡與完成進度，但可能遇到沒網路無法運行的狀況。\n2. MS1 要抽查的資料要找路燈科另外討論。\n3. MS2 故障範圍認定，找資訊室主任討論。\n4. 今日會議提出，將討論是否要把 MS2 評分從第一期及第二期拉掉。\n5. 曾總工同意，系統上線定義，以完成驗收後，才能上線。"
+    },
+    "webhookEventId": "01M890SJ5C6Q54WGFAQJE4GHJ9",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795599157053,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "36d7e2e7c51a4024a9a10ed031688785",
+    "mode": "active"
+  }
+}
