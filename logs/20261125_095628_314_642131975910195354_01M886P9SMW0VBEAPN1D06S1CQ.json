@@ -1,0 +1,40 @@
+{
+  "EventId": "01M886P9SMW0VBEAPN1D06S1CQ",
+  "MessageId": "642131975910195354",
+  "Timestamp": "2026-11-25T01:56:27.376Z",
+  "ReceivedTime": "2026-11-25T01:56:28.314Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "file",
+  "MessageText": "",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "file",
+      "id": "642131975910195354",
+      "markAsReadToken": "FLbOQHW_DySd2paxUTS4iWDsFvF8SRNQv4WdTQPankGnlN4kuP59M-5HJNi0sE1TEfcoPNEErmtQ31X-9BCNn78EQmq2pxQMiiO7F9Kxj29DzCvmhk0wklic0FpXjC9kKKU64XctP-YQu9dfldqR69ddUB6qEjvpaX7X3fnFn7xHFPJ7ZfN2oykeAl4k4c8GIv6FEu0Uw9WIHITwmQ1yuQ",
+      "fileName": "1151125維護及換裝簡報(公燈處)_平台.pptx",
+      "fileSize": 297102,
+      "contentProvider": {
+        "type": "line"
+      }
+    },
+    "webhookEventId": "01M886P9SMW0VBEAPN1D06S1CQ",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795571787376,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "1db7fa4e91064e26956c9506d1aa1506",
+    "mode": "active"
+  }
+}
