@@ -1,0 +1,37 @@
+{
+  "EventId": "01M8BHY6EQZ12MQMS33TXP3W8H",
+  "MessageId": "642320646440747355",
+  "Timestamp": "2026-11-26T09:10:43.711Z",
+  "ReceivedTime": "2026-11-26T09:10:45.464Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U4d9f54836b8d13fec6ac621b41794b6e",
+  "DisplayName": "林郁翔 Alan",
+  "MessageType": "text",
+  "MessageText": "meet.google.com/fta-aegd-bsz\n",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "642320646440747355",
+      "quoteToken": "p_65yUuixsaXG6PeH2M8gB343w2WntmoNEvZxwekufzEZcWildugvmo2mBP6upkoMPzZF79A_GLbHcj699E0rlC-GGQAuCV9TXOWO5ObgprYHdfcVepNT3BSfabW18y5pMHECPSpjixb8QeU5nwfuw",
+      "markAsReadToken": "215Vbb5L6FZrbEJem0ArlJDLX_vcp_nVLPQGU3cwDgiwzLZ4Q0-z0gHVCNbMxaiEWgMX2pqEX1Sv-1v7ltr7A10vT8u8_mwxGJOgBdqJcBJ9elKO8DZSO2L1mB_juGiCSeZF_IJ8H8n6nAaWAiDrbYJw-G6r8qYzhZ6GONmuDHz_nvY9mzURCMoWJDI7gMbsMEU8FtDkcXPTJEG69BVxQw",
+      "text": "meet.google.com/fta-aegd-bsz\n"
+    },
+    "webhookEventId": "01M8BHY6EQZ12MQMS33TXP3W8H",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795684243711,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U4d9f54836b8d13fec6ac621b41794b6e"
+    },
+    "replyToken": "74a1273b057c41db9decae96f79aa56f",
+    "mode": "active"
+  }
+}
