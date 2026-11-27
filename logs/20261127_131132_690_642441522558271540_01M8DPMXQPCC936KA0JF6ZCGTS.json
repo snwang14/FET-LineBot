@@ -1,0 +1,62 @@
+{
+  "EventId": "01M8DPMXQPCC936KA0JF6ZCGTS",
+  "MessageId": "642441522558271540",
+  "Timestamp": "2026-11-27T05:11:31.418Z",
+  "ReceivedTime": "2026-11-27T05:11:32.690Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "@林郁翔 Alan @sanjinchen @Andy 目前跟資訊局確認將於12/8早上9點30在市政大樓南區10樓(要坐南邊的電梯)，上去之後在連通道的中間公佈欄那邊等，要進去需要承辦人連同廠商一同進去。",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "642441522558271540",
+      "quoteToken": "EcHVmeyLLBUCGe5Nlw0Kke_ajmszC6rEVJcXqe2fGdacxCofdZn2kPNgkPhE1FlFLNNPKYwTWt9Db4V4ovZZHTQiQs-o8gkld7wPnFWCMVVqbotpp7rlgUYTZC7VfGoCwT014I1EGAtcB-ZKeF5Y7w",
+      "markAsReadToken": "HFlvkF5FIfzWz8Txge2YLFmeKAuv5eMLdLBG9aK-Ltchu-a4NgShG0htdeJjW_PjapdNwLBM1foiv_eLitseNqrE5QebtU2Pc1HmF4mXuWHK105uRtrtIvPLKFRr6NO1bUoj9g1NYvl71l7_2SXJoBsp1hDS-iUVaZZ_AkbnEXs3XJ_ocaX2IheNAifQTZ1EAI-1fqqdy8b2-X2P44Mdgw",
+      "text": "@林郁翔 Alan @sanjinchen @Andy 目前跟資訊局確認將於12/8早上9點30在市政大樓南區10樓(要坐南邊的電梯)，上去之後在連通道的中間公佈欄那邊等，要進去需要承辦人連同廠商一同進去。",
+      "mention": {
+        "mentionees": [
+          {
+            "index": 0,
+            "length": 9,
+            "userId": "U4d9f54836b8d13fec6ac621b41794b6e",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 10,
+            "length": 11,
+            "userId": "U375f2b0f385cb715667fe836bb7a29ad",
+            "type": "user",
+            "isSelf": false
+          },
+          {
+            "index": 22,
+            "length": 5,
+            "userId": "Ueb641723e67562103c0ef055e5237fc4",
+            "type": "user",
+            "isSelf": false
+          }
+        ]
+      }
+    },
+    "webhookEventId": "01M8DPMXQPCC936KA0JF6ZCGTS",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795756291418,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "f8ec5963611d4da7a2041f8c3211ce8e",
+    "mode": "active"
+  }
+}
