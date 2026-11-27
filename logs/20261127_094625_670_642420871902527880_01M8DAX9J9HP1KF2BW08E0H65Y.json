@@ -1,0 +1,38 @@
+{
+  "EventId": "01M8DAX9J9HP1KF2BW08E0H65Y",
+  "MessageId": "642420871902527880",
+  "Timestamp": "2026-11-27T01:46:22.674Z",
+  "ReceivedTime": "2026-11-27T01:46:25.670Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U50057cf4d487cf366b7c7016f04c8e4d",
+  "DisplayName": "Julia Lee 佩玲",
+  "MessageType": "text",
+  "MessageText": "Alan跟我會出席",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "642420871902527880",
+      "quotedMessageId": "642420457487991301",
+      "quoteToken": "ZA566udhMM8qMyHqGNSSVCG5r9XG2iTqOVwrdeYqugPK5zQwWGpAkKI4g_FRg46n1ZKEPYDB80JprO4t_x31LBNNZ_VOBUsBs9bzjjd5J9i2jA_4PXfyjt2SuQMcFCLvU1AD5CH0mEZeSTNfOG2ZYA",
+      "markAsReadToken": "SpVoQg5e6S7cTjtd1dOnwIvjOXruR696ezu5D3SAadKxb2qc1P5G25G2JPr9uDpNhRmi3cfANMUWgFEiEycTYwEi6ibijMU9tQFuKWaV7_WeOn7uXblchDhyWPhG6sLFWCCGaHql-LrDnkpT-FIb4QOV2uwxCr8e57FqKARg4sWAO2XII1fm3DjTd65xnjLTHZuYw0JcMEbGN8QHnRVWGw",
+      "text": "Alan跟我會出席"
+    },
+    "webhookEventId": "01M8DAX9J9HP1KF2BW08E0H65Y",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795743982674,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U50057cf4d487cf366b7c7016f04c8e4d"
+    },
+    "replyToken": "8cde2cdd366043888354d6e296866b9f",
+    "mode": "active"
+  }
+}
