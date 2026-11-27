@@ -1,0 +1,38 @@
+{
+  "EventId": "01M8DBAF8VV7MV0CBY03X1P1CE",
+  "MessageId": "642421596795699320",
+  "Timestamp": "2026-11-27T01:53:34.738Z",
+  "ReceivedTime": "2026-11-27T01:53:36.072Z",
+  "SourceType": "group",
+  "GroupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+  "GroupName": "北市路燈遠傳x思納捷(系統)",
+  "RoomId": "",
+  "UserId": "U031a5e5b45aef4f97c4f7e38e28ed6e7",
+  "DisplayName": "胖仙女",
+  "MessageType": "text",
+  "MessageText": "對，\nPCM楊小姐回覆 : 技師於下週一會議，說明執行計劃書的送審進度",
+  "IsRedelivery": false,
+  "RawEvent": {
+    "type": "message",
+    "message": {
+      "type": "text",
+      "id": "642421596795699320",
+      "quotedMessageId": "642420972917359121",
+      "quoteToken": "rpAbAwVaMqcgxfWIytsjnmbY9UiRpGlCWuV-yaUB5ZmBfWIdvsRfTGgsG6cjGl06-2un8sERAB80Uozu52QUXmqN6ustrZ-COgXQCjZzOkOevHBAsEGx5mvCEWl5FcoY9ZUxFO7omUh-L4qIP8lE0Q",
+      "markAsReadToken": "AHpTxacyiIZD8vpw21RcTvYDJjvXwaHCU3AUOF1F-Bx8NJHTYky8AhpNDkn80VwWm3MM2kUO8mlfWRXT_CxLoh_PaHgutrCe_LpWqunrnlnzEXXJF7tSJDS2AGGVuVBrgi0GDbMxUjN_mS8Gi0n9p7jnv-P4vbmAACcct9SI_LSRbBjpAmltMxkPWlyq2Gbl4VN01U_9H6vkXCtjt_zQnA",
+      "text": "對，\nPCM楊小姐回覆 : 技師於下週一會議，說明執行計劃書的送審進度"
+    },
+    "webhookEventId": "01M8DBAF8VV7MV0CBY03X1P1CE",
+    "deliveryContext": {
+      "isRedelivery": false
+    },
+    "timestamp": 1795744414738,
+    "source": {
+      "type": "group",
+      "groupId": "Cfec5c4c8dd0e73b6fd430ca93880222e",
+      "userId": "U031a5e5b45aef4f97c4f7e38e28ed6e7"
+    },
+    "replyToken": "f8f3adaea45240eeb7eecf88cc289a3c",
+    "mode": "active"
+  }
+}
